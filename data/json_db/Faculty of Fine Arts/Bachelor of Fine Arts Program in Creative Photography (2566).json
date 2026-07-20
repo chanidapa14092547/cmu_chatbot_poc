@@ -1,0 +1,448 @@
+{
+  "program_name": "Bachelor of Fine Arts Program in Creative Photography",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001222",
+      "course_name_en": "English for Fine Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101100",
+      "course_name_en": "Art Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "Western Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101205",
+      "course_name_en": "Eastern Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101400",
+      "course_name_en": "Art Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114103",
+      "course_name_en": "History of Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114201",
+      "course_name_en": "Creative Images",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114206",
+      "course_name_en": "Photography Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114207",
+      "course_name_en": "Photography Criticism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114102",
+      "course_name_en": "Photography Techniques 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114105",
+      "course_name_en": "Photography Techniques 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114106",
+      "course_name_en": "Aesthetics of Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114203",
+      "course_name_en": "Studio Photography 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114260",
+      "course_name_en": "Photography Project 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114261",
+      "course_name_en": "Photography Project 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114311",
+      "course_name_en": "Photography Project 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114325",
+      "course_name_en": "Moving Image for Photographer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114343",
+      "course_name_en": "Contemporary Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114346",
+      "course_name_en": "Photographic Presentation and Exhibition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114347",
+      "course_name_en": "Marketing and Entrepreneurship in Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114407",
+      "course_name_en": "Independent Photography Project 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114409",
+      "course_name_en": "Thesis in Photography",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114411",
+      "course_name_en": "Independent Photography Project 2",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114425",
+      "course_name_en": "Management in Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114101",
+      "course_name_en": "Black and White Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114205",
+      "course_name_en": "Studio Photography 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114305",
+      "course_name_en": "Alternative Photography Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114316",
+      "course_name_en": "Nature Photography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "114348",
+      "course_name_en": "Online Media Design for Photographer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

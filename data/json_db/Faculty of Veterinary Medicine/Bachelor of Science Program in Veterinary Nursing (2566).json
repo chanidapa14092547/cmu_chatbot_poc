@@ -1,0 +1,638 @@
+{
+  "program_name": "Bachelor of Science Program in Veterinary Nursing (2566)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359204",
+      "course_name_en": "Horticulture for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651106",
+      "course_name_en": "Food Sanitary from Food Animal for Consumer",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics : The Science that Changed the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651104",
+      "course_name_en": "Elephant in Thai Cultures",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654102",
+      "course_name_en": "Applied Sciences for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654103",
+      "course_name_en": "Biomedical Science for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654104",
+      "course_name_en": "Animal Behaviors and Animal Restraints for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654105",
+      "course_name_en": "Biochemistry and Nutrition in Companion Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654200",
+      "course_name_en": "Pharmacology for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654201",
+      "course_name_en": "Occupational Health and Safety for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654202",
+      "course_name_en": "Disease Etiology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654203",
+      "course_name_en": "Disease Etiology 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654414",
+      "course_name_en": "Veterinary Nursing Perspectives",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654204",
+      "course_name_en": "Radiography for Animals",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654205",
+      "course_name_en": "Principles of Medicine for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654206",
+      "course_name_en": "Clinical Procedures for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654207",
+      "course_name_en": "Management in Veterinary Diagnostic Equipment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654208",
+      "course_name_en": "Clinical Pathology for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654300",
+      "course_name_en": "Veterinary Nursing Practice",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654301",
+      "course_name_en": "Anesthesia for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654302",
+      "course_name_en": "Obstetrics and Gynecology in Companion Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654303",
+      "course_name_en": "Physical Therapy for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654304",
+      "course_name_en": "Fundamental Surgery for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654305",
+      "course_name_en": "Veterinary Nursing Clerkship",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654306",
+      "course_name_en": "Seminar in Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654400",
+      "course_name_en": "Research and Innovation in Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654401",
+      "course_name_en": "Preparation for Cooperative Education",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654402",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654403",
+      "course_name_en": "Health Management for Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654404",
+      "course_name_en": "Anesthesia Practice for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654405",
+      "course_name_en": "Soft Tissue Surgery for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654406",
+      "course_name_en": "Inpatient Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654407",
+      "course_name_en": "Dentistry for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654408",
+      "course_name_en": "Ophthalmology for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654409",
+      "course_name_en": "Outpatient Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654410",
+      "course_name_en": "Diagnostic Imaging Practice for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654411",
+      "course_name_en": "Veterinary Nursing for Elephants, Zoo Animals and Exotic Pets",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654412",
+      "course_name_en": "Orthopedic Surgery for Veterinary Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "654413",
+      "course_name_en": "Pet Care",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

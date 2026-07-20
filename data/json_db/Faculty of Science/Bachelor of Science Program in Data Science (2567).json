@@ -1,0 +1,780 @@
+{
+  "program_name": "Bachelor of Science Program in Data Science",
+  "major_tracks": [
+    "Data analytics using mathematical modeling",
+    "Statistical data analytics",
+    "Data analytics using computational modeling"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204252",
+      "course_name_en": "Data Structures and Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "Calculus 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "Calculus 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206281",
+      "course_name_en": "Discrete Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208150",
+      "course_name_en": "Probability and Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229123",
+      "course_name_en": "Fundamental Concept of Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229223",
+      "course_name_en": "Programming for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Basic Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204217",
+      "course_name_en": "Computer Programming Languages",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204306",
+      "course_name_en": "Ethics for Computer Professionals",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204320",
+      "course_name_en": "Database Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204371",
+      "course_name_en": "Feature Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204456",
+      "course_name_en": "Machine Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206324",
+      "course_name_en": "Applied Linear Algebra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208250",
+      "course_name_en": "Statistical Methods for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229323",
+      "course_name_en": "Data Manipulation for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229351",
+      "course_name_en": "Statistical Learning for Data Science 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229352",
+      "course_name_en": "Statistical Learning for Data Science 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229490",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229496",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major / Compulsory Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204426",
+      "course_name_en": "Data Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204471",
+      "course_name_en": "Artificial Intelligence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206300",
+      "course_name_en": "Mathematics of Finance and Insurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206341",
+      "course_name_en": "Differential Equations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206358",
+      "course_name_en": "Mathematics for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206465",
+      "course_name_en": "Principles of Mathematical Modeling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204453",
+      "course_name_en": "Pattern Recognition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208350",
+      "course_name_en": "Applied Multivariate Statistics for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208354",
+      "course_name_en": "Time Series Analysis for Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208424",
+      "course_name_en": "Optimization for Statistical Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208450",
+      "course_name_en": "Analytics for Observational Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204422",
+      "course_name_en": "Data Warehousing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204383",
+      "course_name_en": "Image Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204472",
+      "course_name_en": "Natural Language Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204423",
+      "course_name_en": "Data Mining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204381",
+      "course_name_en": "Numerical Computation and Software",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204424",
+      "course_name_en": "Ontology Design and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204482",
+      "course_name_en": "Simulation and Modelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204483",
+      "course_name_en": "Computer Vision",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206355",
+      "course_name_en": "Numerical Method",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206357",
+      "course_name_en": "Scientific Computation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206370",
+      "course_name_en": "Probability 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206441",
+      "course_name_en": "Nonlinear Ordinary Differential Equations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206457",
+      "course_name_en": "Mathematics of Financial Derivatives",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206467",
+      "course_name_en": "Neural Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206470",
+      "course_name_en": "Probability 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206471",
+      "course_name_en": "Introduction to Actuarial Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208251",
+      "course_name_en": "Regression Analysis and Non-parametric Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208451",
+      "course_name_en": "Analytics for Experimental and Simulated Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208453",
+      "course_name_en": "Statistics for Finance and Investment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208454",
+      "course_name_en": "Actuarial Modeling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229452",
+      "course_name_en": "Research in Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "229471",
+      "course_name_en": "Data Analytics in Medicine",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261441",
+      "course_name_en": "Internet of Things and Big Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261461",
+      "course_name_en": "Visual and Interactive Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954471",
+      "course_name_en": "Business Data Mining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954472",
+      "course_name_en": "Business Data Visualization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

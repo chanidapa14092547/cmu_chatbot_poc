@@ -1,0 +1,1079 @@
+{
+  "program_name": "Bachelor of Engineering Program in Environmental Engineering",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "English Language in the Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "English for Tour Guides and Travel Agents",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "English for Airline Services and Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955202",
+      "course_name_en": "Critical Reading and Effective Writing for Digital Workforce",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955203",
+      "course_name_en": "English for Digital Technology System Developer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210110",
+      "course_name_en": "General Biomaterials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271111",
+      "course_name_en": "Robotics Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271112",
+      "course_name_en": "Fundamentals of Rapid Prototyping for Robotics Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602201",
+      "course_name_en": "Agro-Industrial Vision",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602103",
+      "course_name_en": "Agro-Industry and Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "Generative Artificial Intelligence for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955114",
+      "course_name_en": "Generative Artificial Intelligence for Arts and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955115",
+      "course_name_en": "Generative Artificial Intelligence for Digital Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "Biology in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205100",
+      "course_name_en": "The Earth and its Geological Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251261",
+      "course_name_en": "Hydraulics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251281",
+      "course_name_en": "Elementary Survey for Non-Civil Engineering Majors",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251361",
+      "course_name_en": "Hydraulics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251363",
+      "course_name_en": "Engineering Hydrology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Fundamentals in Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253101",
+      "course_name_en": "Elementary Environmental Engineering",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Required / Fundamental Environmental Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253215",
+      "course_name_en": "Chemistry for Environmental Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253216",
+      "course_name_en": "Environmental Engineering Unit Processes and Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253318",
+      "course_name_en": "Water Engineering and Design",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253321",
+      "course_name_en": "Wastewater Engineering and Design",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253411",
+      "course_name_en": "Integrated Environmental Engineering Practice with Interdisciplinary Related-Engineering Discipline",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253413",
+      "course_name_en": "Capstone Design Project in Environmental Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253417",
+      "course_name_en": "Building Sanitation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253418",
+      "course_name_en": "Performance Test of Water Supply and Wastewater Treatment Systems",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Required / Water and Wastewater Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253432",
+      "course_name_en": "Noise and Vibration Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Air Pollution, Noise and Vibration Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253433",
+      "course_name_en": "Air Pollution Control and System Design",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Required / Air Pollution, Noise and Vibration Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253441",
+      "course_name_en": "Solid Waste Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Solid Waste Engineering and Management and Resource Recycling",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253443",
+      "course_name_en": "Hazardous Waste Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Solid Waste Engineering and Management and Resource Recycling",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253451",
+      "course_name_en": "Environmental Impact Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Environmental System Management and Planning",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253452",
+      "course_name_en": "Environmental Social and Governance Management for Sustainable Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Environmental System Management and Planning",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253457",
+      "course_name_en": "Climate Change Impact and Greenhouse Gas Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Environmental System Management and Planning",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253261",
+      "course_name_en": "Fundamental Microorganisms for Environmental Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Required / Biological for Environmental Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253492",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major / Required / Environmental Engineering Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253352",
+      "course_name_en": "Energy and Environment for Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 1 Circular Resource Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253422",
+      "course_name_en": "Design of Anaerobic Treatment Systems for Biogas Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 1 Circular Resource Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253456",
+      "course_name_en": "Fundamental of Material Flow Analysis and Life Cycle Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 1 Circular Resource Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253444",
+      "course_name_en": "Biomass Utilization Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 1 Circular Resource Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253460",
+      "course_name_en": "Cleaner Technology for Industrial Pollution Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 1 Circular Resource Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253453",
+      "course_name_en": "Urban Engineering and Sustainable Infrastructure Planning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 2",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253454",
+      "course_name_en": "Environmental Health Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 2",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253458",
+      "course_name_en": "Life Cycle Assessment and Carbon Footprint of Product",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 2",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253459",
+      "course_name_en": "Corporate Greenhouse Gas Assessment and Net Zero Emission Pathway",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 2",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253332",
+      "course_name_en": "Air Pollution and Meteorology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253416",
+      "course_name_en": "Industrial Water Pollution Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253419",
+      "course_name_en": "Water Treatment Technology for Boiler and Cooling Tower System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253420",
+      "course_name_en": "Control System in Environmental Engineering Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253423",
+      "course_name_en": "Natural Wastewater Treatment Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253442",
+      "course_name_en": "Landfill System Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 3 Professional Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253400",
+      "course_name_en": "Environmental Engineering Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 4 Project and Seminar",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253491",
+      "course_name_en": "Environmental Engineering Research Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective / Group 4 Project and Seminar",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

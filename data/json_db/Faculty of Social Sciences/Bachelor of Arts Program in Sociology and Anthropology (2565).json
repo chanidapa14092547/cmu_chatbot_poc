@@ -1,0 +1,879 @@
+{
+  "program_name": "Bachelor of Arts Program in Sociology and Anthropology (2565)",
+  "major_tracks": [
+    "Plan 1 Academic Discipline",
+    "Plan 2 Cooperative Education"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required/Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011157",
+      "course_name_en": "Social Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "Happy Life in Camping",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057134",
+      "course_name_en": "Muscle Building with Weight Training",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057135",
+      "course_name_en": "Aerobic Exercise for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359204",
+      "course_name_en": "Horticulture for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013103",
+      "course_name_en": "General Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "Introduction to Political Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154141",
+      "course_name_en": "Human Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159262",
+      "course_name_en": "Thinking Skills and Doing Research in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "Introduction to Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208270",
+      "course_name_en": "Statistics in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159101",
+      "course_name_en": "Introduction to Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159102",
+      "course_name_en": "Introduction to Anthropology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159203",
+      "course_name_en": "History of Sociological Thoughts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159204",
+      "course_name_en": "History of Anthropological Thoughts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159221",
+      "course_name_en": "Family and Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159303",
+      "course_name_en": "Political Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159331",
+      "course_name_en": "Modern City",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159333",
+      "course_name_en": "Consumer Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159411",
+      "course_name_en": "Economic Anthropology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159361",
+      "course_name_en": "Social Inquiry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159421",
+      "course_name_en": "Multicultural and Diversity Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159434",
+      "course_name_en": "Cultural Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159481",
+      "course_name_en": "Field Practices in Sociology and Anthropology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159490",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160413",
+      "course_name_en": "Sociology of Labour",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "164200",
+      "course_name_en": "Introduction to Social Work and Social Welfare",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159479",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Plan 2 Cooperative Education - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159222",
+      "course_name_en": "Sociology of Fashion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159302",
+      "course_name_en": "Practice in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159304",
+      "course_name_en": "Sociology of Science and Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159305",
+      "course_name_en": "Contemporary Sociological and Anthropological Theories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159334",
+      "course_name_en": "Sports in Socio-Cultural Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159403",
+      "course_name_en": "Space and Identity",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159431",
+      "course_name_en": "Globalization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159435",
+      "course_name_en": "Semiology and Popular Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160343",
+      "course_name_en": "Youth and Popular Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cultural Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159311",
+      "course_name_en": "Ecological Anthropology in Mekong Region",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159321",
+      "course_name_en": "Gender and Sexuality Studies in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159351",
+      "course_name_en": "Society and Culture in Northern Thailand and Upper Mekong",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159352",
+      "course_name_en": "Social and Cultural Dynamics in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159353",
+      "course_name_en": "Social and Cultural Dynamics in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159354",
+      "course_name_en": "Contemporary Chinese Society and Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159356",
+      "course_name_en": "Border and Transnational Issues",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159424",
+      "course_name_en": "Belief Systems and Religions in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159432",
+      "course_name_en": "Marginalization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159451",
+      "course_name_en": "Society and Culture of India, China and Japan",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159454",
+      "course_name_en": "Chinese Influence and Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159455",
+      "course_name_en": "Social Movements in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Area Studies Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159362",
+      "course_name_en": "Ethnographic Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159363",
+      "course_name_en": "Survey Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159365",
+      "course_name_en": "Contemporary Community Studies and Transdisciplinary Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159443",
+      "course_name_en": "Evaluation Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159461",
+      "course_name_en": "Information Technology and Social Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159462",
+      "course_name_en": "Visual Anthropology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160321",
+      "course_name_en": "Women's Studies in Sociological and Anthropological Perspectives",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Research Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159202",
+      "course_name_en": "Sociology of Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159231",
+      "course_name_en": "Social and Cultural Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159332",
+      "course_name_en": "Rural Society in the Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159463",
+      "course_name_en": "Social, Environmental and Health Impact Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160331",
+      "course_name_en": "Population Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160341",
+      "course_name_en": "Health and Medicine in Modern Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160342",
+      "course_name_en": "Ageing Society and Population Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Social Development Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159335",
+      "course_name_en": "Entrepreneurial Cultures and Societies and Social Enterprises",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "160415",
+      "course_name_en": "Work in Modern Societies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "164341",
+      "course_name_en": "Children and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "164441",
+      "course_name_en": "Human Security",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "164442",
+      "course_name_en": "Social Justice, Inequity and Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "164443",
+      "course_name_en": "Social Welfare Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Cooperative Education Cluster)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

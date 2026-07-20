@@ -1,0 +1,770 @@
+{
+  "program_name": "Bachelor of Fine Arts Program in Thai Arts and Creative Cultures",
+  "major_tracks": [
+    "Cultural Arts Management",
+    "Arts History",
+    "Contemporary Thai Art"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001222",
+      "course_name_en": "English for Fine Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207109",
+      "course_name_en": "Life and the Universe",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "218100",
+      "course_name_en": "The Science of Gemstone and Jewelry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101105",
+      "course_name_en": "Fundamental Thai Decorative Motifs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101113",
+      "course_name_en": "Sketch Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "Western Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101205",
+      "course_name_en": "Eastern Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101400",
+      "course_name_en": "Art Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101405",
+      "course_name_en": "Art Research Methodology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101490",
+      "course_name_en": "Art Criticism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104310",
+      "course_name_en": "Folk Art and Handicraft",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104201",
+      "course_name_en": "Southeast Asian Art and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104301",
+      "course_name_en": "Thai Architecture and Rituals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104302",
+      "course_name_en": "Thai Painting and Sculpture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104320",
+      "course_name_en": "Lanna Environment and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104490",
+      "course_name_en": "Seminar in Thai Arts and Creative Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104494",
+      "course_name_en": "Individual Study in Thai Arts and Creative Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104497",
+      "course_name_en": "Internship Program",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104498",
+      "course_name_en": "Project in Thai Art and Creative Cultures",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104100",
+      "course_name_en": "Fundamental Traditional Thai Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104200",
+      "course_name_en": "Composition in Thai Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104325",
+      "course_name_en": "Folk Art of Lanna",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104327",
+      "course_name_en": "Decorative Stucco and Woodcarving in Lanna",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104340",
+      "course_name_en": "Lacquerware in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104410",
+      "course_name_en": "Thai Art in Contemporary Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104424",
+      "course_name_en": "Thai Art in Product Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104436",
+      "course_name_en": "Traditional Thai Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104440",
+      "course_name_en": "Thai Ceramics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104450",
+      "course_name_en": "Thai Textiles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104465",
+      "course_name_en": "Thai Jewelry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104471",
+      "course_name_en": "Thai Furniture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104475",
+      "course_name_en": "Thai Basketry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104480",
+      "course_name_en": "Art of Flower Arrangement and Thai Fresh Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / General",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104205",
+      "course_name_en": "Visual Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104300",
+      "course_name_en": "Art Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104435",
+      "course_name_en": "Art in Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115200",
+      "course_name_en": "Principles and Procedures in Art and Culture Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115300",
+      "course_name_en": "Management and Administration of Cultural Resources",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115301",
+      "course_name_en": "Exhibition and Presentation of Art and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115302",
+      "course_name_en": "Art Gallery and Museum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115400",
+      "course_name_en": "Technical and Special Effects in Contemporary Art and Cultural Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "115401",
+      "course_name_en": "Marketing in Art and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cultural Arts Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116200",
+      "course_name_en": "Concepts and Theories on Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116201",
+      "course_name_en": "Indian and Lanka Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116300",
+      "course_name_en": "Chinese Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116301",
+      "course_name_en": "Art in Myanmar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116302",
+      "course_name_en": "Khmer Art and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116303",
+      "course_name_en": "Tai – Laos Art and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116400",
+      "course_name_en": "Art in Thailand before the 19th Century (B.E.)",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116401",
+      "course_name_en": "Art in Thailand from the 19th-23rd Century (B.E.)",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "116402",
+      "course_name_en": "Art in Thailand from the 24th Century (B.E.) to Present",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Arts History Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104231",
+      "course_name_en": "Compositions in Thai Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104232",
+      "course_name_en": "Materials and Techniques in Thai Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104303",
+      "course_name_en": "Practicum in Thai Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104333",
+      "course_name_en": "Traditional Thai Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104334",
+      "course_name_en": "Analysis in Thai Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104335",
+      "course_name_en": "Art of Thai Lacquer and Gilt Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104437",
+      "course_name_en": "Contemporary Thai Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Contemporary Thai Art Group",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

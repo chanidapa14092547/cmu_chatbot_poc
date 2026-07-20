@@ -1,0 +1,1278 @@
+{
+  "program_name": "Bachelor of Laws Program",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571113",
+      "course_name_en": "Maintaining the Equilibrium in Adolescent Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177101",
+      "course_name_en": "Introduction to Law and Legal Ethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177102",
+      "course_name_en": "Fundamental Principles of Private Law and Law of Persons",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177105",
+      "course_name_en": "Juristic Method and Legal Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177113",
+      "course_name_en": "Law of Juristic Acts and Contract",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177141",
+      "course_name_en": "Principles of Public Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177181",
+      "course_name_en": "Criminal Law: General Provisions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177212",
+      "course_name_en": "Property Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177214",
+      "course_name_en": "Law of Obligations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177215",
+      "course_name_en": "Torts, Management of Affairs without Mandate and Undue Enrichment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177216",
+      "course_name_en": "Family Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177217",
+      "course_name_en": "Law of Succession",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177223",
+      "course_name_en": "Law on Business Contracts 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177224",
+      "course_name_en": "Law on Business Contracts 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177241",
+      "course_name_en": "Constitutional Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177252",
+      "course_name_en": "Legal Institutions and Constitute of the Courts of Justice",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177281",
+      "course_name_en": "Criminal Offences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177322",
+      "course_name_en": "Law on Business Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177330",
+      "course_name_en": "Civil Procedural Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177334",
+      "course_name_en": "Law of Evidence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177341",
+      "course_name_en": "Administrative Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177342",
+      "course_name_en": "Administrative Procedural Law and Specific Administrative Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177351",
+      "course_name_en": "Labor Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177361",
+      "course_name_en": "Public International Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177362",
+      "course_name_en": "Private International Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177393",
+      "course_name_en": "Criminal Procedural Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177412",
+      "course_name_en": "Philosophy of Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177402",
+      "course_name_en": "Law and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177440",
+      "course_name_en": "Public Economic and Finance Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177451",
+      "course_name_en": "Tax Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "177400",
+      "course_name_en": "Legal Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178401",
+      "course_name_en": "Legal History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178402",
+      "course_name_en": "Thai Legal History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178403",
+      "course_name_en": "Legal Research Methodology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178404",
+      "course_name_en": "Introduction to Chinese Legal System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178405",
+      "course_name_en": "Introduction to the Roman Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178406",
+      "course_name_en": "Foreign Legal Language for Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178407",
+      "course_name_en": "Foreign Legal Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178408",
+      "course_name_en": "Environmental Clinical Legal Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178409",
+      "course_name_en": "Clinical Legal Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178411",
+      "course_name_en": "Comparative Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / General Legal Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178314",
+      "course_name_en": "Legal Advice for Foreign Clients",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178323",
+      "course_name_en": "Securities Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178324",
+      "course_name_en": "Capital Markets Law, Corporate Governance and Sustainable Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178325",
+      "course_name_en": "Law of Negotiable Instruments",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178326",
+      "course_name_en": "Insurance Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178327",
+      "course_name_en": "Banking Law and Financial Institutions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178328",
+      "course_name_en": "Electronic Commerce Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178329",
+      "course_name_en": "Competition Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178410",
+      "course_name_en": "Seminar on Civil Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178420",
+      "course_name_en": "Seminar on Business Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178421",
+      "course_name_en": "Law of Corporate Control and Transactions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178422",
+      "course_name_en": "Economic Analysis of Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Private Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178331",
+      "course_name_en": "Legal Execution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178332",
+      "course_name_en": "Bankruptcy Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178333",
+      "course_name_en": "Reorganization Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178334",
+      "course_name_en": "Alternative Dispute Resolution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178335",
+      "course_name_en": "Law of Debt Restructuring and Business Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178430",
+      "course_name_en": "Counsel Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Procedural Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178340",
+      "course_name_en": "Organic Laws",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178347",
+      "course_name_en": "Land Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178441",
+      "course_name_en": "Seminar in Constitutional Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178442",
+      "course_name_en": "Information Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178446",
+      "course_name_en": "Law of Local Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178447",
+      "course_name_en": "Administrative Law Seminar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Public Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178350",
+      "course_name_en": "Copyright in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178351",
+      "course_name_en": "Law and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178352",
+      "course_name_en": "Consumer Protection Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178353",
+      "course_name_en": "Sports Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178355",
+      "course_name_en": "Intellectual Property Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178451",
+      "course_name_en": "Information Technology Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178452",
+      "course_name_en": "Cyber Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178453",
+      "course_name_en": "Energy law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178454",
+      "course_name_en": "Real Estate Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178455",
+      "course_name_en": "Law on Natural Resources",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178456",
+      "course_name_en": "Poverty Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Special Law",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178366",
+      "course_name_en": "Maritime Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178367",
+      "course_name_en": "International Trade Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178462",
+      "course_name_en": "Law of International Business Transactions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178463",
+      "course_name_en": "The Law of the Sea",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178464",
+      "course_name_en": "Law of Treaties",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178465",
+      "course_name_en": "Human Rights Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178466",
+      "course_name_en": "International Economic Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178468",
+      "course_name_en": "International Environmental Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178469",
+      "course_name_en": "European Union Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178471",
+      "course_name_en": "Law and Society in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178472",
+      "course_name_en": "ASEAN Community Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178474",
+      "course_name_en": "International Humanitarian Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178475",
+      "course_name_en": "Law of International Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178476",
+      "course_name_en": "International Criminal Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178477",
+      "course_name_en": "Law on Migration and Border-Crossing of People and Capital",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / International Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178380",
+      "course_name_en": "Criminal Offences 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178383",
+      "course_name_en": "Economic Crime",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178384",
+      "course_name_en": "Criminology in Criminal Justice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178481",
+      "course_name_en": "Seminar on Criminal Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178484",
+      "course_name_en": "Law on Cybercrime, Cyber Warfare and Cybersecurity",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178390",
+      "course_name_en": "Criminal Procedural Law in the Part of Criminal Trial",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178491",
+      "course_name_en": "Law of Juvenile Delinquency",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "178494",
+      "course_name_en": "Criminal Investigation and Forensic Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives / Criminal Law Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+  "program_name": "Bachelor of Education Program in Social Studies",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "ENGL 202 English in Professional Contexts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "HUGE 100 Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011101",
+      "course_name_en": "PHIL 101 Meaning of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "PHIL 155 Philosophy of Happiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "PHIL 269 Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012100",
+      "course_name_en": "RE 100 Mind Development for High Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "EDPE 136 Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057138",
+      "course_name_en": "EDPE 138 Thai Wisdom Sports for Self-Defense",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "EDHL 100 Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "EDHL 101 Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "LAGE 104 Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "BCT 100 Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "HORT 202 Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "PHPS 100 Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "PHPC 130 Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "FINA 101 Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "INX 101 Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "EDCI 201 Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "ECON 100 Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "PHIL 100 Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011159",
+      "course_name_en": "PHIL 159 Philosophy of Life, Society and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "HUGE 111 Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050113",
+      "course_name_en": "HUGE 113 Locality in Globalization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "HUGE 121 Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "FAGE 100 Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "SA 151 Lanna Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "HANR 221 Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "HANR 222 Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "DIN 106 Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "EDPF 113 Teacher as a Transformative Leader",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "EDPF 114 Education and Social Change in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "EDPF 115 Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "EDPF 116 Psychology for Student Development in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "EDPF 192 Teaching Profession Practicum in School 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "EDPF 234 Communicative Language for Teachers in Modern Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "EDPF 235 Innovation and Technology for Learning in Digital World",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "EDPF 236 Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "EDPF 237 Educational Quality Assurance for Sustainability",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "EDPF 292 Teaching Profession Practicum in School 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "EDPF 318 Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "EDPF 320 Modern Microteaching Skills Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "EDPF 392 Teaching Profession Practicum in School 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "EDPF 405 Research for Educational Innovation Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "EDPF 492 Teaching Profession Practicum in School 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "EDPF 214 Active Learning Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "EDPF 215 Teaching Styles for Professional Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "EDPF 216 Differentiated Instruction",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "EDPF 217 Information for Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "EDPF 220 Creative Art Integration in Education",
+      "credits": "2",
+      "course_name_th": "",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "EDPF 222 Global Education for Lifelong Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "EDPF 232 Laws for Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "EDPF 238 Driving Change and Innovation by STEM Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "EDPF 239 Career Progress Pathway of Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "EDPF 240 Mental Health in Children and Adolescents",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "EDPF 241 Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "EDPF 242 Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "EDPF 243 Basic Educational Statistics in Digital Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "EDPF 319 Education Provision for Learners with Special Needs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004430",
+      "course_name_en": "HIST 430 Southeast Asia, Past to Present",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012271",
+      "course_name_en": "RE 271 Fundamentals of Buddhism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012475",
+      "course_name_en": "RE 475 Comparative Study of Religions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071412",
+      "course_name_en": "EDSS 412 Democracy and Citizenship for Civil Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071413",
+      "course_name_en": "EDSS 413 Economics for Balance of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071414",
+      "course_name_en": "EDSS 414 Development of Historical Process Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071416",
+      "course_name_en": "EDSS 416 Man and Environment and Sustainable Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071418",
+      "course_name_en": "EDSS 418 Independent Study in Social Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "CART 201 Western Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126427",
+      "course_name_en": "IR 427 Current Affairs in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127312",
+      "course_name_en": "GOV 312 Modern Thai State and Political Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154261",
+      "course_name_en": "GEO 261 Analytical Geography of Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154384",
+      "course_name_en": "GEO 384 Human Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751419",
+      "course_name_en": "ECON 419 Economic Theory and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004382",
+      "course_name_en": "HIST 382 History of Lanna and the Greater Mekong Subregion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071411",
+      "course_name_en": "EDSS 411 Religion and Ethics for Peace",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071415",
+      "course_name_en": "EDSS 415 Globe and Geographic Information System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071423",
+      "course_name_en": "EDSS 423 Peace Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071424",
+      "course_name_en": "EDSS 424 Legal Dimension of Thai Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126326",
+      "course_name_en": "IR 326 Geopolitics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "GOV 101 Introduction to Political Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154151",
+      "course_name_en": "GEO 151 Physical Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159101",
+      "course_name_en": "SAGE 101 Introduction to Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159231",
+      "course_name_en": "SA 231 Social and Cultural Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "LAGE 101 Introduction to Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751326",
+      "course_name_en": "ECON 326 ASEAN Economy in the Global Economic Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751428",
+      "course_name_en": "ECON 428 Political Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071420",
+      "course_name_en": "EDSS 420 Application of Learning Media in Social Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071425",
+      "course_name_en": "EDSS 425 Methodology of Teaching Social Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071417",
+      "course_name_en": "EDSS 417 Integration of Local Learning Resources",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071419",
+      "course_name_en": "EDSS 419 Population Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071421",
+      "course_name_en": "EDSS 421 Application of Learning Assessment Tests in Social Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071422",
+      "course_name_en": "EDSS 422 Lanna Studies in Schools",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "071426",
+      "course_name_en": "EDSS 426 ASEAN Studies in School",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

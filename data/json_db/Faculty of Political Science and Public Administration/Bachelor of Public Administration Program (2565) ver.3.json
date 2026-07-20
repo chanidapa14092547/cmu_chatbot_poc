@@ -1,0 +1,792 @@
+{
+  "program_name": "Bachelor of Public Administration Program",
+  "major_tracks": [
+    "Government and State Enterprise Subjects Group",
+    "Human Capital Management and Organization Development Subjects Group",
+    "Social Enterprise Subjects Group",
+    "Cooperative Education Plan",
+    "Action Research Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "ENGL 224 English for Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "CPE 111 Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "LS 103 Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "LAGE 104 Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "FINA 101 Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "EDCI 101 Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "LAGE 100 Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "SC 116 Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "SC 117 Mathematics and Science in Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "STAT 101 Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "MGMT 103 Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "FAGE 115 Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140103",
+      "course_name_en": "PG 103 Anti-Corruption in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "GEO 100 Introduction to Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "GEO 153 Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "SC 111 The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "HANR 221 Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "HANR 222 Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013103",
+      "course_name_en": "PSY 103 General Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126101",
+      "course_name_en": "IR 101 Introduction to International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "GOV 101 Introduction to Political Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128101",
+      "course_name_en": "PA 101 Introduction to Public Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128201",
+      "course_name_en": "PA 201 Thai Public Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "LAGE 101 Introduction to Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751101",
+      "course_name_en": "ECON 101 Principles of Economics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013203",
+      "course_name_en": "PSY 203 Social Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751102",
+      "course_name_en": "ECON 102 Principles of Economics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128202",
+      "course_name_en": "PA 202 Organization and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128203",
+      "course_name_en": "PA 203 Human Resource Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128204",
+      "course_name_en": "PA 204 Local Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128205",
+      "course_name_en": "PA 205 Design Thinking for Public Administrator",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128208",
+      "course_name_en": "PA 208 Digital Analytics for Public Administrators",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128304",
+      "course_name_en": "PA 304 Public Policy and Policy Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128305",
+      "course_name_en": "PA 305 Planning in Public Sector",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128306",
+      "course_name_en": "PA 306 Public Finance Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128307",
+      "course_name_en": "PA 307 Strategic Management Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128309",
+      "course_name_en": "PA 309 Research Methodology in Public Administration 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128310",
+      "course_name_en": "PA 310 Research Methodology in Public Administration 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128401",
+      "course_name_en": "PA 401 Ethics for Administrators",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128403",
+      "course_name_en": "PA 403 Project Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128470",
+      "course_name_en": "PA 470 Cooperative Education in Public Administration",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Cooperative Education Plan / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128471",
+      "course_name_en": "PA 471 Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Action Research Plan / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128480",
+      "course_name_en": "PA 480 Seminar in Public Administration Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Action Research Plan / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128331",
+      "course_name_en": "PA 331 Project Appraisal",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128334",
+      "course_name_en": "PA 334 Public Choice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128351",
+      "course_name_en": "PA 351 Change Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128352",
+      "course_name_en": "PA 352 Conflict Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128354",
+      "course_name_en": "PA 354 Public Archive and Modern Conference",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128355",
+      "course_name_en": "PA 355 Electronic Government",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128356",
+      "course_name_en": "PA 356 Governance of the People's Republic of China",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128357",
+      "course_name_en": "PA 357 Administration of Administrative Justice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128431",
+      "course_name_en": "PA 431 Governmental Budgeting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128434",
+      "course_name_en": "PA 434 Local Public Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128443",
+      "course_name_en": "PA 443 Public Project Evaluation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128445",
+      "course_name_en": "PA 445 Public Service Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128446",
+      "course_name_en": "PA 446 Collaborative Public Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128447",
+      "course_name_en": "PA 447 Security and Border Affairs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128448",
+      "course_name_en": "PA 448 Governance and Development Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128462",
+      "course_name_en": "PA 462 Management in Crisis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128484",
+      "course_name_en": "PA 484 Seminar in Thai Administrative System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Government/State Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128322",
+      "course_name_en": "PA 322 Organizational Behavior and Organization Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128325",
+      "course_name_en": "PA 325 Human Resource Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128423",
+      "course_name_en": "PA 423 Human Resource Information Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128425",
+      "course_name_en": "PA 425 Labor Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128427",
+      "course_name_en": "PA 427 Reward Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128428",
+      "course_name_en": "PA 428 Performance Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128429",
+      "course_name_en": "PA 429 Recruitment and Selection of Human Resource",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128481",
+      "course_name_en": "PA 481 Seminar in Human Resource Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Human Capital Management and Organization Development Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128353",
+      "course_name_en": "PA 353 Non-Profit Organization Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Social Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128335",
+      "course_name_en": "PA 335 Community Innovation Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Social Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128436",
+      "course_name_en": "PA 436 Data Analytics for Social Enterprise Startup",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Social Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128437",
+      "course_name_en": "PA 437 Social Enterprise Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Social Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128451",
+      "course_name_en": "PA 451 Management of Innovation for Public Service",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Social Enterprise Subjects Group / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "program_name": "Bachelor of Science Program in Sustainability (International Program)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001207",
+      "course_name_en": "English for Effective and Creative Communication 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001208",
+      "course_name_en": "English for Effective and Creative Communication 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131101",
+      "course_name_en": "Introduction to Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131103",
+      "course_name_en": "Research Design for Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131201",
+      "course_name_en": "Sustainability Governance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131307",
+      "course_name_en": "Understanding Global Trends in Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131401",
+      "course_name_en": "Leadership for Sustainable Transformation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154448",
+      "course_name_en": "Geoinformatics, Environment and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208270",
+      "course_name_en": "Statistics in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213201",
+      "course_name_en": "Principles of Environmental Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213362",
+      "course_name_en": "Sustainable Municipal Waste Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253452",
+      "course_name_en": "Environmental Social and Governance Management for Sustainable Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253458",
+      "course_name_en": "Life Cycle Assessment and Carbon Footprint of Product",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751106",
+      "course_name_en": "Principles of Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131104",
+      "course_name_en": "Design Thinking for Sustainability Project",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131202",
+      "course_name_en": "Social Enterprise for Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131203",
+      "course_name_en": "Sustainability Standards and Frameworks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131204",
+      "course_name_en": "Sustainable Transformation Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131205",
+      "course_name_en": "Sustainability Project Development 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131206",
+      "course_name_en": "Sustainability Project Development 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131301",
+      "course_name_en": "Analytical Policy on Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131302",
+      "course_name_en": "Pre-Cooperative and Work Integrated Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131303",
+      "course_name_en": "Sustainability Project Development 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131304",
+      "course_name_en": "Cooperative and Work Integrated Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131402",
+      "course_name_en": "Negotiation, Mediation and Conflict Resolution for Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131403",
+      "course_name_en": "Sustainability Project and Operations 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131404",
+      "course_name_en": "Sustainability Project and Operations 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154447",
+      "course_name_en": "Spatial Analysis for Environmental Management and Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213311",
+      "course_name_en": "Introduction to Environmental Standards, Law and Regulations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213312",
+      "course_name_en": "Clean Technology and Life Cycle Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213411",
+      "course_name_en": "Environmental, Social and Health Risk and Impact Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751452",
+      "course_name_en": "Economics of Climate Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804371",
+      "course_name_en": "Sustainable Urban Architecture and Communities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131306",
+      "course_name_en": "International Cooperation for Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131308",
+      "course_name_en": "Gender Politics in Development Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131311",
+      "course_name_en": "Sustainability in People Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131312",
+      "course_name_en": "Geopolitics of Sustainable Infrastructure Development in East Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131405",
+      "course_name_en": "Policy and Governance for Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131406",
+      "course_name_en": "Stakeholders and Materiality in Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131407",
+      "course_name_en": "Social Policy and Sustainability in Digital Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131408",
+      "course_name_en": "Global Trade and Human Rights",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131409",
+      "course_name_en": "Employee Engagement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "131410",
+      "course_name_en": "Government Relations and Public Affairs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253457",
+      "course_name_en": "Climate Change Impact and Greenhouse Gas Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253459",
+      "course_name_en": "Corporate Greenhouse Gas Assessment and Net Zero Emission Pathway",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365401",
+      "course_name_en": "Forest Ecosystems for Climate Change Mitigation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365429",
+      "course_name_en": "Greenhouse Gas Management in Forest and Agricultural Sectors",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

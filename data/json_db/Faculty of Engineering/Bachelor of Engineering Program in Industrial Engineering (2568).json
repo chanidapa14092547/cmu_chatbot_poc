@@ -1,0 +1,1399 @@
+{
+  "program_name": "Bachelor of Engineering Program in Industrial Engineering",
+  "major_tracks": [
+    "Regular Plan",
+    "Co-operative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210110",
+      "course_name_en": "General Biomaterials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215100",
+      "course_name_en": "Microbiology in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271111",
+      "course_name_en": "Robotics Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271112",
+      "course_name_en": "Fundamentals of Rapid Prototyping for Robotics Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804100",
+      "course_name_en": "Design Thinking in Emerging Architecture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "Biomedical Engineering in Everyday Life",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "802100",
+      "course_name_en": "Landscape Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888108",
+      "course_name_en": "Smart Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203104",
+      "course_name_en": "General Chemistry 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206216",
+      "course_name_en": "Introduction to Mathematical Logic",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206255",
+      "course_name_en": "Mathematics for Software Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252280",
+      "course_name_en": "Fundamentals of Electrical Engineering Laboratory for Engineers",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252284",
+      "course_name_en": "Fundamentals of Electrical Engineering for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255300",
+      "course_name_en": "Introduction to Fluid Mechanics and Thermodynamics for Industrial Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255215",
+      "course_name_en": "Modern Manufacturing Processes",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255217",
+      "course_name_en": "Production Supporting Systems in Factories",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255290",
+      "course_name_en": "Industrial Engineering Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255301",
+      "course_name_en": "Manufacturing Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255251",
+      "course_name_en": "Motion and Time Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255338",
+      "course_name_en": "Management of Industrial Safety and Pollution",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255321",
+      "course_name_en": "Industrial Engineering Quality Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255330",
+      "course_name_en": "Engineering Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255332",
+      "course_name_en": "Industrial Cost Analysis and Budgeting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255316",
+      "course_name_en": "Maintenance Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255320",
+      "course_name_en": "Engineering Operation Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255328",
+      "course_name_en": "Industrial Plant Layout and Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255340",
+      "course_name_en": "Production Planning and Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255201",
+      "course_name_en": "Quantitative Analysis in Industrial Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255230",
+      "course_name_en": "Industrial Organization and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255322",
+      "course_name_en": "Industrial Data Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255390",
+      "course_name_en": "Industrial Engineering Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255400",
+      "course_name_en": "Industrial Engineering Training",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255491",
+      "course_name_en": "Industrial Engineering Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required - Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255393",
+      "course_name_en": "Introduction to Co-Operative Education",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Required - Co-op Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255498",
+      "course_name_en": "Co-Operative Education for Industrial Engineer",
+      "course_name_th": null,
+      "credits": "8",
+      "category_or_track": "Field of Specialization (Major Required - Co-op Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255410",
+      "course_name_en": "Industrial-scaled Medical Device Design and Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255412",
+      "course_name_en": "Welding Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255413",
+      "course_name_en": "Metrology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255414",
+      "course_name_en": "Metal Cutting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255415",
+      "course_name_en": "Dimensional Measurement and Calibration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255417",
+      "course_name_en": "Metal Forming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255419",
+      "course_name_en": "Corrosion Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255421",
+      "course_name_en": "Robust Product Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255440",
+      "course_name_en": "Principle of Product Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255445",
+      "course_name_en": "Advanced Computer Application for Industrial Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255446",
+      "course_name_en": "Computer Integrated Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255447",
+      "course_name_en": "Industrial Robotics and Artificial Intelligence Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255449",
+      "course_name_en": "Design of Production System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255451",
+      "course_name_en": "Metallurgical Process",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255452",
+      "course_name_en": "Tool Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255454",
+      "course_name_en": "Manufacturing Automation System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255431",
+      "course_name_en": "Industrial Hygiene",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255453",
+      "course_name_en": "Ventilation in Industrial Factory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255463",
+      "course_name_en": "Ergonomics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255422",
+      "course_name_en": "Quality Assurance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255430",
+      "course_name_en": "Small and Medium Industry Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255456",
+      "course_name_en": "Project Feasibility Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255423",
+      "course_name_en": "Engineering Operations Research 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255424",
+      "course_name_en": "Simulation for Production and Logistics System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255425",
+      "course_name_en": "Quantitative Quality Improvement in Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255427",
+      "course_name_en": "Value Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255428",
+      "course_name_en": "Queueing Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255429",
+      "course_name_en": "Inventory, Transportation and Distribution Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255433",
+      "course_name_en": "System Analysis for Quality and Productivity Improvement",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255434",
+      "course_name_en": "Logistic Engineering and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255437",
+      "course_name_en": "Introduction to Supply Chain Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255439",
+      "course_name_en": "Decision Making for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255420",
+      "course_name_en": "Problem Solving",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255436",
+      "course_name_en": "Industrial Human Resource Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255438",
+      "course_name_en": "Quantitative Analysis for Marketing Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255441",
+      "course_name_en": "Information Technology for Industrial Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255442",
+      "course_name_en": "Data Mining in Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255443",
+      "course_name_en": "Industrial Engineering and Enterprise Resource Planning",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255444",
+      "course_name_en": "Computer Applications in IE.",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255455",
+      "course_name_en": "Energy System and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255460",
+      "course_name_en": "Performance Measurement System for Industries",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255462",
+      "course_name_en": "System Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255464",
+      "course_name_en": "Cleaner Production Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255471",
+      "course_name_en": "Introduction to Innovation Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255472",
+      "course_name_en": "Introduction to Technology Transfer for Commercialization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255490",
+      "course_name_en": "Advanced Topics in Industrial Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255492",
+      "course_name_en": "Special Topics in Industrial Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255497",
+      "course_name_en": "Advanced Topics in Industrial Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255499",
+      "course_name_en": "Special Topics in Industrial Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259401",
+      "course_name_en": "Power Plant Operation and Maintenance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

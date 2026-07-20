@@ -1,0 +1,1078 @@
+{
+  "program_name": "Bachelor of Education Program in Chemistry (2567)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064211",
+      "course_name_en": "Design and Organize Chemistry Learning in Basic Education Curriculum 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064212",
+      "course_name_en": "Design and Organize Chemistry Learning in Basic Education Curriculum 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064213",
+      "course_name_en": "Design and Organize Chemistry Learning in Basic Education Curriculum 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064443",
+      "course_name_en": "Equipment, Chemicals and Experiment in Chemistry Laboratory for Teachers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064444",
+      "course_name_en": "Ethics of Science and Technology for Professional Teachers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203113",
+      "course_name_en": "Chemistry 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203117",
+      "course_name_en": "Chemistry Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203201",
+      "course_name_en": "Organic Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203202",
+      "course_name_en": "Organic Chemistry 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203211",
+      "course_name_en": "Fundamental Inorganic Chemistry",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203226",
+      "course_name_en": "Physical Chemistry for Non-Chemistry Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203229",
+      "course_name_en": "Physical Chemistry Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203231",
+      "course_name_en": "Fundamental Analytical Chemistry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203241",
+      "course_name_en": "Organic Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203242",
+      "course_name_en": "Organic Chemistry Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203286",
+      "course_name_en": "Analytical Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203315",
+      "course_name_en": "Symmetry and Bonding",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203352",
+      "course_name_en": "Safety in the Chemistry Laboratory",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064445",
+      "course_name_en": "Applying Learning Materials to Develop Conceptual Understanding in Chemistry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064446",
+      "course_name_en": "Chemistry Project for Teachers in Digital Era",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064447",
+      "course_name_en": "Research and Innovation for Sustainable Chemistry Learning",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203300",
+      "course_name_en": "Basic Skills and Ethics in Science",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203303",
+      "course_name_en": "Organic Spectroscopy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203308",
+      "course_name_en": "Organic Chemistry Laboratory 3",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203316",
+      "course_name_en": "Coordination and Organometallic Chemistry",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203318",
+      "course_name_en": "Inorganic Chemistry Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203332",
+      "course_name_en": "Chromatographic Analysis",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203351",
+      "course_name_en": "Glass Blowing",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203405",
+      "course_name_en": "Natural Product Chemistry",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203413",
+      "course_name_en": "Inorganic Spectroscopy",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203414",
+      "course_name_en": "Physical Methods in Inorganic Chemistry",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211315",
+      "course_name_en": "Introductory Biochemistry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211319",
+      "course_name_en": "Introductory Biochemistry Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211412",
+      "course_name_en": "Bioenergetics and Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211414",
+      "course_name_en": "Gene and Protein Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211415",
+      "course_name_en": "Carbohydrate and Lipid Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211421",
+      "course_name_en": "Modern Biomedical Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211422",
+      "course_name_en": "Food and Agricultural Biochemical Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211423",
+      "course_name_en": "Bioenergy Technology and Environment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211445",
+      "course_name_en": "Flavor and Fragrance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211451",
+      "course_name_en": "Complex Problem Solving in Bioscience",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211452",
+      "course_name_en": "Bioinnovation and Enterprises",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064430",
+      "course_name_en": "Principles and Teaching Methods in Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064442",
+      "course_name_en": "Technological Pedagogical Content Knowledge in Chemistry Strand",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064415",
+      "course_name_en": "Activities to Promote Science Attitude",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064416",
+      "course_name_en": "Extra Activities to Enrich Science Strands",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064421",
+      "course_name_en": "Instruction of Environmental Science in Schools",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064422",
+      "course_name_en": "Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064423",
+      "course_name_en": "Local Wisdom Related to Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064424",
+      "course_name_en": "Astronomical Learning Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064429",
+      "course_name_en": "Independent Study in Science Education",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064431",
+      "course_name_en": "General Science Instruction for Secondary Level Teachers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064433",
+      "course_name_en": "Teaching of Science and Technology Related to Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064434",
+      "course_name_en": "Additional Science Course Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1399 @@
+{
+  "program_name": "Bachelor of Arts Program in Thai as a Foreign Language (International Program) (2567)",
+  "major_tracks": [
+    "Independent Study Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002101",
+      "course_name_en": "French 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (French Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002102",
+      "course_name_en": "French 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (French Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002201",
+      "course_name_en": "French 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (French Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002202",
+      "course_name_en": "French 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (French Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003101",
+      "course_name_en": "Fundamental German 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (German Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003102",
+      "course_name_en": "Fundamental German 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (German Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003201",
+      "course_name_en": "Intermediate German 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (German Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003202",
+      "course_name_en": "Intermediate German 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (German Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017101",
+      "course_name_en": "Beginning Hindi 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Hindi Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017102",
+      "course_name_en": "Beginning Hindi 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Hindi Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017111",
+      "course_name_en": "Hindi Conversation 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Hindi Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017112",
+      "course_name_en": "Hindi Conversation 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Hindi Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018131",
+      "course_name_en": "Japanese Language and Culture 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Japanese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018132",
+      "course_name_en": "Japanese Language and Culture 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Japanese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018133",
+      "course_name_en": "Japanese Language and Culture 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Japanese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018134",
+      "course_name_en": "Japanese Language and Culture 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Japanese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019105",
+      "course_name_en": "Chinese in Daily Life 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Chinese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019106",
+      "course_name_en": "Chinese in Daily Life 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Chinese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019205",
+      "course_name_en": "Chinese in Daily Life 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Chinese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019206",
+      "course_name_en": "Chinese in Daily Life 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Chinese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020101",
+      "course_name_en": "Fundamental Burmese 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Burmese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020102",
+      "course_name_en": "Fundamental Burmese 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Burmese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020211",
+      "course_name_en": "Reading and Writing in Burmese 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Burmese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020231",
+      "course_name_en": "Speaking and Listening in Burmese 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Burmese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021101",
+      "course_name_en": "Spanish 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Spanish Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021102",
+      "course_name_en": "Spanish 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Spanish Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021203",
+      "course_name_en": "Spanish 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Spanish Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021204",
+      "course_name_en": "Spanish 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Spanish Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026103",
+      "course_name_en": "Korean in Daily Life 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Korean Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026104",
+      "course_name_en": "Korean in Daily Life 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Korean Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026203",
+      "course_name_en": "Korean in Daily Life 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Korean Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026252",
+      "course_name_en": "Basic Korean for Office",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Korean Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030101",
+      "course_name_en": "Fundamental Vietnamese 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Vietnamese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030102",
+      "course_name_en": "Fundamental Vietnamese 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Vietnamese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030221",
+      "course_name_en": "Vietnamese Listening and Speaking 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Vietnamese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030231",
+      "course_name_en": "Vietnamese Reading and Writing 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Vietnamese Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031101",
+      "course_name_en": "Fundamental Bahasa Indonesia 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Indonesian Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031102",
+      "course_name_en": "Fundamental Bahasa Indonesia 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Indonesian Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031201",
+      "course_name_en": "Intermediate Bahasa Indonesia 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Indonesian Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031221",
+      "course_name_en": "Listening and Speaking in Bahasa Indonesia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Indonesian Language Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050122",
+      "course_name_en": "Thai Pop Culture in Contemporary Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050123",
+      "course_name_en": "Songs and Global Societies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050124",
+      "course_name_en": "Asia in Motion",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259109",
+      "course_name_en": "Telecommunication in Thailand",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359206",
+      "course_name_en": "Landscape, Environment, Behaviors, and Minds",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601212",
+      "course_name_en": "Nutrition for Contemporary Living",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888103",
+      "course_name_en": "Internet Programming Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205100",
+      "course_name_en": "The Earth and its Geological Processes",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics : the Science that Changed the World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360108",
+      "course_name_en": "Plant Disease and Environmental Safety",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888194",
+      "course_name_en": "Service Learning in Society 5.0",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001210",
+      "course_name_en": "Oral Expression 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001310",
+      "course_name_en": "Oral Expression 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001311",
+      "course_name_en": "Reading and Writing 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025131",
+      "course_name_en": "Thai 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025132",
+      "course_name_en": "Thai 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025231",
+      "course_name_en": "Thai 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025232",
+      "course_name_en": "Thai 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049100",
+      "course_name_en": "Introduction to Humanities and Sustainability",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049211",
+      "course_name_en": "Literary Narratives in Global Cultures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049212",
+      "course_name_en": "Creative Expression: Genres and World's Stories",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049221",
+      "course_name_en": "Ideas and Liberations around the World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049222",
+      "course_name_en": "Language, Mind, and the World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049231",
+      "course_name_en": "Global History: Society and Environment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049232",
+      "course_name_en": "Aesthetics and Cultures in Placemaking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049241",
+      "course_name_en": "Visual Media and Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049251",
+      "course_name_en": "Gender, Culture and Equality",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025133",
+      "course_name_en": "Listening and Speaking in Thai 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025134",
+      "course_name_en": "Listening and Speaking in Thai 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025135",
+      "course_name_en": "Reading and Writing in Thai 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025136",
+      "course_name_en": "Reading and Writing in Thai 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025220",
+      "course_name_en": "Aspects of Thai Sound and Pronunciation",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025233",
+      "course_name_en": "Listening and Speaking in Thai 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025234",
+      "course_name_en": "Listening and Speaking in Thai 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025235",
+      "course_name_en": "Reading and Writing in Thai 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025236",
+      "course_name_en": "Reading and Writing in Thai 4",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025290",
+      "course_name_en": "Document Preparation with Thai Word Processor",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025320",
+      "course_name_en": "Aspects of Thai Words and Sentences",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025360",
+      "course_name_en": "Academic Thai",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025380",
+      "course_name_en": "Introduction to Literary Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025460",
+      "course_name_en": "Research Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required - Independent Study Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025469",
+      "course_name_en": "Independent Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required - Independent Study Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025321",
+      "course_name_en": "Foreign Languages in Thai",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025322",
+      "course_name_en": "Thai for Teaching Foreigners 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025342",
+      "course_name_en": "Thai for Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025343",
+      "course_name_en": "Thai for Commerce",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025344",
+      "course_name_en": "Thai for Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025381",
+      "course_name_en": "Juvenile Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025411",
+      "course_name_en": "Translation 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025412",
+      "course_name_en": "Translation 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025420",
+      "course_name_en": "Thai Culture in Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025421",
+      "course_name_en": "Thai Linguistics for Foreigners",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025422",
+      "course_name_en": "Thai for Teaching Foreigners 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025423",
+      "course_name_en": "Historical Studies of Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025450",
+      "course_name_en": "Thai for Careers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Independent Study Plan) / Major Required (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025480",
+      "course_name_en": "Thai Masterpiece Literature for Foreigners",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025481",
+      "course_name_en": "Thai Local Folk Tales",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025482",
+      "course_name_en": "Thai Society in Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025483",
+      "course_name_en": "Thai Culture in Medias",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025490",
+      "course_name_en": "Selected Topics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "025459",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required - Cooperative Education Plan",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

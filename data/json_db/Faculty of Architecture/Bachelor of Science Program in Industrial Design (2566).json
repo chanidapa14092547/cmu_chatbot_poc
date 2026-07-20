@@ -1,0 +1,578 @@
+{
+  "program_name": "Bachelor of Science Program in Industrial Design",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154130",
+      "course_name_en": "Geo-Information in Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205105",
+      "course_name_en": "Earth Science and Civilization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207109",
+      "course_name_en": "Life and the Universe",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805111",
+      "course_name_en": "Basics in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805121",
+      "course_name_en": "Basic Skills in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805112",
+      "course_name_en": "Experimental Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805122",
+      "course_name_en": "3D Design in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805211",
+      "course_name_en": "Integrated Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805221",
+      "course_name_en": "Computer Graphics for Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805212",
+      "course_name_en": "Industrial Design by Digital Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805231",
+      "course_name_en": "Integrating Community Lifestyles for Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805222",
+      "course_name_en": "Computer 3D for Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207183",
+      "course_name_en": "Physics for Architectural Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805311",
+      "course_name_en": "Industrial Design for Society, Environment and Sustainability",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805312",
+      "course_name_en": "Service Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805361",
+      "course_name_en": "Professional Practice in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805371",
+      "course_name_en": "Individual Study in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805461",
+      "course_name_en": "Social, Environmental and Sustainable Design Seminar",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805471",
+      "course_name_en": "Cooperative Education in Industrial Design",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805491",
+      "course_name_en": "Independent Study in Industrial Design",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254183",
+      "course_name_en": "3D Modeling and Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254184",
+      "course_name_en": "Prototyping Technologies for Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254283",
+      "course_name_en": "Mechanisms in Engineering Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254385",
+      "course_name_en": "Mechanics of Materials for Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255101",
+      "course_name_en": "Introduction to Materials and Manufacturing Processes",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255216",
+      "course_name_en": "Industrial Innovation Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255336",
+      "course_name_en": "Startups and Innovative Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255351",
+      "course_name_en": "Human Factors Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255447",
+      "course_name_en": "Industrial Robotics and Artificial Intelligence Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259111",
+      "course_name_en": "Basics of Computer Programming and Embedded System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801302",
+      "course_name_en": "Human Behavior and Environmental Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "803300",
+      "course_name_en": "Imaginary in Architectural Photography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "803371",
+      "course_name_en": "Local wisdom in Community Architecture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "803431",
+      "course_name_en": "Design of Indoor Environmental Quality",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805313",
+      "course_name_en": "Industrial Design for Surviving in Disasters",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805314",
+      "course_name_en": "Interactive Industrial Design and Play",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805315",
+      "course_name_en": "Integrating Circular Design in Industrial Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "805321",
+      "course_name_en": "Industrial Design in the Metaverse",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Architecture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255427",
+      "course_name_en": "Value Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255455",
+      "course_name_en": "Energy System and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Faculty of Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

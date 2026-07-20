@@ -1,0 +1,568 @@
+{
+  "program_name": "Bachelor of Fine Arts Program in Sculpture",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001222",
+      "course_name_en": "English for Fine Arts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050113",
+      "course_name_en": "Locality in Globalization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "Happy Life in Camping",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101100",
+      "course_name_en": "Art Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101114",
+      "course_name_en": "Fundamental Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101115",
+      "course_name_en": "Academic Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "Western Art History",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101205",
+      "course_name_en": "Eastern Art History",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101211",
+      "course_name_en": "Human Anatomy for Artist",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101221",
+      "course_name_en": "Art Composition",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101222",
+      "course_name_en": "Principles of Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101400",
+      "course_name_en": "Art Philosophy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101490",
+      "course_name_en": "Art Criticism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106121",
+      "course_name_en": "Fundamental Sculpture 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106122",
+      "course_name_en": "Fundamental Sculpture 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106211",
+      "course_name_en": "Digital Media for Contemporary Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106212",
+      "course_name_en": "Business for Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106223",
+      "course_name_en": "Materials in Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106232",
+      "course_name_en": "Sculpture Project Preparation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106329",
+      "course_name_en": "Sculpture Project 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106330",
+      "course_name_en": "Sculpture Project 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106427",
+      "course_name_en": "Pre-Thesis Sculpture Project",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106428",
+      "course_name_en": "Seminar in Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106498",
+      "course_name_en": "Thesis in Sculpture",
+      "course_name_th": null,
+      "credits": "12",
+      "category_or_track": "Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106116",
+      "course_name_en": "Drawing for Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106125",
+      "course_name_en": "Anatomical Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106225",
+      "course_name_en": "Wood Carving Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106228",
+      "course_name_en": "Metal Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106229",
+      "course_name_en": "Stone Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106241",
+      "course_name_en": "Colors and the Creation of Sculpture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106322",
+      "course_name_en": "Ceramics and Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106342",
+      "course_name_en": "Light and the Creation of Three-Dimensional Artwork",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106343",
+      "course_name_en": "Installation Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106344",
+      "course_name_en": "Land Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106345",
+      "course_name_en": "Lanna Buddha Statues Creation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "106429",
+      "course_name_en": "Wooden Buddha Statues Creation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

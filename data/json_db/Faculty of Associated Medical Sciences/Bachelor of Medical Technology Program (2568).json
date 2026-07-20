@@ -1,0 +1,758 @@
+{
+  "program_name": "Bachelor of Medical Technology Program (2568)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "Biomedical Engineering in Everyday Life",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202184",
+      "course_name_en": "Basic Biology for the Health Sciences 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203131",
+      "course_name_en": "Basic Quantitative Chemical Analysis for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203132",
+      "course_name_en": "Quantitative Chemical Analysis for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203151",
+      "course_name_en": "General Chemistry for the Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203152",
+      "course_name_en": "Organic Chemistry for the Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "General Mathematics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207131",
+      "course_name_en": "Physics for Associated Medical Sciences Students 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208140",
+      "course_name_en": "Elementary Statistics for Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301231",
+      "course_name_en": "Anatomy for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303210",
+      "course_name_en": "General Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318322",
+      "course_name_en": "Pathology for Associated Medical Science Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321233",
+      "course_name_en": "Physiology for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "508204",
+      "course_name_en": "General Microbiology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "317332",
+      "course_name_en": "Human Parasitology for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "501203",
+      "course_name_en": "Hematology and Basic Laboratory Practices",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "501307",
+      "course_name_en": "Hematology and Laboratory Practices 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "501308",
+      "course_name_en": "Hematology and Laboratory Practices 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "502315",
+      "course_name_en": "Clinical Microscopy and Laboratory Practices",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "504202",
+      "course_name_en": "Clinical Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "504302",
+      "course_name_en": "Clinical Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "504305",
+      "course_name_en": "Clinical Chemistry 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "506202",
+      "course_name_en": "Basic Immunology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "506303",
+      "course_name_en": "Immunodiagnostic and Immunological Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "508303",
+      "course_name_en": "Clinical Microbiology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "508304",
+      "course_name_en": "Clinical Microbiology 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510101",
+      "course_name_en": "Introduction to Medical Technology Profession",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510202",
+      "course_name_en": "Instruments in Medical Technology Laboratory",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510306",
+      "course_name_en": "Health Science Research Methodology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510308",
+      "course_name_en": "Basic Health Informatics for Medical Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510309",
+      "course_name_en": "Laboratory Techniques in Molecular Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510403",
+      "course_name_en": "Laboratory Practice in Medical Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510408",
+      "course_name_en": "Community Medical Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510414",
+      "course_name_en": "Clinical Laboratory Analysis of Toxic Substances and Principles of Forensic Science Investigation",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510416",
+      "course_name_en": "Clinical Correlation Case Study",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510417",
+      "course_name_en": "Medical Laboratory Management",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510418",
+      "course_name_en": "Professional Law and Ethics",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510439",
+      "course_name_en": "Health Science Research",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510443",
+      "course_name_en": "Hospital Laboratory Practice",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "511439",
+      "course_name_en": "Seminar Journal Club",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "512303",
+      "course_name_en": "Transfusion Science 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "512304",
+      "course_name_en": "Transfusion Science 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510451",
+      "course_name_en": "Precision Medicine for Medical Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510452",
+      "course_name_en": "Techniques in Molecular Medicine",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510453",
+      "course_name_en": "Fundamental Medical Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510454",
+      "course_name_en": "Advanced Techniques in Medical Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510455",
+      "course_name_en": "Introduction to Entrepreneurship for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510456",
+      "course_name_en": "Entrepreneurship for Medical Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

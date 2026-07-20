@@ -1,0 +1,808 @@
+{
+  "program_name": "Bachelor of Fine Arts Program in Painting",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001222",
+      "course_name_en": "ENGL 222 English for Fine Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "ENGL 233 English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "ENGL 241 Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "ENGL 242 Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "ENGL 243 Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "ENGL 244 English Language, Culture, and Mind",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "ENGL 245 Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "ENGL 246 English Language in the Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "ENGL 247 English for Tour Guides and Travel Agents",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "ENGL 248 English for Airline Services and Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "ENGL 249 English for Travelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955202",
+      "course_name_en": "ATGE 202 Critical Reading and Effective Writing for Digital Workforce",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955203",
+      "course_name_en": "ATGE 203 English for Digital Technology System Developer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "CPE 111 Internet and Online Community in the Age of AI",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "SE 111 Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "SC 116 Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "PKT 200 Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "ANI 100 Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "MGMT 103 Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "MC 100 Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "DIN 107 Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "LS 103 Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011157",
+      "course_name_en": "PHIL 157 Social Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011159",
+      "course_name_en": "PHIL 159 Philosophy of Life, Society and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "PSY 110 Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050113",
+      "course_name_en": "HUGE 113 Locality in Globalization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "FAGE 100 Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "FAGE 118 Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "LAGE 104 Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "SC 114 Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357101",
+      "course_name_en": "ENT 101 Household Insects and Garden Pests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "802100",
+      "course_name_en": "LAAR 100 Landscape Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "MC 103 Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "CS 171 Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955114",
+      "course_name_en": "ATGE 114 Generative Artificial Intelligence for Arts and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital, Global or AI Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101114",
+      "course_name_en": "CART 114 Fundamental Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101115",
+      "course_name_en": "CART 115 Academic Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "CART 201 Western Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101202",
+      "course_name_en": "CART 202 20th Century Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101205",
+      "course_name_en": "CART 205 Eastern Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101221",
+      "course_name_en": "CART 221 Art Composition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101325",
+      "course_name_en": "CART 325 Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101490",
+      "course_name_en": "CART 490 Art Criticism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105102",
+      "course_name_en": "PART 102 Contemporary Art Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105100",
+      "course_name_en": "PART 100 Fundamental Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105101",
+      "course_name_en": "PART 101 Still-Life Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105203",
+      "course_name_en": "PART 203 Figure Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105204",
+      "course_name_en": "PART 204 Landscape Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105250",
+      "course_name_en": "PART 250 Basic Software for Visual Art Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105252",
+      "course_name_en": "PART 252 Field Studies on the Profession of Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105253",
+      "course_name_en": "PART 253 Research Methodology of Visual Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105304",
+      "course_name_en": "PART 304 Contemporary Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105351",
+      "course_name_en": "PART 351 Individual Painting 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105352",
+      "course_name_en": "PART 352 Individual Painting 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105353",
+      "course_name_en": "PART 353 Individual Painting 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105400",
+      "course_name_en": "PART 400 Art Practice Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105444",
+      "course_name_en": "PART 444 Seminar in Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105454",
+      "course_name_en": "PART 454 Individual Painting 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105455",
+      "course_name_en": "PART 455 Thesis in Painting",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "112201",
+      "course_name_en": "MAAD 201 Fundamental Web Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "101400",
+      "course_name_en": "CART 400 Art Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104320",
+      "course_name_en": "TART 320 Lanna Environment and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104325",
+      "course_name_en": "TART 325 Folk Art of Lanna",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104327",
+      "course_name_en": "TART 327 Decorative Stucco and Woodcarving in Lanna",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105230",
+      "course_name_en": "PART 230 Materials and Special Techniques in Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105251",
+      "course_name_en": "PART 251 Psychology of Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105305",
+      "course_name_en": "PART 305 Context in Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105332",
+      "course_name_en": "PART 332 Nude Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105333",
+      "course_name_en": "PART 333 Seascape Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105334",
+      "course_name_en": "PART 334 Abstract Painting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105335",
+      "course_name_en": "PART 335 Mixed-Media Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105336",
+      "course_name_en": "PART 336 Art and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105337",
+      "course_name_en": "PART 337 Performance Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "105343",
+      "course_name_en": "PART 343 Painting and Anthropology Approach",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "110120",
+      "course_name_en": "DESN 120 Two Dimensional Computer Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

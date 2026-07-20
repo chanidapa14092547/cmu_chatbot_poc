@@ -1,0 +1,1268 @@
+{
+  "program_name": "Bachelor of Education Program in Mathematics (2567)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนที่มีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "ภาษาอังกฤษในบริบทวิทยาศาสตร์และเทคโนโลยี",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "เทคโนโลยีสารสนเทศกับชีวิตสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "การใช้ภาษาไทย",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "การออกกำลังกายเพื่อสุขภาพ",
+      "credits": "2",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": "กีฬาเพื่อสุขภาพ",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057138",
+      "course_name_en": "Thai Wisdom Sports for Self-Defense",
+      "course_name_th": "กีฬาภูมิปัญญาไทยเพื่อการป้องกันตัว",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "โภชนาการเพื่อการส่งเสริมสุขภาพ",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "การส่งเสริมสุขภาพในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "กินดี: อยู่ดีมีสุขและการป้องกันโรค",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "เศรษฐศาสตร์เกษตรตามแนวเศรษฐกิจพอเพียง",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571113",
+      "course_name_en": "Maintaining the Equilibrium in Adolescent Life",
+      "course_name_th": "การรักษาดุลยภาพในชีวิตวัยรุ่น",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "สุขภาพและการทำงานในยุคดิจิทัล",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610113",
+      "course_name_en": "Processed Food in Daily Life",
+      "course_name_th": "อาหารแปรรูปในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "การบัญชีขั้นต้นสำหรับผู้ประกอบการ",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "การเงินในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": "การเรียนรู้ผ่านปรากฏการณ์ทางสังคม",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "การให้เหตุผล",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": "มนุษย์กับโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "มนุษยศิลป์",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "การเรียนรู้เพื่อการพัฒนาตนเอง",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "โลกสมัยใหม่ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "คณิตศาสตร์วิทยาศาสตร์บูรณาการ",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": "คณิตศาสตร์และวิทยาศาสตร์ในอารยธรรม",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "คณิตศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206109",
+      "course_name_en": "Mathematics in Today’s World",
+      "course_name_th": "คณิตศาสตร์ในโลกปัจจุบัน",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": "การคิดและการให้เหตุผลทางสถิติ",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208161",
+      "course_name_en": "Fundamentals of Statistics",
+      "course_name_th": "พื้นฐานสถิติ",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "การพัฒนาเทคโนโลยีและการเปลี่ยนแปลงของโลก",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์เพื่อชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "ความเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "จิตอาสา",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "มนุษย์กับการแสวงหาความรู้",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "Happy Life in Camping",
+      "course_name_th": "ชีวิตที่เป็นสุขในการค่ายพักแรม",
+      "credits": "2",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "การท่องเที่ยวเชิงกีฬาและการผจญภัย",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "มนุษย์กับศิลปะ",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": "ศิลปะในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "ชีวิตสมัยใหม่กับแอนิเมชัน",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": "ครูในฐานะผู้นำการเปลี่ยนแปลง",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": "การศึกษาและการเปลี่ยนแปลงทางสังคมในสังคมร่วมสมัย",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "วิทยาการหลักสูตรและการจัดการเรียนรู้ในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": "จิตวิทยาเพื่อการพัฒนาผู้เรียนในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": "การฝึกปฏิบัติวิชาชีพครูในสถานศึกษา 1",
+      "credits": "1",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": "ภาษาเพื่อการสื่อสารสำหรับครูในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": "นวัตกรรมและเทคโนโลยีเพื่อการเรียนรู้ในโลกดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "การวัดและการประเมินผลการเรียนรู้ในยุคดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": "การประกันคุณภาพการศึกษาเพื่อความยั่งยืน",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": "การฝึกปฏิบัติวิชาชีพครูในสถานศึกษา 2",
+      "credits": "1",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "พหุวัฒนธรรมศึกษาสำหรับครูในสังคมร่วมสมัย",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": "การปฏิบัติทักษะการสอนจุลภาคสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": "การฝึกปฏิบัติวิชาชีพครูในสถานศึกษา 3",
+      "credits": "4",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": "การวิจัยเพื่อพัฒนานวัตกรรมการศึกษา",
+      "credits": "2",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": "การฝึกปฏิบัติวิชาชีพครูในสถานศึกษา 4",
+      "credits": "6",
+      "category_or_track": "Core Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": "การจัดการเรียนรู้เชิงรุก",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": "รูปแบบการสอนสำหรับครูมืออาชีพ",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": "การจัดการเรียนรู้ที่เน้นความแตกต่างระหว่างบุคคล",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": "สารสนเทศเพื่อการเรียนรู้",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": "การบูรณาการศิลปะสร้างสรรค์ในการศึกษา",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": "การศึกษาโลกเพื่อการเรียนรู้ตลอดชีวิต",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": "กฎหมายสำหรับวิชาชีพครู",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": "การขับเคลื่อนการเปลี่ยนแปลงและนวัตกรรมด้วยสะเต็มศึกษา",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": "เส้นทางความก้าวหน้าในอาชีพของวิชาชีพครู",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": "สุขภาพจิตในเด็กและวัยรุ่น",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "วิทยาศาสตร์-คณิตศาสตร์บูรณาการเพื่อสังคมและชุมชน",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "การจัดการเรียนรู้งานช่างพื้นฐานในการดำรงชีวิต",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": "สถิติทางการศึกษาขั้นพื้นฐานในยุคดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "การใช้ดนตรีในการพัฒนาทักษะชีวิตและการสื่อสารสำหรับครู",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": "การจัดการศึกษาสำหรับผู้เรียนที่มีความต้องการจำเป็นพิเศษ",
+      "credits": "2",
+      "category_or_track": "Core Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065210",
+      "course_name_en": "Numbers and Operations in School Mathematics",
+      "course_name_th": "จำนวนและการดำเนินการในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065211",
+      "course_name_en": "Measurement in School Mathematics",
+      "course_name_th": "การวัดในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065212",
+      "course_name_en": "Algebra in School Mathematics",
+      "course_name_th": "พีชคณิตในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065310",
+      "course_name_en": "Geometry in School Mathematics",
+      "course_name_th": "เรขาคณิตในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065311",
+      "course_name_en": "Probability and Statistics in School Mathematics",
+      "course_name_th": "ความน่าจะเป็นและสถิติในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065334",
+      "course_name_en": "Mathematical Problem Solving for Teachers",
+      "course_name_th": "การแก้ปัญหาทางคณิตศาสตร์สำหรับครู",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065420",
+      "course_name_en": "Mathematical Thinking at the School Level",
+      "course_name_th": "การคิดทางคณิตศาสตร์ในระดับโรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065421",
+      "course_name_en": "Mathematical Skills and Processes",
+      "course_name_th": "ทักษะและกระบวนการทางคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "Calculus 1",
+      "course_name_th": "แคลคูลัส 1",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "Calculus 2",
+      "course_name_th": "แคลคูลัส 2",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206217",
+      "course_name_en": "Fundamental Concepts of Mathematics",
+      "course_name_th": "แนวคิดพื้นฐานทางคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206281",
+      "course_name_en": "Discrete Mathematics",
+      "course_name_th": "คณิตศาสตร์ไม่ต่อเนื่อง",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065320",
+      "course_name_en": "History of Mathematics for Teachers",
+      "course_name_th": "ประวัติศาสตร์คณิตศาสตร์สำหรับครู",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065410",
+      "course_name_en": "Calculus in School Mathematics",
+      "course_name_th": "แคลคูลัสในคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065411",
+      "course_name_en": "Connection between University Mathematics and School Mathematics",
+      "course_name_th": "การเชื่อมโยงระหว่างคณิตศาสตร์มหาวิทยาลัยกับคณิตศาสตร์โรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206207",
+      "course_name_en": "Solid Analytic Geometry",
+      "course_name_th": "เรขาคณิตวิเคราะห์สามมิติ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206211",
+      "course_name_en": "Advanced Calculus 1",
+      "course_name_th": "แคลคูลัสขั้นสูง 1",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206216",
+      "course_name_en": "Introduction to Mathematical Logic",
+      "course_name_th": "ตรรกศาสตร์คณิตศาสตร์ขั้นแนะนำ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206254",
+      "course_name_en": "Mathematical Package",
+      "course_name_th": "โปรแกรมสำเร็จรูปทางคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206300",
+      "course_name_en": "Mathematics of Finance and Insurance",
+      "course_name_th": "คณิตศาสตร์การเงินและการประกันภัย",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206311",
+      "course_name_en": "Axiomatic Set Theory",
+      "course_name_th": "ทฤษฎีเซตสัจพจน์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206312",
+      "course_name_en": "Introduction to Foundation of Geometry",
+      "course_name_th": "เรขาคณิตเชิงรากฐานขั้นแนะนำ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206313",
+      "course_name_en": "Introduction to Topology",
+      "course_name_th": "โทโพโลยีขั้นแนะนำ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206321",
+      "course_name_en": "Introduction to Abstract Algebra",
+      "course_name_th": "พีชคณิตนามธรรมขั้นแนะนำ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": "พีชคณิตเชิงเส้น",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206327",
+      "course_name_en": "Theory of Numbers 1",
+      "course_name_th": "ทฤษฎีจำนวน 1",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206328",
+      "course_name_en": "Theory of Equations",
+      "course_name_th": "ทฤษฎีสมการ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206331",
+      "course_name_en": "Advanced Calculus 2",
+      "course_name_th": "แคลคูลัสขั้นสูง 2",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206335",
+      "course_name_en": "Vector Analysis",
+      "course_name_th": "การวิเคราะห์เวกเตอร์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206336",
+      "course_name_en": "Real analysis 1",
+      "course_name_th": "การวิเคราะห์เชิงจริง 1",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206341",
+      "course_name_en": "Differential Equations",
+      "course_name_th": "สมการเชิงอนุพันธ์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206442",
+      "course_name_en": "Partial Differential Equations",
+      "course_name_th": "สมการเชิงอนุพันธ์ย่อย",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206355",
+      "course_name_en": "Numerical Method",
+      "course_name_th": "วิธีการเชิงตัวเลข",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206465",
+      "course_name_en": "Principles of Mathematical Modeling",
+      "course_name_th": "หลักการสร้างแบบจำลองทางคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206370",
+      "course_name_en": "Probability 1",
+      "course_name_th": "ความน่าจะเป็น 1",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206381",
+      "course_name_en": "Combinatorics",
+      "course_name_th": "วิธีจัดหมู่",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206411",
+      "course_name_en": "Classical Geometry",
+      "course_name_th": "เรขาคณิตคลาสสิก",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206412",
+      "course_name_en": "Topology",
+      "course_name_th": "โทโพโลยี",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206421",
+      "course_name_en": "Abstract Algebra",
+      "course_name_th": "พีชคณิตนามธรรม",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206423",
+      "course_name_en": "Wavelets",
+      "course_name_th": "เวฟเล็ต",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206428",
+      "course_name_en": "Coding Theory",
+      "course_name_th": "ทฤษฎีรหัส",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206436",
+      "course_name_en": "Introduction to Calculus of Variations",
+      "course_name_th": "แคลคูลัสของการแปรผันขั้นแนะนำ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206437",
+      "course_name_en": "Complex Variables",
+      "course_name_th": "ตัวแปรเชิงซ้อน",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206446",
+      "course_name_en": "Differential Geometry",
+      "course_name_th": "เรขาคณิตเชิงอนุพันธ์",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206476",
+      "course_name_en": "Game theory",
+      "course_name_th": "ทฤษฎีเกม",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206481",
+      "course_name_en": "Graph Theory",
+      "course_name_th": "ทฤษฎีกราฟ",
+      "credits": "3",
+      "category_or_track": "Major - Academic Content (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065122",
+      "course_name_en": "Learning Mathematics in the 21st Century",
+      "course_name_th": "การเรียนรู้คณิตศาสตร์ในศตวรรษที่ 21",
+      "credits": "2",
+      "category_or_track": "Major - Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065123",
+      "course_name_en": "Fundamental Concepts in Mathematics Learning Provision",
+      "course_name_th": "แนวคิดพื้นฐานในการจัดกิจกรรมการเรียนรู้คณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065335",
+      "course_name_en": "Organizing Mathematics Learning in School",
+      "course_name_th": "การจัดการเรียนรู้คณิตศาสตร์ในโรงเรียน",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065437",
+      "course_name_en": "Innovation and Technology for Teaching Mathematics",
+      "course_name_th": "นวัตกรรมและเทคโนโลยีสำหรับการสอนคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065322",
+      "course_name_en": "English for Mathematics Teachers",
+      "course_name_th": "ภาษาอังกฤษสำหรับครูคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065434",
+      "course_name_en": "Analyzing Problems in the Mathematics Classroom",
+      "course_name_th": "การวิเคราะห์ปัญหาในห้องเรียนคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065435",
+      "course_name_en": "Independent Study in Mathematics Education",
+      "course_name_th": "การศึกษาอิสระในการศึกษาคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065436",
+      "course_name_en": "Mathematical Instruction Media",
+      "course_name_th": "สื่อการเรียนการสอนคณิตศาสตร์",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "065438",
+      "course_name_en": "Integrated Mathematics Learning Management",
+      "course_name_th": "การจัดการเรียนรู้คณิตศาสตร์แบบบูรณาการ",
+      "credits": "3",
+      "category_or_track": "Major - Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

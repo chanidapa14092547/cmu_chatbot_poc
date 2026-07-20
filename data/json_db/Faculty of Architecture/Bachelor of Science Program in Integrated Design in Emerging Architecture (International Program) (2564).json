@@ -1,0 +1,539 @@
+{
+  "program_name": "Bachelor of Science Program in Integrated Design in Emerging Architecture (International Program) (2564)",
+  "major_tracks": [
+    "Option 1",
+    "Option 2"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics : the Science that Changed the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206109",
+      "course_name_en": "Mathematics in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Elective Courses (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804111",
+      "course_name_en": "Fundamental Design in Architecture Studio 1",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804112",
+      "course_name_en": "Fundamental Design in Architecture Studio 2",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804211",
+      "course_name_en": "Creative Design in Architecture Studio 1",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804212",
+      "course_name_en": "Creative Design in Architecture Studio 2",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804311",
+      "course_name_en": "Creative Design in Architecture Studio 3",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804312",
+      "course_name_en": "Creative Design in Architecture Studio 4",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804412",
+      "course_name_en": "Creative Design in Architecture Studio 5",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804102",
+      "course_name_en": "Human Behavior and Built Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804122",
+      "course_name_en": "History of Creative Arts and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804203",
+      "course_name_en": "Digital Communication Theory and Integrative Computer Aided Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804221",
+      "course_name_en": "Perception of Architectural Space",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804231",
+      "course_name_en": "Materials and Construction 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804232",
+      "course_name_en": "Materials and Construction 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804233",
+      "course_name_en": "Basic Building and Energy System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804234",
+      "course_name_en": "Architectural Structure 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804321",
+      "course_name_en": "Theory and Philosophy of Postmodern Arts and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804322",
+      "course_name_en": "Theory and Philosophy of Contemporary Thai Arts and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804331",
+      "course_name_en": "Applied Building and Energy System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804334",
+      "course_name_en": "Integrative Design in Architectural Structure",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804371",
+      "course_name_en": "Sustainable Urban Architecture and Communities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804383",
+      "course_name_en": "Theory in Architecture Professional Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804472",
+      "course_name_en": "Integrated Fields and Systems in Architecture and Urbanism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804411",
+      "course_name_en": "Selected Topics in Architectural Design Studio",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Option 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804481",
+      "course_name_en": "Architecture Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Option 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804482",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Electives (Option 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804401",
+      "course_name_en": "Seminar in Evolution of New Contemporary Designs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804402",
+      "course_name_en": "Hidden Thought in Architectural Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804403",
+      "course_name_en": "History and Theory of Asian Architecture and Cities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804404",
+      "course_name_en": "Real Estate Economics and Facilities Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

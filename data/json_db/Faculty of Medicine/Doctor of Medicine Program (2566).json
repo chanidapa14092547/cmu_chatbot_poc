@@ -1,0 +1,1938 @@
+{
+  "program_name": "Doctor of Medicine Program (2566)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person - Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person - Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Learner Person - Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "Reading Human Through Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011101",
+      "course_name_en": "Meaning of Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "Philosophy of Happiness",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057123",
+      "course_name_en": "Volleyball for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057134",
+      "course_name_en": "Muscle Building with Weight Training",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057138",
+      "course_name_en": "Thai Wisdom Sports for Self-Defense",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "Biology in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109119",
+      "course_name_en": "Lanna Art Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201115",
+      "course_name_en": "Life and Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256100",
+      "course_name_en": "Sustainable Use of Mineral Resources",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301101",
+      "course_name_en": "Human Genetics and Developmental Biology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301209",
+      "course_name_en": "Basic Histology and Cell Biology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301210",
+      "course_name_en": "Human Gross Anatomy",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303111",
+      "course_name_en": "Molecular Basis of Human Body",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303112",
+      "course_name_en": "Metabolism of Fuel Nutrients in Human",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303113",
+      "course_name_en": "Applied Biochemistry in Medicine",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305303",
+      "course_name_en": "Behavioral Science",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311201",
+      "course_name_en": "Human Immunology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311202",
+      "course_name_en": "Microbiology of Human Infectious Diseases",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "317201",
+      "course_name_en": "Parasitology of Human Infectious Diseases",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318201",
+      "course_name_en": "Basic Human Anatomical Pathology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320201",
+      "course_name_en": "Basic Clinical Pharmacology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320301",
+      "course_name_en": "Applied Clinical Pharmacology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321201",
+      "course_name_en": "Essential Human Physiology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "322101",
+      "course_name_en": "Introductory Biomedical Science Research",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "322305",
+      "course_name_en": "Essential Research Skills 1",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "322316",
+      "course_name_en": "Introduction to Community Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327302",
+      "course_name_en": "Introduction to Family Health",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330220",
+      "course_name_en": "Human Endocrine System 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330221",
+      "course_name_en": "Human Musculoskeletal System 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330222",
+      "course_name_en": "Human Cardiovascular System 1",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330223",
+      "course_name_en": "Human Respiratory System 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330224",
+      "course_name_en": "Human Gastrointestinal and Biliary Tract System 1",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330225",
+      "course_name_en": "Human Renal and Urinary Tract System 1",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330226",
+      "course_name_en": "Human Reproductive System and Perinatal Period 1",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330227",
+      "course_name_en": "Human Nervous and Special Senses System 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330228",
+      "course_name_en": "Problem-Based Learning Skill Development",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330229",
+      "course_name_en": "Principles of Medical Laboratory Investigations 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330230",
+      "course_name_en": "Human Hematopoietic and Lymphoreticular System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330231",
+      "course_name_en": "Basic Laboratory in Human Hematopoietic and Lymphoreticular System",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330319",
+      "course_name_en": "Human Skin System and Connective Tissues",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330320",
+      "course_name_en": "Human Endocrine System 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330321",
+      "course_name_en": "Human Musculoskeletal System 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330322",
+      "course_name_en": "Human Cardiovascular System 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330323",
+      "course_name_en": "Human Respiratory System 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330324",
+      "course_name_en": "Human Gastrointestinal and Biliary Tract System 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330325",
+      "course_name_en": "Human Renal and Urinary Tract System 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330326",
+      "course_name_en": "Human Reproductive System and Perinatal Period 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330327",
+      "course_name_en": "Human Nervous and Special Senses System 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330328",
+      "course_name_en": "Team-Based Learning Skill Development",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "330329",
+      "course_name_en": "Principles of Medical Laboratory Investigations 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major course for medicine - Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305501",
+      "course_name_en": "Psychiatry",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307401",
+      "course_name_en": "Theory in Internal Medicine",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307402",
+      "course_name_en": "Skill in Internal Medicine",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307501",
+      "course_name_en": "Advanced Theory and Skill in Internal Medicine",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307601",
+      "course_name_en": "Practice in Internal Medicine",
+      "course_name_th": null,
+      "credits": "8",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310401",
+      "course_name_en": "Theory in General Surgery",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310402",
+      "course_name_en": "Surgical Practice and Skills",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310501",
+      "course_name_en": "Subspecialties in Surgery",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310601",
+      "course_name_en": "Practice in Surgery",
+      "course_name_th": null,
+      "credits": "8",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312501",
+      "course_name_en": "Forensic Medicine",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314401",
+      "course_name_en": "Obstetrics and Gynecology 1",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314501",
+      "course_name_en": "Obstetrics and Gynecology 2",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314601",
+      "course_name_en": "Practice in Obstetrics and Gynecology",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "315512",
+      "course_name_en": "Ophthalmology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "316501",
+      "course_name_en": "Otolaryngology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319401",
+      "course_name_en": "Pediatrics 1",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319501",
+      "course_name_en": "Pediatrics 2",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319601",
+      "course_name_en": "Practice in Pediatrics",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "322401",
+      "course_name_en": "Community Health and Health Promotion",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "323501",
+      "course_name_en": "Orthopedics 1",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "323601",
+      "course_name_en": "Practice in Orthopedics",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "324401",
+      "course_name_en": "Basic Radiology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "324402",
+      "course_name_en": "Advanced Radiology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "326501",
+      "course_name_en": "Accident and Emergency Medicine",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "326601",
+      "course_name_en": "Practice in Accident and Emergency Medicine",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327401",
+      "course_name_en": "Family Medicine",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "328501",
+      "course_name_en": "Rehabilitation Medicine",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331303",
+      "course_name_en": "Fundamentals of Clinical Practice 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331423",
+      "course_name_en": "Fundamentals of Clinical Practice 2",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331603",
+      "course_name_en": "Community and Family Medicine",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major course for medicine - Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "329107",
+      "course_name_en": "Basic Medical Professional Development",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Medical professional development)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "329401",
+      "course_name_en": "Essential Research Skill 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting the identities of the institution or the competencies by the student interests",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "332609",
+      "course_name_en": "Additional Skill in Major Medical Practice",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting the identities of the institution or the competencies by the student interests",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301391",
+      "course_name_en": "Dissection of Human Gross Anatomy",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301392",
+      "course_name_en": "Clinical Human Gross Anatomy",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303391",
+      "course_name_en": "Clinical Biochemistry",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303393",
+      "course_name_en": "Molecular Medicine",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311391",
+      "course_name_en": "Laboratory Investigations in Microbiology and Immunology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311392",
+      "course_name_en": "Basic Immunology and Immunity to Infection",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312391",
+      "course_name_en": "Applied Anatomy in Forensic Anthropology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312392",
+      "course_name_en": "New Trends in Forensic Science",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312393",
+      "course_name_en": "Toxins in Everyday Life",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "317391",
+      "course_name_en": "Apply Parasitology for Medical Students",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318391",
+      "course_name_en": "Clinical Pathology",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320395",
+      "course_name_en": "Up-to-date Pharmacology in Clinical Practice 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321392",
+      "course_name_en": "Pathophysiology of Common Clinical Problems",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327391",
+      "course_name_en": "Clinical Epidemiology and Statistics",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major course for promoting... (Preclinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305492",
+      "course_name_en": "Subspecialties in Psychiatry for Medical Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305493",
+      "course_name_en": "Research in Mental Health and Psychiatry",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305494",
+      "course_name_en": "Career Path in Psychiatry",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307491",
+      "course_name_en": "Gaining Experience in Internal Medicine 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307591",
+      "course_name_en": "Gaining Experience in Internal Medicine 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "307691",
+      "course_name_en": "Subspecialties in Internal Medicine",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "309592",
+      "course_name_en": "Gaining Experience in Anesthesiology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310495",
+      "course_name_en": "Gaining Experience in Surgery 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310596",
+      "course_name_en": "Gaining Experience in Surgery 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310691",
+      "course_name_en": "Gaining Experience in Surgery 3",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312492",
+      "course_name_en": "Forensic Anthropology 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312493",
+      "course_name_en": "Forensic Anthropology 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312494",
+      "course_name_en": "DNA Fingerprint",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "312594",
+      "course_name_en": "Gaining Experience in Medicolegal Autopsy",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314496",
+      "course_name_en": "Gaining Experience in Gynecology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314593",
+      "course_name_en": "Gaining Experience in Obstetrics",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "314691",
+      "course_name_en": "Subspecialties in Obstetrics and Gynecology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "315692",
+      "course_name_en": "General Ophthalmology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "316592",
+      "course_name_en": "Ear Nose and Throat 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "316692",
+      "course_name_en": "Ear Nose and Throat 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319492",
+      "course_name_en": "Gaining Experience in Pediatrics 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319591",
+      "course_name_en": "Gaining Experience in Pediatrics 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "319691",
+      "course_name_en": "Subspecialties in Pediatrics",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321492",
+      "course_name_en": "Basic Clinical Physiology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321692",
+      "course_name_en": "Applied Clinical Physiology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "323595",
+      "course_name_en": "Gaining Experience in Orthopedics 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "323691",
+      "course_name_en": "Gaining Experience in Orthopedics 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "324493",
+      "course_name_en": "Diagnostic Radiology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "326692",
+      "course_name_en": "Gaining Experience in Emergency Medicine",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327496",
+      "course_name_en": "Family Medicine 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327497",
+      "course_name_en": "Computational Analytics in Medical Diagnosis",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327592",
+      "course_name_en": "Computational Analytics in Medical Treatment",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "327691",
+      "course_name_en": "Community Geriatrics",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "328592",
+      "course_name_en": "Medical Rehabilitation Practice for Medical Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "328593",
+      "course_name_en": "Sports Rehabilitation",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331491",
+      "course_name_en": "Selective Experiential Learning in Clinic 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331492",
+      "course_name_en": "Selective Experiential Learning in Clinic 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331591",
+      "course_name_en": "Selective Experiential Learning in Clinic 3",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331592",
+      "course_name_en": "Selective Experiential Learning in Clinic 4",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331594",
+      "course_name_en": "Point-of-care Ultrasound for Medical Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331691",
+      "course_name_en": "Selective Experiential Learning in Clinic 5",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "331692",
+      "course_name_en": "Selective Experiential Learning in Clinic 6",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major course for promoting... (Clinical phase)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

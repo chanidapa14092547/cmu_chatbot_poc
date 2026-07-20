@@ -1,0 +1,759 @@
+{
+  "program_name": "Bachelor of Arts Program in Information Studies (2566)",
+  "major_tracks": [
+    "Independent Study in Information Studies",
+    "Cooperative Education Group"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009105",
+      "course_name_en": "Information and Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009107",
+      "course_name_en": "Introduction to Information Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009212",
+      "course_name_en": "Information and Communication Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009237",
+      "course_name_en": "Development of Digital Media for Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009251",
+      "course_name_en": "Principles of Information Service Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009301",
+      "course_name_en": "English for Information Professionals",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851204",
+      "course_name_en": "Principles of Public Relations, Advertising and Marketing Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009213",
+      "course_name_en": "Information Technology for Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009230",
+      "course_name_en": "Information Resources Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009231",
+      "course_name_en": "Knowledge Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009234",
+      "course_name_en": "Information Content Analysis and Synthesis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009236",
+      "course_name_en": "Web Technology for Information Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009333",
+      "course_name_en": "Cataloging Information Resources",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009336",
+      "course_name_en": "Database System Development for Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009339",
+      "course_name_en": "Software Development for Information Work 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009343",
+      "course_name_en": "Digital Content Creation for Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009355",
+      "course_name_en": "Service Design for Information Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009356",
+      "course_name_en": "User Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009363",
+      "course_name_en": "Research Methods in Information Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009426",
+      "course_name_en": "Principles of Administration for Information Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009427",
+      "course_name_en": "Digital Libraries",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009469",
+      "course_name_en": "Seminar in Information Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009499",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Cooperative Education Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009478",
+      "course_name_en": "Information Professional Internship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Independent Study in Information Studies",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009489",
+      "course_name_en": "Independent Study in Information Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Independent Study in Information Studies",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009302",
+      "course_name_en": "Design Thinking for Information Professionals",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009321",
+      "course_name_en": "Knowledge Management in Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009322",
+      "course_name_en": "Local Information Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009325",
+      "course_name_en": "Records Management and Information Governance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009331",
+      "course_name_en": "Game and Gamification for Information",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009334",
+      "course_name_en": "Data Analytics in Digital Humanities",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009341",
+      "course_name_en": "Development of Multimedia and Digital Media in Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009344",
+      "course_name_en": "Electronic Serials Resources Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009345",
+      "course_name_en": "Information Repackaging",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009358",
+      "course_name_en": "Website Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009412",
+      "course_name_en": "Intellectual Property Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009420",
+      "course_name_en": "Cultural Heritage Information",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009424",
+      "course_name_en": "Information Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009425",
+      "course_name_en": "Marketing for Information Services",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009429",
+      "course_name_en": "Project Management for Information System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009431",
+      "course_name_en": "Information Retrieval",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009432",
+      "course_name_en": "Ontology and Semantic Web for Information Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009433",
+      "course_name_en": "Big Data Analytics and Visualization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009434",
+      "course_name_en": "Analysis and Design for Information System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009436",
+      "course_name_en": "Social Media Management in Information Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009437",
+      "course_name_en": "Design and Management for Information Works on Mobile Device",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009439",
+      "course_name_en": "Virtual Reality and Augmented Reality for Information Works",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009445",
+      "course_name_en": "Archives Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009446",
+      "course_name_en": "Lanna Information Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009462",
+      "course_name_en": "Selected Topics in Information Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

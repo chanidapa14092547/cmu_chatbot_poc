@@ -1,0 +1,878 @@
+{
+  "program_name": "Bachelor of Science Program in Biochemistry and Biochemical Innovation (2564)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202102",
+      "course_name_en": "Basic Biology 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202104",
+      "course_name_en": "Biology Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203104",
+      "course_name_en": "General Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203107",
+      "course_name_en": "General Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203108",
+      "course_name_en": "General Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203226",
+      "course_name_en": "Physical Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203229",
+      "course_name_en": "Physical Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203235",
+      "course_name_en": "Analytical Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203288",
+      "course_name_en": "Analytical Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204102",
+      "course_name_en": "Intelligent Data Analysis: Survey of Techniques and Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206115",
+      "course_name_en": "Calculus for Natural Sciences 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207117",
+      "course_name_en": "Physics Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208241",
+      "course_name_en": "Statistics for Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201301",
+      "course_name_en": "Biosafety and Biosecurity",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203205",
+      "course_name_en": "Organic Chemistry for Biochemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203243",
+      "course_name_en": "Organic Chemistry Laboratory for Biochemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203331",
+      "course_name_en": "Instrumental Methods of Chemical Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203337",
+      "course_name_en": "Instrumental Methods of Chemical Analysis Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211303",
+      "course_name_en": "Biochemical Methods",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211311",
+      "course_name_en": "Biochemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211312",
+      "course_name_en": "Biochemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211317",
+      "course_name_en": "Biochemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211318",
+      "course_name_en": "Biochemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211343",
+      "course_name_en": "Instruments for Upstream and Downstream Processing in Biochemical Production",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211397",
+      "course_name_en": "Research and Development in Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211399",
+      "course_name_en": "Industrial Training",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211414",
+      "course_name_en": "Gene and Protein Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211415",
+      "course_name_en": "Carbohydrate and Lipid Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211447",
+      "course_name_en": "Microbial and Enzymatic Biotransformation",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211451",
+      "course_name_en": "Complex Problem Solving in Bioscience",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211452",
+      "course_name_en": "Bioinnovation and Enterprises",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211497",
+      "course_name_en": "Cooperative Education in Biochemistry and Biochemical Innovation",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211498",
+      "course_name_en": "Seminar in Biochemistry and Biochemical Innovation",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211499",
+      "course_name_en": "Special Problems in Biochemistry and Biochemical Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215205",
+      "course_name_en": "Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215206",
+      "course_name_en": "Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064422",
+      "course_name_en": "Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064423",
+      "course_name_en": "Local Wisdom Related to Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202305",
+      "course_name_en": "Biometry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202321",
+      "course_name_en": "Cell Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203352",
+      "course_name_en": "Safety in the Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209301",
+      "course_name_en": "Industrial Process Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211412",
+      "course_name_en": "Bioenergetics and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211421",
+      "course_name_en": "Modern Biomedical Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211422",
+      "course_name_en": "Food and Agricultural Biochemical Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211423",
+      "course_name_en": "Bioenergy Technology and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211424",
+      "course_name_en": "Forensic Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211445",
+      "course_name_en": "Flavor and Fragrance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211453",
+      "course_name_en": "Basic Methodology for Protein Expression in Bacterial and Animal Cells",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211495",
+      "course_name_en": "Selected Topics in Biochemistry and Biochemical Innovation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215303",
+      "course_name_en": "Intellectual Property and Biological Innovations",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215411",
+      "course_name_en": "Biology of Mushrooms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255323",
+      "course_name_en": "Introduction to Quality Assurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361210",
+      "course_name_en": "Introduction to Soil Science and Natural Resources Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601301",
+      "course_name_en": "Toxic Substances in Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601361",
+      "course_name_en": "Food Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1900 @@
+{
+  "program_name": "Bachelor of Science Program in Agriculture (2565)",
+  "major_tracks": [
+    "Agricultural Extension",
+    "Agronomy",
+    "Entomology"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651106",
+      "course_name_en": "Food Sanitary from Food Animal for Consumer",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214100",
+      "course_name_en": "Integrated Zoology and Health Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "218100",
+      "course_name_en": "The Science of Gemstone and Jewelry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356102",
+      "course_name_en": "Ornamental Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201115",
+      "course_name_en": "Life and Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202102",
+      "course_name_en": "Basic Biology 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202104",
+      "course_name_en": "Biology Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202231",
+      "course_name_en": "Genetics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207181",
+      "course_name_en": "Physics for Agricultural Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207191",
+      "course_name_en": "Physics Laboratory for Agricultural Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215205",
+      "course_name_en": "Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215206",
+      "course_name_en": "Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351202",
+      "course_name_en": "Introduction to Agricultural Economics and Agribusiness Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352210",
+      "course_name_en": "Introduction to Agricultural Extension",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356210",
+      "course_name_en": "Introduction to Animal and Aquatic Sciences",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357210",
+      "course_name_en": "Agricultural Insect Pests",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359207",
+      "course_name_en": "Agricultural Production Standards",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360210",
+      "course_name_en": "Elementary Plant Pathology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363210",
+      "course_name_en": "Introduction to Plant Production and Soil Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400190",
+      "course_name_en": "Practical Training 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400210",
+      "course_name_en": "Introduction to Agricultural Innovations",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400211",
+      "course_name_en": "Agricultural Systems and Natural Resource Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400290",
+      "course_name_en": "Practical Training 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352301",
+      "course_name_en": "Leadership in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352311",
+      "course_name_en": "Principles of Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352314",
+      "course_name_en": "Information Technology Management for Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352316",
+      "course_name_en": "Principle of Agricultural Extension Research",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352321",
+      "course_name_en": "Methods of Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352323",
+      "course_name_en": "Modern Agricultural Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352332",
+      "course_name_en": "Diffusion of Agricultural Innovations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352414",
+      "course_name_en": "Community Agricultural Entrepreneurship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352421",
+      "course_name_en": "Management of Agricultural Extension Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352441",
+      "course_name_en": "Planning and Evaluation of Agricultural Extension Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352494",
+      "course_name_en": "Selected Topics in Agricultural Extension and Rural Development",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352497",
+      "course_name_en": "Seminar 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352498",
+      "course_name_en": "Seminar 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agricultural Extension Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352490",
+      "course_name_en": "Cooperative Education in Agricultural Extension and Rural Development",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Agricultural Extension Track (Required - Coop Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352390",
+      "course_name_en": "Professional Skill Training in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required - Special Problem Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352499",
+      "course_name_en": "Special Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Required - Special Problem Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006103",
+      "course_name_en": "Home and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006341",
+      "course_name_en": "Principles of Human Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006349",
+      "course_name_en": "Community Participation Process in Development Projects",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351321",
+      "course_name_en": "Economics of Agricultural Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351331",
+      "course_name_en": "Agricultural Cooperation and Institution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352313",
+      "course_name_en": "Highland Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352317",
+      "course_name_en": "Human Relations and Recreation in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352319",
+      "course_name_en": "Welfare for Agricultural Community Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352322",
+      "course_name_en": "Modern Rural Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352324",
+      "course_name_en": "Sustainable Agricultural Community Economy Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352325",
+      "course_name_en": "Social Innovation for Agricultural Community Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352331",
+      "course_name_en": "Speaking and Writing for Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352401",
+      "course_name_en": "Agricultural Extension for Adult Farmers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352413",
+      "course_name_en": "Planning and Management of Training in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352422",
+      "course_name_en": "Agro-tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365301",
+      "course_name_en": "Economy and Sustainable Forest Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368211",
+      "course_name_en": "Agribusiness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701100",
+      "course_name_en": "Elementary Accounting 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204202",
+      "course_name_en": "Information Technology and Web Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352431",
+      "course_name_en": "Principles of Public Relations and Communication in Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352433",
+      "course_name_en": "Media Production Technology in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851204",
+      "course_name_en": "Principles of Public Relations, Advertising and Marketing Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851305",
+      "course_name_en": "Arts for Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851309",
+      "course_name_en": "Media and the Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954140",
+      "course_name_en": "Information Technology Literacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954464",
+      "course_name_en": "Information Technology for Knowledge Worker Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260462",
+      "course_name_en": "Principles of Agricultural Irrigation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353313",
+      "course_name_en": "Important Field Crops of Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required) / Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353432",
+      "course_name_en": "Weeds and Weed Control",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agronomy Track (Required) / Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353454",
+      "course_name_en": "Seed Technology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agronomy Track (Required) / Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359301",
+      "course_name_en": "Plant Propagation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359341",
+      "course_name_en": "Nursery Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359350",
+      "course_name_en": "Principles of Fruit Production",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359360",
+      "course_name_en": "Introduction to Industrial Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359403",
+      "course_name_en": "Postharvest Handling of Horticultural Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359410",
+      "course_name_en": "Principles of Floriculture",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359421",
+      "course_name_en": "Vegetable Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359461",
+      "course_name_en": "Beverage Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361351",
+      "course_name_en": "Soil Fertility Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363401",
+      "course_name_en": "Unmanned Aerial Vehicle Technology in Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363402",
+      "course_name_en": "Greenhouse Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363403",
+      "course_name_en": "Information System for Crop Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357322",
+      "course_name_en": "Economic Entomology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Entomology Track (Required) / Agronomy Track (Elective) / Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357323",
+      "course_name_en": "Insect Pests of Stored Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Entomology Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357324",
+      "course_name_en": "Insect Pests of Fruit Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357325",
+      "course_name_en": "Insect Pests of Field Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357326",
+      "course_name_en": "Insect Pests of Vegetable Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357360",
+      "course_name_en": "Industrial Insects",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357441",
+      "course_name_en": "Principles of Insect Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360212",
+      "course_name_en": "Elementary Plant Pathology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360304",
+      "course_name_en": "Diseases of Economic Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360401",
+      "course_name_en": "Diseases of Ornamental Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360402",
+      "course_name_en": "Diseases of Field Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360403",
+      "course_name_en": "Diseases of Fruit Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360404",
+      "course_name_en": "Diseases of Vegetable Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360407",
+      "course_name_en": "Plant Disease Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3) / Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356330",
+      "course_name_en": "Feeds and Feeding",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356350",
+      "course_name_en": "Principles of Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356370",
+      "course_name_en": "Sanitation and Herd Health Control in Farm Animal",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356441",
+      "course_name_en": "Poultry Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356442",
+      "course_name_en": "Swine Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356443",
+      "course_name_en": "Dairy Cow Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356444",
+      "course_name_en": "Beef Cattle Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356446",
+      "course_name_en": "Management in Livestock Farming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agricultural Extension Track (Elective - Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211315",
+      "course_name_en": "Introductory Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211319",
+      "course_name_en": "Introductory Biochemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353303",
+      "course_name_en": "Principles of Plant Breeding",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353312",
+      "course_name_en": "Applied Field Crop Physiology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353497",
+      "course_name_en": "Seminar 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353498",
+      "course_name_en": "Seminar 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "354311",
+      "course_name_en": "Statistics for Agricultural Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required) / Entomology Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "354312",
+      "course_name_en": "Experimental Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "355411",
+      "course_name_en": "Agricultural Machinery 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353490",
+      "course_name_en": "Cooperative Education in Agronomy",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Agronomy Track (Required - Coop Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353390",
+      "course_name_en": "Professional Skill Training in Agronomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required - Special Problem Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353499",
+      "course_name_en": "Special Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Required - Special Problem Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353302",
+      "course_name_en": "Practice in Hybridization of Field Crops",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353418",
+      "course_name_en": "Legumes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353421",
+      "course_name_en": "Forage Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353422",
+      "course_name_en": "Tropical Pastures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353441",
+      "course_name_en": "Field Crop Breeding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353452",
+      "course_name_en": "Seed Testing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353453",
+      "course_name_en": "Commercial Seed Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353471",
+      "course_name_en": "Advanced Agronomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353482",
+      "course_name_en": "Genetic Resources in Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357442",
+      "course_name_en": "Biological Control of Insect Pests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357443",
+      "course_name_en": "Plant Resistance to Insect",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357444",
+      "course_name_en": "Insecticides",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359407",
+      "course_name_en": "Water Management for Horticulture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359422",
+      "course_name_en": "Vegetable Seed Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360450",
+      "course_name_en": "Postharvest Disease",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360460",
+      "course_name_en": "Molecular Plant-Pathogen Interactions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360471",
+      "course_name_en": "Application of Molecular Techniques in Plant Pathology and Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361452",
+      "course_name_en": "Fertilizer and Plant Nutrient Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361453",
+      "course_name_en": "Soil and Plant Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361461",
+      "course_name_en": "Soil Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361475",
+      "course_name_en": "Soil Water Management and on-Farm Irrigation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361476",
+      "course_name_en": "Agricultural Meteorology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368310",
+      "course_name_en": "Applications of Economic Theories for Farm Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368411",
+      "course_name_en": "Intermediate Agribusiness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368431",
+      "course_name_en": "Financial Management for Agribusiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Agronomy Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

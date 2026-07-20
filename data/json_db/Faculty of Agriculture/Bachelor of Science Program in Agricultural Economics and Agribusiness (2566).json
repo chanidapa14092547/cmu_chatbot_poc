@@ -1,0 +1,1190 @@
+{
+  "program_name": "Bachelor of Science Program in Agricultural Economics and Agribusiness",
+  "major_tracks": [
+    "Agricultural Economics",
+    "Agricultural Business"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "001101": "701181",
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351101",
+      "course_name_en": "Economics for Happiness in Households",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571111",
+      "course_name_en": "Critical Thinking and Creative Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "General Mathematics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208373",
+      "course_name_en": "Statistics for Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356210",
+      "course_name_en": "Introduction to Animal and Aquatic Sciences",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363210",
+      "course_name_en": "Introduction to Plant Production and Soil Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363211",
+      "course_name_en": "Introduction to Postharvest Management of Economic Crops",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400190",
+      "course_name_en": "Practical Training 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400210",
+      "course_name_en": "Introduction to Agricultural Innovations",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400211",
+      "course_name_en": "Agricultural Systems and Natural Resource Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400290",
+      "course_name_en": "Practical Training 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610201",
+      "course_name_en": "Introduction to Agro-Industrial Process",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751106",
+      "course_name_en": "Principles of Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Economics and Business Administration",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751209",
+      "course_name_en": "Introduction to Mathematical Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Economics and Business Administration",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751301",
+      "course_name_en": "Microeconomic Theory 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Economics and Business Administration",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751308",
+      "course_name_en": "Macroeconomic Theory 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Economics and Business Administration",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351201",
+      "course_name_en": "Principles of Agricultural Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351301",
+      "course_name_en": "Agricultural Production Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351321",
+      "course_name_en": "Economics of Agricultural Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351351",
+      "course_name_en": "Economics of Agricultural Development and Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351441",
+      "course_name_en": "Research Methods in Agricultural Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351497",
+      "course_name_en": "Seminar 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351498",
+      "course_name_en": "Seminar 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368211",
+      "course_name_en": "Agribusiness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368310",
+      "course_name_en": "Applications of Economic Theories for Farm Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351391",
+      "course_name_en": "Professional Skill Training in Agricultural Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Special Problems Group)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351499",
+      "course_name_en": "Special Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Special Problems Group)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351490",
+      "course_name_en": "Cooperative Education in Agricultural Economics",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Cooperative Education Group)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351303",
+      "course_name_en": "Introduction to Machine Learning in Agricultural Data Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 1 Agricultural Economics) / Major Electives (Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351392",
+      "course_name_en": "Agricultural Household and Community Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 1 Agricultural Economics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351442",
+      "course_name_en": "Quantitative Analysis in Agricultural Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 1 Agricultural Economics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351464",
+      "course_name_en": "Natural Resource and Environmental Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 1 Agricultural Economics) / Major Electives (Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368317",
+      "course_name_en": "Economics and Management of Agricultural Value Chain",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 2 Agricultural Business) / Major Electives (Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368331",
+      "course_name_en": "Agri - Food Business Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 2 Agricultural Business) / Major Electives (Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368392",
+      "course_name_en": "Agribusiness Entrepreneurial Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 2 Agricultural Business)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368441",
+      "course_name_en": "Quantitative Methods for Agribusiness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Plan 2 Agricultural Business)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351204",
+      "course_name_en": "Agricultural Systems and Economies in ASEAN Economic Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351302",
+      "course_name_en": "Agricultural Economic Analysis Based on Macroeconomic Theories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351331",
+      "course_name_en": "Farmer Institutions for Agricultural Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351371",
+      "course_name_en": "Sufficiency Economy Paths",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351410",
+      "course_name_en": "Risk Management in Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351416",
+      "course_name_en": "Alternative Farm Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351418",
+      "course_name_en": "Economic Efficiency of Agricultural Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351421",
+      "course_name_en": "Intermediate Economics of Agricultural Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351425",
+      "course_name_en": "Economics of International Trade on Agricultural Commodities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351426",
+      "course_name_en": "Agricultural Prices",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351443",
+      "course_name_en": "Mathematical Programming for Agricultural Economics and Agribusiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351461",
+      "course_name_en": "Agricultural Resource Development and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351463",
+      "course_name_en": "Environmental Impact Assessment in Socio-Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351487",
+      "course_name_en": "Selected Topics in Agricultural Economics 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351488",
+      "course_name_en": "Selected Topics in Agricultural Economics 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351489",
+      "course_name_en": "Selected Topics in Agricultural Economics 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368412",
+      "course_name_en": "Agribusiness Marketing Analysis and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Business Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368416",
+      "course_name_en": "Agribusiness Plan and Investment Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Business Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368417",
+      "course_name_en": "Innovation in Agricultural Logistics Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Business Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352301",
+      "course_name_en": "Leadership in Agricultural Extension",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352431",
+      "course_name_en": "Principles of Public Relations and Communication in Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Agricultural Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "361341",
+      "course_name_en": "Spatial Information System for Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Agricultural Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751302",
+      "course_name_en": "Microeconomic Theory 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751303",
+      "course_name_en": "Public Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751309",
+      "course_name_en": "Macroeconomic Theory 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751321",
+      "course_name_en": "Community Economic Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751330",
+      "course_name_en": "Money and Banking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751345",
+      "course_name_en": "Transportation Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751401",
+      "course_name_en": "International Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1 & Plan 2) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751437",
+      "course_name_en": "Tax System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 1) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368411",
+      "course_name_en": "Intermediate Agribusiness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368418",
+      "course_name_en": "Strategic Planning and Management in Agribusiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368421",
+      "course_name_en": "Negotiation in Agri-Food Business",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368431",
+      "course_name_en": "Financial Management for Agribusiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368433",
+      "course_name_en": "Futures and Options Markets",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368487",
+      "course_name_en": "Selected Topics in Agribusiness 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368488",
+      "course_name_en": "Selected Topics in Agribusiness 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368489",
+      "course_name_en": "Selected Topics in Agribusiness 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703310",
+      "course_name_en": "Introduction to Business Computer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703391",
+      "course_name_en": "Business Etiquette",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agricultural Business and Business Administration Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "352422",
+      "course_name_en": "Agro-tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356202",
+      "course_name_en": "Principles of Feed and Animal Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356203",
+      "course_name_en": "Tropical Livestock Farming and Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356212",
+      "course_name_en": "Animal Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357360",
+      "course_name_en": "Industrial Insects",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363202",
+      "course_name_en": "Tropical Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601351",
+      "course_name_en": "Food Legislation and Standards",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Agriculture and Agro-Industry Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751420",
+      "course_name_en": "International Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751421",
+      "course_name_en": "Economics of Investment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Plan 2) / Economics Group",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

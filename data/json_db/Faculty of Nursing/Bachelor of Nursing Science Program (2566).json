@@ -1,0 +1,828 @@
+{
+  "program_name": "Bachelor of Nursing Science Program (2566)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "Philosophy of Happiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012100",
+      "course_name_en": "Mind Development for High Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "Biology in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571151",
+      "course_name_en": "Science and Art for Happiness Creation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888105",
+      "course_name_en": "Internet Data System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571111",
+      "course_name_en": "Critical Thinking and Creative Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571115",
+      "course_name_en": "Spa for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202143",
+      "course_name_en": "Biology for Nursing Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208141",
+      "course_name_en": "Introduction to Biostatistics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301121",
+      "course_name_en": "Anatomy for Nursing Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303121",
+      "course_name_en": "Biochemistry for Nursing Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311121",
+      "course_name_en": "Microbiology for Nursing Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "317121",
+      "course_name_en": "Parasitology for Nursing Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318221",
+      "course_name_en": "Pathology for Nursing Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320221",
+      "course_name_en": "Pharmacology for Nursing Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321225",
+      "course_name_en": "Physiology for Nursing Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "558211",
+      "course_name_en": "Laws and Ethics in Nursing and Midwifery Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses (Foundation of Profession)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551313",
+      "course_name_en": "Community Health Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551462",
+      "course_name_en": "Primary Medical Care",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552213",
+      "course_name_en": "Fundamentals of Nursing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552214",
+      "course_name_en": "Fundamentals of Nursing Practice in Laboratory",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "553313",
+      "course_name_en": "Gerontological Nursing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554315",
+      "course_name_en": "Maternal-Newborn Nursing and Midwifery 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554414",
+      "course_name_en": "Maternal-Newborn Nursing and Midwifery 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "555211",
+      "course_name_en": "Pediatric and Adolescent Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "556312",
+      "course_name_en": "Psychiatric and Mental Health Nursing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "558101",
+      "course_name_en": "Introduction to Nursing Profession",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "558241",
+      "course_name_en": "Nursing Leadership and Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "558433",
+      "course_name_en": "Nursing Research and Research Statistics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "561211",
+      "course_name_en": "Adult Nursing 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "561322",
+      "course_name_en": "Adult Nursing 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "562221",
+      "course_name_en": "Nursing Process and Health Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "562411",
+      "course_name_en": "Nursing Innovation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Theory Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551493",
+      "course_name_en": "Community Nursing Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551496",
+      "course_name_en": "Primary Medical Care Practicum",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552292",
+      "course_name_en": "Fundamental Nursing Practicum",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "553391",
+      "course_name_en": "Gerontological Nursing Practicum",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554393",
+      "course_name_en": "Maternal-Newborn Nursing and Midwifery Practicum 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554495",
+      "course_name_en": "Maternal-Newborn Nursing and Midwifery Practicum 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "555395",
+      "course_name_en": "Pediatric and Adolescent Nursing Practicum",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "556392",
+      "course_name_en": "Psychiatric and Mental Health Nursing Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "561395",
+      "course_name_en": "Adult and Gerontological Nursing Practicum 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "561396",
+      "course_name_en": "Adult and Gerontological Nursing Practicum 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "561492",
+      "course_name_en": "Adult and Gerontological Nursing Practicum 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Practicum Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551483",
+      "course_name_en": "Community Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "553483",
+      "course_name_en": "Medical Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554483",
+      "course_name_en": "Obstetrics and Gynecology Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "555483",
+      "course_name_en": "Pediatric Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "556483",
+      "course_name_en": "Psychiatric and Mental Health Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "557483",
+      "course_name_en": "Surgical Nursing Leadership Practicum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group A - Nursing Leadership Practicum)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "551484",
+      "course_name_en": "Community Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "553484",
+      "course_name_en": "Medical Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "554484",
+      "course_name_en": "Obstetrics and Gynecology Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "555484",
+      "course_name_en": "Pediatric Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "556484",
+      "course_name_en": "Psychiatric and Mental Health Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "557484",
+      "course_name_en": "Surgical Nursing Professional Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Elective Courses (Group B - Nursing Professional Internship)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

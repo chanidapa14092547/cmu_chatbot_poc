@@ -1,0 +1,477 @@
+{
+  "program_name": "Bachelor of Fine Arts Program in Performing Arts",
+  "major_tracks": ["None"],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001222",
+      "course_name_en": "ENGL 222 English for Fine Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "HUGE 104 Man and the Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "HUGE 106 Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "EDCI 101 Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "EDCI 201 Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "MC 103 Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "DF 100 Introduction to Film",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "EDPE 137 Sports for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "HORT 202 Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "MC 100 Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "DIN 104 Introduction to Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "FAGE 118 Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "ANI 100 Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "ARCT 100 Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "PHIL 100 Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "101201",
+      "course_name_en": "CART 201 Western Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "101205",
+      "course_name_en": "CART 205 Eastern Art History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103112",
+      "course_name_en": "DART 112 Western Theatre and Drama",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103191",
+      "course_name_en": "DART 191 Introduction to Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103211",
+      "course_name_en": "DART 211 Introduction to the Art of Theatre Production and Stage Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103215",
+      "course_name_en": "DART 215 Asian Theatre and Drama",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103225",
+      "course_name_en": "DART 225 Costume and Makeup for Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103251",
+      "course_name_en": "DART 251 Introduction to Western Music",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103272",
+      "course_name_en": "DART 272 Music in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103291",
+      "course_name_en": "DART 291 Lanna Cultural Geographies of the Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103111",
+      "course_name_en": "DART 111 The Ecology of Theatre",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103221",
+      "course_name_en": "DART 221 Voice Projection and Acting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103311",
+      "course_name_en": "DART 311 Space Design for Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103313",
+      "course_name_en": "DART 313 The Interdisciplinary Studies in Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103323",
+      "course_name_en": "DART 323 Body Movements in Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103363",
+      "course_name_en": "DART 363 Performing Arts with New Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103372",
+      "course_name_en": "DART 372 World Music Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103373",
+      "course_name_en": "DART 373 Music and Sound for Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103391",
+      "course_name_en": "DART 391 Research Methodology in Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103452",
+      "course_name_en": "DART 452 Aesthetics in Music and Performance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103491",
+      "course_name_en": "DART 491 Seminar in Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103493",
+      "course_name_en": "DART 493 Individual Study in Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103494",
+      "course_name_en": "DART 494 Performing Arts and Production Thesis 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103495",
+      "course_name_en": "DART 495 Performing Arts and Production Thesis 2",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103201",
+      "course_name_en": "DART 201 The Art of Asian Puppetry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103222",
+      "course_name_en": "DART 222 Thai Dance and Drama",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103262",
+      "course_name_en": "DART 262 Vocal and Chorus",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103273",
+      "course_name_en": "DART 273 Lanna Music",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103312",
+      "course_name_en": "DART 312 Asian Dance in Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103321",
+      "course_name_en": "DART 321 Applied Performing Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103322",
+      "course_name_en": "DART 322 Basic Choreography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103324",
+      "course_name_en": "DART 324 Choreography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103326",
+      "course_name_en": "DART 326 Dance Therapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103331",
+      "course_name_en": "DART 331 The Art of Directing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103342",
+      "course_name_en": "DART 342 Lanna Dance and Drama",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103351",
+      "course_name_en": "DART 351 Music Composition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103354",
+      "course_name_en": "DART 354 Theatre for Children",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103371",
+      "course_name_en": "DART 371 Ethnomusicology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "103431",
+      "course_name_en": "DART 431 Art of Scriptwriting for Performance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": ["None"]
+    }
+  ]

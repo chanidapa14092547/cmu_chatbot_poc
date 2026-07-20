@@ -1,0 +1,1199 @@
+{
+  "program_name": "Bachelor of Science Program in Industrial Chemistry (2564)",
+  "major_tracks": [
+    "Plan 1 General Industrial Chemistry",
+    "Plan 2 Silicate Science and Technology"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203104",
+      "course_name_en": "General Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203107",
+      "course_name_en": "General Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203108",
+      "course_name_en": "General Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203235",
+      "course_name_en": "Analytical Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203288",
+      "course_name_en": "Analytical Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204102",
+      "course_name_en": "Intelligent Data Analysis: Survey of Techniques and Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206115",
+      "course_name_en": "Calculus for Natural Sciences 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206116",
+      "course_name_en": "Calculus for Natural Sciences 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207117",
+      "course_name_en": "Physics Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203222",
+      "course_name_en": "Physical Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203228",
+      "course_name_en": "Physical Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203331",
+      "course_name_en": "Instrumental Methods of Chemical Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203337",
+      "course_name_en": "Instrumental Methods of Chemical Analysis Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208346",
+      "course_name_en": "Statistics for Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209201",
+      "course_name_en": "Chemical Stoichiometry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209251",
+      "course_name_en": "Introduction to Ceramics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209271",
+      "course_name_en": "Unit Operations of Industrial Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209272",
+      "course_name_en": "Unit Operations of Industrial Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209301",
+      "course_name_en": "Industrial Process Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209302",
+      "course_name_en": "Industrial Process Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209303",
+      "course_name_en": "Characterization of Industrial Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209498",
+      "course_name_en": "Seminar in Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253303",
+      "course_name_en": "Environmental and Safety Management in Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255323",
+      "course_name_en": "Introduction to Quality Assurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209493",
+      "course_name_en": "Industrial Chemistry Training",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209497",
+      "course_name_en": "Special Problems in Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209494",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Requirement (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203203",
+      "course_name_en": "Organic Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203207",
+      "course_name_en": "Organic Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209270",
+      "course_name_en": "Transport Phenomena of Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209370",
+      "course_name_en": "Kinetic Chemistry and Chemical Reactor Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209375",
+      "course_name_en": "Unit Operations of Industrial Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209376",
+      "course_name_en": "Unit Operations of Industrial Chemistry 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209377",
+      "course_name_en": "Unit Operations of Industrial Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 1 General Industrial Chemistry)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209254",
+      "course_name_en": "Production of Conventional Ceramics in Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209351",
+      "course_name_en": "Silicate Science 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209352",
+      "course_name_en": "Silicate Science 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209358",
+      "course_name_en": "Drying and Firing Technology in Ceramic Processing",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209361",
+      "course_name_en": "Silicate Science Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209362",
+      "course_name_en": "Silicate Science Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209368",
+      "course_name_en": "Drying and Firing Technology in Ceramic Processing Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209455",
+      "course_name_en": "Glaze Technology and Ceramic Pigment",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209457",
+      "course_name_en": "Production Efficiency and Quality Enhancement of Ceramic Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209465",
+      "course_name_en": "Glaze Technology and Ceramic Pigment Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Requirement (Plan 2 Silicate Science and Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "110332",
+      "course_name_en": "Product Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203211",
+      "course_name_en": "Fundamental Inorganic Chemistry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203250",
+      "course_name_en": "Environmental Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203315",
+      "course_name_en": "Symmetry and Bonding",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203316",
+      "course_name_en": "Coordination and Organometallic Chemistry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203318",
+      "course_name_en": "Inorganic Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203323",
+      "course_name_en": "Physical Chemistry 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203324",
+      "course_name_en": "Physical Chemistry 4",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203327",
+      "course_name_en": "Physical Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203471",
+      "course_name_en": "Properties and Characterization of Polymeric Materials",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203474",
+      "course_name_en": "Reactions and Synthesis Methods of Polymers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203477",
+      "course_name_en": "Polymer Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203478",
+      "course_name_en": "Polymer Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206355",
+      "course_name_en": "Numerical Method",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208345",
+      "course_name_en": "Statistical Quality Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209203",
+      "course_name_en": "Introduction to Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209204",
+      "course_name_en": "Elementary Industrial Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209206",
+      "course_name_en": "Chemical Process Safety and Chemical Management for Industrial Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209252",
+      "course_name_en": "Constructional and Technical Ceramics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209253",
+      "course_name_en": "Production of Pottery",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209262",
+      "course_name_en": "Constructional and Technical Ceramics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209263",
+      "course_name_en": "Pottery Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209331",
+      "course_name_en": "Fuel and Fuel Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209332",
+      "course_name_en": "Fuel Analysis Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209341",
+      "course_name_en": "Petrochemical Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209382",
+      "course_name_en": "Polymeric Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209403",
+      "course_name_en": "Adsorption Technology for Water and Wastewater Treatment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209404",
+      "course_name_en": "Circular Water Technology for Chemical Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209405",
+      "course_name_en": "Chemical Process Design and Green Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209406",
+      "course_name_en": "Problem-Solving for Industrial Chemistry Using Software Package",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209422",
+      "course_name_en": "Metallurgical Chemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209424",
+      "course_name_en": "Corrosion and Corrosion Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209442",
+      "course_name_en": "Heterogeneous Catalysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209444",
+      "course_name_en": "Selected Topics in Petrochemicals and Petrochemical Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209451",
+      "course_name_en": "Silicate Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209452",
+      "course_name_en": "Advanced Ceramics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209453",
+      "course_name_en": "Refractory",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209454",
+      "course_name_en": "Science and Technology of Cement",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209456",
+      "course_name_en": "Glass and Enamel Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209461",
+      "course_name_en": "Silicate Technology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209462",
+      "course_name_en": "Advanced Ceramics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209463",
+      "course_name_en": "Refractory Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209464",
+      "course_name_en": "Science and Technology of Cement Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209466",
+      "course_name_en": "Glass and Enamel Technology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209471",
+      "course_name_en": "Chemical Plant Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209483",
+      "course_name_en": "Polymer Products Process Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209485",
+      "course_name_en": "Polymer Technology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "209486",
+      "course_name_en": "Textile Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210201",
+      "course_name_en": "Introduction to Materials Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254181",
+      "course_name_en": "Engineering Drawing for Non-Engineering Majors",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254383",
+      "course_name_en": "Energy Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254483",
+      "course_name_en": "Energy Conversion Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703244",
+      "course_name_en": "Production and Operations Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751443",
+      "course_name_en": "Industrial Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

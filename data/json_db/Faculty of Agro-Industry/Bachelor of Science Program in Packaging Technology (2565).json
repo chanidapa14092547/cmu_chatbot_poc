@@ -1,0 +1,659 @@
+{
+  "program_name": "Bachelor of Science Program in Packaging Technology (2565)",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057134",
+      "course_name_en": "Muscle Building with Weight Training",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057135",
+      "course_name_en": "Aerobic Exercise for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571113",
+      "course_name_en": "Maintaining the Equilibrium in Adolescent Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203236",
+      "course_name_en": "Quantitative Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203239",
+      "course_name_en": "Quantitative Analysis Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207123",
+      "course_name_en": "Physics for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207173",
+      "course_name_en": "Physics Laboratory for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254181",
+      "course_name_en": "Engineering Drawing for Non-Engineering Majors",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602120",
+      "course_name_en": "Preliminary Agro-Industrial Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602121",
+      "course_name_en": "Preliminary Agro-Industrial Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603101",
+      "course_name_en": "First Step to Packaging Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603211",
+      "course_name_en": "Principles of Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603231",
+      "course_name_en": "Packaging Standards and Regulations",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603321",
+      "course_name_en": "Materials in Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603322",
+      "course_name_en": "Natural Materials for Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603332",
+      "course_name_en": "Package Manufacturing Process",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603333",
+      "course_name_en": "Materials and Packages Testing",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603341",
+      "course_name_en": "Dynamics of Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603352",
+      "course_name_en": "Packaging Design 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603371",
+      "course_name_en": "Marketing in Packaging Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603396",
+      "course_name_en": "Research Methodology in Packaging Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603421",
+      "course_name_en": "Flexible Packaging Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603423",
+      "course_name_en": "Biopolymer for Packaging Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603441",
+      "course_name_en": "Packaging Machinery",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603453",
+      "course_name_en": "Packaging Design 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603462",
+      "course_name_en": "Packaging Printing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603465",
+      "course_name_en": "Packaging for Food",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603471",
+      "course_name_en": "Packaging Process Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603493",
+      "course_name_en": "Industrial Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements - Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603497",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603499",
+      "course_name_en": "Research Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements - Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603498",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major Requirements - Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603422",
+      "course_name_en": "Adhesives in Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603424",
+      "course_name_en": "Composite Materials for Packaging Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603425",
+      "course_name_en": "Nanotechnology for Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603494",
+      "course_name_en": "Selected Topics in Packaging Technology 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603495",
+      "course_name_en": "Selected Topics in Packaging Technology 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603496",
+      "course_name_en": "Selected Topics in Packaging Technology 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605332",
+      "course_name_en": "Role of Consumer in Product Development System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+  "program_name": "Bachelor of Education Program in Industry and Career (2568)",
+  "major_tracks": [
+    "Industrial Major",
+    "Career Major"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050101",
+      "course_name_en": "Lan Na Perspective in the 21st Century",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050113",
+      "course_name_en": "Locality in Globalization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140106",
+      "course_name_en": "Sustainable Development Goals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140107",
+      "course_name_en": "Anti-corruption Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154142",
+      "course_name_en": "Climate Change and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955115",
+      "course_name_en": "Generative Artificial Intelligence for Digital Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "081201",
+      "course_name_en": "Philosophy of Vocational Education and Career",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Joint Major Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "081411",
+      "course_name_en": "Learning Management for Entrepreneurship in Modern Era for Industry and Career",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Joint Major Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "081421",
+      "course_name_en": "Human Resource Development for Industrial and Career Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Joint Major Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079260",
+      "course_name_en": "Skill Training for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079270",
+      "course_name_en": "Learning Management of Drawing and Reading in Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079373",
+      "course_name_en": "Learning Management of Wood Working Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079377",
+      "course_name_en": "Metal Working Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079379",
+      "course_name_en": "Engine Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079479",
+      "course_name_en": "Modern Automotive Technology Learning Management for Industrial Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079482",
+      "course_name_en": "Learning Management for Safety and Workshop Management in Educational Institution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079492",
+      "course_name_en": "Learning Management of Smart Grid in Modern Industry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079169",
+      "course_name_en": "Technical English Learning for Industrial Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079213",
+      "course_name_en": "Construction Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079220",
+      "course_name_en": "Thinking Skills for Learning in Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079268",
+      "course_name_en": "Learning Management of Production Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079375",
+      "course_name_en": "Electricity-Electronics Technology for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079488",
+      "course_name_en": "Development of Instructional Materials for Industrial Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079445",
+      "course_name_en": "Special Lecture for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079467",
+      "course_name_en": "Independent Study for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079490",
+      "course_name_en": "Pottery Innovation for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079383",
+      "course_name_en": "Principles and Development of Modern Industrial Education Curriculum",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079385",
+      "course_name_en": "Active Learning Management for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079412",
+      "course_name_en": "Teaching Computing Science in Secondary School Level",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079312",
+      "course_name_en": "Teaching Computing Science in Primary School Level",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079322",
+      "course_name_en": "Educational Quality Assurance for Industrial Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "079368",
+      "course_name_en": "Vocational Learning in the Modern Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Major / Educational Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006206",
+      "course_name_en": "Home Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006253",
+      "course_name_en": "Foundation of Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080411",
+      "course_name_en": "Leather and Imitation Leather for Occupations and Livelihoods",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356203",
+      "course_name_en": "Tropical Livestock Farming and Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363210",
+      "course_name_en": "Introduction to Plant Production and Soil Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703303",
+      "course_name_en": "Sustainable Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006126",
+      "course_name_en": "Introduction to Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080321",
+      "course_name_en": "Innovation and Information Technology for Career Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080412",
+      "course_name_en": "Learning Management in Innovations of Modern Electrical Appliances",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080421",
+      "course_name_en": "Infographic Design for Career Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353100",
+      "course_name_en": "Thai Rice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Academic Content Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052486",
+      "course_name_en": "Methodology of Career Learning for Competency Development of Elementary Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080481",
+      "course_name_en": "Learning Provision of Career Education for Competency Development of Secondary Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080482",
+      "course_name_en": "Artificial Intelligence in Modern Career Learning Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Educational Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080483",
+      "course_name_en": "Sustainable Environment and Energy Learning Management for Living and Family",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Educational Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "080484",
+      "course_name_en": "Career Learning Management Styles in the Future",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Career Major / Educational Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

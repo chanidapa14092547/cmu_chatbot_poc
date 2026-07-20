@@ -1,0 +1,758 @@
+{
+  "program_name": "Bachelor of Accountancy Program",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001228",
+      "course_name_en": "English for Business and Economics",
+      "course_name_th": "ภาษาอังกฤษสำหรับธุรกิจและเศรษฐศาสตร์",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิพากษ์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "ภาษาอังกฤษสำหรับข้อสอบมาตรฐาน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "การสื่อสารด้วยวาจาเป็นภาษาอังกฤษ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "การสำรวจทักษะการอ่านและการเขียน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "พื้นฐานการเขียนเรียงความอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": "ภาษาอังกฤษ วัฒนธรรม และจิตใจ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "การอ่านภาษาอังกฤษในสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "English Language in the Hotel Industry",
+      "course_name_th": "ภาษาอังกฤษในอุตสาหกรรมโรงแรม",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "English in the Tourism Industry",
+      "course_name_th": "ภาษาอังกฤษในอุตสาหกรรมท่องเที่ยว",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "English in the Airline Industry",
+      "course_name_th": "ภาษาอังกฤษในอุตสาหกรรมสายการบิน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": "ภาษาอังกฤษเพื่อการเดินทาง",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "อินเทอร์เน็ตและชุมชนออนไลน์ในยุคเอไอ",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "ความเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "706202",
+      "course_name_en": "Skills Development for the Future",
+      "course_name_th": "การพัฒนาทักษะแห่งอนาคต",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "ความรู้เบื้องต้นเกี่ยวกับผู้ประกอบการและธุรกิจ",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "การรู้สารสนเทศและการนำเสนอสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "ความรู้เบื้องต้นเกี่ยวกับวิทยาการข้อมูล",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "สังคีตนิยม",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "ชีวิตกับสุนทรียศาสตร์",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "การเมืองในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140103",
+      "course_name_en": "Anti-Corruption in Thailand",
+      "course_name_th": "การต่อต้านการทุจริตในประเทศไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140106",
+      "course_name_en": "Sustainable Development Goals",
+      "course_name_th": "เป้าหมายการพัฒนาที่ยั่งยืน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "การอนุรักษ์สิ่งแวดล้อม",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154142",
+      "course_name_en": "Climate Change and Society",
+      "course_name_th": "การเปลี่ยนแปลงสภาพภูมิอากาศกับสังคม",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "ภัยพิบัติในโลกยุคใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "โลกยุคใหม่ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "สิทธิและหน้าที่ของพลเมืองในยุคดิจิทัล",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "หลักการอนุรักษ์",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515101",
+      "course_name_en": "Radiation in Everyday Life",
+      "course_name_th": "รังสีในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "ชีวิตและสังคมผ่านสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "ปัญญาประดิษฐ์รอบตัวเรา",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "Generative Artificial Intelligence for Business Management",
+      "course_name_th": "ปัญญาประดิษฐ์เชิงสร้างสรรค์สำหรับการจัดการธุรกิจ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176220",
+      "course_name_en": "Fundamental Business Law",
+      "course_name_th": "กฎหมายธุรกิจขั้นพื้นฐาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "General Mathematics 1",
+      "course_name_th": "คณิตศาสตร์ทั่วไป 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208270",
+      "course_name_en": "Statistics in Social Sciences",
+      "course_name_th": "สถิติในสังคมศาสตร์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701101",
+      "course_name_en": "Elementary Accounting",
+      "course_name_th": "การบัญชีขั้นต้น",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702205",
+      "course_name_en": "Foundations of Economics for Business Administration",
+      "course_name_th": "พื้นฐานเศรษฐศาสตร์สำหรับบริหารธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702211",
+      "course_name_en": "Business Finance 1",
+      "course_name_th": "การเงินธุรกิจ 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702312",
+      "course_name_en": "Business Finance 2",
+      "course_name_th": "การเงินธุรกิจ 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": "หลักการจัดการและองค์การ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703244",
+      "course_name_en": "Production and Operations Management",
+      "course_name_th": "การจัดการการผลิตและการดำเนินงาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703309",
+      "course_name_en": "Strategic Management",
+      "course_name_th": "การจัดการเชิงกลยุทธ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "Communication for Business Results",
+      "course_name_th": "การสื่อสารเพื่อผลสัมฤทธิ์ทางธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "หลักการตลาด",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701201",
+      "course_name_en": "Intermediate Accounting 1",
+      "course_name_th": "การบัญชีขั้นกลาง 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701202",
+      "course_name_en": "Intermediate Accounting 2",
+      "course_name_th": "การบัญชีขั้นกลาง 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701211",
+      "course_name_en": "Cost Accounting",
+      "course_name_th": "การบัญชีต้นทุน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701244",
+      "course_name_en": "Taxation 1",
+      "course_name_th": "การภาษีอากร 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701313",
+      "course_name_en": "Managerial Accounting",
+      "course_name_th": "การบัญชีเพื่อการจัดการ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701321",
+      "course_name_en": "Auditing and Assurance Services",
+      "course_name_th": "การสอบบัญชีและการบริการให้ความเชื่อมั่น",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701322",
+      "course_name_en": "Internal Control and Internal Auditing",
+      "course_name_th": "การควบคุมภายในและการตรวจสอบภายใน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701331",
+      "course_name_en": "Accounting Information Systems",
+      "course_name_th": "ระบบสารสนเทศทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701335",
+      "course_name_en": "Software for Accountancy",
+      "course_name_th": "ซอฟต์แวร์สำหรับการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701342",
+      "course_name_en": "Taxation 2",
+      "course_name_th": "การภาษีอากร 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701401",
+      "course_name_en": "Advanced Accounting 1",
+      "course_name_th": "การบัญชีขั้นสูง 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701402",
+      "course_name_en": "Advanced Accounting 2",
+      "course_name_th": "การบัญชีขั้นสูง 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701403",
+      "course_name_en": "Financial Report and Analysis",
+      "course_name_th": "รายงานทางการเงินและการวิเคราะห์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701413",
+      "course_name_en": "Strategic Cost Management",
+      "course_name_th": "การจัดการต้นทุนเชิงกลยุทธ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701499",
+      "course_name_en": "Seminar in Accounting",
+      "course_name_th": "สัมมนาทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701490",
+      "course_name_en": "Professional Accounting Skills and Experience Internship",
+      "course_name_th": "การฝึกงานทักษะและประสบการณ์วิชาชีพบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701411",
+      "course_name_en": "Accounting Planning and Control",
+      "course_name_th": "การวางแผนและการควบคุมทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701421",
+      "course_name_en": "Auditing Problems",
+      "course_name_th": "ปัญหาการสอบบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701422",
+      "course_name_en": "Internal Control and Internal Audit Problems",
+      "course_name_th": "ปัญหาการควบคุมภายในและการตรวจสอบภายใน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701425",
+      "course_name_en": "Forensic Accounting",
+      "course_name_th": "การบัญชีนิติวิทยาศาสตร์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701436",
+      "course_name_en": "Analysis and Design of Accounting Information System",
+      "course_name_th": "การวิเคราะห์และการออกแบบระบบสารสนเทศทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701437",
+      "course_name_en": "Information Technology Audit and Control",
+      "course_name_th": "การตรวจสอบและการควบคุมเทคโนโลยีสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701450",
+      "course_name_en": "Accounting for Climate Change and Sustainability",
+      "course_name_th": "การบัญชีสำหรับการเปลี่ยนแปลงสภาพภูมิอากาศและความยั่งยืน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701451",
+      "course_name_en": "Corporate Governance",
+      "course_name_th": "การกำกับดูแลกิจการ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701454",
+      "course_name_en": "Research in Accounting",
+      "course_name_th": "วิจัยทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701455",
+      "course_name_en": "International Accounting",
+      "course_name_th": "การบัญชีระหว่างประเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701458",
+      "course_name_en": "Selected Topics in Accounting",
+      "course_name_th": "หัวข้อเฉพาะทางการบัญชี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

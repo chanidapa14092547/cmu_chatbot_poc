@@ -1,0 +1,1629 @@
+{
+  "program_name": "Bachelor of Engineering Program in Electrical Engineering and Smart Grid Technology (International Program) (2567)",
+  "major_tracks": [
+    "Project Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205100",
+      "course_name_en": "The Earth and its Geological Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356102",
+      "course_name_en": "Ornamental Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057123",
+      "course_name_en": "Volleyball for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259109",
+      "course_name_en": "Telecommunication in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359206",
+      "course_name_en": "Landscape, Environment, Behaviors, and Minds",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601212",
+      "course_name_en": "Nutrition for Contemporary Living",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259193",
+      "course_name_en": "Morality and Intelligence for Being a Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259195",
+      "course_name_en": "Managing Activities for Development",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206362",
+      "course_name_en": "Applied Differential Equation for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208150",
+      "course_name_en": "Probability and Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252202",
+      "course_name_en": "Mathematics and Computing for Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252201",
+      "course_name_en": "Electrical Measurements and Instruments",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252213",
+      "course_name_en": "Electric Circuit Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252222",
+      "course_name_en": "Electrical Machines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252236",
+      "course_name_en": "Electronic Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252301",
+      "course_name_en": "Engineering Stochastic Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252311",
+      "course_name_en": "Electromagnetic Fields and Waves",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252317",
+      "course_name_en": "Signal Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252325",
+      "course_name_en": "Power Generation, Transmission and Distribution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252336",
+      "course_name_en": "Digital Electronics and Microcontroller",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252342",
+      "course_name_en": "Principles of Communication Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252353",
+      "course_name_en": "Control Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252210",
+      "course_name_en": "Basic Electrical Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required (Basic of Electrical Engineering Laboratory)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252330",
+      "course_name_en": "Electronic Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required (Basic of Electrical Engineering Laboratory)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252340",
+      "course_name_en": "Basic Communication Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required (Basic of Electrical Engineering Laboratory)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252350",
+      "course_name_en": "Basic Electrical Power Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required (Basic of Electrical Engineering Laboratory)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252423",
+      "course_name_en": "Electrical Power System Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering (Power))",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252429",
+      "course_name_en": "Electrical System Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering (Power))",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252435",
+      "course_name_en": "Power Electronics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering (Power))",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252475",
+      "course_name_en": "Distributed Generation Technologies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Electrical Engineering (Power))",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252491",
+      "course_name_en": "Preliminary Study for Project Planning",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required (Integration of Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252494",
+      "course_name_en": "Capstone Design Project in Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required (Project Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252488",
+      "course_name_en": "Cooperative Education in Electrical Engineering",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252480",
+      "course_name_en": "Smart Grid Technology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Smart Grid Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252481",
+      "course_name_en": "Smart Grid Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Smart Grid Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252482",
+      "course_name_en": "Electrical Power System Operation and Control in Smart Grid",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Smart Grid Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252484",
+      "course_name_en": "Communication Networks for Smart Grid",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Smart Grid Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252485",
+      "course_name_en": "Artificial Intelligence and Internet of Things in Smart Grid",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Smart Grid Technology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252407",
+      "course_name_en": "Electrical Safety Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252408",
+      "course_name_en": "Electrical Energy Management and Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252420",
+      "course_name_en": "High Voltage Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252422",
+      "course_name_en": "Illumination Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252428",
+      "course_name_en": "High Voltage Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252470",
+      "course_name_en": "Electrical System Design Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252471",
+      "course_name_en": "Advanced Electrical System Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252472",
+      "course_name_en": "Building Information Modeling for Electrical Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Systems and Safety)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252421",
+      "course_name_en": "Power Plant and Substation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Power Systems Operation and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252425",
+      "course_name_en": "DC Power Transmission",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Power Systems Operation and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252426",
+      "course_name_en": "Power System Stability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Power Systems Operation and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252427",
+      "course_name_en": "Power System Protection",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electrical Power Systems Operation and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252430",
+      "course_name_en": "Electrical Power Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Electrical Power Systems Operation and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252320",
+      "course_name_en": "Electrical Machines Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252322",
+      "course_name_en": "Electrical Machines Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252326",
+      "course_name_en": "Electrical Energy Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252327",
+      "course_name_en": "Solar Electricity",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252328",
+      "course_name_en": "Solar Electricity Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252424",
+      "course_name_en": "Advanced Electrical Machinery",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252436",
+      "course_name_en": "Power Electronics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252476",
+      "course_name_en": "Fundamental of Power Quality",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252477",
+      "course_name_en": "Battery Technology and Energy Storage",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252478",
+      "course_name_en": "Electric Drives and Tractions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Power Electronics and Energy Conversion)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252302",
+      "course_name_en": "Orientation to Computational Intelligence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252401",
+      "course_name_en": "Optical Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252402",
+      "course_name_en": "Data Communications and Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252403",
+      "course_name_en": "Communication Network and Transmission Lines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252404",
+      "course_name_en": "Digital Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252405",
+      "course_name_en": "Mobile Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252406",
+      "course_name_en": "Broadband Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252413",
+      "course_name_en": "Digital Signal Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252414",
+      "course_name_en": "Applications of Digital Signal Processing Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252440",
+      "course_name_en": "Communication Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252442",
+      "course_name_en": "Radio Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252443",
+      "course_name_en": "Antenna Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252444",
+      "course_name_en": "Microwave",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252447",
+      "course_name_en": "Communication Electronics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252448",
+      "course_name_en": "Satellite Communications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Telecommunication and Digital Signal Processing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252412",
+      "course_name_en": "Network Synthesis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electronics and Internet of Things)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252433",
+      "course_name_en": "Pulse, Digital and Switching Circuits",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electronics and Internet of Things)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252461",
+      "course_name_en": "Embedded Systems and Communication Protocols for IoT",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electronics and Internet of Things)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252473",
+      "course_name_en": "Electrical Engineering Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electronics and Internet of Things)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252474",
+      "course_name_en": "Introduction to CMOS VLSI Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Electronics and Internet of Things)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252450",
+      "course_name_en": "Control System Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective (Control Systems and Instrumentation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252455",
+      "course_name_en": "Modern Control System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Control Systems and Instrumentation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252456",
+      "course_name_en": "Mechatronics and Industrial Automation for Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Control Systems and Instrumentation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252400",
+      "course_name_en": "Electrical Engineering Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252492",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252409",
+      "course_name_en": "Advanced Topics in General Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252439",
+      "course_name_en": "Advanced Topics in Electronic Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252449",
+      "course_name_en": "Advanced Topics in Telecommunication Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252459",
+      "course_name_en": "Advanced Topics in Control System Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252479",
+      "course_name_en": "Advanced Topics in Electrical Material Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252489",
+      "course_name_en": "Advanced Topics in Electrical Power Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252495",
+      "course_name_en": "Special Topics in Electrical Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252496",
+      "course_name_en": "Special Topics in Electrical Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252497",
+      "course_name_en": "Special Topics in Electrical Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252498",
+      "course_name_en": "Special Topics in Electrical Engineering 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

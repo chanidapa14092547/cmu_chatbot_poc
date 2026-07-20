@@ -1,0 +1,780 @@
+{
+  "program_name": "Bachelor of Science Program in Marine Food Product Technology and Innovation (2565)",
+  "major_tracks": [
+    "Plan 1: Cooperative Education Plan",
+    "Plan 2: Practice in Research Plan",
+    "Plan 3: Practice in Simulated Business Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207123",
+      "course_name_en": "Physics for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207173",
+      "course_name_en": "Physics Laboratory for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255230",
+      "course_name_en": "Industrial Organization and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602122",
+      "course_name_en": "General Food Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602123",
+      "course_name_en": "General Food Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605332",
+      "course_name_en": "Role of Consumer in Product Development System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702100",
+      "course_name_en": "Introduction to Entrepreneurial Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601351",
+      "course_name_en": "Food Legislation and Standards",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606210",
+      "course_name_en": "Marine Food Products Entrepreneur",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606211",
+      "course_name_en": "Raw Materials for Marine Products",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606231",
+      "course_name_en": "Marine Product Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606242",
+      "course_name_en": "Packaging for Marine Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606243",
+      "course_name_en": "Unit Operations in Marine Product Technology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606246",
+      "course_name_en": "Marine Food Product Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606247",
+      "course_name_en": "Innovative Technologies in Marine Food Product Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606248",
+      "course_name_en": "Food Ingredients for Marine Products Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606260",
+      "course_name_en": "Marine Food Product Chemistry 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606264",
+      "course_name_en": "Marine Food Product Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606310",
+      "course_name_en": "Statistics and Experimental Design for Marine Products",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606311",
+      "course_name_en": "Design Thinking for Marine Food Product Business and Innovation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606312",
+      "course_name_en": "Business Model for Marine Food Product",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606313",
+      "course_name_en": "Project Proposal for Marine Food Products",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement (Plan 2 / Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606343",
+      "course_name_en": "Marine Product Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606344",
+      "course_name_en": "Treatment and Utilization of Waste from Marine Product Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606345",
+      "course_name_en": "Thermal and Cold Processes for Marine Food Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606362",
+      "course_name_en": "Nutrition of Seafoods",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606451",
+      "course_name_en": "Quality Analysis and Control in Marine Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606452",
+      "course_name_en": "Quality Management in Marine Product Industry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606480",
+      "course_name_en": "Pre-Cooperative Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement (Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606483",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Requirement (Plan 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606484",
+      "course_name_en": "Practice in Research for Marine Food Products",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Requirement (Plan 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606485",
+      "course_name_en": "Practice in Business for Marine Food Products",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Major Requirement (Plan 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606491",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606499",
+      "course_name_en": "Research Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255342",
+      "course_name_en": "Industrial Organization and Production Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255350",
+      "course_name_en": "Motion and Time Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255433",
+      "course_name_en": "System Analysis for Quality and Productivity Improvement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255434",
+      "course_name_en": "Logistic Engineering and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601353",
+      "course_name_en": "Food Safety and Sanitation for Food Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601362",
+      "course_name_en": "Functional Foods and Nutraceuticals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601423",
+      "course_name_en": "Fruit and Vegetable Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601428",
+      "course_name_en": "Dairy Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601468",
+      "course_name_en": "Lipids in Foods",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601469",
+      "course_name_en": "Carbohydrates in Foods",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606463",
+      "course_name_en": "Fish Oils and Fish Oil Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606464",
+      "course_name_en": "Fish Mince Product Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606465",
+      "course_name_en": "Marine Natural Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606466",
+      "course_name_en": "Supplementary Diets from Marine Resources",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606467",
+      "course_name_en": "Antioxidants in Food and Seafood",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606468",
+      "course_name_en": "Innovative Technology in Seafood Preservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606477",
+      "course_name_en": "Selected Topics in Marine Product Technology 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606478",
+      "course_name_en": "Selected Topics in Marine Product Technology 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606479",
+      "course_name_en": "Selected Topics in Marine Product Technology 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "Communication for Business Results",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703391",
+      "course_name_en": "Business Etiquette",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705453",
+      "course_name_en": "Marketing for Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

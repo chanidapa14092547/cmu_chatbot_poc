@@ -1,0 +1,1161 @@
+{
+  "program_name": "Bachelor of Science Program in Physics (2564)",
+  "major_tracks": [
+    "Plan 1 : Physics",
+    "Plan 2 : Physics with Minor",
+    "Plan 3 : Joint Physics and Materials Science",
+    "Plan 4 : Physics and Applications"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204101",
+      "course_name_en": "Introduction to Computer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "Calculus 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "Calculus 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206267",
+      "course_name_en": "Mathematical Methods 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207103",
+      "course_name_en": "Physics for Science Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207104",
+      "course_name_en": "Physics for Science Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207107",
+      "course_name_en": "Physics Laboratory for Science Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207108",
+      "course_name_en": "Physics Laboratory for Science Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206367",
+      "course_name_en": "Mathematical Methods 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206368",
+      "course_name_en": "Mathematical Methods 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207203",
+      "course_name_en": "Physics of Vibrations and Waves",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207208",
+      "course_name_en": "Thermodynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207215",
+      "course_name_en": "Physics Laboratory and Scientific Method 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207216",
+      "course_name_en": "Physics Laboratory and Scientific Method 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207302",
+      "course_name_en": "Fundamental Electronics",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207305",
+      "course_name_en": "Introduction to Electromagnetic Theory 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207306",
+      "course_name_en": "Modern Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207308",
+      "course_name_en": "Classical Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207310",
+      "course_name_en": "Computational Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207315",
+      "course_name_en": "Physics Laboratory and Scientific Method 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207316",
+      "course_name_en": "Physics Laboratory and Scientific Method 4",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207401",
+      "course_name_en": "Quantum Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207402",
+      "course_name_en": "Quantum Mechanics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207406",
+      "course_name_en": "Optical Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207408",
+      "course_name_en": "Statistical Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207415",
+      "course_name_en": "Introduction to Electromagnetic Theory 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207438",
+      "course_name_en": "Seminar in Physics",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207439",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207321",
+      "course_name_en": "Introduction to Atmospheric Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207323",
+      "course_name_en": "Air Pollution Meteorology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207348",
+      "course_name_en": "Spherical Astronomy and Solar System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207403",
+      "course_name_en": "Nuclear and Radiation Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207404",
+      "course_name_en": "Nuclear Physics and Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207405",
+      "course_name_en": "Nuclear Physics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207411",
+      "course_name_en": "Electronics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207412",
+      "course_name_en": "Electronics 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207413",
+      "course_name_en": "Methods of Theoretical Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207416",
+      "course_name_en": "Plasma Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207417",
+      "course_name_en": "Introduction to Observational Astronomy",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207419",
+      "course_name_en": "Stellar Astrophysics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207422",
+      "course_name_en": "Solid State Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207426",
+      "course_name_en": "Introduction to Molecular Spectroscopy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207436",
+      "course_name_en": "Atomic Spectra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207437",
+      "course_name_en": "Job Training",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207442",
+      "course_name_en": "The Physics of Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207443",
+      "course_name_en": "Applied Optics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207444",
+      "course_name_en": "Introduction to X-Ray Crystallography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207448",
+      "course_name_en": "Introduction to Astrophysics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207449",
+      "course_name_en": "Selected Topics in Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207455",
+      "course_name_en": "Physics and Technology of Particle Beam",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207458",
+      "course_name_en": "Fluid Dynamics for Physicists",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207467",
+      "course_name_en": "Fundamental Seismic Waves",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207481",
+      "course_name_en": "Introduction to Quantum Field Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207496",
+      "course_name_en": "General Radio Astronomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207497",
+      "course_name_en": "Cosmic Rays and Particle Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207498",
+      "course_name_en": "Optical Instrument Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207499",
+      "course_name_en": "Selected Topics in Astrophysics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210201",
+      "course_name_en": "Introduction to Materials Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210202",
+      "course_name_en": "Crystal Structure and Imperfections",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210205",
+      "course_name_en": "Materials Thermodynamics and Phase Equilibria",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210221",
+      "course_name_en": "Materials Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210251",
+      "course_name_en": "Mechanical, Thermal and Optical Properties of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203475",
+      "course_name_en": "Properties, Processing and Applications of Polymers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210206",
+      "course_name_en": "Phase Transformation and Phase Diagram",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210315",
+      "course_name_en": "Materials Characterization Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210331",
+      "course_name_en": "Composite Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210343",
+      "course_name_en": "Ceramics and Glasses",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210351",
+      "course_name_en": "Electrical and Magnetic Properties of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210355",
+      "course_name_en": "Semiconductor Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210383",
+      "course_name_en": "Metals and Alloys",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210474",
+      "course_name_en": "Workshop for Materials Science Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science Requirements (Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210408",
+      "course_name_en": "Selected Topics in Materials Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210424",
+      "course_name_en": "Crystallization and Crystal Growth",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210425",
+      "course_name_en": "Advanced Materials Processing and Non-Destructive Testing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210432",
+      "course_name_en": "Recycled Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210433",
+      "course_name_en": "Cements and Concrete",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210434",
+      "course_name_en": "Nanomaterials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210435",
+      "course_name_en": "Natural Fibers, Biopolymers and Biocomposites",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210436",
+      "course_name_en": "Biomaterials for Medical Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210445",
+      "course_name_en": "Fabrication and Applications of Advanced Ceramic Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210448",
+      "course_name_en": "Optical Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210453",
+      "course_name_en": "Electrical and Magnetic Materials and Devices",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210454",
+      "course_name_en": "Materials for High Temperature Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210462",
+      "course_name_en": "Materials Science of Thin Films",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210463",
+      "course_name_en": "Joining of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210464",
+      "course_name_en": "Advanced Surface Coating Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210465",
+      "course_name_en": "Surface and Interface Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210483",
+      "course_name_en": "Physical Metallurgy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210485",
+      "course_name_en": "Corrosion and Degradation of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

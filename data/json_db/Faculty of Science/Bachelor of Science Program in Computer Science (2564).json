@@ -1,0 +1,1050 @@
+{
+  "program_name": "Bachelor of Science Program in Computer Science",
+  "major_tracks": [
+    "Regular Plan",
+    "Co-operative Education Plan",
+    "Honors Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "ENGL 225 English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "SC 190 Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "SC 111 The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "HUGE 100 Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "EDHL 100 Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "ACC 181 Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "FINA 101 Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "PSY 110 Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "LAGE 100 Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "SC 114 Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "MGMT 103 Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "ECON 100 Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "MC 103 Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "ARCT 100 Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "ANI 100 Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "BIOL 101 Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "CHEM 103 General Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204111",
+      "course_name_en": "CS 111 Fundamentals of Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "MATH 111 Calculus 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "MATH 112 Calculus 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206183",
+      "course_name_en": "MATH 183 Discrete Structure",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "PHYS 187 Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208269",
+      "course_name_en": "STAT 269 Statistics for Computer Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204203",
+      "course_name_en": "CS 203 Computer Science Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204306",
+      "course_name_en": "CS 306 Ethics for Computer Professionals",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204212",
+      "course_name_en": "CS 212 Modern Application Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204271",
+      "course_name_en": "CS 271 Introduction to Artificial Intelligence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204321",
+      "course_name_en": "CS 321 Database Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204361",
+      "course_name_en": "CS 361 Software Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204451",
+      "course_name_en": "CS 451 Algorithm Design and Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204390",
+      "course_name_en": "CS 390 Computer Job Training",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204490",
+      "course_name_en": "CS 490 Research in Computer Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204114",
+      "course_name_en": "CS 114 Introduction to Object-oriented Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204232",
+      "course_name_en": "CS 232 Computer Networks and Protocols",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204252",
+      "course_name_en": "CS 252 Data Structures and Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204315",
+      "course_name_en": "CS 315 Organization of Programming Languages",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204341",
+      "course_name_en": "CS 341 Operating Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204231",
+      "course_name_en": "CS 231 Computer Organization and Architecture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204491",
+      "course_name_en": "CS 491 Independent Study 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Plan-specific Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204499",
+      "course_name_en": "CS 499 Independent Study 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Plan-specific Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204496",
+      "course_name_en": "CS 496 Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major / Plan-specific Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204497",
+      "course_name_en": "CS 497 Seminar in Computer Science",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Plan-specific Compulsory",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204311",
+      "course_name_en": "CS 311 Mobile Application Development Frameworks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204312",
+      "course_name_en": "CS 312 Simulation and Experience Reality Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204322",
+      "course_name_en": "CS 322 Advanced Database Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204325",
+      "course_name_en": "CS 325 System Analysis and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204333",
+      "course_name_en": "CS 333 Internet Application Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204335",
+      "course_name_en": "CS 335 Microcontroller and Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204355",
+      "course_name_en": "CS 355 Competitive Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204362",
+      "course_name_en": "CS 362 Object-oriented Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204363",
+      "course_name_en": "CS 363 Software Modeling and Requirements",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204364",
+      "course_name_en": "CS 364 Software Design and Implementation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204365",
+      "course_name_en": "CS 365 Human-computer Interaction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204371",
+      "course_name_en": "CS 371 Feature Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204381",
+      "course_name_en": "CS 381 Numerical Computation and Software",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204382",
+      "course_name_en": "CS 382 Computer Graphics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204383",
+      "course_name_en": "CS 383 Image Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204422",
+      "course_name_en": "CS 422 Data Warehousing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204423",
+      "course_name_en": "CS 423 Data Mining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204424",
+      "course_name_en": "CS 424 Ontology Design and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204425",
+      "course_name_en": "CS 425 Management Information System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204426",
+      "course_name_en": "CS 426 Data Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204432",
+      "course_name_en": "CS 432 Computer Network Design and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204435",
+      "course_name_en": "CS 435 Parallel Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204441",
+      "course_name_en": "CS 441 Concurrent Programming and Distributed System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204442",
+      "course_name_en": "CS 442 Compiler Construction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204443",
+      "course_name_en": "CS 443 Computer System Security",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204452",
+      "course_name_en": "CS 452 Theory of Computation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204453",
+      "course_name_en": "CS 453 Pattern Recognition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204454",
+      "course_name_en": "CS 454 Combinatorial Optimization Algorithms and Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204456",
+      "course_name_en": "CS 456 Machine Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204471",
+      "course_name_en": "CS 471 Artificial Intelligence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204472",
+      "course_name_en": "CS 472 Natural Language Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204481",
+      "course_name_en": "CS 481 Mathematical Programming and Software",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204482",
+      "course_name_en": "CS 482 Simulation and Modelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204483",
+      "course_name_en": "CS 483 Computer Vision",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204494",
+      "course_name_en": "CS 494 Selected Topics in Computer Science 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204495",
+      "course_name_en": "CS 495 Selected Topics in Computer Science 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206324",
+      "course_name_en": "MATH 324 Applied Linear Algebra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "MATH 325 Linear Algebra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206336",
+      "course_name_en": "MATH 336 Real Analysis 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206370",
+      "course_name_en": "MATH 370 Probability 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206428",
+      "course_name_en": "MATH 428 Coding Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206463",
+      "course_name_en": "MATH 463 Deterministic Optimization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206476",
+      "course_name_en": "MATH 476 Game theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206481",
+      "course_name_en": "MATH 481 Graph Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204712",
+      "course_name_en": "CS 712 Computer Systems and Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204713",
+      "course_name_en": "CS 713 Cloud Computing and Big Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204715",
+      "course_name_en": "CS 715 Intelligent Embedded System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204721",
+      "course_name_en": "CS 721 Data Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204725",
+      "course_name_en": "CS 725 Data Analytic and Machine Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204728",
+      "course_name_en": "CS 728 Data Manipulation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204732",
+      "course_name_en": "CS 732 Software Engineering:Theory and Application",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204735",
+      "course_name_en": "CS 735 Computation and Algorithms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204736",
+      "course_name_en": "CS 736 Software Process Improvement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204737",
+      "course_name_en": "CS 737 Software Quality Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204764",
+      "course_name_en": "CS 764 Artificial Intelligence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204779",
+      "course_name_en": "CS 779 SELECTED TOPICS IN COMPUTER SCIENCE",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204789",
+      "course_name_en": "CS 789 SELECTED TOPICS IN COMPUTER SCIENCE",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Elective (Honors Plan Only)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

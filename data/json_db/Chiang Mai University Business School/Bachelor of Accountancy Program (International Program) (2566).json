@@ -1,0 +1,518 @@
+{
+  "program_name": "Bachelor of Accountancy Program (International Program)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001228",
+      "course_name_en": "ENGL 228 English for Business and Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "SE 111 Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "MGMT 103 Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "706200",
+      "course_name_en": "BA 200 Skills for Socially Responsible Manager",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "LS 103 Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "STAT 101 Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "STAT 102 Statistical Reasoning and Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "PSY 110 Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "MGMT 322 Communication for Business Results",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176220",
+      "course_name_en": "LAGE 220 Fundamental Business Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "MATH 171 General Mathematics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701101",
+      "course_name_en": "ACC 101 Elementary Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702205",
+      "course_name_en": "FINA 205 Foundations of Economics for Business Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702211",
+      "course_name_en": "FINA 211 Business Finance 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702312",
+      "course_name_en": "FINA 312 Business Finance 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "MGMT 202 Principles of Management and Organization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703243",
+      "course_name_en": "MGMT 243 Applied Business Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703244",
+      "course_name_en": "MGMT 244 Production and Operations Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703309",
+      "course_name_en": "MGMT 309 Strategic Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "MKTG 211 Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701201",
+      "course_name_en": "ACC 201 Intermediate Accounting 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701202",
+      "course_name_en": "ACC 202 Intermediate Accounting 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701211",
+      "course_name_en": "ACC 211 Cost Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701244",
+      "course_name_en": "ACC 244 Taxation 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701313",
+      "course_name_en": "ACC 313 Managerial Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701321",
+      "course_name_en": "ACC 321 Auditing and Assurance Services",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701322",
+      "course_name_en": "ACC 322 Internal Control and Internal Auditing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701331",
+      "course_name_en": "ACC 331 Accounting Information Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701335",
+      "course_name_en": "ACC 335 Software for Accountancy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701342",
+      "course_name_en": "ACC 342 Taxation 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701401",
+      "course_name_en": "ACC 401 Advanced Accounting 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701402",
+      "course_name_en": "ACC 402 Advanced Accounting 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701403",
+      "course_name_en": "ACC 403 Financial Report and Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701413",
+      "course_name_en": "ACC 413 Strategic Cost Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701459",
+      "course_name_en": "ACC 459 Sustainability, Climate Change, and Corporate Governance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701499",
+      "course_name_en": "ACC 499 Seminar in Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701399",
+      "course_name_en": "ACC 399 Professional Internship in Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701411",
+      "course_name_en": "ACC 411 Accounting Planning and Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701421",
+      "course_name_en": "ACC 421 Auditing Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701422",
+      "course_name_en": "ACC 422 Internal Control and Internal Audit Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701425",
+      "course_name_en": "ACC 425 Forensic Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701436",
+      "course_name_en": "ACC 436 Analysis and Design of Accounting Information System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701437",
+      "course_name_en": "ACC 437 Information Technology Audit and Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701454",
+      "course_name_en": "ACC 454 Research in Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701455",
+      "course_name_en": "ACC 455 International Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701458",
+      "course_name_en": "ACC 458 Selected Topics in Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701494",
+      "course_name_en": "ACC 494 Accounting Project for Community Sustainability",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

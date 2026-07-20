@@ -1,0 +1,610 @@
+{
+  "program_name": "Bachelor of Arts Program in Digital Film (Bilingual Program)",
+  "major_tracks": [
+    "Film Studies",
+    "Film Administration",
+    "Visual Effects for Film"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852101",
+      "course_name_en": "Introduction to Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852104",
+      "course_name_en": "Basic Acting for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852105",
+      "course_name_en": "Digital Content Writing and Storytelling",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852202",
+      "course_name_en": "Basic Cinematography for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852203",
+      "course_name_en": "Lighting Techniques for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852206",
+      "course_name_en": "Basic Directing for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852207",
+      "course_name_en": "Communication Theories",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852315",
+      "course_name_en": "Digital Film Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951107",
+      "course_name_en": "Drawing for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951211",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951341",
+      "course_name_en": "Art Concept and Digital Creativity",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951344",
+      "course_name_en": "Sound Design in Animation and Multimedia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957106",
+      "course_name_en": "Introduction to Visual Effects",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957213",
+      "course_name_en": "Composite 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852205",
+      "course_name_en": "Screenwriting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852208",
+      "course_name_en": "Advanced Cinematography for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852301",
+      "course_name_en": "Experimental Film for Commercial Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852400",
+      "course_name_en": "Film Operation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852401",
+      "course_name_en": "Cooperative and Work Integrated Education for Digital Film 1",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852402",
+      "course_name_en": "Digital Film Production 1",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852403",
+      "course_name_en": "Cooperative and Work Integrated Education for Digital Film 2",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852404",
+      "course_name_en": "Digital Film Production 2",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852405",
+      "course_name_en": "Digital Film Seminar",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852411",
+      "course_name_en": "Film Analysis and Criticism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852422",
+      "course_name_en": "Production Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852431",
+      "course_name_en": "Film Editing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852432",
+      "course_name_en": "Music for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852311",
+      "course_name_en": "American Cinema",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852312",
+      "course_name_en": "European Cinema",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852313",
+      "course_name_en": "Asian Cinema",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852314",
+      "course_name_en": "Thai Cinema",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852317",
+      "course_name_en": "Film and Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852492",
+      "course_name_en": "Selected Topics in Film Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Studies Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852494",
+      "course_name_en": "Selected Topics in Modern Acting for Digital Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Shared Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852321",
+      "course_name_en": "Presentation for Film Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852323",
+      "course_name_en": "Law and Film Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852324",
+      "course_name_en": "Film Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852326",
+      "course_name_en": "Film Festival Organization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852327",
+      "course_name_en": "Film Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852493",
+      "course_name_en": "Selected Topics in Film Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Film Administration Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957311",
+      "course_name_en": "Producing Visual Effects",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957325",
+      "course_name_en": "Special Effects",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957332",
+      "course_name_en": "Matte Painting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957333",
+      "course_name_en": "Advanced Lighting and Rendering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957331",
+      "course_name_en": "Color Grading",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957335",
+      "course_name_en": "Two Dimensional Motion Tracking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957491",
+      "course_name_en": "Selected Topic in Visual Effects",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives (Visual Effects for Film Track)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

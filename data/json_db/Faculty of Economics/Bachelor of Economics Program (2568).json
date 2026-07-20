@@ -1,0 +1,1321 @@
+{
+  "program_name": "Bachelor of Economics Program",
+  "major_tracks": [
+    "Special Problem (Non-Minor)",
+    "Special Problem (with Minor)",
+    "Cooperative Education (Non-Minor)",
+    "Cooperative Education (with Minor)"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001228",
+      "course_name_en": "English for Business and Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "English Language in the Hotel Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "English in the Tourism Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "English in the Airline Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective (Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126101",
+      "course_name_en": "Introduction to International Relations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "General Mathematics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208271",
+      "course_name_en": "Elementary Statistics for Social Sciences 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701100",
+      "course_name_en": "Elementary Accounting 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751306",
+      "course_name_en": "Introduction to Communication in Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "Introduction to Law",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses - Law)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176220",
+      "course_name_en": "Fundamental Business Law",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses - Law)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001210",
+      "course_name_en": "Oral Expression 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001230",
+      "course_name_en": "Introduction to Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001231",
+      "course_name_en": "English Phonetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001250",
+      "course_name_en": "Introduction to Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001281",
+      "course_name_en": "English Language and Multicultures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001310",
+      "course_name_en": "Oral Expression 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013103",
+      "course_name_en": "General Psychology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154281",
+      "course_name_en": "Economic Geography and Spatial Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126324",
+      "course_name_en": "International Organizations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204102",
+      "course_name_en": "Intelligent Data Analysis: Survey of Techniques and Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206207",
+      "course_name_en": "Solid Analytic Geometry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206266",
+      "course_name_en": "Mathematics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208264",
+      "course_name_en": "Principles of Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208348",
+      "course_name_en": "Non-Parametric Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208383",
+      "course_name_en": "Industrial Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208384",
+      "course_name_en": "Statistics for Industrial Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252180",
+      "course_name_en": "Basic Renewable Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365201",
+      "course_name_en": "Natural Resources and Agroforestry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "Communication for Business Results",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851200",
+      "course_name_en": "Introduction to Integrated Marketing Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888121",
+      "course_name_en": "Digital Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954140",
+      "course_name_en": "Information Technology Literacy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751101",
+      "course_name_en": "Principles of Microeconomics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751102",
+      "course_name_en": "Principles of Macroeconomics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751209",
+      "course_name_en": "Introduction to Mathematical Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751301",
+      "course_name_en": "Microeconomic Theory 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751302",
+      "course_name_en": "Microeconomic Theory 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751304",
+      "course_name_en": "Economic Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751305",
+      "course_name_en": "Econometrics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751308",
+      "course_name_en": "Macroeconomic Theory 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751309",
+      "course_name_en": "Macroeconomic Theory 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751405",
+      "course_name_en": "Theory of Economic Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751408",
+      "course_name_en": "Research Methods in Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required - Special Problem Tracks)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751407",
+      "course_name_en": "Research Methods in Cooperative Education",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required - Cooperative Education Tracks)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751409",
+      "course_name_en": "Research Exercise in Current Economics Issues",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required - Special Problem Tracks)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751414",
+      "course_name_en": "Introduction to Applied Econometrics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751449",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major Required - Cooperative Education Tracks)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751326",
+      "course_name_en": "ASEAN Economy in the Global Economic Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751402",
+      "course_name_en": "Green Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751442",
+      "course_name_en": "Regional Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751446",
+      "course_name_en": "Economy of Thailand",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751454",
+      "course_name_en": "Behavioral Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751202",
+      "course_name_en": "History of Economic Thought",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751220",
+      "course_name_en": "Economic History",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751303",
+      "course_name_en": "Public Finance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751320",
+      "course_name_en": "International Business Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751321",
+      "course_name_en": "Community Economic Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751322",
+      "course_name_en": "International Political Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751323",
+      "course_name_en": "Modern Chinese Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751324",
+      "course_name_en": "Modern Indian Economy in the Global Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751325",
+      "course_name_en": "American Marketing Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751327",
+      "course_name_en": "ICT Economics and Telecommunications Policy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751328",
+      "course_name_en": "Economics of Environmental Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751330",
+      "course_name_en": "Money and Banking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751332",
+      "course_name_en": "Monetary Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751340",
+      "course_name_en": "Introduction to Agricultural Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751343",
+      "course_name_en": "Economic Analysis of Energy and Resource Markets",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751345",
+      "course_name_en": "Transportation Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751348",
+      "course_name_en": "Social Return on Investment Assessment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751401",
+      "course_name_en": "International Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751403",
+      "course_name_en": "Econometrics 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751411",
+      "course_name_en": "The Economics of European Economic Integration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751413",
+      "course_name_en": "Introduction to Input-Output Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751417",
+      "course_name_en": "Managerial Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751418",
+      "course_name_en": "Business Cycle Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751419",
+      "course_name_en": "Economic Theory and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751420",
+      "course_name_en": "International Finance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751421",
+      "course_name_en": "Economics of Investment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751422",
+      "course_name_en": "Technical Analysis for Investment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751424",
+      "course_name_en": "Economic Development of Developing Countries",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751425",
+      "course_name_en": "Economic Growth",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751427",
+      "course_name_en": "Economic Planning",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751428",
+      "course_name_en": "Political Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751437",
+      "course_name_en": "Tax System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751440",
+      "course_name_en": "Labor Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751441",
+      "course_name_en": "Economics of Water Resources",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751443",
+      "course_name_en": "Industrial Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751444",
+      "course_name_en": "Urban Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751445",
+      "course_name_en": "Natural Resource Allocation and Policy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751447",
+      "course_name_en": "Seminar in Current Economic Problems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751448",
+      "course_name_en": "Seminar in Global Investment Issues",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751451",
+      "course_name_en": "Health Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751452",
+      "course_name_en": "Economics of Climate Change",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751453",
+      "course_name_en": "Developing Application for Data Analytics in Economics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751455",
+      "course_name_en": "Economics of the Welfare State",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751471",
+      "course_name_en": "Economics of Decentralized Finance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751472",
+      "course_name_en": "Economics of Tokenomics and Non-Fungible Token",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

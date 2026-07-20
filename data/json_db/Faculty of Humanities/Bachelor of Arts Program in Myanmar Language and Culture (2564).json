@@ -1,0 +1,609 @@
+{
+  "program_name": "Bachelor of Arts Program in Myanmar Language and Culture",
+  "major_tracks": [
+    "Myanmar Language and Culture",
+    "Cooperative Education"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "Biology in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "Happy Life in Camping",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020101",
+      "course_name_en": "Fundamental Burmese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020102",
+      "course_name_en": "Fundamental Burmese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020211",
+      "course_name_en": "Reading and Writing in Burmese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020212",
+      "course_name_en": "Reading and Writing in Burmese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020231",
+      "course_name_en": "Speaking and Listening in Burmese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020232",
+      "course_name_en": "Speaking and Listening in Burmese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020251",
+      "course_name_en": "Burmese Grammar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020261",
+      "course_name_en": "History of Modern Myanmar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020371",
+      "course_name_en": "Selected Topics in Burmese Language and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020221",
+      "course_name_en": "History of Myanmar Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020311",
+      "course_name_en": "Reading and Writing in Burmese 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020333",
+      "course_name_en": "Speaking and Listening in Burmese 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020341",
+      "course_name_en": "Burmese Translation into Thai",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020342",
+      "course_name_en": "Thai Translation into Burmese",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020362",
+      "course_name_en": "Myanmar and ASEAN",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020363",
+      "course_name_en": "Myanmar Ethnicity",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020391",
+      "course_name_en": "Research Methodology in Burmese Language and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020412",
+      "course_name_en": "Reading and Writing in Burmese 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020434",
+      "course_name_en": "Speaking and Listening in Burmese 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020491",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020321",
+      "course_name_en": "Contemporary Myanmar Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020322",
+      "course_name_en": "Burmese Proverbs and Idioms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020324",
+      "course_name_en": "Myanmar Poetry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020351",
+      "course_name_en": "Foreign Languages in Burmese",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020421",
+      "course_name_en": "Masterpieces of Myanmar Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020422",
+      "course_name_en": "Ancient Myanmar Inscriptions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020464",
+      "course_name_en": "Myanmar Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020471",
+      "course_name_en": "Burmese for Business and Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020472",
+      "course_name_en": "Burmese in Songs and Films",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020473",
+      "course_name_en": "Burmese for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020474",
+      "course_name_en": "Selected Topics in Burmese Language for Careers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020481",
+      "course_name_en": "Teaching Burmese as a Foreign Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020490",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Cooperative Education Track",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+{
+  "program_name": "Bachelor of Education Program in Physics",
+  "major_tracks": [
+    "Physics"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154130",
+      "course_name_en": "Geo-Information in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359206",
+      "course_name_en": "Landscape, Environment, Behaviors, and Minds",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462131",
+      "course_name_en": "Health Media Literacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888108",
+      "course_name_en": "Smart Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064291",
+      "course_name_en": "Concepts in Mechanics for Secondary Level Teachers 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064292",
+      "course_name_en": "Concepts in Wave and Thermodynamics for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064391",
+      "course_name_en": "Concepts in Mechanics for Secondary Level Teachers 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064392",
+      "course_name_en": "Concepts in Electricity and Magnetism for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "Calculus 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "Calculus 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207103",
+      "course_name_en": "Physics for Science Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207104",
+      "course_name_en": "Physics for Science Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207107",
+      "course_name_en": "Physics Laboratory for Science Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207108",
+      "course_name_en": "Physics Laboratory for Science Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207203",
+      "course_name_en": "Physics of Vibrations and Waves",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207208",
+      "course_name_en": "Thermodynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207302",
+      "course_name_en": "Fundamental Electronics",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207305",
+      "course_name_en": "Introduction to Electromagnetic Theory 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207306",
+      "course_name_en": "Modern Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207308",
+      "course_name_en": "Classical Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064480",
+      "course_name_en": "Concepts in Earth Science and Astronomy for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064491",
+      "course_name_en": "Concepts in Atomic and Nuclear Physics for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064493",
+      "course_name_en": "Experimental Skills and Microcontroller for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206267",
+      "course_name_en": "Mathematical Methods 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206367",
+      "course_name_en": "Mathematical Methods 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207348",
+      "course_name_en": "Spherical Astronomy and Solar System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207401",
+      "course_name_en": "Quantum Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207402",
+      "course_name_en": "Quantum Mechanics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207403",
+      "course_name_en": "Nuclear and Radiation Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207405",
+      "course_name_en": "Nuclear Physics Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207406",
+      "course_name_en": "Optical Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207408",
+      "course_name_en": "Statistical Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207411",
+      "course_name_en": "Electronics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207412",
+      "course_name_en": "Electronics 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207415",
+      "course_name_en": "Introduction to Electromagnetic Theory 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207417",
+      "course_name_en": "Introduction to Observational Astronomy",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207419",
+      "course_name_en": "Stellar Astrophysics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207422",
+      "course_name_en": "Solid State Physics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207426",
+      "course_name_en": "Introduction to Molecular Spectroscopy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207436",
+      "course_name_en": "Atomic Spectra",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207442",
+      "course_name_en": "The Physics of Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207444",
+      "course_name_en": "Introduction to X-Ray Crystallography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207458",
+      "course_name_en": "Fluid Dynamics for Physicists",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207481",
+      "course_name_en": "Introduction to Quantum Field Theory",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064430",
+      "course_name_en": "Principles and Teaching Methods in Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064499",
+      "course_name_en": "Secondary Level Physics Teaching",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064429",
+      "course_name_en": "Independent Study in Science Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064431",
+      "course_name_en": "General Science Instruction for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064485",
+      "course_name_en": "Earth Science and Astronomy Teaching for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064492",
+      "course_name_en": "Secondary Level Physics Laboratory Equipment and Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

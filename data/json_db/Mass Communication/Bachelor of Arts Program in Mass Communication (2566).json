@@ -1,0 +1,870 @@
+{
+  "program_name": "Bachelor of Arts Program in Mass Communication (2566)",
+  "major_tracks": [
+    "Creative Media Production",
+    "Marketing Communication (Public Relations)",
+    "Marketing Communication (Advertising)"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951111",
+      "course_name_en": "Two Dimensional Animation Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "Philosophy of Happiness",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen - Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851104",
+      "course_name_en": "News and Current Affairs Reporting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851105",
+      "course_name_en": "Introduction to Communication and Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851108",
+      "course_name_en": "Introduction to Photograph, Digital Audio and Video",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851305",
+      "course_name_en": "Arts for Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851200",
+      "course_name_en": "Introduction to Integrated Marketing Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851202",
+      "course_name_en": "Creative Content Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851207",
+      "course_name_en": "Concepts and Theories of Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851213",
+      "course_name_en": "Introduction to Photography Production with Computer Software",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851214",
+      "course_name_en": "Introduction to Motion Picture Production with Computer Software",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851273",
+      "course_name_en": "Speech Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851314",
+      "course_name_en": "Data Visualization for Creative Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851241",
+      "course_name_en": "In-Depth News Reporting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851244",
+      "course_name_en": "Data Storytelling for Creative Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851261",
+      "course_name_en": "Principles of Entertainment Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851306",
+      "course_name_en": "Research for Creative Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851330",
+      "course_name_en": "Audio Media Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851335",
+      "course_name_en": "Variety Program Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851347",
+      "course_name_en": "News and Entertainment Program Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851363",
+      "course_name_en": "Personality Development for Expression",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851400",
+      "course_name_en": "Ethics and Laws of Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production / Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851404",
+      "course_name_en": "International News and Features",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851407",
+      "course_name_en": "Communication for Social Empowerment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production / Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851408",
+      "course_name_en": "Professional Internship",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Creative Media Production / Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851418",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Creative Media Production / Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851431",
+      "course_name_en": "Drama Video Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851447",
+      "course_name_en": "Creative Media Production Capstone Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Creative Media Production - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851201",
+      "course_name_en": "Photography for Mass Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851251",
+      "course_name_en": "Digital Marketing Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication Requirements / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851262",
+      "course_name_en": "Creative Storytelling",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851263",
+      "course_name_en": "Production Design for Dramatic Arts and Entertainment Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851264",
+      "course_name_en": "Entertainment Communication Script Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851302",
+      "course_name_en": "Media Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851303",
+      "course_name_en": "Lanna Culture Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851307",
+      "course_name_en": "Communication for Aging Population",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851308",
+      "course_name_en": "Crisis Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851309",
+      "course_name_en": "Media and the Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851342",
+      "course_name_en": "Feature Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851343",
+      "course_name_en": "Editorial and Article Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851344",
+      "course_name_en": "Journalistic Photography Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851345",
+      "course_name_en": "Economic News Reporting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851346",
+      "course_name_en": "News and Current Affairs Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851352",
+      "course_name_en": "Media Planning for Advertising and Public Relations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication Requirements / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851356",
+      "course_name_en": "Stakeholders Relationship Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851357",
+      "course_name_en": "Marketing Communication Ethics and Laws",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851359",
+      "course_name_en": "Communication for Customer Experience Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851360",
+      "course_name_en": "Introduction to Dramatic Arts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851361",
+      "course_name_en": "Presentation and Pitching",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851362",
+      "course_name_en": "Playwriting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851366",
+      "course_name_en": "Special Events Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851372",
+      "course_name_en": "Writing for Online Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851373",
+      "course_name_en": "Peace Journalism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851374",
+      "course_name_en": "Introduction to Political Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851376",
+      "course_name_en": "Communication with Sound and Music",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851402",
+      "course_name_en": "Public Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851462",
+      "course_name_en": "Cinematography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851252",
+      "course_name_en": "Creative Writing for Public Relations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Public Relations) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851353",
+      "course_name_en": "Media Design and Production Process for Marketing Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851354",
+      "course_name_en": "Public Relations Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Public Relations) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851405",
+      "course_name_en": "International Economic News and Features",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851451",
+      "course_name_en": "Public Relations Capstone Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Public Relations) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851368",
+      "course_name_en": "Advertising Photography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851421",
+      "course_name_en": "Television Commercial Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851253",
+      "course_name_en": "Creative Copywriting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Advertising) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851355",
+      "course_name_en": "Advertising Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Advertising) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851452",
+      "course_name_en": "Advertising Capstone Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Marketing Communication (Advertising) - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

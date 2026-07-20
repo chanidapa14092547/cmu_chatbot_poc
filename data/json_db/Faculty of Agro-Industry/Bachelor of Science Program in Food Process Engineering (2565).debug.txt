@@ -1,0 +1,640 @@
+{
+  "program_name": "Bachelor of Science Program in Food Process Engineering",
+  "major_tracks": [
+    "Plan I Regular Plan",
+    "Plan II Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Learner Person",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "620102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives / Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203226",
+      "course_name_en": "Physical Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203229",
+      "course_name_en": "Physical Chemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206208",
+      "course_name_en": "Calculus for Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207123",
+      "course_name_en": "Physics for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (Plan I)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207103",
+      "course_name_en": "Physics for Science Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (Plan II)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207173",
+      "course_name_en": "Physics Laboratory for Agro-Industry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "252282",
+      "course_name_en": "Fundamentals of Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "252283",
+      "course_name_en": "Basic Electrical Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "269181",
+      "course_name_en": "Foundations of Modern Information Systems and Technologies for Non-IT Majors",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "602120",
+      "course_name_en": "Preliminary Agro-Industrial Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "602121",
+      "course_name_en": "Preliminary Agro-Industrial Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "605314",
+      "course_name_en": "Experimental Design and Analysis for Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "253481",
+      "course_name_en": "Industrial Pollution Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "255442",
+      "course_name_en": "Data Mining in Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "601452",
+      "course_name_en": "Quality Control and Assurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "601453",
+      "course_name_en": "Quality Control and Assurance Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604101",
+      "course_name_en": "First Step to Food Process Engineering",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604201",
+      "course_name_en": "Food Process Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604211",
+      "course_name_en": "Organization and Operation Management in Food Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604245",
+      "course_name_en": "Data Management and Analysis for Food Process Engineering",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604311",
+      "course_name_en": "Material and Energy Balances in Food Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604312",
+      "course_name_en": "Food Process Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604313",
+      "course_name_en": "Food Process Engineering Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604314",
+      "course_name_en": "Physico-Chemical Properties of Agricultural Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604315",
+      "course_name_en": "Physico-Chemical Properties Laboratory of Agricultural Materials",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604351",
+      "course_name_en": "Calculation in Food Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604352",
+      "course_name_en": "Supply Chain Management in Food Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604411",
+      "course_name_en": "Food Process Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604412",
+      "course_name_en": "Food Process Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604414",
+      "course_name_en": "Food Processing Equipment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604415",
+      "course_name_en": "Food Process Engineering Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604416",
+      "course_name_en": "Food Process Engineering Laboratory 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604422",
+      "course_name_en": "Food Plant Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604423",
+      "course_name_en": "Productivity Improvement in Food Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604431",
+      "course_name_en": "Food Engineering Process Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604495",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Requirements (Plan II)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604497",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604499",
+      "course_name_en": "Research Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements (Plan I)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604441",
+      "course_name_en": "Extrusion Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604442",
+      "course_name_en": "Freeze Drying Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604443",
+      "course_name_en": "Membrane Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604444",
+      "course_name_en": "Integrated Technique-Based Food Dehydration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604445",
+      "course_name_en": "Basic Food Multiphysics Phenomena",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604446",
+      "course_name_en": "Extraction Techniques of Bioactive Compounds in Food Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604451",
+      "course_name_en": "Selected Topics in Food Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604452",
+      "course_name_en": "Selected Topics in Food Engineering 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604453",
+      "course_name_en": "Selected Topics in Food Engineering 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604454",
+      "course_name_en": "Subcritical and Supercritical Fluid Extraction in Food Industries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604455",
+      "course_name_en": "Implementation of Visual Basic for Applications Program for Enzyme Kinetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "604457",
+      "course_name_en": "Engineering of Solid State Fermentation Processes and Bioproducts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "606464",
+      "course_name_en": "Fish Mince Product Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": ["None"]
+    }
+  ]

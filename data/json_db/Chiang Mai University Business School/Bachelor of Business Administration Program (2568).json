@@ -1,0 +1,1800 @@
+{
+  "program_name": "Bachelor of Business Administration Program",
+  "major_tracks": [
+    "Finance and Banking",
+    "Management and Entrepreneurship",
+    "Marketing"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001228",
+      "course_name_en": "English for Business and Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "English Language in the Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "English in the Tourism Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "English in the Airline Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "706202",
+      "course_name_en": "Skills Development for the Future",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140103",
+      "course_name_en": "Anti-Corruption in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140106",
+      "course_name_en": "Sustainable Development Goals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154142",
+      "course_name_en": "Climate Change and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515101",
+      "course_name_en": "Radiation in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "Generative Artificial Intelligence for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective Courses / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176220",
+      "course_name_en": "Fundamental Business Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701101",
+      "course_name_en": "Elementary Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701287",
+      "course_name_en": "Introduction to Managerial Accounting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702205",
+      "course_name_en": "Foundations of Economics for Business Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702211",
+      "course_name_en": "Business Finance 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703204",
+      "course_name_en": "Business Ethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703243",
+      "course_name_en": "Applied Business Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703244",
+      "course_name_en": "Production and Operations Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "Communication for Business Results",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705212",
+      "course_name_en": "Introduction to Digital Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702341",
+      "course_name_en": "Quantitative Analysis in Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Plan I (Finance and Banking)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703345",
+      "course_name_en": "Quantitative Analysis for Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Plan III (Marketing)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702312",
+      "course_name_en": "Business Finance 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702316",
+      "course_name_en": "INVESTMENT ANALYSIS",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702318",
+      "course_name_en": "Bond Security Investment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702321",
+      "course_name_en": "Financial derivative markets",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702331",
+      "course_name_en": "Financial System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702343",
+      "course_name_en": "Financial Modelling and Analytics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702416",
+      "course_name_en": "Financial Planning and Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702431",
+      "course_name_en": "International Business Finance 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702443",
+      "course_name_en": "Research in Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702499",
+      "course_name_en": "Seminar in Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702313",
+      "course_name_en": "Personal Financial Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702314",
+      "course_name_en": "Financial Management for Small Business Firms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702317",
+      "course_name_en": "Insurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702319",
+      "course_name_en": "Working Capital Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702320",
+      "course_name_en": "Behavioral Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702324",
+      "course_name_en": "Mutual Funds and Pension Funds",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702351",
+      "course_name_en": "Credit Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702354",
+      "course_name_en": "Commercial Bank Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702399",
+      "course_name_en": "Professional Training in Finance and Banking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702401",
+      "course_name_en": "Investor Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702411",
+      "course_name_en": "Risk Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702412",
+      "course_name_en": "Investment Performance Measurement and Evaluation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702418",
+      "course_name_en": "Case Problems in Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702423",
+      "course_name_en": "Real Estate Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702441",
+      "course_name_en": "Financial Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702444",
+      "course_name_en": "Feasibility Study and Project Evaluation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702445",
+      "course_name_en": "Business Valuation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702451",
+      "course_name_en": "Sustainable Finance and Investment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702452",
+      "course_name_en": "Finance for Climate and Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702460",
+      "course_name_en": "Digital Asset Investment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702461",
+      "course_name_en": "Algorithm Trading",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702470",
+      "course_name_en": "Python for Financial Analysis and Investment Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702480",
+      "course_name_en": "Quantitative Finance with R",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702490",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702497",
+      "course_name_en": "Special Problem in Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Finance and Banking Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703305",
+      "course_name_en": "Business Project Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703308",
+      "course_name_en": "Business Organizational Behavior",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703309",
+      "course_name_en": "Strategic Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703311",
+      "course_name_en": "Information Systems for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703313",
+      "course_name_en": "Computer Applications for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703404",
+      "course_name_en": "Entrepreneurship and Small Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703414",
+      "course_name_en": "Creativity and Innovation Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703415",
+      "course_name_en": "Digital Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703447",
+      "course_name_en": "Research Methodology in Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703499",
+      "course_name_en": "Seminar in Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703302",
+      "course_name_en": "Organization Theory and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703303",
+      "course_name_en": "Sustainable Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703310",
+      "course_name_en": "Introduction to Business Computer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703314",
+      "course_name_en": "Robotic Process Automation for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703323",
+      "course_name_en": "Managerial and Leadership Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703324",
+      "course_name_en": "Business Reading and Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703330",
+      "course_name_en": "Meditation for Business Leaders",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703331",
+      "course_name_en": "Human Resource Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703342",
+      "course_name_en": "Quality Improvement Through 5S",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703351",
+      "course_name_en": "Hotel Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703352",
+      "course_name_en": "Introduction to Hospitality and Tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703353",
+      "course_name_en": "Health Service Organization Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703361",
+      "course_name_en": "International Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703362",
+      "course_name_en": "Cross Cultural Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703363",
+      "course_name_en": "Import and Export Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703391",
+      "course_name_en": "Business Etiquette",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703399",
+      "course_name_en": "Professional Training in Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703411",
+      "course_name_en": "Managing Intelligent Office",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703412",
+      "course_name_en": "Knowledge Management for Business Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703413",
+      "course_name_en": "Business Intelligence System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703416",
+      "course_name_en": "Data and Big Data Management for Business Analytics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703417",
+      "course_name_en": "Data Mining and Machine Learning with Visual Programming for Business Analytics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703431",
+      "course_name_en": "Human Resource Development in Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703433",
+      "course_name_en": "Business Negotiat",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703434",
+      "course_name_en": "Human Relations in Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703435",
+      "course_name_en": "Business Leadership",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703436",
+      "course_name_en": "Industrial Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703441",
+      "course_name_en": "Business Quality Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703442",
+      "course_name_en": "Business Process Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703443",
+      "course_name_en": "Lean Six Sigma for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703444",
+      "course_name_en": "Strategic Supply Chain Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703446",
+      "course_name_en": "Transportations Management for Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703454",
+      "course_name_en": "Spa Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703490",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703497",
+      "course_name_en": "Special Problem in Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703498",
+      "course_name_en": "Selected Topics in Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Management and Entrepreneurship Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705312",
+      "course_name_en": "Consumer Behavior in the Digital Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705313",
+      "course_name_en": "Market Offering and Value Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705314",
+      "course_name_en": "Integrated Marketing Communication and Distribution Strategy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705315",
+      "course_name_en": "Sales Funnel Optimization in the Digital Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705343",
+      "course_name_en": "Principles of Marketing Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705411",
+      "course_name_en": "Marketing Analytics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705412",
+      "course_name_en": "Framework for Strategic Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705413",
+      "course_name_en": "Application of Strategic Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705444",
+      "course_name_en": "Digital Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705499",
+      "course_name_en": "Seminar in Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705328",
+      "course_name_en": "Product Strategy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705329",
+      "course_name_en": "Pricing Strategy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705331",
+      "course_name_en": "Marketing Channels of Distribution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705332",
+      "course_name_en": "Marketing Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705341",
+      "course_name_en": "Marketing Environment Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705342",
+      "course_name_en": "Marketing Information System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705351",
+      "course_name_en": "Principles of Branding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705371",
+      "course_name_en": "Principles of Marketing Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705399",
+      "course_name_en": "Professional Training in Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705430",
+      "course_name_en": "Content Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705431",
+      "course_name_en": "Sales Management and Salesmanship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705432",
+      "course_name_en": "Influencer Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705433",
+      "course_name_en": "Advertising Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705436",
+      "course_name_en": "Integrated Marketing Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705437",
+      "course_name_en": "Sales Promotion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705438",
+      "course_name_en": "Marketing Public Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705439",
+      "course_name_en": "Business Exhibition and Trade Fair",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705440",
+      "course_name_en": "Social Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705441",
+      "course_name_en": "Global Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705442",
+      "course_name_en": "Service Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705445",
+      "course_name_en": "Business Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705446",
+      "course_name_en": "Tourism Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705447",
+      "course_name_en": "Hospitality Service Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705448",
+      "course_name_en": "Customer Relationship Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705451",
+      "course_name_en": "Strategic Branding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705452",
+      "course_name_en": "Marketing for New and Creative Product Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705453",
+      "course_name_en": "Marketing for Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705454",
+      "course_name_en": "Sustainability Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705455",
+      "course_name_en": "Seamless Customer Experience Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705456",
+      "course_name_en": "Storytelling Strategy for Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705457",
+      "course_name_en": "Consumer Listening",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705458",
+      "course_name_en": "Brand Experience Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705461",
+      "course_name_en": "Retail Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705462",
+      "course_name_en": "Supply Chain Management and Logistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705471",
+      "course_name_en": "Marketing Technology Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705490",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705497",
+      "course_name_en": "Special Problem in Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705498",
+      "course_name_en": "Selected Topics in Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Marketing Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

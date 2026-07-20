@@ -1,0 +1,729 @@
+{
+  "program_name": "Bachelor of Science Program in Product Development Technology",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461170",
+      "course_name_en": "Cosmetics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571103",
+      "course_name_en": "Friendship and Being Together",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203236",
+      "course_name_en": "Quantitative Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203239",
+      "course_name_en": "Quantitative Analysis Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211315",
+      "course_name_en": "Introductory Biochemistry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211319",
+      "course_name_en": "Introductory Biochemistry Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215207",
+      "course_name_en": "Introductory Microbiology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215208",
+      "course_name_en": "Introductory Microbiology Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603211",
+      "course_name_en": "Principles of Packaging",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605111",
+      "course_name_en": "Food Additives for Food Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605201",
+      "course_name_en": "Introduction to Agro-Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605203",
+      "course_name_en": "Agro-Industrial Product Regulations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605204",
+      "course_name_en": "Management of Raw Material Quality in Agro-Industrial Product Development",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605301",
+      "course_name_en": "Product Development Technology 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605302",
+      "course_name_en": "Product Development Technology 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605313",
+      "course_name_en": "Experimental Design in Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605316",
+      "course_name_en": "Experimental Analysis for Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605321",
+      "course_name_en": "Agro-Industrial Process Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605322",
+      "course_name_en": "Agro-Industrial Process Technology Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605331",
+      "course_name_en": "Sensory Evaluation of Agro-Industrial Products",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605332",
+      "course_name_en": "Role of Consumer in Product Development System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605341",
+      "course_name_en": "Functional and Nutritional Products",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605412",
+      "course_name_en": "Agro-Industrial Product Design 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605430",
+      "course_name_en": "Quality Analysis in Product Development",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605432",
+      "course_name_en": "Quality Planning in Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605444",
+      "course_name_en": "Marketing for Agro-Industrial Product Development",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605445",
+      "course_name_en": "Agro-Industrial Management",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605447",
+      "course_name_en": "Entrepreneurship for Agro-Industrial Product Start-Up",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605476",
+      "course_name_en": "Shelf Life Evaluation of Food Products",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605491",
+      "course_name_en": "Research Project 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605492",
+      "course_name_en": "Research Project 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Regular Plan - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605496",
+      "course_name_en": "Seminar in Product Development Technology 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605497",
+      "course_name_en": "Seminar in Product Development Technology 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Regular Plan - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605495",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "10",
+      "category_or_track": "Cooperative Education Plan - Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605340",
+      "course_name_en": "Dessert Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605413",
+      "course_name_en": "Agro-Industrial Product Design 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605456",
+      "course_name_en": "Starch Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605459",
+      "course_name_en": "Selected Topics in Non-Food Product Development Technology 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605460",
+      "course_name_en": "Flavor for Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605461",
+      "course_name_en": "Hydrocolloids and Applications in Food Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605471",
+      "course_name_en": "Nutritional Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605475",
+      "course_name_en": "Indigenous Food Product Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605477",
+      "course_name_en": "Selected Topics in Food Product Development Technology 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605478",
+      "course_name_en": "Selected Topics in Food Product Development Technology 2",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605479",
+      "course_name_en": "Selected Topics in Food Product Development Technology 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605494",
+      "course_name_en": "Work Training",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

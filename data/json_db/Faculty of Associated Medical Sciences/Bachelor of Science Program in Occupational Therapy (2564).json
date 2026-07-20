@@ -1,0 +1,778 @@
+{
+  "program_name": "Bachelor of Science Program in Occupational Therapy (2564)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057123",
+      "course_name_en": "Volleyball for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057135",
+      "course_name_en": "Aerobic Exercise for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515101",
+      "course_name_en": "Radiation in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Co-creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208140",
+      "course_name_en": "Elementary Statistics for Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301208",
+      "course_name_en": "Anatomy of Upper and Lower Extremities and Vertebral Column",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301233",
+      "course_name_en": "Basic Anatomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301234",
+      "course_name_en": "Basic Neuroanatomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "305202",
+      "course_name_en": "Psychiatry for Occupational Therapy and Physical Therapy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "310331",
+      "course_name_en": "General Surgery for Occupational Therapy Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321232",
+      "course_name_en": "Physiology for Physical Therapy Students and Occupational Therapy Students",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "323331",
+      "course_name_en": "Orthopaedics for Occupational Therapy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "328314",
+      "course_name_en": "Rehabilitation Medicine for Occupational Therapy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552222",
+      "course_name_en": "Principles of Nursing Care for O.T. and P.T. Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513116",
+      "course_name_en": "Fundamental Theory, Principle and Conceptual Framework in Occupational Therapy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513117",
+      "course_name_en": "Human Development and Performance Across the Life span",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513120",
+      "course_name_en": "Occupation and Legitimate Tools in Occupational Therapy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513226",
+      "course_name_en": "Clinical Evaluation in Occupational Therapy 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513227",
+      "course_name_en": "Clinical Evaluation in Occupational Therapy 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513228",
+      "course_name_en": "Applied Biomechanics in Occupational Therapy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513271",
+      "course_name_en": "Diseases and Impairment in Children and Occupational Performance",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513285",
+      "course_name_en": "Fundamental Principle of Occupational Therapy in Mental Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513286",
+      "course_name_en": "Occupational Therapy Approaches in Mental Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513312",
+      "course_name_en": "Occupational Therapy for Persons with Communication Disorder",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513313",
+      "course_name_en": "Neurosciences and Occupational Performance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513321",
+      "course_name_en": "Activities of Daily Living Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513322",
+      "course_name_en": "Orthoses and Assistive Technology in Occupational Therapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513332",
+      "course_name_en": "Fundamentals of Research Methodology for Occupational Therapy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513333",
+      "course_name_en": "Occupational Therapy Journal Club",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513344",
+      "course_name_en": "Occupational Therapy Fieldwork 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513345",
+      "course_name_en": "Occupational Therapy Fieldwork 2",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513365",
+      "course_name_en": "Occupational Therapy in Neurological Conditions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513366",
+      "course_name_en": "Occupational Therapy in Orthopeadic and Medical Conditions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513374",
+      "course_name_en": "Occupational Therapy Evaluation in Children",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513375",
+      "course_name_en": "Occupational Therapy Interventions for Children",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513393",
+      "course_name_en": "Occupational Therapy for the Elderly",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513413",
+      "course_name_en": "Occupational Therapy Administration and Ethics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513421",
+      "course_name_en": "Clinical Reasoning in Occupational Therapy Practice",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513435",
+      "course_name_en": "Proposal Development of Occupational Therapy Research",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513436",
+      "course_name_en": "Research in Occupational Therapy",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513447",
+      "course_name_en": "Occupational Therapy Fieldwork 3",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513448",
+      "course_name_en": "Occupational Therapy Fieldwork 4",
+      "course_name_th": "",
+      "credits": "7",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513452",
+      "course_name_en": "Occupational Therapy in Community Setting",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513453",
+      "course_name_en": "Occupational Therapy in Educational Settings",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510351",
+      "course_name_en": "Inter-professional Healthcare",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513314",
+      "course_name_en": "The Science and Art of Play",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513316",
+      "course_name_en": "Applied Electroencephalography in Occupational Therapy Research",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513367",
+      "course_name_en": "Rehabilitative Technology in Occupational Therapy Practice for Individuals with Physical Dysfunction",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513376",
+      "course_name_en": "Occupational Therapy Intervention for Children with Learning Disabilities",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513394",
+      "course_name_en": "Healthy Lifestyle to Active Ageing",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

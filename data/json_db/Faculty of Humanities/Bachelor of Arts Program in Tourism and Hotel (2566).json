@@ -1,0 +1,898 @@
+{
+  "program_name": "Bachelor of Arts Program in Tourism and Hotel (2566)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008213",
+      "course_name_en": "Introduction to Tourism Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008220",
+      "course_name_en": "Introduction to Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008225",
+      "course_name_en": "Service Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008230",
+      "course_name_en": "Religions and Thai Local Wisdoms for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008232",
+      "course_name_en": "Tourism Resources and Thai Heritage",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008304",
+      "course_name_en": "Tourist Behavior",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008314",
+      "course_name_en": "Human Resource Management in Tourism and Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008402",
+      "course_name_en": "Information Technology for Tourism and Hotel",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008260",
+      "course_name_en": "Introduction to Aviation Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008303",
+      "course_name_en": "Logistics for Tourism Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008310",
+      "course_name_en": "Tour Management and Tour Guide",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008312",
+      "course_name_en": "Tourism and Hotel Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008318",
+      "course_name_en": "Meeting, Incentive, Convention and Exhibition Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008322",
+      "course_name_en": "International Hotel Chain Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008417",
+      "course_name_en": "Airline Reservation System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008418",
+      "course_name_en": "Sustainable Tourism Development Planning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008422",
+      "course_name_en": "Strategic Management for Tourism and Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008443",
+      "course_name_en": "Tourism and Hotel Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008449",
+      "course_name_en": "Seminar in Tourism and Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirement)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008202",
+      "course_name_en": "Service Quality",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008214",
+      "course_name_en": "Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008215",
+      "course_name_en": "Pop-Culture Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008216",
+      "course_name_en": "Creative Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008217",
+      "course_name_en": "Interpretation of Tourist Attraction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008218",
+      "course_name_en": "Community-Based Tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008219",
+      "course_name_en": "Cabin Crew Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008223",
+      "course_name_en": "Hotel Environment and Facility Planning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008224",
+      "course_name_en": "Hotel Club and Fitness Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008234",
+      "course_name_en": "Tourism in ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008235",
+      "course_name_en": "World Civilization for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008313",
+      "course_name_en": "Special Interest Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008315",
+      "course_name_en": "Cultural Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008320",
+      "course_name_en": "Accommodation Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008321",
+      "course_name_en": "Restaurant Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008323",
+      "course_name_en": "Front Office Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008324",
+      "course_name_en": "Housekeeping Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008325",
+      "course_name_en": "Food and Beverage Service",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008326",
+      "course_name_en": "Beverage and Bar Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008327",
+      "course_name_en": "Event Planning and Catering Services in Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008328",
+      "course_name_en": "Introduction to Wine",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008351",
+      "course_name_en": "Tourism Event Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008354",
+      "course_name_en": "Personality Development and Hospitality Etiquette",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008355",
+      "course_name_en": "Spa Business and Holistic Health for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008421",
+      "course_name_en": "Food and Beverage Cost Control in Hotel",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008423",
+      "course_name_en": "Customer Experience Management in Hospitality Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008424",
+      "course_name_en": "Entrepreneurship for Tourism and Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008455",
+      "course_name_en": "Innovation for Tourism and Hotel",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008456",
+      "course_name_en": "Festival Event Operation for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Specialized Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001291",
+      "course_name_en": "English for Hospitality Services",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001292",
+      "course_name_en": "English for Hotel Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001293",
+      "course_name_en": "English for Tourism Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001294",
+      "course_name_en": "English for Airline Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008452",
+      "course_name_en": "English for Meeting, Incentive, Convention and Exhibition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019105",
+      "course_name_en": "Chinese in Daily Life 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019106",
+      "course_name_en": "Chinese in Daily Life 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019205",
+      "course_name_en": "Chinese in Daily Life 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019371",
+      "course_name_en": "Chinese for Hotels 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019372",
+      "course_name_en": "Basic Chinese for Office",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019373",
+      "course_name_en": "Chinese for Tour Guide",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Chinese)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026103",
+      "course_name_en": "Korean in Daily Life 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026104",
+      "course_name_en": "Korean in Daily Life 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026203",
+      "course_name_en": "Korean in Daily Life 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026204",
+      "course_name_en": "Korean in Daily Life 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026252",
+      "course_name_en": "Basic Korean for Office",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026351",
+      "course_name_en": "Korean for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Elective - Foreign Language - Korean Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "008442",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Experience career course",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

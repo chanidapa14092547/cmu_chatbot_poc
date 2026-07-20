@@ -1,0 +1,425 @@
+{
+  "program_name": "Bachelor of Arts Program (2566)",
+  "major_tracks": [
+    "Indian Languages and Cultures Major",
+    "Korean Language and Culture Major",
+    "German Language and Culture Major",
+    "Thai Major",
+    "History Major",
+    "Philosophy Major",
+    "Chinese Major",
+    "Japanese Language and Culture Major"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Learner Person / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011157",
+      "course_name_en": "Social Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048110",
+      "course_name_en": "Language and Humanities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048120",
+      "course_name_en": "Literature and Humanities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048130",
+      "course_name_en": "Humans and History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048140",
+      "course_name_en": "Ways of Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048150",
+      "course_name_en": "Ways of Reading",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017103",
+      "course_name_en": "Reading, Writing and Typing Devanagari Script",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017104",
+      "course_name_en": "Hindi Grammar 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017205",
+      "course_name_en": "Hindi Grammar 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "016101",
+      "course_name_en": "Beginning Sanskrit 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017211",
+      "course_name_en": "Hindi Reading and Writing 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017220",
+      "course_name_en": "Introduction to Hindi Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017361",
+      "course_name_en": "Introduction to Indian Society and Culture 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Indian Languages and Cultures Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026101",
+      "course_name_en": "Korean 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Korean Language and Culture Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026102",
+      "course_name_en": "Korean 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Korean Language and Culture Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026111",
+      "course_name_en": "Korean Listening and Speaking 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Korean Language and Culture Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026211",
+      "course_name_en": "Korean Reading and Writing 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Korean Language and Culture Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003101",
+      "course_name_en": "Fundamental German 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "German Language and Culture Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003111",
+      "course_name_en": "Basic German Grammar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "German Language and Culture Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "014210",
+      "course_name_en": "Aspects of Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Thai Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "014270",
+      "course_name_en": "Literary Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Thai Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "014211",
+      "course_name_en": "Pali-Sanskrit in Thai",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Thai Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004171",
+      "course_name_en": "A Survey of Thai History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "History Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004214",
+      "course_name_en": "History of the Western World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "History Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011104",
+      "course_name_en": "Survey on Western Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Philosophy Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011251",
+      "course_name_en": "Logic",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Philosophy Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019104",
+      "course_name_en": "Chinese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Chinese Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019204",
+      "course_name_en": "Chinese 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Chinese Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018103",
+      "course_name_en": "Japanese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Japanese Language and Culture Major / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018203",
+      "course_name_en": "Intermediate Japanese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Japanese Language and Culture Major / Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

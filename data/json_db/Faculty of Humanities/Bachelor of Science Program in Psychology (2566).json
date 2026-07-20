@@ -1,0 +1,879 @@
+{
+  "program_name": "Bachelor of Science Program in Psychology (2566)",
+  "major_tracks": [
+    "Clinical Psychology",
+    "Industrial and Organizational Psychology"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "Reading Human Through Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "Biology in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001210",
+      "course_name_en": "Oral Expression 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001311",
+      "course_name_en": "Reading and Writing 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013103",
+      "course_name_en": "General Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013104",
+      "course_name_en": "Descriptive Statistics in Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013203",
+      "course_name_en": "Social Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013204",
+      "course_name_en": "Developmental Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013206",
+      "course_name_en": "Physiological Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013207",
+      "course_name_en": "Psychology of Personality",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013208",
+      "course_name_en": "Principles of Psychological Measurement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013209",
+      "course_name_en": "Psychology of Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013302",
+      "course_name_en": "Psychological Counseling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013304",
+      "course_name_en": "Inferential Statistics in Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013305",
+      "course_name_en": "Abnormal Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013307",
+      "course_name_en": "Experimental Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013309",
+      "course_name_en": "English for Psychological Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013404",
+      "course_name_en": "Research Methodology in Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013321",
+      "course_name_en": "Introduction to Clinical Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013410",
+      "course_name_en": "Psychotherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013420",
+      "course_name_en": "Group Counseling and Psychotherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013422",
+      "course_name_en": "Personality and Behavior Assessment in Clinical Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013423",
+      "course_name_en": "Neuropsychological Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013426",
+      "course_name_en": "Law, Ethics and Code of Conduct for Psychologists",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013427",
+      "course_name_en": "Intelligence and Specific Ability Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013428",
+      "course_name_en": "Projective Techniques in Clinical Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013443",
+      "course_name_en": "Clinical Psychology Practicum",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013453",
+      "course_name_en": "Independent Study in Clinical Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013301",
+      "course_name_en": "Developing Psychosocial Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013330",
+      "course_name_en": "Industrial and Organizational Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013337",
+      "course_name_en": "Human Factors Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013338",
+      "course_name_en": "Psychological Assessment in Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013413",
+      "course_name_en": "Work Motivation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013431",
+      "course_name_en": "Psychology of Training and Development in Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013432",
+      "course_name_en": "Personnel Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013433",
+      "course_name_en": "Consumer Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013445",
+      "course_name_en": "Industrial and Organizational Psychology Practicum",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013455",
+      "course_name_en": "Independent Study in Industrial and Organizational Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Specialized Course (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013216",
+      "course_name_en": "Service Psychology and Cross-Cultural Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013217",
+      "course_name_en": "Psychology of Love",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013303",
+      "course_name_en": "Positive Psychology and Human Behavior in Movie",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013306",
+      "course_name_en": "Self-Awareness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013311",
+      "course_name_en": "Child Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013312",
+      "course_name_en": "Motivation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013313",
+      "course_name_en": "Psychology of Adolescence",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013314",
+      "course_name_en": "Criminal Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013316",
+      "course_name_en": "Cognitive Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013317",
+      "course_name_en": "Psychology for Human Potential Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013319",
+      "course_name_en": "Psychological of Parenting",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013325",
+      "course_name_en": "Sensation and Perception",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013414",
+      "course_name_en": "Individual Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (General Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013318",
+      "course_name_en": "Play-Based Psychological Interventions for Children",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013322",
+      "course_name_en": "Addictive Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013326",
+      "course_name_en": "Psychology of Exceptional Children",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013329",
+      "course_name_en": "Forensic Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013421",
+      "course_name_en": "Core Competencies in Psychotherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013425",
+      "course_name_en": "Community Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013430",
+      "course_name_en": "Practicum to Enhance the Professional Experiences in Clinical Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Clinical Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013335",
+      "course_name_en": "Psychology of Health and Well-Being in Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013435",
+      "course_name_en": "Psychology of Organizational Change and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013436",
+      "course_name_en": "Mindfulness for Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective (Industrial and Organizational Psychology)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1092 @@
+{
+  "program_name": "Bachelor of Education Program in Elementary Education",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601201",
+      "course_name_en": "Principles of Food Processing and Preservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610113",
+      "course_name_en": "Processed Food in Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "Reading Human Through Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602103",
+      "course_name_en": "Agro-Industry and Quality of Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "Happy Life in Camping",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052111",
+      "course_name_en": "Dynamics of Elementary Education for Sustainable Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052113",
+      "course_name_en": "Curriculum of Elementary Education Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052361",
+      "course_name_en": "Thai Language for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052362",
+      "course_name_en": "Mathematics for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052363",
+      "course_name_en": "Science for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052364",
+      "course_name_en": "English for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052365",
+      "course_name_en": "Social Studies for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052481",
+      "course_name_en": "Methodology of Thai Language Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052482",
+      "course_name_en": "Methodology of Mathematics Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052483",
+      "course_name_en": "Methodology of Science Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052484",
+      "course_name_en": "Methodology of English Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052485",
+      "course_name_en": "Methodology of Social Studies Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052112",
+      "course_name_en": "Development and Learning of Elementary Education Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052244",
+      "course_name_en": "Integration of Area-based and Transdisciplinary Learning Management at Elementary Education Level",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052241",
+      "course_name_en": "Elementary Classroom Management in Digital Era",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052242",
+      "course_name_en": "Creative Communication Strategies for Elementary Education Teachers",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052243",
+      "course_name_en": "Activities for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052245",
+      "course_name_en": "Transformative Teachers of Elementary Education",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052246",
+      "course_name_en": "Educational Innovation Design for Elementary Education Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052247",
+      "course_name_en": "Development of Higher Order Thinking Skills for Elementary Education Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052366",
+      "course_name_en": "Life and Career Skills for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052367",
+      "course_name_en": "Health and Physical Education for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052368",
+      "course_name_en": "Aesthetics for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052486",
+      "course_name_en": "Methodology of Career Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052487",
+      "course_name_en": "Methodology of Health and Physical Education Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "052488",
+      "course_name_en": "Methodology of Aesthetics Learning for Competency Development of Elementary Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses / Electives Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+]
+}
+    
+  ]
+}

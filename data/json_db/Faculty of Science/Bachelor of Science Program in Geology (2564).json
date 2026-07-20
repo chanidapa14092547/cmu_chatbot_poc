@@ -1,0 +1,868 @@
+{
+  "program_name": "Bachelor of Science Program in Geology (2564)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "218100",
+      "course_name_en": "The Science of Gemstone and Jewelry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256100",
+      "course_name_en": "Sustainable Use of Mineral Resources",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256131",
+      "course_name_en": "Urban Mining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203104",
+      "course_name_en": "General Chemistry 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203107",
+      "course_name_en": "General Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203108",
+      "course_name_en": "General Chemistry Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204102",
+      "course_name_en": "Intelligent Data Analysis: Survey of Techniques and Applications",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205103",
+      "course_name_en": "Physical Geology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205104",
+      "course_name_en": "Historical Geology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207186",
+      "course_name_en": "Physics for Earth Science",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208262",
+      "course_name_en": "Elementary Statistics for Science and Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205193",
+      "course_name_en": "Graphic Methods in Geology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205216",
+      "course_name_en": "Practice in Field Geology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205235",
+      "course_name_en": "Optical Mineralogy",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205239",
+      "course_name_en": "Mineralogy",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205246",
+      "course_name_en": "Lithology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205252",
+      "course_name_en": "Palaeontology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205303",
+      "course_name_en": "Geomorphology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205310",
+      "course_name_en": "Regional Field Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205324",
+      "course_name_en": "Structural Geology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205337",
+      "course_name_en": "Geochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205344",
+      "course_name_en": "Igneous and Metamorphic Petrology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205355",
+      "course_name_en": "Principles of Sedimentology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205358",
+      "course_name_en": "Stratigraphy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205382",
+      "course_name_en": "Exploration Geophysics",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205410",
+      "course_name_en": "Field Geology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205415",
+      "course_name_en": "Geology of Thailand",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205485",
+      "course_name_en": "Geologic Information Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205495",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205499",
+      "course_name_en": "Independent Study in Geology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205361",
+      "course_name_en": "Minerals in Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205397",
+      "course_name_en": "Internship in Geology 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205404",
+      "course_name_en": "Surficial Geology and Terrain Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205405",
+      "course_name_en": "Geotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205417",
+      "course_name_en": "Geology of Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205421",
+      "course_name_en": "Tectonics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205441",
+      "course_name_en": "Volcanic Facies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205457",
+      "course_name_en": "Fundamentals of Sequence Stratigraphy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205461",
+      "course_name_en": "Economic Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205464",
+      "course_name_en": "Petroleum Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205472",
+      "course_name_en": "Environmental Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205473",
+      "course_name_en": "Hydrogeology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205474",
+      "course_name_en": "Applied Hydrogeology and Geotechnic",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205475",
+      "course_name_en": "Engineering Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205476",
+      "course_name_en": "Subsurface Geology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205483",
+      "course_name_en": "Petroleum Geophysics",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205486",
+      "course_name_en": "Coal Geology and its Utilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205487",
+      "course_name_en": "Seismic Data Acquisition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205488",
+      "course_name_en": "Seismic Data Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205489",
+      "course_name_en": "Seismic Data Interpretation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205496",
+      "course_name_en": "Selected Topics in Geology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205497",
+      "course_name_en": "Internship in Geology 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205498",
+      "course_name_en": "Cooperative Education in Geology",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

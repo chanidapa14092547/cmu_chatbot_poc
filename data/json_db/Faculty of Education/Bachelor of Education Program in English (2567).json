@@ -1,0 +1,768 @@
+{
+  "program_name": "Bachelor of Education Program in English",
+  "major_tracks": [
+    "English"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602103",
+      "course_name_en": "Agro-Industry and Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Elective Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001210",
+      "course_name_en": "Oral Expression 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001230",
+      "course_name_en": "Introduction to Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001231",
+      "course_name_en": "English Phonetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001234",
+      "course_name_en": "Introduction to English Phonology and Morphology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001250",
+      "course_name_en": "Introduction to Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001310",
+      "course_name_en": "Oral Expression 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001311",
+      "course_name_en": "Reading and Writing 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066201",
+      "course_name_en": "Second Language Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066222",
+      "course_name_en": "Thinking through English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066301",
+      "course_name_en": "Language Assessment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066303",
+      "course_name_en": "Advanced Grammar for English Language Teacher",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066422",
+      "course_name_en": "English Language Learning Activities and Teaching Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001312",
+      "course_name_en": "Reading and Writing 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001330",
+      "course_name_en": "English Syntax",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001352",
+      "course_name_en": "Reservoir Literature and Reinterpretation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001410",
+      "course_name_en": "Oral Expression 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066302",
+      "course_name_en": "English Extracurricular Activities in Modern Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066403",
+      "course_name_en": "Seminar in Learning and Teaching English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066401",
+      "course_name_en": "Pedagogical Approaches and Innovations in Teaching English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066402",
+      "course_name_en": "Development of English Curriculum and Learning Management in Digital Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066323",
+      "course_name_en": "English Project Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066414",
+      "course_name_en": "The Teaching of English Listening-Speaking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066416",
+      "course_name_en": "The Teaching of English Grammar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066418",
+      "course_name_en": "Communication Skills for Teachers of English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066419",
+      "course_name_en": "Independent Study in Teaching and Learning English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "066424",
+      "course_name_en": "Teaching of English Reading and Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Educational Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

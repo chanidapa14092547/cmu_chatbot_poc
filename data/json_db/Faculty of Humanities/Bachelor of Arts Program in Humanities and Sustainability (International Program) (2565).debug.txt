@@ -1,0 +1,831 @@
+{
+  "program_name": "Bachelor of Arts Program in Humanities and Sustainability (International Program) (2565)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001207",
+      "course_name_en": "English for Effective and Creative Communication 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001208",
+      "course_name_en": "English for Effective and Creative Communication 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "025101",
+      "course_name_en": "Thai in Everyday Life 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "025102",
+      "course_name_en": "Thai in Everyday Life 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050123",
+      "course_name_en": "Songs and Global Societies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050124",
+      "course_name_en": "Asia in Motion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888103",
+      "course_name_en": "Internet Programming Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888105",
+      "course_name_en": "Internet Data System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259109",
+      "course_name_en": "Telecommunication in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "359204",
+      "course_name_en": "Horticulture for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "359206",
+      "course_name_en": "Landscape, Environment, Behaviors, and Minds",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "601201",
+      "course_name_en": "Principles of Food Processing and Preservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "601212",
+      "course_name_en": "Nutrition for Contemporary Living",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "651106",
+      "course_name_en": "Food Sanitary from Food Animal for Consumer",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "050122",
+      "course_name_en": "Thai Pop Culture in Contemporary Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206109",
+      "course_name_en": "Mathematics in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "205100",
+      "course_name_en": "The Earth and its Geological Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics : the Science that Changed the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "359201",
+      "course_name_en": "Agricultural Way and Vision",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-Creator",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049100",
+      "course_name_en": "Human Sciences and Global Civic Engagement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049191",
+      "course_name_en": "Academic Skills for Humanities Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049211",
+      "course_name_en": "Literary Narratives in Global Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049212",
+      "course_name_en": "Creative Expression: Genres and World’s Stories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049221",
+      "course_name_en": "Ideas and Liberations around the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049222",
+      "course_name_en": "Language, Mind, and the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049231",
+      "course_name_en": "Global History: Society and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049232",
+      "course_name_en": "Making Place: Global History and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049241",
+      "course_name_en": "Screening, Seeing and Self-Sustaining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049251",
+      "course_name_en": "Gender, Culture and Equality",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049252",
+      "course_name_en": "Human, Technology, and Planetary Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011374",
+      "course_name_en": "Philosophy of Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "126101",
+      "course_name_en": "Introduction to International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "152211",
+      "course_name_en": "Introduction to Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "152241",
+      "course_name_en": "Religions and Social Changes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049311",
+      "course_name_en": "Literary Media and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049312",
+      "course_name_en": "Imagining Futures through Graphic Novels",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049313",
+      "course_name_en": "Global Cultures and Genres of Life Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049321",
+      "course_name_en": "Posthumanism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049322",
+      "course_name_en": "Ethics and Emerging Technologies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049331",
+      "course_name_en": "Chiang Mai: A Global City",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049332",
+      "course_name_en": "Advertising Fictions: Past, Present, and Future",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049333",
+      "course_name_en": "History of Books and Textual Objects",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049334",
+      "course_name_en": "Diaspora and Transnational Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049341",
+      "course_name_en": "Ethnicity and Contemporary Media Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049342",
+      "course_name_en": "Health and Medicine in Visual Media Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049351",
+      "course_name_en": "Conundrums in Postcolonial World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049352",
+      "course_name_en": "Desire and the Production of Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049353",
+      "course_name_en": "Eco-Nation: Critical and Creative Perspectives",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049411",
+      "course_name_en": "Distant Reading and Computational Interpretation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049412",
+      "course_name_en": "Text and Healing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049413",
+      "course_name_en": "Language Arts in Community Service",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049417",
+      "course_name_en": "Script and Stage",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049418",
+      "course_name_en": "Creative Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049419",
+      "course_name_en": "Literary Journalism and Media Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049429",
+      "course_name_en": "Selected Topics in Psychology of Language and Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049431",
+      "course_name_en": "Digitising Culture Project: Stories and Oral Histories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049439",
+      "course_name_en": "Selected Topics in Global Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049449",
+      "course_name_en": "Selected Topics in Screen and Visual Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049451",
+      "course_name_en": "Environmental Humanities in Praxis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049461",
+      "course_name_en": "Humanities Lab for Social Enterprise",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049489",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049497",
+      "course_name_en": "Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "049499",
+      "course_name_en": "Learning Through Overseas Experience",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization - Major Humanities (400 level)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "003101",
+      "course_name_en": "Fundamental German 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "003102",
+      "course_name_en": "Fundamental German 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "017101",
+      "course_name_en": "Beginning Hindi 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "018131",
+      "course_name_en": "Japanese Language and Culture 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "019105",
+      "course_name_en": "Chinese in Daily Life 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "020101",
+      "course_name_en": "Fundamental Burmese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "021101",
+      "course_name_en": "Spanish 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "025103",
+      "course_name_en": "Basic Thai for Foreigners 1",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "026101",
+      "course_name_en": "Korean 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "002191",
+      "course_name_en": "French for Beginners 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Foreign Language",
+      "prerequisites": ["None"]
+    }
+  ]

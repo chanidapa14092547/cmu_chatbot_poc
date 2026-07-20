@@ -1,0 +1,1379 @@
+{
+  "program_name": "Bachelor of Political Science Program in International Affairs",
+  "major_tracks": [
+    "Political Studies",
+    "Cooperative Education"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012100",
+      "course_name_en": "Mind Development for High Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601212",
+      "course_name_en": "Nutrition for Contemporary Living",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "Reading Human Through Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201115",
+      "course_name_en": "Life and Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "Introduction to Political Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127202",
+      "course_name_en": "Western Political Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127312",
+      "course_name_en": "Modern Thai State and Political Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128101",
+      "course_name_en": "Introduction to Public Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "Introduction to Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002191",
+      "course_name_en": "French for Beginners 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002192",
+      "course_name_en": "French for Beginners 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003101",
+      "course_name_en": "Fundamental German 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "003102",
+      "course_name_en": "Fundamental German 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004430",
+      "course_name_en": "Southeast Asia, Past to Present",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004382",
+      "course_name_en": "History of Lanna and the Greater Mekong Subregion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004483",
+      "course_name_en": "World History",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "015101",
+      "course_name_en": "Beginning Pali 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "015102",
+      "course_name_en": "Beginning Pali 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017101",
+      "course_name_en": "Beginning Hindi 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "017102",
+      "course_name_en": "Beginning Hindi 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018131",
+      "course_name_en": "Japanese Language and Culture 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "018132",
+      "course_name_en": "Japanese Language and Culture 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019101",
+      "course_name_en": "Beginning Chinese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "019102",
+      "course_name_en": "Beginning Chinese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020101",
+      "course_name_en": "Fundamental Burmese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "020102",
+      "course_name_en": "Fundamental Burmese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021101",
+      "course_name_en": "Spanish 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "021102",
+      "course_name_en": "Spanish 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026103",
+      "course_name_en": "Korean in Daily Life 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "026104",
+      "course_name_en": "Korean in Daily Life 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030101",
+      "course_name_en": "Fundamental Vietnamese 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "030102",
+      "course_name_en": "Fundamental Vietnamese 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031101",
+      "course_name_en": "Fundamental Bahasa Indonesia 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "031102",
+      "course_name_en": "Fundamental Bahasa Indonesia 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Elective Languages",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127330",
+      "course_name_en": "Political Psychology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127416",
+      "course_name_en": "Information Technology and Digital Communication for Political Scientists",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159101",
+      "course_name_en": "Introduction to Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126211",
+      "course_name_en": "International Relations Theories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126212",
+      "course_name_en": "History of International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126216",
+      "course_name_en": "Readings in International Relations 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126217",
+      "course_name_en": "Basic Academic English Writing in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126218",
+      "course_name_en": "Intermediate Academic English Writing in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126303",
+      "course_name_en": "Research Methods for International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126321",
+      "course_name_en": "Introduction to International Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126324",
+      "course_name_en": "International Organizations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126328",
+      "course_name_en": "International Political Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126330",
+      "course_name_en": "Readings in International Relations 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126428",
+      "course_name_en": "Thailand’s Foreign Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126326",
+      "course_name_en": "Geopolitics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126327",
+      "course_name_en": "Political Economy of Asia Pacific",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126331",
+      "course_name_en": "Great Powers and World Order",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126332",
+      "course_name_en": "East Asian Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126333",
+      "course_name_en": "Mekong Subregion Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126335",
+      "course_name_en": "International Security Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126336",
+      "course_name_en": "Foreign Policy Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126338",
+      "course_name_en": "International Development in International Relations Perspective",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126339",
+      "course_name_en": "Southeast Asia in World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126341",
+      "course_name_en": "Politics and International Relations of Myanmar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126345",
+      "course_name_en": "The United States of America in the World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126346",
+      "course_name_en": "People's Republic of China in the World Politics and Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126347",
+      "course_name_en": "South Asian Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126348",
+      "course_name_en": "Politics and International Relations of the Middle East and North Africa (MENA)",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126349",
+      "course_name_en": "Japan's Foreign Policy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126350",
+      "course_name_en": "Thailand in the World Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126351",
+      "course_name_en": "The European Union in World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127329",
+      "course_name_en": "Politics and Government of the United States of America",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (300 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126499",
+      "course_name_en": "Seminar on Research Topics in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level) / Political Studies Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126400",
+      "course_name_en": "Seminar Studies on Problems in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level) / Political Studies Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126491",
+      "course_name_en": "Seminar on Research Topic in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level) / Political Studies Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126492",
+      "course_name_en": "Seminar Studies on Problems in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level) / Political Studies Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126427",
+      "course_name_en": "Current Affairs in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126433",
+      "course_name_en": "Human Rights and Humanitarianism in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126436",
+      "course_name_en": "Peace and Conflict Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126438",
+      "course_name_en": "Comparative Regionalism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126440",
+      "course_name_en": "Diplomacy and International Negotiation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126441",
+      "course_name_en": "International Politics during the Cold War",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126442",
+      "course_name_en": "Seminar on Issues in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126443",
+      "course_name_en": "Seminar on ASEAN Cooperation Mechanism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126444",
+      "course_name_en": "Gender in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126445",
+      "course_name_en": "Political Economy of Chinese in SEA",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126447",
+      "course_name_en": "The Study of The United Nations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126448",
+      "course_name_en": "Alternative Approaches in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126449",
+      "course_name_en": "Environment and International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126450",
+      "course_name_en": "Non-State Actors in World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126451",
+      "course_name_en": "Cities in World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126452",
+      "course_name_en": "Soft Power in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126453",
+      "course_name_en": "International Politics in Colonial Era",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126454",
+      "course_name_en": "International Politics of Climate Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126455",
+      "course_name_en": "International Politics of Cybersecurity",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126456",
+      "course_name_en": "International Politics of Global Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126457",
+      "course_name_en": "International Politics of Nuclear Weapons",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126458",
+      "course_name_en": "Politics of International Migration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126459",
+      "course_name_en": "International Political Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126460",
+      "course_name_en": "Energy Security in World Politics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126461",
+      "course_name_en": "Media, Culture and Politics in Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126462",
+      "course_name_en": "Non-Western International Societies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126463",
+      "course_name_en": "Critical Security Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126464",
+      "course_name_en": "Ethics and Morality in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126465",
+      "course_name_en": "Special Topics in International Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (400 level)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126359",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Cooperative Education Track",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "program_name": "Bachelor of Arts Program in ASEAN Studies (2567)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Required Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012100",
+      "course_name_en": "Mind Development for High Quality of Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154111",
+      "course_name_en": "Weather in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "104201",
+      "course_name_en": "Southeast Asian Art and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126101",
+      "course_name_en": "Introduction to International Relations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "Introduction to Political Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126102",
+      "course_name_en": "Introduction to ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152211",
+      "course_name_en": "Introduction to Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154141",
+      "course_name_en": "Human Geography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159101",
+      "course_name_en": "Introduction to Sociology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175341",
+      "course_name_en": "Dynamics of Southeast Asian Politics and Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "Introduction to Law",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152301",
+      "course_name_en": "Development Theories and Practices",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152312",
+      "course_name_en": "Migration and Human Mobility in ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175301",
+      "course_name_en": "Research Methodology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175409",
+      "course_name_en": "Seminar in ASEAN Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175431",
+      "course_name_en": "Ethnicity in ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175481",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175499",
+      "course_name_en": "Independent Study in ASEAN Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126332",
+      "course_name_en": "East Asian Studies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "126339",
+      "course_name_en": "Southeast Asia in World Politics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127316",
+      "course_name_en": "Politics and Government in Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127327",
+      "course_name_en": "Political and Economic Changes in the GMS Countries",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152245",
+      "course_name_en": "Body Politics in Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152303",
+      "course_name_en": "Participatory Development Field Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152311",
+      "course_name_en": "Popular Culture in Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152321",
+      "course_name_en": "Transnationalism and Social Issues",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152324",
+      "course_name_en": "Civil Society, Non-Governmental Organizations and Social Movement",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152331",
+      "course_name_en": "Urbanism and Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152349",
+      "course_name_en": "Rights and Life Security in Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152351",
+      "course_name_en": "Economic Development and Spatial Integration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152414",
+      "course_name_en": "Social Policy and Social Welfare System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152422",
+      "course_name_en": "Resource Management and Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152431",
+      "course_name_en": "Gender and Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154340",
+      "course_name_en": "Geography of Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159321",
+      "course_name_en": "Gender and Sexuality Studies in Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159335",
+      "course_name_en": "Entrepreneurial Cultures and Societies and Social Enterprises",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159454",
+      "course_name_en": "Chinese Influence and Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175231",
+      "course_name_en": "Health and Medicine in ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175322",
+      "course_name_en": "Food and Society in Southeast Asia",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175333",
+      "course_name_en": "Cultural Rights",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175335",
+      "course_name_en": "Dynamism of Highland Ethnic Communities",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175415",
+      "course_name_en": "Contemporary Topics in ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175432",
+      "course_name_en": "Tourism in ASEAN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]

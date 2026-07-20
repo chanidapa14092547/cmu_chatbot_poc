@@ -1,0 +1,489 @@
+{
+  "program_name": "Bachelor of Engineering Program in Civil Engineering (2566)",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Study Plan",
+    "Advanced Study Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator Elective)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator Elective)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator Elective)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator Elective)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education (GE Electives)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "205275",
+      "course_name_en": "Geology for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "213201",
+      "course_name_en": "Principles of Environmental Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Science and Mathematics)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses (Engineering)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251211",
+      "course_name_en": "Strength of Materials 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251212",
+      "course_name_en": "Theory and Analysis of Structures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251216",
+      "course_name_en": "Structural Materials and Testing",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251311",
+      "course_name_en": "Steel and Timber Structure Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251313",
+      "course_name_en": "Reinforced Concrete Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251413",
+      "course_name_en": "Reinforced Concrete Building Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Structural)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251371",
+      "course_name_en": "Soil Mechanics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Geotechnical)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251372",
+      "course_name_en": "Engineering Soil Tests",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Required - Geotechnical)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251374",
+      "course_name_en": "Geotechnical Engineering and Building Foundations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Geotechnical)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251261",
+      "course_name_en": "Hydraulics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Hydraulic)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251262",
+      "course_name_en": "Hydraulic Models and Testing",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Required - Hydraulic)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251363",
+      "course_name_en": "Engineering Hydrology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Hydraulic)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251364",
+      "course_name_en": "Water Resource Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Hydraulic)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251333",
+      "course_name_en": "Highway Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Survey and Transportation)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251334",
+      "course_name_en": "Highway Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Required - Survey and Transportation)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251336",
+      "course_name_en": "Transportation Systems Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Survey and Transportation)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251343",
+      "course_name_en": "Survey for Civil Engineering",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Survey and Transportation)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251451",
+      "course_name_en": "Construction Techniques and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Civil Engineering Management)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251102",
+      "course_name_en": "Civil Engineering Fundamentals",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Required - Supporting Knowledge)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251293",
+      "course_name_en": "Fundamentals of Differential Equations and Numerical Methods for Civil Engineering",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Field of Specialization (Required - Supporting Knowledge)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251400",
+      "course_name_en": "Training in Civil Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Required - Work Experience - Regular Plan)",
+      "prerequisites": ["None"]
+    },
+    {
+      "course_code": "251401",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Required - Work Experience - Co-op Plan)",
+      "prerequisites": ["None"]
+    }
+  ]

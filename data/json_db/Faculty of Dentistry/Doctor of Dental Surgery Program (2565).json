@@ -1,0 +1,1468 @@
+{
+  "program_name": "Doctor of Dental Surgery Program",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011101",
+      "course_name_en": "Meaning of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "Philosophy of Happiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011277",
+      "course_name_en": "Bioethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571113",
+      "course_name_en": "Maintaining the Equilibrium in Adolescent Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210110",
+      "course_name_en": "General Biomaterials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Innovative Co-Creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140103",
+      "course_name_en": "Anti-Corruption in Thailand",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Active Citizen Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203155",
+      "course_name_en": "Chemistry for Dental Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207139",
+      "course_name_en": "Fundamental Physics for Dental Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301252",
+      "course_name_en": "Microscopic Anatomy for Dental Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301254",
+      "course_name_en": "Gross Anatomy for Dental Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301255",
+      "course_name_en": "Neuroanatomy for Dental Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301257",
+      "course_name_en": "Basic Human Genetics and Developmental Anatomy of Head, Neck and Face",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303151",
+      "course_name_en": "Biochemistry of Human Body",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311252",
+      "course_name_en": "Medical Immunology for Dental Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311253",
+      "course_name_en": "Microbiology for Dental Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318352",
+      "course_name_en": "Basic and Systemic Pathology for Dental Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320352",
+      "course_name_en": "Pharmacology for Dental Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321251",
+      "course_name_en": "Physiology for Dental Students",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "431191",
+      "course_name_en": "Oral Anatomy and Histology 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "431182",
+      "course_name_en": "Oral Biology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "431193",
+      "course_name_en": "Oral Anatomy and Histology 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "431281",
+      "course_name_en": "Masticatory Science",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433281",
+      "course_name_en": "Diagnostic Sciences 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433282",
+      "course_name_en": "Diagnostic Sciences 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433284",
+      "course_name_en": "Basics in Dental Materials",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433287",
+      "course_name_en": "Orthodontics and Dentofacial Orthopedics 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433382",
+      "course_name_en": "Oral and Maxillofacial Diseases 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433383",
+      "course_name_en": "Oral and Maxillofacial Diseases 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434281",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434282",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Basic Medical Science Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "424602",
+      "course_name_en": "Practice in Hospital Dentistry",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "428692",
+      "course_name_en": "Multidisciplinary Treatment Planning 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432191",
+      "course_name_en": "Laboratory Practice in Dental Anatomy",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432291",
+      "course_name_en": "Laboratory Practice in Operative Dentistry 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432391",
+      "course_name_en": "Laboratory Practice in Periodontology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432392",
+      "course_name_en": "Laboratory Practice in Operative Dentistry 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432393",
+      "course_name_en": "Laboratory Practice in Endodontics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432394",
+      "course_name_en": "Laboratory Practice in Removable Partial Denture 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432395",
+      "course_name_en": "Laboratory Practice in Removable Partial Denture 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432491",
+      "course_name_en": "Laboratory Practice in Crown and Bridge",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432492",
+      "course_name_en": "Laboratory Practice in Basic Complete Denture",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432493",
+      "course_name_en": "Laboratory Practice in Occlusion and Oral Medicine",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "432494",
+      "course_name_en": "Laboratory Practice in Basic Orthodontics",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433381",
+      "course_name_en": "Diagnostic Sciences 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433384",
+      "course_name_en": "Systemic Diseases and Emergency Management 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433385",
+      "course_name_en": "Systemic Diseases and Emergency Management 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433386",
+      "course_name_en": "Dental Clinic and Hospital Dentistry 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433387",
+      "course_name_en": "Dental Clinic and Hospital Dentistry 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433482",
+      "course_name_en": "Oral and Maxillofacial Diseases 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433483",
+      "course_name_en": "Oral and Maxillofacial Diseases 4",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433484",
+      "course_name_en": "Systemic Diseases and Emergency Management 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433485",
+      "course_name_en": "Systemic Diseases and Emergency Management 4",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433486",
+      "course_name_en": "Dental Clinic and Hospital Dentistry 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433487",
+      "course_name_en": "Orthodontics and Dentofacial Orthopedics 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433586",
+      "course_name_en": "Dental Clinic and Hospital Dentistry 4",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433681",
+      "course_name_en": "Forensic Dentistry",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433682",
+      "course_name_en": "Oral Biosciences",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434383",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434384",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434385",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 5",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "434486",
+      "course_name_en": "Diseases of Tooth and Supporting Structures 6",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "435281",
+      "course_name_en": "Introduction to Edentulous Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "435382",
+      "course_name_en": "Removable Denture 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "435383",
+      "course_name_en": "Removable Denture 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "435484",
+      "course_name_en": "Clinical Complete Denture and Fixed Dental Prosthesis",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "435585",
+      "course_name_en": "Dental Implant and Advanced Prosthodontics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "436481",
+      "course_name_en": "Fundamentals in Pediatric Dentistry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437181",
+      "course_name_en": "Concept of Health and Health Service System for Dentists",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437292",
+      "course_name_en": "Biomedical and Sociocultural Aspects in Dental Public Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437283",
+      "course_name_en": "Oral Health Promotion and Oral Disease Prevention",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437384",
+      "course_name_en": "Psychology, Human Behavior and Health Communication",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437485",
+      "course_name_en": "Epidemiology for Dentists",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437596",
+      "course_name_en": "Dental Public Health Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "437687",
+      "course_name_en": "General Management and Public Health Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438301",
+      "course_name_en": "Practice in Periodontal Clinic 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438302",
+      "course_name_en": "Practice in Operative Dentistry Clinic 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438391",
+      "course_name_en": "Transition to Clinical Practice in Dentistry",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438401",
+      "course_name_en": "Comprehensive Dental Clinic 1",
+      "course_name_th": "",
+      "credits": "10",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438402",
+      "course_name_en": "Rotational Dental Clinic 1",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438501",
+      "course_name_en": "Comprehensive Dental Clinic 2",
+      "course_name_th": "",
+      "credits": "12",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438502",
+      "course_name_en": "Rotational Dental Clinic 2",
+      "course_name_th": "",
+      "credits": "12",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438503",
+      "course_name_en": "Comprehensive Treatment Planning and Case Progression",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438601",
+      "course_name_en": "Comprehensive Dental Clinic 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438602",
+      "course_name_en": "Rotational Dental Clinic 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438603",
+      "course_name_en": "Emergency Dental Clinic",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438606",
+      "course_name_en": "Comprehensive Dental Treatment Case Presentation",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439191",
+      "course_name_en": "Dental Professionalism Development 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439281",
+      "course_name_en": "Dental Research and Innovation Theory",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439392",
+      "course_name_en": "Dental Professionalism Development 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439481",
+      "course_name_en": "Statistics for Dental Research",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439683",
+      "course_name_en": "Dental Professionalism Development 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439684",
+      "course_name_en": "Seminar in Updated Dental Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Professions Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "401601",
+      "course_name_en": "Advanced Techniques in Periodontal Treatment",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "404691",
+      "course_name_en": "Single Tooth Implant: A Complete Digital Workflow",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "405691",
+      "course_name_en": "Advanced Techniques in Root Canal Treatment",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "406691",
+      "course_name_en": "Operative Dentistry: Smile and Inspiration",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "406692",
+      "course_name_en": "Operative Dentistry: The Science and Art of Tooth Bleaching",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "408605",
+      "course_name_en": "Minor Oral Surgery Clinic",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "414603",
+      "course_name_en": "Introduction to Pediatric Dental Profession",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "421697",
+      "course_name_en": "Maxillofacial Prosthodontic for Dental Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439693",
+      "course_name_en": "Finding Yourself and the Art of Living for Dental Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "433581",
+      "course_name_en": "Digital Dentistry and Dental Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "436482",
+      "course_name_en": "Special Needs Care Dentistry 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "436583",
+      "course_name_en": "Special Needs Care Dentistry 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438604",
+      "course_name_en": "Dentist and Health Science Interprofessional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "438605",
+      "course_name_en": "Basic Dental Clinic for Special Needs",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439491",
+      "course_name_en": "Dental Research and Innovation Project Planning in Dentistry",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439691",
+      "course_name_en": "Practice in Dental Research and Innovation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "439692",
+      "course_name_en": "Interested Career Path",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Student Performance Facilitating Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

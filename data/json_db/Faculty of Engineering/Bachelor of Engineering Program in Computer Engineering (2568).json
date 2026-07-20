@@ -1,0 +1,1869 @@
+{
+  "program_name": "Bachelor of Engineering Program in Computer Engineering",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210110",
+      "course_name_en": "General Biomaterials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215100",
+      "course_name_en": "Microbiology in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271111",
+      "course_name_en": "Robotics Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271112",
+      "course_name_en": "Fundamentals of Rapid Prototyping for Robotics Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "804100",
+      "course_name_en": "Design Thinking in Emerging Architecture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "Biomedical Engineering in Everyday Life",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602103",
+      "course_name_en": "Agro-Industry and Quality of Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011157",
+      "course_name_en": "Social Philosophy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011159",
+      "course_name_en": "Philosophy of Life, Society and Environment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050101",
+      "course_name_en": "Lan Na Perspective in the 21st Century",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050113",
+      "course_name_en": "Locality in Globalization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050121",
+      "course_name_en": "Thai People in the ASEAN Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "Aesthetics in Lanna Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109119",
+      "course_name_en": "Lanna Art Appreciation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140103",
+      "course_name_en": "Anti-Corruption in Thailand",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140106",
+      "course_name_en": "Sustainable Development Goals",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154142",
+      "course_name_en": "Climate Change and Society",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "168100",
+      "course_name_en": "Gender Equality",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176102",
+      "course_name_en": "Peace and Human Rights",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205105",
+      "course_name_en": "Earth Science and Civilization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357101",
+      "course_name_en": "Household Insects and Garden Pests",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "360108",
+      "course_name_en": "Plant Disease and Environmental Safety",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515101",
+      "course_name_en": "Radiation in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571103",
+      "course_name_en": "Friendship and Being Together",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "802100",
+      "course_name_en": "Landscape Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206355",
+      "course_name_en": "Numerical Method",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208150",
+      "course_name_en": "Probability and Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252284",
+      "course_name_en": "Fundamentals of Electrical Engineering for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261216",
+      "course_name_en": "Discrete Mathematics for Computer Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261102",
+      "course_name_en": "Computer Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261103",
+      "course_name_en": "Basic Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261200",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261207",
+      "course_name_en": "Basic Computer Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261210",
+      "course_name_en": "Logic and Digital Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261212",
+      "course_name_en": "Logic and Digital Circuits Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261217",
+      "course_name_en": "Data Structures for Computer Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261218",
+      "course_name_en": "Algorithms for Computer Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261304",
+      "course_name_en": "Computer Architecture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261305",
+      "course_name_en": "Operating Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261314",
+      "course_name_en": "Embedded Systems and Automation",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261332",
+      "course_name_en": "Data and Computer Communications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261335",
+      "course_name_en": "Computer Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261336",
+      "course_name_en": "Computer Networks Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261341",
+      "course_name_en": "Database Systems",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261361",
+      "course_name_en": "Software Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261452",
+      "course_name_en": "Artificial Intelligence",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261491",
+      "course_name_en": "Project Survey",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261492",
+      "course_name_en": "Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261495",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261400",
+      "course_name_en": "Computer Engineering Training",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261404",
+      "course_name_en": "Advanced Computer Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261405",
+      "course_name_en": "Advanced Computer Engineering Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261406",
+      "course_name_en": "Basic Compiler Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261407",
+      "course_name_en": "Fundamentals of Computation for Computer Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261408",
+      "course_name_en": "Quantum Computation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261409",
+      "course_name_en": "Functional Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261410",
+      "course_name_en": "Electronic Devices for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261411",
+      "course_name_en": "Parallel Processing and Distributed Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261413",
+      "course_name_en": "Very Large Scale Integrated Circuit Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261414",
+      "course_name_en": "Digital System Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261421",
+      "course_name_en": "Computer Hardware Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261424",
+      "course_name_en": "Remote Monitoring and Control Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261430",
+      "course_name_en": "Wireless Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261433",
+      "course_name_en": "Network Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261434",
+      "course_name_en": "Computer Network Design and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261435",
+      "course_name_en": "Broadband Communication Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261437",
+      "course_name_en": "Fundamentals of Queueing Theory for Computer Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261438",
+      "course_name_en": "Fundamentals of Multiprotocol Label Switching",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261439",
+      "course_name_en": "Wireless Communications for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261441",
+      "course_name_en": "Internet of Things and Big Data",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261444",
+      "course_name_en": "Advanced Database Management System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261446",
+      "course_name_en": "Information Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261447",
+      "course_name_en": "Network and Information Security",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261448",
+      "course_name_en": "Data Mining for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261449",
+      "course_name_en": "Software Testing for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261451",
+      "course_name_en": "Neural Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261453",
+      "course_name_en": "Digital Image Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261456",
+      "course_name_en": "Introduction to Computational Intelligence for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261457",
+      "course_name_en": "Digital Image and Video Compression",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261458",
+      "course_name_en": "Machine Vision",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261459",
+      "course_name_en": "Deep Learning",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261461",
+      "course_name_en": "Visual and Interactive Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261464",
+      "course_name_en": "Computer Simulation Modeling and Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261465",
+      "course_name_en": "Computer Graphics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261468",
+      "course_name_en": "System Analysis and Design for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261469",
+      "course_name_en": "Software Project Management for Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261470",
+      "course_name_en": "Signals and Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261471",
+      "course_name_en": "Advanced Digital Signal Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261472",
+      "course_name_en": "Robotics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261473",
+      "course_name_en": "Computer - Aided Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261474",
+      "course_name_en": "Real-Time Computer Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261475",
+      "course_name_en": "Modeling and Optimization for Big Data Analytics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261476",
+      "course_name_en": "Biomedical Instruments",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261478",
+      "course_name_en": "Principles of Control Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261479",
+      "course_name_en": "Bioinformatics Programming",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261485",
+      "course_name_en": "Cybersecurity Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261486",
+      "course_name_en": "Network Security and Technological Controls",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261487",
+      "course_name_en": "Cybersecurity Threat Analysis and Detection",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261488",
+      "course_name_en": "Cybersecurity Incident Response",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261489",
+      "course_name_en": "Cybersecurity Audit and Cyber Resilience",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261493",
+      "course_name_en": "Seminar",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261494",
+      "course_name_en": "Selected Topics in Computer Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261497",
+      "course_name_en": "Selected Topics in Computer Software",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261498",
+      "course_name_en": "Selected Topics in Computer Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261499",
+      "course_name_en": "Selected Topics in Computational Intelligence",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269421",
+      "course_name_en": "Computer Network Traffic Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269430",
+      "course_name_en": "Wireless And Broadband Computer Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269431",
+      "course_name_en": "Wireless Sensor Network",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269432",
+      "course_name_en": "Peer-to-Peer Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269433",
+      "course_name_en": "Computer Network Routing Protocols",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269441",
+      "course_name_en": "Information Retrieval and Extraction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269451",
+      "course_name_en": "Introduction to Neuro-Fuzzy Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269452",
+      "course_name_en": "Mobile Application Development",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269461",
+      "course_name_en": "Personal Software Process Improvement",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269462",
+      "course_name_en": "Introduction to Human-Computer Interaction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "program_name": "Bachelor of Science Program in Smart Agriculture and Food Entrepreneur (Multidisciplinary)",
+  "major_tracks": [
+    "Smart Automation",
+    "Smart Agriculture and Food",
+    "Smart Agri-business Management"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001244",
+      "course_name_en": "English Language, Culture, and Mind",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001246",
+      "course_name_en": "English Language in the Hotel Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001247",
+      "course_name_en": "English for Tour Guides and Travel Agents",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001248",
+      "course_name_en": "English for Airline Services and Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001249",
+      "course_name_en": "English for Travelling",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210110",
+      "course_name_en": "General Biomaterials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271111",
+      "course_name_en": "Robotics Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271112",
+      "course_name_en": "Fundamentals of Rapid Prototyping for Robotics Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602103",
+      "course_name_en": "Agro-Industry and Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702102",
+      "course_name_en": "Investment in a Dynamic Financial World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703100",
+      "course_name_en": "Startup and Entrepreneurship Fundamentals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888103",
+      "course_name_en": "Internet Programming Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888105",
+      "course_name_en": "Internet Data System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140106",
+      "course_name_en": "Sustainable Development Goals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154142",
+      "course_name_en": "Climate Change and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today’s World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888108",
+      "course_name_en": "Smart Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888194",
+      "course_name_en": "Service Learning in Society 5.0",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "Generative Artificial Intelligence for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955115",
+      "course_name_en": "Generative Artificial Intelligence for Digital Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201120",
+      "course_name_en": "Science for Smart Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204101",
+      "course_name_en": "Introduction to Computer Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204217",
+      "course_name_en": "Computer Programming Languages",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260213",
+      "course_name_en": "Power and Machinery for Modern Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260251",
+      "course_name_en": "Automation System in Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260261",
+      "course_name_en": "Modern Plant Watering Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356170",
+      "course_name_en": "Animal Production by Smart Farm System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356171",
+      "course_name_en": "Aquaculture by Smart Farm System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356270",
+      "course_name_en": "Pre and Post Handling Technology in Animal Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363212",
+      "course_name_en": "Smart Plant Production",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363213",
+      "course_name_en": "Postharvest Handling of Grains and Perishable Produces",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368212",
+      "course_name_en": "Introduction to Agri-Food Business Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses / Agriculture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601101",
+      "course_name_en": "Basic Food Quality Control and Quality Assurance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agro-Industry",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605100",
+      "course_name_en": "Basic Food Manufacturing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agro-Industry",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605101",
+      "course_name_en": "Basic Food Product Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Agro-Industry",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610201",
+      "course_name_en": "Introduction to Agro-Industrial Process",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Agro-Industry",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204202",
+      "course_name_en": "Information Technology and Web Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204320",
+      "course_name_en": "Database Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required or Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204383",
+      "course_name_en": "Image Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required or Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204335",
+      "course_name_en": "Microcontroller and Internet of Things",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260302",
+      "course_name_en": "Engineering Principles for Smart Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260315",
+      "course_name_en": "Agriculture and Food Materials Handling System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260321",
+      "course_name_en": "Modern Drying Technology for Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260322",
+      "course_name_en": "Cooling Technology for Agriculture and Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260351",
+      "course_name_en": "Power Control System for Agriculture and Food Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Automation Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371494",
+      "course_name_en": "Selected Topics in Smart Agriculture and Food Entrepreneur",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371497",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371490",
+      "course_name_en": "Work Integrated Learning 1",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required / Work Integrated Learning Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371491",
+      "course_name_en": "Work Integrated Learning 2",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required / Work Integrated Learning Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371492",
+      "course_name_en": "Startup Incubation 1",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required / Startup Incubation Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "371493",
+      "course_name_en": "Startup Incubation 2",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required / Startup Incubation Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356336",
+      "course_name_en": "Nutrition and Feed Technology of Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356433",
+      "course_name_en": "Animal Feed Manufacturing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356461",
+      "course_name_en": "Good Agricultural Practices in Livestock and Aquaculture Farming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356487",
+      "course_name_en": "Meat Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "358301",
+      "course_name_en": "Insect Pest and Plant Disease Managements",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359467",
+      "course_name_en": "Good Agricultural Practices for Food Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363401",
+      "course_name_en": "Unmanned Aerial Vehicle Technology in Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363402",
+      "course_name_en": "Greenhouse Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368412",
+      "course_name_en": "Agribusiness Marketing Analysis and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602432",
+      "course_name_en": "Oriental Fermented Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605332",
+      "course_name_en": "Role of Consumer in Product Development System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605460",
+      "course_name_en": "Flavor for Product Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606464",
+      "course_name_en": "Fish Mince Product Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agriculture and Food Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368392",
+      "course_name_en": "Agribusiness Entrepreneurial Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703331",
+      "course_name_en": "Human Resource Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954321",
+      "course_name_en": "Operations and Service for E-Service",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954347",
+      "course_name_en": "E-Commerce",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368317",
+      "course_name_en": "Economics and Management of Agricultural Value Chain",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368417",
+      "course_name_en": "Innovation in Agricultural Logistics Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368418",
+      "course_name_en": "Strategic Planning and Management in Agribusiness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368421",
+      "course_name_en": "Negotiation in Agri-Food Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705439",
+      "course_name_en": "Business Exhibition and Trade Fair",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705445",
+      "course_name_en": "Business Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705446",
+      "course_name_en": "Tourism Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705461",
+      "course_name_en": "Retail Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Smart Agri-business Management Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

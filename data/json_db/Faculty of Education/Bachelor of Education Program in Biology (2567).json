@@ -1,0 +1,1288 @@
+{
+  "program_name": "Bachelor of Education Program in Biology (2567)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "ENGL 225 English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "CS 100 Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "HUGE 100 Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011152",
+      "course_name_en": "PHIL 152 Ethics for Good Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "PHIL 269 Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011277",
+      "course_name_en": "PHIL 277 Bioethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012100",
+      "course_name_en": "RE 100 Mind Development for High Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "EDPE 137 Sports for Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057138",
+      "course_name_en": "EDPE 138 Thai Wisdom Sports for Self-Defense",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "EDHL 100 Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "EDHL 101 Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "BCT 100 Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202100",
+      "course_name_en": "BIOL 100 Biology in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "ACC 181 Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "FINA 101 Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "EDCI 201 Learning through Social Phenomenon",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "RE 173 Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "004170",
+      "course_name_en": "HIST 170 Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "HUGE 104 Man and the Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "HUGE 112 Reading Human Through Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "SA 100 Modern World in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "LAGE 100 Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "SC 117 Mathematics and Science in Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205105",
+      "course_name_en": "GEOL 105 Earth Science and Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "ECON 100 Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "MC 103 Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057132",
+      "course_name_en": "EDPE 132 Happy Life in Camping",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "FAGE 100 Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "FAGE 114 Art in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "FAGE 118 Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "GOV 100 Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "GEO 153 Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "SA 151 Lanna Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "SC 111 The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "SC 192 Doi Suthep Study",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "EDPF 113 Teacher as a Transformative Leader",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "EDPF 114 Education and Social Change in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "EDPF 115 Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "EDPF 116 Psychology for Student Development in Modern Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "EDPF 192 Teaching Profession Practicum in School 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "EDPF 234 Communicative Language for Teachers in Modern Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "EDPF 235 Innovation and Technology for Learning in Digital World",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "EDPF 236 Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "EDPF 237 Educational Quality Assurance for Sustainability",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "EDPF 292 Teaching Profession Practicum in School 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "EDPF 318 Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "EDPF 320 Modern Microteaching Skills Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "EDPF 392 Teaching Profession Practicum in School 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "EDPF 405 Research for Educational Innovation Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "EDPF 492 Teaching Profession Practicum in School 4",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "EDPF 214 Active Learning Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "EDPF 215 Teaching Styles for Professional Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "EDPF 216 Differentiated Instruction",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "EDPF 217 Information for Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "EDPF 220 Creative Art Integration in Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "EDPF 222 Global Education for Lifelong Learning",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "EDPF 232 Laws for Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "EDPF 238 Driving Change and Innovation by STEM Education",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "EDPF 239 Career Progress Pathway of Teaching Profession",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "EDPF 240 Mental Health in Children and Adolescents",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "EDPF 241 Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "EDPF 242 Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "EDPF 243 Basic Educational Statistics in Digital Age",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "EDPF 319 Education Provision for Learners with Special Needs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064251",
+      "course_name_en": "EDSC 251 Science Concepts of Biology in Basic Education Curriculum 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064252",
+      "course_name_en": "EDSC 252 Science Concepts of Biology in Basic Education Curriculum 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064253",
+      "course_name_en": "EDSC 253 Science Concepts of Biology in Basic Education Curriculum 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064444",
+      "course_name_en": "EDSC 444 Ethics of Science and Technology for Professional Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "BIOL 101 Basic Biology 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202102",
+      "course_name_en": "BIOL 102 Basic Biology 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "BIOL 103 Biology Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202104",
+      "course_name_en": "BIOL 104 Biology Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202231",
+      "course_name_en": "BIOL 231 Genetics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202342",
+      "course_name_en": "BIOL 342 General Plant Physiology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202371",
+      "course_name_en": "BIOL 371 Ecology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214341",
+      "course_name_en": "ZOOL 341 General Animal Physiology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215205",
+      "course_name_en": "MICB 205 Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215206",
+      "course_name_en": "MICB 206 Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202301",
+      "course_name_en": "BIOL 301 Instrumental Techniques in Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202303",
+      "course_name_en": "BIOL 303 History of Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202332",
+      "course_name_en": "BIOL 332 Genetics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202353",
+      "course_name_en": "BIOL 353 Plant Morphology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202356",
+      "course_name_en": "BIOL 356 Plant Anatomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202361",
+      "course_name_en": "BIOL 361 General Plant Taxonomy",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202405",
+      "course_name_en": "BIOL 405 Evolution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202438",
+      "course_name_en": "BIOL 438 Human Evolution",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202443",
+      "course_name_en": "BIOL 443 Plant Cell, Tissue and Organ Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202446",
+      "course_name_en": "BIOL 446 Plant Growth and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202461",
+      "course_name_en": "BIOL 461 Advanced Taxonomy of Flowering Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202470",
+      "course_name_en": "BIOL 470 Biogeography",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202471",
+      "course_name_en": "BIOL 471 Animal Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202473",
+      "course_name_en": "BIOL 473 Water Pollution Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202474",
+      "course_name_en": "BIOL 474 Plant Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202476",
+      "course_name_en": "BIOL 476 Conservation Biology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202481",
+      "course_name_en": "BIOL 481 Behavioral Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "CHEM 206 Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "CHEM 111 Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "CHEM 115 Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214312",
+      "course_name_en": "ZOOL 312 General Entomology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214340",
+      "course_name_en": "ZOOL 340 Laboratory Animals in Biology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214381",
+      "course_name_en": "ZOOL 381 General Ethology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214441",
+      "course_name_en": "ZOOL 441 Advanced Animal Physiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214445",
+      "course_name_en": "ZOOL 445 Comparative Immunology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215302",
+      "course_name_en": "MICB 302 Microbiological Instrumentation",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215381",
+      "course_name_en": "MICB 381 Normal Flora and Pathogenic Microorganisms in Human",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215431",
+      "course_name_en": "MICB 431 Microbial Genetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215471",
+      "course_name_en": "MICB 471 Microbial Ecology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215481",
+      "course_name_en": "MICB 481 Industrial Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Academic Content / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064412",
+      "course_name_en": "EDSC 412 Science Learning Strand Instruction on Biology Contents",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064430",
+      "course_name_en": "EDSC 430 Principles and Teaching Methods in Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064415",
+      "course_name_en": "EDSC 415 Activities to Promote Science Attitude",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064421",
+      "course_name_en": "EDSC 421 Instruction of Environmental Science in Schools",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064422",
+      "course_name_en": "EDSC 422 Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064423",
+      "course_name_en": "EDSC 423 Local Wisdom Related to Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064424",
+      "course_name_en": "EDSC 424 Astronomical Learning Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064425",
+      "course_name_en": "EDSC 425 Drawing for Biology Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064426",
+      "course_name_en": "EDSC 426 Management of Biology Laboratory in Schools",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064427",
+      "course_name_en": "EDSC 427 Classroom Research for Biology Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064429",
+      "course_name_en": "EDSC 429 Independent Study in Science Education",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064431",
+      "course_name_en": "EDSC 431 General Science Instruction for Secondary Level Teachers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064433",
+      "course_name_en": "EDSC 433 Teaching of Science and Technology Related to Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "064434",
+      "course_name_en": "EDSC 434 Additional Science Course Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major / Educational Courses / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

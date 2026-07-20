@@ -1,0 +1,580 @@
+{
+  "program_name": "Bachelor of Business Administration Program in Service Business Management",
+  "major_tracks": [
+    "Wellness Management",
+    "Meeting, Incentive, Convention and Exhibition",
+    "Logistics Management"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001228",
+      "course_name_en": "English for Business and Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "706200",
+      "course_name_en": "Skills for Socially Responsible Manager",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571151",
+      "course_name_en": "Science and Art for Happiness Creation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208102",
+      "course_name_en": "Statistical Reasoning and Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704141",
+      "course_name_en": "Fundamental Service Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704241",
+      "course_name_en": "Intermediate Service Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704341",
+      "course_name_en": "Business Communication Skill in Foreign Country",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704342",
+      "course_name_en": "Practical Service Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704344",
+      "course_name_en": "Business Communication for Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704201",
+      "course_name_en": "Operations and Project Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704202",
+      "course_name_en": "Leadership and Service Business Ethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704192",
+      "course_name_en": "Business Site Visit in Service Business",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704347",
+      "course_name_en": "Business Communication for Global Citizens",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176101",
+      "course_name_en": "Introduction to Law",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701182",
+      "course_name_en": "Fundamental Accounting for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702211",
+      "course_name_en": "Business Finance 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703202",
+      "course_name_en": "Principles of Management and Organization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703331",
+      "course_name_en": "Human Resource Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703308",
+      "course_name_en": "Business Organizational Behavior",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703352",
+      "course_name_en": "Introduction to Hospitality and Tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704101",
+      "course_name_en": "Body and Mind for Service Business Profession",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704345",
+      "course_name_en": "Communication in Service Business 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704351",
+      "course_name_en": "Data Analytics for Service Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704361",
+      "course_name_en": "Digital Technology Strategy for Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704399",
+      "course_name_en": "Professional Training in Service Business Management",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704441",
+      "course_name_en": "Intercultural Business Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704497",
+      "course_name_en": "Special Problem in Service Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704499",
+      "course_name_en": "Seminar in Service Business Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705447",
+      "course_name_en": "Hospitality Service Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703353",
+      "course_name_en": "Health Service Organization Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704411",
+      "course_name_en": "Wellness Tourism Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704311",
+      "course_name_en": "Venue Management in Wellness Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704312",
+      "course_name_en": "Hygiene Management for Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704496",
+      "course_name_en": "Specific Studies in Service Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management / MICE / Logistics Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704498",
+      "course_name_en": "Selected Topics in Service Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Wellness Management / MICE / Logistics Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704321",
+      "course_name_en": "Introduction to Event Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704322",
+      "course_name_en": "Meeting and Convention Planning and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704421",
+      "course_name_en": "Special Event and Festival Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704320",
+      "course_name_en": "Introduction to MICE Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704323",
+      "course_name_en": "Conventions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705439",
+      "course_name_en": "Business Exhibition and Trade Fair",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Meeting, Incentive, Convention and Exhibition)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703444",
+      "course_name_en": "Strategic Supply Chain Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Logistics Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703446",
+      "course_name_en": "Transportations Management for Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Logistics Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "704431",
+      "course_name_en": "Transportation Management in Service Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Logistics Management)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

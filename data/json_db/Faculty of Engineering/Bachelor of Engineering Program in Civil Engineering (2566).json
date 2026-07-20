@@ -1,0 +1,1790 @@
+{
+  "program_name": "Bachelor of Engineering Program in Civil Engineering (2566)",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Study Plan",
+    "Advanced Study Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205275",
+      "course_name_en": "Geology for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "213201",
+      "course_name_en": "Principles of Environmental Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251211",
+      "course_name_en": "Strength of Materials 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251212",
+      "course_name_en": "Theory and Analysis of Structures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251216",
+      "course_name_en": "Structural Materials and Testing",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251311",
+      "course_name_en": "Steel and Timber Structure Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251313",
+      "course_name_en": "Reinforced Concrete Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251413",
+      "course_name_en": "Reinforced Concrete Building Design",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251371",
+      "course_name_en": "Soil Mechanics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251372",
+      "course_name_en": "Engineering Soil Tests",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251374",
+      "course_name_en": "Geotechnical Engineering and Building Foundations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251261",
+      "course_name_en": "Hydraulics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251262",
+      "course_name_en": "Hydraulic Models and Testing",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251363",
+      "course_name_en": "Engineering Hydrology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251364",
+      "course_name_en": "Water Resource Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251333",
+      "course_name_en": "Highway Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251334",
+      "course_name_en": "Highway Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Major Required / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251336",
+      "course_name_en": "Transportation Systems Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251343",
+      "course_name_en": "Survey for Civil Engineering",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251451",
+      "course_name_en": "Construction Techniques and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251102",
+      "course_name_en": "Civil Engineering Fundamentals",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Major Required / Supporting Knowledge for Civil Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251293",
+      "course_name_en": "Fundamentals of Differential Equations and Numerical Methods for Civil Engineering",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Major Required / Supporting Knowledge for Civil Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251491",
+      "course_name_en": "Building Structure Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251492",
+      "course_name_en": "Pavement and Railway Track Structure Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251493",
+      "course_name_en": "Transportation and Traffic Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251494",
+      "course_name_en": "Civil Engineering Survey Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251495",
+      "course_name_en": "Construction Planning and Management Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251496",
+      "course_name_en": "Hydraulic Engineering Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251497",
+      "course_name_en": "Geotechnical Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251498",
+      "course_name_en": "Modern Civil Engineering System Design Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Civil Engineering Design Development",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251400",
+      "course_name_en": "Training in Civil Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required / Work Experience Development (Regular & Advanced)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251401",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Required / Work Experience Development (Co-op Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251412",
+      "course_name_en": "Bridge Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251414",
+      "course_name_en": "Durability and Maintenance of Construction Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251415",
+      "course_name_en": "Seismic Design of Reinforced Concrete Moment-Resisting Frame",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251416",
+      "course_name_en": "Strengthening of Concrete Structure Using Fiber Reinforced Polymers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251418",
+      "course_name_en": "Prestressed Concrete Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251419",
+      "course_name_en": "Selected Topics in Structural Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251473",
+      "course_name_en": "Tunneling and Underground Construction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251474",
+      "course_name_en": "Fundamentals of Geotechnical Earthquake Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251475",
+      "course_name_en": "Temporary Structures and Underground Work",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251476",
+      "course_name_en": "Road and Track Foundation Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251477",
+      "course_name_en": "Designing with Geosynthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251478",
+      "course_name_en": "Fundamentals of Geoenvironmental Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251479",
+      "course_name_en": "Selected Topics in Geotechnical Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251466",
+      "course_name_en": "Irrigation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251467",
+      "course_name_en": "Drainage",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251468",
+      "course_name_en": "Urban Storm Drainage System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251469",
+      "course_name_en": "Selected Topics in Water Resources Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251434",
+      "course_name_en": "Freight Transport and Logistics Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251437",
+      "course_name_en": "Fundamentals of Traffic Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251438",
+      "course_name_en": "Rail Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251439",
+      "course_name_en": "Selected Topics in Transportation Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251441",
+      "course_name_en": "Elementary Photogrammetry and Remote Sensing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251442",
+      "course_name_en": "Photogrammetry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251443",
+      "course_name_en": "Introductory Geospatial Technology for Civil Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251449",
+      "course_name_en": "Selected Topics in Survey Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Surveying and Transportation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251402",
+      "course_name_en": "Data Analysis Techniques for Civil Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251403",
+      "course_name_en": "Computer Programs for Civil Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251456",
+      "course_name_en": "Architecture and Engineering Systems for Buildings",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251465",
+      "course_name_en": "Natural Disasters",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251499",
+      "course_name_en": "Civil Engineering Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251452",
+      "course_name_en": "Construction Cost Estimating and Cost Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251455",
+      "course_name_en": "Information Technology in Construction Engineering and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251457",
+      "course_name_en": "Application of Building Information Modeling for Construction Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251459",
+      "course_name_en": "Selected Topics in Construction Management Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Civil Engineering Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251711",
+      "course_name_en": "ADVANCED STRUCTURAL ANALYSIS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251712",
+      "course_name_en": "THEORY OF STRUCTURAL STABILITY",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251713",
+      "course_name_en": "Earthquake Engineering and Mitigation of Earthquake Threat",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251714",
+      "course_name_en": "ADVANCED MECHANICS OF MATERIALS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251715",
+      "course_name_en": "STRUCTURAL DYNAMICS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251716",
+      "course_name_en": "FINITE ELEMENT METHOD IN STRUCTURAL MECHANICS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251717",
+      "course_name_en": "Innovative Materials for Construction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251719",
+      "course_name_en": "Assessment and Strengthening of Concrete Structures Using Fiber Reinforced Polymers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251721",
+      "course_name_en": "ADVANCED REINFORCED CONCRETE DESIGN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251722",
+      "course_name_en": "ADVANCED PRESTRESSED CONCRETE DESIGN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251723",
+      "course_name_en": "ADVANCED CONCRETE TECHNOLOGY",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251724",
+      "course_name_en": "Seismic Design of Reinforced Concrete Buildings",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251727",
+      "course_name_en": "BEHAVIOR OF STEEL MEMBERS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251739",
+      "course_name_en": "SELECTED TOPICS IN STRUCTURAL ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251701",
+      "course_name_en": "PHYSICAL AND GEOTECHNICAL PROPERTIES OF SOILS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251702",
+      "course_name_en": "GEOTECHNICAL INVESTIGATIONS AND INSTRUMENTATIONS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251703",
+      "course_name_en": "SOIL DYNAMICS AND GEOTECHNICAL EARTHQUAKE ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251704",
+      "course_name_en": "ADVANCED SOIL MECHANICS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251707",
+      "course_name_en": "ENGINEERING PRINCIPLES OF SOIL IMPROVEMENT",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251708",
+      "course_name_en": "NUMERICAL METHODS IN GEOTECHNICAL ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251709",
+      "course_name_en": "Fundamental in Geoenvironmental Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251740",
+      "course_name_en": "EARTH STRUCTURES",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251745",
+      "course_name_en": "Tunnelling and Underground Structure Design and Construction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251746",
+      "course_name_en": "ADVANCED FOUNDATION ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251747",
+      "course_name_en": "Design and Practices in Geosynthetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251748",
+      "course_name_en": "Advanced Geotechnical Engineering for the Design of Roads, Railways and Airfields",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251749",
+      "course_name_en": "SELECTED TOPICS IN GEOTECHNICAL ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251718",
+      "course_name_en": "Statistics Techniques for Transportation Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251750",
+      "course_name_en": "Urban and Transport Infrastructure Impact Assessment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251751",
+      "course_name_en": "TRANSPORTATION PLANNING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251752",
+      "course_name_en": "TRAFFIC ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251753",
+      "course_name_en": "THEORY OF TRAFFIC FLOW",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251754",
+      "course_name_en": "ADVANCED HIGHWAY DESIGN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251755",
+      "course_name_en": "Advanced Freight Transport and Logistics Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251756",
+      "course_name_en": "PLANNING AND DESIGN OF AIRPORTS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251757",
+      "course_name_en": "TRANSPORTATION SYSTEM ANALYSIS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251758",
+      "course_name_en": "PUBLIC TRANSPORTATION",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251759",
+      "course_name_en": "SELECTED TOPICS IN TRANSPORTATION ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251760",
+      "course_name_en": "ROAD SAFETY ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251761",
+      "course_name_en": "PAVEMENT ANALYSIS AND DESIGN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251762",
+      "course_name_en": "Operations Research in Transportation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251763",
+      "course_name_en": "TRANSPORT PROJECT EVALUATION",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251764",
+      "course_name_en": "URBAN TRANSPORTATION AND LAND USE PLANNING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251765",
+      "course_name_en": "TRANSPORTATION MODELING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251771",
+      "course_name_en": "ADVANCED FLUID MECHANICS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251773",
+      "course_name_en": "HYDRAULIC DESIGN",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251774",
+      "course_name_en": "HYDROPOWER ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251775",
+      "course_name_en": "MODELING TECHNIQUES IN HYDRAULIC ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251776",
+      "course_name_en": "OPEN CHANNEL FLOW",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251778",
+      "course_name_en": "EROSION AND SEDIMENTATION",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251780",
+      "course_name_en": "RIVER ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251781",
+      "course_name_en": "GROUNDWATER ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251782",
+      "course_name_en": "FLOW THROUGH POROUS MEDIA",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251783",
+      "course_name_en": "Advanced Hydrology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251784",
+      "course_name_en": "WATER RESOURCES SYSTEMS ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251785",
+      "course_name_en": "STOCHASTIC PROCESSES IN HYDROLOGY",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251786",
+      "course_name_en": "Remote Sensing and GIS for Water Resources Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251787",
+      "course_name_en": "Hydrology and Water Management for Agriculture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251788",
+      "course_name_en": "Sustainable Urban Drainage Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251789",
+      "course_name_en": "SELECTED TOPICS IN WATER RESOURCES ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251728",
+      "course_name_en": "GEODESY FOR CIVIL ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251729",
+      "course_name_en": "ADJUSTMENT COMPUTATIONS IN SURVEY ENGINEERING 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251730",
+      "course_name_en": "GEOSPATIAL SCIENCE AND TECHNOLOGY IN CIVIL ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251733",
+      "course_name_en": "SURVEYING WITH SATELLITE",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251734",
+      "course_name_en": "AERIAL PHOTOGRAMMETRY",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251735",
+      "course_name_en": "APPLIED GEODETIC SURVEYING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251738",
+      "course_name_en": "ADVANCED GEODESY FOR ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251769",
+      "course_name_en": "SELECTED TOPICS IN SURVEY ENGINEERING",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251770",
+      "course_name_en": "ADJUSTMENT COMPUTATIONS IN SURVEY ENGINEERING 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251766",
+      "course_name_en": "Railway Operation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251772",
+      "course_name_en": "Elements of Railway Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251779",
+      "course_name_en": "Selected Topics in Rail Infrastructure Systems Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "264701",
+      "course_name_en": "PROJECT MANAGEMENT",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "264702",
+      "course_name_en": "Construction Planning and Project Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "264703",
+      "course_name_en": "Productivity Improvement and Quality Control in Construction",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "264706",
+      "course_name_en": "Construction Contracting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "program_name": "Bachelor of Science Program in Geography (2565)",
+  "major_tracks": [
+    "Cooperative Education in Geography",
+    "Independent Study in Geography"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well: Better Living and Disease Prevention",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-Creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154141",
+      "course_name_en": "Human Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154151",
+      "course_name_en": "Physical Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154181",
+      "course_name_en": "Environmental Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154231",
+      "course_name_en": "Computer Skills in Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154302",
+      "course_name_en": "Research in Geography",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154303",
+      "course_name_en": "Research Skills in Geography",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154311",
+      "course_name_en": "Geographic Thought",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205103",
+      "course_name_en": "Physical Geology",
+      "course_name_th": "None",
+      "credits": "4",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206191",
+      "course_name_en": "General Mathematics for Social Science",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208270",
+      "course_name_en": "Statistics in Social Sciences",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251281",
+      "course_name_en": "Elementary Survey for Non-Civil Engineering Majors",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154108",
+      "course_name_en": "Geography and Geographers",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154152",
+      "course_name_en": "Soil and Water in Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154173",
+      "course_name_en": "Map and Map Interpretation",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154251",
+      "course_name_en": "Introduction to the Atmosphere",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154261",
+      "course_name_en": "Analytical Geography of Thailand",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154282",
+      "course_name_en": "Geographies of Economy, Development and Sustainability",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154330",
+      "course_name_en": "Introduction to Geographic Information Systems",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154375",
+      "course_name_en": "Remote Sensing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154388",
+      "course_name_en": "Urban Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154499",
+      "course_name_en": "Independent Study in Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Requirements / Independent Study Option",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154410",
+      "course_name_en": "Cooperative Education in Geography",
+      "course_name_th": "None",
+      "credits": "6",
+      "category_or_track": "Major Requirements / Cooperative Education Option",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154419",
+      "course_name_en": "Practicum in Geography",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Major Requirements / Independent Study Option",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154351",
+      "course_name_en": "Introduction to Natural Disaster",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154352",
+      "course_name_en": "Climate Change: Science, Society and Policy",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154353",
+      "course_name_en": "Meteorology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154354",
+      "course_name_en": "Mountain Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154451",
+      "course_name_en": "Natural Disaster Assessment and Risk Assessment",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154452",
+      "course_name_en": "Mountain Meteorology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154454",
+      "course_name_en": "Geomorphology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154455",
+      "course_name_en": "Hydrology and Water Resources",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154456",
+      "course_name_en": "Biogeography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154457",
+      "course_name_en": "Agricultural Meteorology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154458",
+      "course_name_en": "Soil Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Physical Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154340",
+      "course_name_en": "Geography of Development",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154362",
+      "course_name_en": "Regional Dynamic of Southeast Asia",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154363",
+      "course_name_en": "Geography of Migration",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154382",
+      "course_name_en": "Energy, Environment and Society",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154384",
+      "course_name_en": "Human Ecology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154411",
+      "course_name_en": "Seminar and Workshop in Geography",
+      "course_name_th": "None",
+      "credits": "4",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154441",
+      "course_name_en": "Urban Ecology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154442",
+      "course_name_en": "State, Space and Politics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154443",
+      "course_name_en": "Space, Society and Development",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154444",
+      "course_name_en": "Space-Individual Interactions",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154445",
+      "course_name_en": "Geography of Settlement",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154446",
+      "course_name_en": "Geographies of Culture, Space and Society in the Modern World",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154461",
+      "course_name_en": "Geography of Northern Thailand",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154481",
+      "course_name_en": "Population Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154482",
+      "course_name_en": "Medical Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154484",
+      "course_name_en": "Location Theory",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154486",
+      "course_name_en": "Sustainable Environmental Management",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154487",
+      "course_name_en": "Geography of Tourism and Recreation",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154488",
+      "course_name_en": "Urban Planning Studies",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154489",
+      "course_name_en": "Urban Forms and Development",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154491",
+      "course_name_en": "Participatory Environmental Management",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154492",
+      "course_name_en": "Transportation Geography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154493",
+      "course_name_en": "Geography of Housing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154494",
+      "course_name_en": "The Preparation of the Urban General Plan",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154495",
+      "course_name_en": "The Preparation of the Urban Specific Plan",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154496",
+      "course_name_en": "Environmental Policy and Analysis",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Human Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154373",
+      "course_name_en": "Fundamental Digital Photogrammetry",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154377",
+      "course_name_en": "Multimedia Cartography",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154431",
+      "course_name_en": "Geospatial Analysis and Applications",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154432",
+      "course_name_en": "Programming for Geoinformatics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154434",
+      "course_name_en": "Geographic Information System Database Management System",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154435",
+      "course_name_en": "Spatial Data Science and Application",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154471",
+      "course_name_en": "Aerial Photograph Interpretation and Analysis from Unmanned Aerial Vehicle",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154475",
+      "course_name_en": "Digital Image Processing for Remote Sensing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154477",
+      "course_name_en": "Microwave Remote Sensing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154479",
+      "course_name_en": "Cartographic Design",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154497",
+      "course_name_en": "Environmental Geospatial Innovation Development",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Major Elective / Techniques in Geography",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

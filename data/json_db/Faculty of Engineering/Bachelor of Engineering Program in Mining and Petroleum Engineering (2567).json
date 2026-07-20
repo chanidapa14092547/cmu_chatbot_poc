@@ -1,0 +1,739 @@
+{
+  "program_name": "Bachelor of Engineering Program in Mining and Petroleum Engineering",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208161",
+      "course_name_en": "Fundamentals of Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259193",
+      "course_name_en": "Morality and Intelligence for Being a Professional",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515101",
+      "course_name_en": "Radiation in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205105",
+      "course_name_en": "Earth Science and Civilization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256100",
+      "course_name_en": "Sustainable Use of Mineral Resources",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256131",
+      "course_name_en": "Urban Mining",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203103",
+      "course_name_en": "General Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203104",
+      "course_name_en": "General Chemistry 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203107",
+      "course_name_en": "General Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203108",
+      "course_name_en": "General Chemistry Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205103",
+      "course_name_en": "Physical Geology",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205232",
+      "course_name_en": "Crystallography and Mineralogy",
+      "course_name_th": null,
+      "credits": "4",
+      "category_or_track": "Core Courses / Mathematics and Science",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259203",
+      "course_name_en": "Engineering Mechanics II",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Core Courses / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251211",
+      "course_name_en": "Strength of Materials 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251242",
+      "course_name_en": "Surveying Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252282",
+      "course_name_en": "Fundamentals of Electrical Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254282",
+      "course_name_en": "Fundamentals of Mechanical Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254333",
+      "course_name_en": "Fluid Mechanics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256316",
+      "course_name_en": "Surface Mining and Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256317",
+      "course_name_en": "Underground Mining and Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256373",
+      "course_name_en": "Geotechniques for Mining Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256335",
+      "course_name_en": "Physical Mineral Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mineral Processing",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256336",
+      "course_name_en": "Chemical Mineral Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mineral Processing",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256318",
+      "course_name_en": "Drilling and Blasting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Explosive Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256271",
+      "course_name_en": "Rock Mechanics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Rock Mechanics and Rock Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256441",
+      "course_name_en": "Mine Economics and Project Evaluation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mine Management and Mine Economics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256381",
+      "course_name_en": "Fundamentals of Petroleum Reservoir",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256383",
+      "course_name_en": "Drilling Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256384",
+      "course_name_en": "Mechanics of Petroleum Production",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256481",
+      "course_name_en": "Petroleum Reservoir Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256462",
+      "course_name_en": "Georesources Environment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Regular Plan / Mine Safety Environment and Reclamation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256491",
+      "course_name_en": "Mining and Petroleum Engineering Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major / Required / Regular and Cooperative Plans",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256400",
+      "course_name_en": "Training in Mining Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256412",
+      "course_name_en": "Computer Applications in Mining Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256416",
+      "course_name_en": "Design of Quarry and Stone Crushing Plant",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256418",
+      "course_name_en": "Geological Information for Mining Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256419",
+      "course_name_en": "Geological Information System and Remote Sensing for Mining Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256456",
+      "course_name_en": "Mine Equipment Selection",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mining and Mine Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256457",
+      "course_name_en": "Mine Plant and Accessories Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mineral Processing",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256473",
+      "course_name_en": "Tunnelling",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Rock Mechanics and Rock Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256474",
+      "course_name_en": "Rock Slope Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Rock Mechanics and Rock Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256442",
+      "course_name_en": "Mine Valuation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Mine Management and Mine Economics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256382",
+      "course_name_en": "Well Log Analysis and Formation Evaluation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256482",
+      "course_name_en": "Reservoir Simulation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256483",
+      "course_name_en": "Well Test Analysis and Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256484",
+      "course_name_en": "Enhanced Oil Recovery",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256485",
+      "course_name_en": "Carbon Capture and Storage",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256486",
+      "course_name_en": "Geoenergy Project Economics and Management",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective / Regular Plan / Petroleum Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256494",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Elective / Cooperative Education Plan",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

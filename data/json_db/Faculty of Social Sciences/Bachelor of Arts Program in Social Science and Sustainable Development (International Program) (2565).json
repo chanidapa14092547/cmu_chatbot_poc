@@ -1,0 +1,548 @@
+{
+  "program_name": "Bachelor of Arts Program in Social Science and Sustainable Development (International Program) (2565)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001224",
+      "course_name_en": "English for Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205100",
+      "course_name_en": "The Earth and its Geological Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-Creator - Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888151",
+      "course_name_en": "Digital Innovation and Trends",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127101",
+      "course_name_en": "Introduction to Political Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152101",
+      "course_name_en": "The World of Social Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152201",
+      "course_name_en": "Contemporary Theories in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152302",
+      "course_name_en": "Research Methods in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154141",
+      "course_name_en": "Human Geography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159101",
+      "course_name_en": "Introduction to Sociology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888147",
+      "course_name_en": "Innovation for Entrepreneur",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "049231",
+      "course_name_en": "Global History: Society and Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152211",
+      "course_name_en": "Introduction to Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152301",
+      "course_name_en": "Development Theories and Practices",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152312",
+      "course_name_en": "Migration and Human Mobility in ASEAN",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152313",
+      "course_name_en": "Ethnicity and Indigenous Peoples' Movement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152332",
+      "course_name_en": "Informal and Illicit Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152342",
+      "course_name_en": "The Anthropocene, Human Activity and Planetary Ecological Crisis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152422",
+      "course_name_en": "Resource Management and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152431",
+      "course_name_en": "Gender and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152481",
+      "course_name_en": "Cooperative Education in Social Sciences",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152489",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152499",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152232",
+      "course_name_en": "Refugees and Displacement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152233",
+      "course_name_en": "Ethics, Social Justice and Social Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152241",
+      "course_name_en": "Religions and Social Changes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152245",
+      "course_name_en": "Body Politics in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152303",
+      "course_name_en": "Participatory Development Field Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152311",
+      "course_name_en": "Popular Culture in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152321",
+      "course_name_en": "Transnationalism and Social Issues",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152324",
+      "course_name_en": "Civil Society, Non-Governmental Organizations and Social Movement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152331",
+      "course_name_en": "Urbanism and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152343",
+      "course_name_en": "Poverty and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152349",
+      "course_name_en": "Rights and Life Security in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152351",
+      "course_name_en": "Economic Development and Spatial Integration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152414",
+      "course_name_en": "Social Policy and Social Welfare System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152433",
+      "course_name_en": "Contemporary Topics in Social Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154382",
+      "course_name_en": "Energy, Environment and Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154443",
+      "course_name_en": "Space, Society and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159221",
+      "course_name_en": "Family and Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175335",
+      "course_name_en": "Dynamism of Highland Ethnic Communities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175432",
+      "course_name_en": "Tourism in ASEAN",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175333",
+      "course_name_en": "Cultural Rights",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "175322",
+      "course_name_en": "Food and Society in Southeast Asia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

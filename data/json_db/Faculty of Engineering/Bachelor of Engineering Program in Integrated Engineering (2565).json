@@ -1,0 +1,769 @@
+{
+  "program_name": "Bachelor of Engineering Program in Integrated Engineering (2565)",
+  "major_tracks": [
+    "Regular Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Elective (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057135",
+      "course_name_en": "Aerobic Exercise for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057138",
+      "course_name_en": "Thai Wisdom Sports for Self-Defense",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259193",
+      "course_name_en": "Morality and Intelligence for Being a Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259195",
+      "course_name_en": "Managing Activities for Development",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Course / Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252282",
+      "course_name_en": "Fundamentals of Electrical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252283",
+      "course_name_en": "Basic Electrical Engineering Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Course / Engineering",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259300",
+      "course_name_en": "Engineering Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required (Regular Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259301",
+      "course_name_en": "Innovation to Market",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259499",
+      "course_name_en": "Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259498",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major / Required (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251211",
+      "course_name_en": "Strength of Materials 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251213",
+      "course_name_en": "Theory of Structures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251216",
+      "course_name_en": "Structural Materials and Testing",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251242",
+      "course_name_en": "Surveying Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251261",
+      "course_name_en": "Hydraulics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "251313",
+      "course_name_en": "Reinforced Concrete Design",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives (Civil Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252201",
+      "course_name_en": "Electrical Measurements and Instruments",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252211",
+      "course_name_en": "Electric Circuits 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252212",
+      "course_name_en": "Electric Circuits 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252222",
+      "course_name_en": "Electrical Machines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Electrical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253215",
+      "course_name_en": "Chemistry for Environmental Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Environmental Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253216",
+      "course_name_en": "Environmental Engineering Unit Processes and Operations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Environmental Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254215",
+      "course_name_en": "Mechanics of Solids 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Mechanical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254231",
+      "course_name_en": "Engineering Thermodynamics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Mechanical Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255201",
+      "course_name_en": "Quantitative Analysis in Industrial Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Industrial Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255330",
+      "course_name_en": "Engineering Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Industrial Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "205103",
+      "course_name_en": "Physical Geology",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Electives (Mining Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259401",
+      "course_name_en": "Power Plant Operation and Maintenance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (General Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261200",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Computer Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261210",
+      "course_name_en": "Logic and Digital Circuits",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Computer Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261305",
+      "course_name_en": "Operating Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Computer Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261335",
+      "course_name_en": "Computer Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Computer Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261441",
+      "course_name_en": "Internet of Things and Big Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives (Computer Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

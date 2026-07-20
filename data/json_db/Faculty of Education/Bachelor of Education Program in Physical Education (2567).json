@@ -1,0 +1,1028 @@
+{
+  "program_name": "Bachelor of Education Program in Physical Education (2567)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิพากษ์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001202",
+      "course_name_en": "English in Professional Contexts",
+      "course_name_th": "ภาษาอังกฤษในบริบทวิชาชีพ",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "การใช้ภาษาไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "โภชนาการเพื่อการส่งเสริมสุขภาพ",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "การส่งเสริมสุขภาพในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "การกินดี: เพื่อความเป็นอยู่ที่ดีขึ้นและการป้องกันโรค",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "สมุนไพรเพื่อสุขภาพและความงาม",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "การเงินในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063201",
+      "course_name_en": "Learning through Social Phenomenon",
+      "course_name_th": "การเรียนรู้ผ่านปรากฏการณ์ทางสังคม",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "โลกยุคใหม่ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายกับโลกยุคใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "ความรู้เบื้องต้นเกี่ยวกับการเป็นผู้ประกอบการและธุรกิจ",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "ความเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "มนุษย์กับศิลปะ",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "หลักการอนุรักษ์",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "ชีวิตยุคใหม่กับแอนิเมชัน",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen / Elective Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100113",
+      "course_name_en": "Teacher as a Transformative Leader",
+      "course_name_th": "ครูในฐานะผู้นำการเปลี่ยนแปลง",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100114",
+      "course_name_en": "Education and Social Change in Contemporary Society",
+      "course_name_th": "การศึกษาและการเปลี่ยนแปลงทางสังคมในสังคมร่วมสมัย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100115",
+      "course_name_en": "Curriculum Science and Learning Management in Modern Age",
+      "course_name_th": "ศาสตร์หลักสูตรและการจัดการเรียนรู้ในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100116",
+      "course_name_en": "Psychology for Student Development in Modern Age",
+      "course_name_th": "จิตวิทยาเพื่อการพัฒนาผู้เรียนในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100192",
+      "course_name_en": "Teaching Profession Practicum in School 1",
+      "course_name_th": "การปฏิบัติการวิชาชีพครูในสถานศึกษา 1",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100234",
+      "course_name_en": "Communicative Language for Teachers in Modern Era",
+      "course_name_th": "ภาษาเพื่อการสื่อสารสำหรับครูในยุคใหม่",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100235",
+      "course_name_en": "Innovation and Technology for Learning in Digital World",
+      "course_name_th": "นวัตกรรมและเทคโนโลยีเพื่อการเรียนรู้ในโลกดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100236",
+      "course_name_en": "Learning Measurement and Evaluation in Digital Era",
+      "course_name_th": "การวัดและการประเมินผลการเรียนรู้ในยุคดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100237",
+      "course_name_en": "Educational Quality Assurance for Sustainability",
+      "course_name_th": "การประกันคุณภาพการศึกษาเพื่อความยั่งยืน",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100292",
+      "course_name_en": "Teaching Profession Practicum in School 2",
+      "course_name_th": "การปฏิบัติการวิชาชีพครูในสถานศึกษา 2",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100318",
+      "course_name_en": "Multicultural Education for Teachers in Contemporary Society",
+      "course_name_th": "พหุวัฒนธรรมศึกษาสำหรับครูในสังคมร่วมสมัย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100320",
+      "course_name_en": "Modern Microteaching Skills Practice",
+      "course_name_th": "การฝึกปฏิบัติทักษะการสอนจุลภาคยุคใหม่",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100392",
+      "course_name_en": "Teaching Profession Practicum in School 3",
+      "course_name_th": "การปฏิบัติการวิชาชีพครูในสถานศึกษา 3",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100405",
+      "course_name_en": "Research for Educational Innovation Development",
+      "course_name_th": "การวิจัยเพื่อการพัฒนานวัตกรรมการศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100492",
+      "course_name_en": "Teaching Profession Practicum in School 4",
+      "course_name_th": "การปฏิบัติการวิชาชีพครูในสถานศึกษา 4",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Core Courses / Required Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100214",
+      "course_name_en": "Active Learning Management",
+      "course_name_th": "การจัดการเรียนรู้เชิงรุก",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100215",
+      "course_name_en": "Teaching Styles for Professional Teachers",
+      "course_name_th": "รูปแบบการสอนสำหรับครูมืออาชีพ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100216",
+      "course_name_en": "Differentiated Instruction",
+      "course_name_th": "การจัดการเรียนรู้ที่เน้นความแตกต่างระหว่างบุคคล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100217",
+      "course_name_en": "Information for Learning",
+      "course_name_th": "สารสนเทศเพื่อการเรียนรู้",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100220",
+      "course_name_en": "Creative Art Integration in Education",
+      "course_name_th": "การบูรณาการศิลปะสร้างสรรค์ในการศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100222",
+      "course_name_en": "Global Education for Lifelong Learning",
+      "course_name_th": "การศึกษาโลกเพื่อการเรียนรู้ตลอดชีวิต",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100232",
+      "course_name_en": "Laws for Teaching Profession",
+      "course_name_th": "กฎหมายสำหรับวิชาชีพครู",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100238",
+      "course_name_en": "Driving Change and Innovation by STEM Education",
+      "course_name_th": "การขับเคลื่อนการเปลี่ยนแปลงและนวัตกรรมด้วยสะเต็มศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100239",
+      "course_name_en": "Career Progress Pathway of Teaching Profession",
+      "course_name_th": "เส้นทางความก้าวหน้าในวิชาชีพครู",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100240",
+      "course_name_en": "Mental Health in Children and Adolescents",
+      "course_name_th": "สุขภาพจิตในเด็กและวัยรุ่น",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100241",
+      "course_name_en": "Integrated Science-Mathematics for Society and Community",
+      "course_name_th": "วิทยาศาสตร์-คณิตศาสตร์บูรณาการเพื่อสังคมและชุมชน",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100242",
+      "course_name_en": "Learning Management of Basic Mechanic Working in Living",
+      "course_name_th": "การจัดการเรียนรู้การงานช่างพื้นฐานในวิถีชีวิต",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100243",
+      "course_name_en": "Basic Educational Statistics in Digital Age",
+      "course_name_th": "สถิติทางการศึกษาเบื้องต้นในยุคดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100244",
+      "course_name_en": "The Use of Music in Life Skills and Communication Development for Teachers",
+      "course_name_th": "การใช้ดนตรีในการพัฒนาทักษะชีวิตและการสื่อสารสำหรับครู",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "100319",
+      "course_name_en": "Education Provision for Learners with Special Needs",
+      "course_name_th": "การจัดการศึกษาสำหรับผู้เรียนที่มีความต้องการจำเป็นพิเศษ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses / Electives Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057140",
+      "course_name_en": "Sports Philosophy and Olympic Studies",
+      "course_name_th": "ปรัชญากีฬาและโอลิมปิกศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057284",
+      "course_name_en": "Football Study",
+      "course_name_th": "วิชาฟุตบอล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057285",
+      "course_name_en": "Swimming Study",
+      "course_name_th": "วิชาว่ายน้ำ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057286",
+      "course_name_en": "Volleyball Study",
+      "course_name_th": "วิชาวอลเลย์บอล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057287",
+      "course_name_en": "Track and Field Study",
+      "course_name_th": "วิชากรีฑา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057288",
+      "course_name_en": "Basketball Study",
+      "course_name_th": "วิชาบาสเกตบอล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057294",
+      "course_name_en": "Table Tennis Study",
+      "course_name_th": "วิชาเทเบิลเทนนิส",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057295",
+      "course_name_en": "Sword and Pole and Thai Fencing Studies",
+      "course_name_th": "วิชากระบี่กระบองและฟันดาบไทย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057297",
+      "course_name_en": "Sepak Takraw Study",
+      "course_name_th": "วิชาเซปักตะกร้อ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057298",
+      "course_name_en": "Muaythai Study",
+      "course_name_th": "วิชามวยไทย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057300",
+      "course_name_en": "Principles of Sports Science in Sports and Exercise",
+      "course_name_th": "หลักวิทยาศาสตร์การกีฬาในการกีฬาและการออกกำลังกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057301",
+      "course_name_en": "Principles of Movement in Exercise and Sports",
+      "course_name_th": "หลักการเคลื่อนไหวในการออกกำลังกายและการกีฬา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057309",
+      "course_name_en": "309",
+      "course_name_th": "309",
+      "credits": "0",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057366",
+      "course_name_en": "Weight Training",
+      "course_name_th": "การฝึกด้วยน้ำหนัก",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057420",
+      "course_name_en": "Organizing Events",
+      "course_name_th": "การจัดกิจกรรม",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057428",
+      "course_name_en": "Scout",
+      "course_name_th": "ลูกเสือ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301361",
+      "course_name_en": "Anatomy for Educational Students",
+      "course_name_th": "กายวิภาคศาสตร์สำหรับนักศึกษาครู",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057201",
+      "course_name_en": "Camp Administration and Management",
+      "course_name_th": "การบริหารและการจัดการค่าย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057205",
+      "course_name_en": "Technique and Skill in Lead Up Games",
+      "course_name_th": "เทคนิคและทักษะในเกมนำไปสู่กีฬา",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057207",
+      "course_name_en": "Lifesaving",
+      "course_name_th": "การช่วยชีวิต",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057208",
+      "course_name_en": "Physical Activity and Thai Traditional Plays",
+      "course_name_th": "กิจกรรมทางกายและการละเล่นพื้นเมืองไทย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057215",
+      "course_name_en": "introduction to Recreation",
+      "course_name_th": "นันทนาการเบื้องต้น",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057273",
+      "course_name_en": "Handball Study",
+      "course_name_th": "วิชาแฮนด์บอล",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057274",
+      "course_name_en": "Futsal Study",
+      "course_name_th": "วิชาฟุตซอล",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057276",
+      "course_name_en": "Taekwondo Study",
+      "course_name_th": "วิชาเทควันโด",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057278",
+      "course_name_en": "Hockey Study",
+      "course_name_th": "วิชาฮอกกี้",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057279",
+      "course_name_en": "Judo Study",
+      "course_name_th": "วิชายูโด",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057280",
+      "course_name_en": "Boxing Study",
+      "course_name_th": "วิชามวยสากล",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057283",
+      "course_name_en": "Rhythmic Activity Study",
+      "course_name_th": "วิชากิจกรรมเข้าจังหวะ",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057289",
+      "course_name_en": "Badminton Study",
+      "course_name_th": "วิชาแบดมินตัน",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057290",
+      "course_name_en": "Tennis Study",
+      "course_name_th": "วิชาเทนนิส",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057293",
+      "course_name_en": "Aerobic Exercise",
+      "course_name_th": "การออกกำลังกายแบบแอโรบิก",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057296",
+      "course_name_en": "Gymnastic Study",
+      "course_name_th": "วิชายิมนาสติก",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057302",
+      "course_name_en": "Body Conditioning",
+      "course_name_th": "การเตรียมความพร้อมของร่างกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057305",
+      "course_name_en": "Children Activities",
+      "course_name_th": "กิจกรรมสำหรับเด็ก",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057324",
+      "course_name_en": "Knowledge Management for Physical Education and Sports",
+      "course_name_th": "การจัดการความรู้สำหรับพลศึกษาและกีฬา",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057325",
+      "course_name_en": "Physical Activity for the Disabled",
+      "course_name_th": "กิจกรรมทางกายสำหรับผู้พิการ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057351",
+      "course_name_en": "Martial Arts Study",
+      "course_name_th": "วิชาศิลปะการต่อสู้ป้องกันตัว",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057403",
+      "course_name_en": "Instructional Design for Physical Activities",
+      "course_name_th": "การออกแบบการสอนสำหรับกิจกรรมทางกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057404",
+      "course_name_en": "Fitness Assessment and Exercise Prescription",
+      "course_name_th": "การประเมินสมรรถภาพและการกำหนดการออกกำลังกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057410",
+      "course_name_en": "Sport and Exercise Psychology",
+      "course_name_th": "จิตวิทยาการกีฬาและการออกกำลังกาย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057411",
+      "course_name_en": "Sport and Exercise Nutrition",
+      "course_name_th": "โภชนาการการกีฬาและการออกกำลังกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057416",
+      "course_name_en": "Research in Physical Education and Sports Science",
+      "course_name_th": "การวิจัยทางพลศึกษาและวิทยาศาสตร์การกีฬา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057419",
+      "course_name_en": "Sport and Exercise Management",
+      "course_name_th": "การจัดการการกีฬาและการออกกำลังกาย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057426",
+      "course_name_en": "Physical Education Administration",
+      "course_name_th": "การบริหารงานพลศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057450",
+      "course_name_en": "Sports Marketing",
+      "course_name_th": "การตลาดการกีฬา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Academic Content Courses (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057316",
+      "course_name_en": "Principles of Physical Education",
+      "course_name_th": "หลักพลศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057401",
+      "course_name_en": "Test, Measurement and Evaluation in Physical Education",
+      "course_name_th": "การทดสอบ การวัด และการประเมินผลในพลศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057402",
+      "course_name_en": "Innovation, Technology and Research in Physical Education and Sports Science",
+      "course_name_th": "นวัตกรรม เทคโนโลยี และการวิจัยทางพลศึกษาและวิทยาศาสตร์การกีฬา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057407",
+      "course_name_en": "Curriculum and Learning Management in Physical Education",
+      "course_name_th": "หลักสูตรและการจัดการเรียนรู้ในพลศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057453",
+      "course_name_en": "Multicultural Study and Physical Education Teaching and Learning",
+      "course_name_th": "พหุวัฒนธรรมศึกษากับการเรียนการสอนพลศึกษา",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Educational Courses",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

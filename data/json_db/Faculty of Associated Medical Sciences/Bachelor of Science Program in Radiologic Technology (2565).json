@@ -1,0 +1,888 @@
+{
+  "program_name": "Bachelor of Science Program in Radiologic Technology (2565)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Required (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057123",
+      "course_name_en": "Volleyball for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057134",
+      "course_name_en": "Muscle Building with Weight Training",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057135",
+      "course_name_en": "Aerobic Exercise for Health",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "329203",
+      "course_name_en": "Personality Development for Health Science Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Innovative Co-Creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Electives (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202184",
+      "course_name_en": "Basic Biology for the Health Sciences 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203151",
+      "course_name_en": "General Chemistry for the Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203152",
+      "course_name_en": "Organic Chemistry for the Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203157",
+      "course_name_en": "General Chemistry Laboratory for the Health Sciences",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203158",
+      "course_name_en": "Organic Chemistry Laboratory for the Health Sciences",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206101",
+      "course_name_en": "Calculus for Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207131",
+      "course_name_en": "Physics for Associated Medical Sciences Students 1",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207162",
+      "course_name_en": "Physics for Associated Medical Sciences Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207171",
+      "course_name_en": "Physics Laboratory for Associated Medical Sciences Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207172",
+      "course_name_en": "Physics Laboratory for Associated Medical Sciences Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208140",
+      "course_name_en": "Elementary Statistics for Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301233",
+      "course_name_en": "Basic Anatomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303232",
+      "course_name_en": "Biochemistry for Radiologic Technology Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "318322",
+      "course_name_en": "Pathology for Associated Medical Sciences Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321231",
+      "course_name_en": "Physiology for Associated Medical Sciences Students",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552232",
+      "course_name_en": "Care of Patients with Radiological Diagnosis and Therapy",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515100",
+      "course_name_en": "Introduction to Radiological Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515102",
+      "course_name_en": "Laboratory of Electronics and Applications for Radiological Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515113",
+      "course_name_en": "Basic Medical Radiation Physics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515210",
+      "course_name_en": "Radiobiology for Radiologic Technology Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515212",
+      "course_name_en": "Radiation Measurement and Dosimetry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515213",
+      "course_name_en": "Radiation Protection",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515222",
+      "course_name_en": "Instrument and Image Formation in Radiography 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515223",
+      "course_name_en": "Instrument and Image Formation in Radiography 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515301",
+      "course_name_en": "Ethics, Administration and Law for Radiologic Technologist",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515313",
+      "course_name_en": "Basic Data Sciences for Radiology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515320",
+      "course_name_en": "General Radiographic Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515322",
+      "course_name_en": "Equipments and Techniques of Computed Tomography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515323",
+      "course_name_en": "Laboratory of Basic Ultrasonography",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515324",
+      "course_name_en": "Equipment and Fundamentals of Magnetic Resonance Imaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515325",
+      "course_name_en": "Clinical Applications of Magnetic Resonance Imaging",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515326",
+      "course_name_en": "Radiographic Anatomy and Radiopathology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515327",
+      "course_name_en": "Practice in General Radiographic Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515328",
+      "course_name_en": "Practice in Special Radiographic Technique",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515329",
+      "course_name_en": "Special Radiographic Techniques",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515351",
+      "course_name_en": "Techniques in Nuclear Medicine 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515352",
+      "course_name_en": "Techniques in Nuclear Medicine 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515353",
+      "course_name_en": "Nuclear Medicine Instrumentation and Quality Control",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515390",
+      "course_name_en": "Research Methodology in Radiologic Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515458",
+      "course_name_en": "Practice in Nuclear Medicine",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515460",
+      "course_name_en": "Molecular imaging",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515470",
+      "course_name_en": "Radiotherapy Technique 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515471",
+      "course_name_en": "Radiotherapy Technique 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515473",
+      "course_name_en": "Clinical Applications of Radiotherapy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515478",
+      "course_name_en": "Practice in Radiotherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515482",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515492",
+      "course_name_en": "Term Paper",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510351",
+      "course_name_en": "Inter-professional Healthcare",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515461",
+      "course_name_en": "Practice in Positron Emission Tomography",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515462",
+      "course_name_en": "Practice in Image Guided Radiation Therapy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515463",
+      "course_name_en": "Modern Medical Imaging Technology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515464",
+      "course_name_en": "Radiation Shielding Design",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515465",
+      "course_name_en": "Radiation Biodosimetry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515466",
+      "course_name_en": "Electronics and Application for Radiologic Technology 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515467",
+      "course_name_en": "Basic Application of Artificial Intelligence for Medical Radiation Data",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515468",
+      "course_name_en": "Cancer Theranostics",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515469",
+      "course_name_en": "Environmental Radiation Monitoring",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515472",
+      "course_name_en": "Practical Programming for Digital Imaging and Communications in Medicine",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "program_name": "Bachelor of Science Program in Communication Sciences and Disorders (2568)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001245",
+      "course_name_en": "Reading English in the Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Language Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Digital Literacy)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Required (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "900100",
+      "course_name_en": "Biomedical Engineering in Daily Life",
+      "course_name_th": "วิศวกรรมชีวการแพทย์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Creativity and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Entrepreneurial Skills)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Digital Literacy or Global Citizen or Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Digital Literacy or Global Citizen or Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050111",
+      "course_name_en": "Man and Quest for Knowledge",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888108",
+      "course_name_en": "Smart Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Global Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955114",
+      "course_name_en": "Generative Artificial Intelligence for Arts and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955115",
+      "course_name_en": "Generative Artificial Intelligence for Digital Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Elective (Artificial Intelligence)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048110",
+      "course_name_en": "Language and Humanities",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "048210",
+      "course_name_en": "Phonetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "070200",
+      "course_name_en": "Educating Individuals with Disabilities",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208140",
+      "course_name_en": "Elementary Statistics for Health Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301233",
+      "course_name_en": "Basic Anatomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301255",
+      "course_name_en": "Neuroanatomy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321131",
+      "course_name_en": "Physiology for Communication Sciences And Disorders Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "513332",
+      "course_name_en": "Fundamentals of Research Methodology",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "515214",
+      "course_name_en": "Acoustic Bases of Speech and Hearing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "552122",
+      "course_name_en": "Principles of Nursing Care for Communication Sciences and Disorders Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520111",
+      "course_name_en": "Introduction to the Communication Disorders Professionals",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520121",
+      "course_name_en": "Therapeutic Communication and Relationships",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520211",
+      "course_name_en": "Diseases of Ear, Throat, and Nose in relation to Communication Disorders",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520213",
+      "course_name_en": "Developmental Psychology and Introduction to Language and Speech Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520214",
+      "course_name_en": "Basic Knowledge of Communication Disorders",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520215",
+      "course_name_en": "Principles of Audiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520241",
+      "course_name_en": "Clinical Observation",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520242",
+      "course_name_en": "Clinical Practicum in Language and Speech 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520251",
+      "course_name_en": "Clinical Practicum in Audiology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520271",
+      "course_name_en": "Language and Speech in Children with Specific Language Impairment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520272",
+      "course_name_en": "Articulation Disorders",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520321",
+      "course_name_en": "Principles of Aural Rehabilitation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520322",
+      "course_name_en": "Elementary Counseling for Individual with Communication Disorders",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520323",
+      "course_name_en": "Introduction to Voice Disorders and Cleft Lip/Palate",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520324",
+      "course_name_en": "Introduction to Neurological Communication Disorders and Swallowing Disorders",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520343",
+      "course_name_en": "Clinical Practicum in Language and Speech 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520344",
+      "course_name_en": "Clinical Practicum in Language and Speech 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520352",
+      "course_name_en": "Clinical Practicum in Aural Rehabilitation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520373",
+      "course_name_en": "Language and Speech in Children with Intellectual Disability and Cerebral Palsy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520374",
+      "course_name_en": "Language and Speech in Children with Autism and Emotional and Behavioral Problem",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520375",
+      "course_name_en": "Literacy in Children with Learning Disorders for Communication Sciences and Disorders Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520411",
+      "course_name_en": "Basic Administration, Related Laws, and Professional Ethics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520431",
+      "course_name_en": "Term Paper 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520432",
+      "course_name_en": "Term Paper 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520433",
+      "course_name_en": "Research Seminar in Communication Disorders",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520445",
+      "course_name_en": "Clinical Practicum in Language and Speech 4",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520446",
+      "course_name_en": "Clinical Practicum in Language and Speech 5",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520461",
+      "course_name_en": "Multidisciplinary Team and Community Work For Communication Sciences and Disorders Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "520491",
+      "course_name_en": "Communication in the Older Person",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

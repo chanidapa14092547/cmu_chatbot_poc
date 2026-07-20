@@ -1,0 +1,1043 @@
+{
+  "program_name": "Bachelor of Science Program in Mathematics (2564)",
+  "major_tracks": [
+    "Track 1 General Mathematics",
+    "Track 2 Teaching Mathematics",
+    "Track 3 Financial and Insurance Mathematics",
+    "Track 4 Industrial Mathematics",
+    "Track 5 Pure Mathematics",
+    "Track 6 Applied Mathematics"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202101",
+      "course_name_en": "Basic Biology 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202103",
+      "course_name_en": "Biology Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204101",
+      "course_name_en": "Introduction to Computer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206111",
+      "course_name_en": "Calculus 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206112",
+      "course_name_en": "Calculus 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207117",
+      "course_name_en": "Physics Laboratory 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "Physics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208264",
+      "course_name_en": "Principles of Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202102",
+      "course_name_en": "Basic Biology 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202104",
+      "course_name_en": "Biology Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203113",
+      "course_name_en": "Chemistry 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203117",
+      "course_name_en": "Chemistry Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207118",
+      "course_name_en": "Physics Laboratory 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207188",
+      "course_name_en": "Physics 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course (Elective Option)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206211",
+      "course_name_en": "Advanced Calculus 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206217",
+      "course_name_en": "Fundamental Concepts of Mathematics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206321",
+      "course_name_en": "Introduction to Abstract Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206336",
+      "course_name_en": "Real Analysis 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206341",
+      "course_name_en": "Differential Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206355",
+      "course_name_en": "Numerical Method",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206390",
+      "course_name_en": "Seminar in Mathematics",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206437",
+      "course_name_en": "Complex Variables",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206492",
+      "course_name_en": "Mathematical Practicum",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206499",
+      "course_name_en": "Independent Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208280",
+      "course_name_en": "Statistical Methods",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Joint Major Requirement",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206281",
+      "course_name_en": "Discrete Mathematics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 2 & Track 5)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206328",
+      "course_name_en": "Theory of Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206370",
+      "course_name_en": "Probability 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 2, 3 & 4)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206411",
+      "course_name_en": "Classical Geometry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 2)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206300",
+      "course_name_en": "Mathematics of Finance and Insurance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 3 & Track 4)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206457",
+      "course_name_en": "Mathematics of Financial Derivatives",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206471",
+      "course_name_en": "Introduction to Actuarial Mathematics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 3)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206383",
+      "course_name_en": "Deterministic Operations Research Models",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 4)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206465",
+      "course_name_en": "Principles of Mathematical Modeling",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 4)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206311",
+      "course_name_en": "Axiomatic Set Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 5)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206313",
+      "course_name_en": "Introduction to Topology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 5)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206331",
+      "course_name_en": "Advanced Calculus 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 5 & Track 6)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206254",
+      "course_name_en": "Mathematical Package",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 6)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206442",
+      "course_name_en": "Partial Differential Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track Requirement (Track 6)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206207",
+      "course_name_en": "Solid Analytic Geometry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206216",
+      "course_name_en": "Introduction to Mathematical Logic",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206312",
+      "course_name_en": "Introduction to Foundation of Geometry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206327",
+      "course_name_en": "Theory of Numbers 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206335",
+      "course_name_en": "Vector Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206357",
+      "course_name_en": "Scientific Computation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206358",
+      "course_name_en": "Mathematics for Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206381",
+      "course_name_en": "Combinatorics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206412",
+      "course_name_en": "Topology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206415",
+      "course_name_en": "Introduction to Homotopy Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206421",
+      "course_name_en": "Abstract Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206423",
+      "course_name_en": "Wavelets",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206426",
+      "course_name_en": "Linear Algebra 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206427",
+      "course_name_en": "Theory of Numbers 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206428",
+      "course_name_en": "Coding Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206432",
+      "course_name_en": "Introduction to Functional Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206435",
+      "course_name_en": "Real Analysis 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206436",
+      "course_name_en": "Introduction to Calculus of Variations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206438",
+      "course_name_en": "Fixed Point Theory and Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206441",
+      "course_name_en": "Nonlinear Ordinary Differential Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206446",
+      "course_name_en": "Differential Geometry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206453",
+      "course_name_en": "Computational Optimization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206455",
+      "course_name_en": "Numerical Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206456",
+      "course_name_en": "Numerical Method for Differential Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206463",
+      "course_name_en": "Deterministic Optimization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206464",
+      "course_name_en": "Introduction to Mathematical Control Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206467",
+      "course_name_en": "Neural Networks",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206470",
+      "course_name_en": "Probability 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206473",
+      "course_name_en": "Portfolio Optimization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206474",
+      "course_name_en": "Stochastic Processes and Martingale Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206476",
+      "course_name_en": "Game theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206481",
+      "course_name_en": "Graph Theory",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206483",
+      "course_name_en": "Combinatorial Optimization",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206705",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "219720",
+      "course_name_en": "Matrix Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206720",
+      "course_name_en": "Algebra 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206731",
+      "course_name_en": "REAL ANALYSIS 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206734",
+      "course_name_en": "FUNCTIONAL ANALYSIS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206738",
+      "course_name_en": "COMBINATORICS",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206743",
+      "course_name_en": "Theory of Differntial Equations",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "219731",
+      "course_name_en": "Applied Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "219753",
+      "course_name_en": "Numerical Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Track 5 & Track 6 Honors Graduate Level Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

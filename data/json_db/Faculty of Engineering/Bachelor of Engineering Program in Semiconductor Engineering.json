@@ -1,0 +1,1110 @@
+{
+  "program_name": "Bachelor of Engineering Program in Semiconductor Engineering",
+  "major_tracks": [
+    "Integrated Circuit Design Field of Study",
+    "Semiconductor Assembly and Testing Field of Study",
+    "Semiconductor Fabrication Field of Study"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English for Science and Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206362",
+      "course_name_en": "Applied Differential Equation for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Mathematics and Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252213",
+      "course_name_en": "Electric Circuit Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252232",
+      "course_name_en": "Electronic Devices",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252235",
+      "course_name_en": "Engineering Electronic Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252311",
+      "course_name_en": "Electromagnetic Fields and Waves",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252317",
+      "course_name_en": "Signal Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252473",
+      "course_name_en": "Electrical Engineering Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261210",
+      "course_name_en": "Logic and Digital Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275101",
+      "course_name_en": "Introduction to Semiconductor Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core - Common Technical Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207322",
+      "course_name_en": "Solid State Physics for Semiconductor Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252201",
+      "course_name_en": "Electrical Measurements and Instruments",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252210",
+      "course_name_en": "Basic Electrical Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252330",
+      "course_name_en": "Electronic Engineering Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252342",
+      "course_name_en": "Principles of Communication Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252353",
+      "course_name_en": "Control Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252413",
+      "course_name_en": "Digital Signal Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261212",
+      "course_name_en": "Logic and Digital Circuits Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261304",
+      "course_name_en": "Computer Architecture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275201",
+      "course_name_en": "Algorithms for Semiconductor Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275241",
+      "course_name_en": "Semiconductor Devices Laboratory",
+      "course_name_th": null,
+      "credits": "1",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275335",
+      "course_name_en": "Integrated Circuit Fabrication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275343",
+      "course_name_en": "Microcomputer Project Laboratory for Semiconductor Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275493",
+      "course_name_en": "Semiconductor Engineering Project 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275494",
+      "course_name_en": "Semiconductor Engineering Project 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275488",
+      "course_name_en": "Cooperative Education in Semiconductor Engineering",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Integrated Circuit Design Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255321",
+      "course_name_en": "Industrial Engineering Quality Control",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255323",
+      "course_name_en": "Introduction to Quality Assurance",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275221",
+      "course_name_en": "Automation Systems for Electronics Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275321",
+      "course_name_en": "Mixed-Signal Integrated Circuits Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275322",
+      "course_name_en": "VLSI Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275323",
+      "course_name_en": "Integrated Circuit Reliability and Failure Analysis",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275443",
+      "course_name_en": "Advanced Laboratory in Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275324",
+      "course_name_en": "Electronics Manufacturing Process",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275425",
+      "course_name_en": "Front-end-of-line in Assembly Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275426",
+      "course_name_en": "Back-end-of-line in Assembly Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275444",
+      "course_name_en": "Advanced Laboratory in Assembly",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275445",
+      "course_name_en": "Advanced Laboratory in Electronics Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Assembly and Testing Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252474",
+      "course_name_en": "Introduction to CMOS VLSI Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255201",
+      "course_name_en": "Quantitative Analysis in Industrial Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255337",
+      "course_name_en": "Safety Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275325",
+      "course_name_en": "Specialty Chemicals for Semiconductors",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275326",
+      "course_name_en": "Chemical Vapor Deposition Process for Microelectronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275327",
+      "course_name_en": "Material Analysis and Semiconductor Device Characterization Techniques",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275328",
+      "course_name_en": "Electrochemistry Process for Semiconductor",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275329",
+      "course_name_en": "Power Semiconductor Devices",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275331",
+      "course_name_en": "Fundamental of Plasma Processing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275332",
+      "course_name_en": "Semiconductor Process Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275342",
+      "course_name_en": "Practice of Semiconductor Manufacturing Process",
+      "course_name_th": null,
+      "credits": "2",
+      "category_or_track": "Semiconductor Fabrication Field of Study - Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252455",
+      "course_name_en": "Modern Control System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252461",
+      "course_name_en": "Embedded Systems and Communication Protocols for IoT",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261305",
+      "course_name_en": "Operating Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261441",
+      "course_name_en": "Internet of Things and Big Data",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261476",
+      "course_name_en": "Biomedical Instruments",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261499",
+      "course_name_en": "Selected Topics in Computational Intelligence",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275401",
+      "course_name_en": "Complex Analysis for Electric Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275402",
+      "course_name_en": "Design of Feedback Circuits and Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275410",
+      "course_name_en": "Integrated Circuit Physical Design Methodologies",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275411",
+      "course_name_en": "Analysis and Design of Analog CMOS Integrated Circuit",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275412",
+      "course_name_en": "Analysis and Design of Digital Integrated Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275413",
+      "course_name_en": "Design of CMOS Mixed-Signal Integrated Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275414",
+      "course_name_en": "Advanced Semiconductor Devices",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275415",
+      "course_name_en": "Integrated Circuit Testing and Design for Testability",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275416",
+      "course_name_en": "VLSI Design Verification",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275417",
+      "course_name_en": "Design of Complex Digital Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275418",
+      "course_name_en": "Selected Topics in Microelectronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275419",
+      "course_name_en": "Special Topics in Microelectronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275451",
+      "course_name_en": "Design of Radio-Frequency Integrated Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275452",
+      "course_name_en": "Electromagnetic Field Theory for Smart Sensing Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275455",
+      "course_name_en": "Design of Digital RF Integrated Circuits",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275461",
+      "course_name_en": "Design of Power Electronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275471",
+      "course_name_en": "Quantum Mechanics for Engineers",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275495",
+      "course_name_en": "Capstone Design Project in Semiconductor Engineering",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255320",
+      "course_name_en": "Engineering Operation Research",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255447",
+      "course_name_en": "Industrial Robotics and Artificial Intelligence Applications",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255454",
+      "course_name_en": "Manufacturing Automation System",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275421",
+      "course_name_en": "Semiconductor Packaging Materials",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275422",
+      "course_name_en": "PLC for Semiconductor Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275423",
+      "course_name_en": "Microelectromechanical Systems",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275424",
+      "course_name_en": "Computer Network for Industry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275428",
+      "course_name_en": "Selected Topics in Assembly and Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275429",
+      "course_name_en": "Special Topics in Assembly and Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275431",
+      "course_name_en": "PCB Manufacturing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275432",
+      "course_name_en": "PCB Design",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275453",
+      "course_name_en": "Radio-Frequency Microelectronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275454",
+      "course_name_en": "Optoelectronics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275433",
+      "course_name_en": "Semiconductor Packaging and Testing Equipment",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275434",
+      "course_name_en": "Advanced Packaging Process",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275435",
+      "course_name_en": "Heat Transfer for Integrated Circuit Fabrication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275438",
+      "course_name_en": "Selected Topics in Integrated Circuit Fabrication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275439",
+      "course_name_en": "Special Topics in Integrated Circuit Fabrication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "275446",
+      "course_name_en": "Practice of Semiconductor Packaging and Testing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

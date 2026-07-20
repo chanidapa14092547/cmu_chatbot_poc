@@ -1,0 +1,1888 @@
+{
+  "program_name": "Doctor of Pharmacy Program (2563)",
+  "major_tracks": [
+    "Industrial Pharmacy (แผน 1 เภสัชกรรมอุตสาหการ)",
+    "Pharmaceutical Care (แผน 2 บริบาลทางเภสัชกรรม)"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "ENGL 101 Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "ENGL 102 Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "ENGL 201 Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001226",
+      "course_name_en": "ENGL 226 English in Health Sciences Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "CPE 111 Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "PG 104 Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "460301",
+      "course_name_en": "PHDA 301 Self-Development for Professionalism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "PHIL 100 Man and Philosophy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "FAGE 115 Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109118",
+      "course_name_en": "FAGE 118 Aesthetics in Lanna Art",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "GOV 100 Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "ARCT 100 Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "ANI 100 Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "PHIL 151 Reasoning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "PSY 110 Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "HUGE 106 Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "EDCI 101 Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "SC 190 Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "CS 123 Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "CS 171 Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "ATGE 113 Generative Artificial Intelligence for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955114",
+      "course_name_en": "ATGE 114 Generative Artificial Intelligence for Arts and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955115",
+      "course_name_en": "ATGE 115 Generative Artificial Intelligence for Digital Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "MGMT 103 Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202141",
+      "course_name_en": "BIOL 141 Biology for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202142",
+      "course_name_en": "BIOL 142 Biology Laboratory for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203171",
+      "course_name_en": "CHEM 171 General Chemistry for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203173",
+      "course_name_en": "CHEM 173 General Chemistry Laboratory for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203175",
+      "course_name_en": "CHEM 175 Organic Chemistry for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203176",
+      "course_name_en": "CHEM 176 Organic Chemistry Laboratory for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "301241",
+      "course_name_en": "ANAT 241 Anatomy for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "303242",
+      "course_name_en": "BCHM 242 Biochemistry for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "311241",
+      "course_name_en": "MICR 241 Microbiology for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "321242",
+      "course_name_en": "PHSO 242 Physiology for Pharmacy Students",
+      "course_name_th": "",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465250",
+      "course_name_en": "PCPS 250 Basic Medicinal Organic Chemistry",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466340",
+      "course_name_en": "PCPC 340 Biostatistics for Pharmacy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465120",
+      "course_name_en": "PCPS 120 Pharmaceutical Technology 1",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465221",
+      "course_name_en": "PCPS 221 Pharmaceutical Technology 2",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465222",
+      "course_name_en": "PCPS 222 Pharmaceutical Technology 3",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465323",
+      "course_name_en": "PCPS 323 Pharmaceutical Technology 4",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465200",
+      "course_name_en": "PCPS 200 Fundamental of Pharmacognosy",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465301",
+      "course_name_en": "PCPS 301 Drugs from Natural Origin",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465351",
+      "course_name_en": "PCPS 351 Pharmaceutical Quality Control 1",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465352",
+      "course_name_en": "PCPS 352 Pharmaceutical Quality Control 2",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465354",
+      "course_name_en": "PCPS 354 Medicinal Chemistry 1",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465355",
+      "course_name_en": "PCPS 355 Medicinal Chemistry 2",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465456",
+      "course_name_en": "PCPS 456 Medicinal Chemistry 3",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465457",
+      "course_name_en": "PCPS 457 Pharmaceutical Biotechnology",
+      "course_name_th": "วิชาด้านผลิตภัณฑ์",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Products)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320244",
+      "course_name_en": "PHCO 244 Pharmacology for Pharmacy Students 1",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "4",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "320344",
+      "course_name_en": "PHCO 344 Pharmacology for Pharmacy Students 2",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466300",
+      "course_name_en": "PCPC 300 Basic of Pharmaceutical Care",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466301",
+      "course_name_en": "PCPC 301 Fundamental of Biopharmaceutics and Pharmacokinetics",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466302",
+      "course_name_en": "PCPC 302 Pharmacotherapy 1",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466303",
+      "course_name_en": "PCPC 303 Skills in Pharmacotherapy 1",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466304",
+      "course_name_en": "PCPC 304 Pharmacotherapy 2",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466305",
+      "course_name_en": "PCPC 305 Skills in Pharmacotherapy 2",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466306",
+      "course_name_en": "PCPC 306 Principle of Toxicology",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466407",
+      "course_name_en": "PCPC 407 Pharmacotherapy 3",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466408",
+      "course_name_en": "PCPC 408 Skills in Pharmacotherapy 3",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466409",
+      "course_name_en": "PCPC 409 Integration in Pharmacy",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466410",
+      "course_name_en": "PCPC 410 Clinical Pharmacokinetics and Clinical Pharmacogenetics",
+      "course_name_th": "วิชาด้านผู้ป่วย",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Patient)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466141",
+      "course_name_en": "PCPC 141 Pharmacy Profession",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466442",
+      "course_name_en": "PCPC 442 Pharmacoepidemiology and Data Analysis for Pharmacovigilance",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466443",
+      "course_name_en": "PCPC 443 Pharmacy Law and Ethics",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466444",
+      "course_name_en": "PCPC 444 Pharmacoeconomics",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466445",
+      "course_name_en": "PCPC 445 Health and Drug Systems Management",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "5",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466480",
+      "course_name_en": "PCPC 480 Rational Drug Use Seminar",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466581",
+      "course_name_en": "PCPC 581 Pharmacy Professional Seminar",
+      "course_name_th": "วิชาด้านเภสัชศาสตร์สังคมและการบริหารเภสัชกิจ",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major / Required Courses (Social and Administrative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465424",
+      "course_name_en": "PCPS 424 Pharmaceutical Product Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465458",
+      "course_name_en": "PCPS 458 Analytical Method Development",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465459",
+      "course_name_en": "PCPS 459 Biologics and Quality Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465480",
+      "course_name_en": "PCPS 480 Research Methodology and Statistical Analysis in Pharmaceutical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465490",
+      "course_name_en": "PCPS 490 Pharmaceutical Science Research Project 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465502",
+      "course_name_en": "PCPS 502 Phytochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465525",
+      "course_name_en": "PCPS 525 Industrial Pharmaceutical Instruments",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465526",
+      "course_name_en": "PCPS 526 Industrial Pharmacy 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465527",
+      "course_name_en": "PCPS 527 Industrial Pharmacy 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465528",
+      "course_name_en": "PCPS 528 Generic Drug Development and Registration",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465581",
+      "course_name_en": "PCPS 581 Seminar in Pharmaceutical Sciences",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465591",
+      "course_name_en": "PCPS 591 Pharmaceutical Science Research Project 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465504",
+      "course_name_en": "PCPS 504 Herbal Innovation for Commercialization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465505",
+      "course_name_en": "PCPS 505 Aromatic Plants and Spices",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465506",
+      "course_name_en": "PCPS 506 Edible, Medicinal, Poisonous Mushrooms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465507",
+      "course_name_en": "PCPS 507 Medicinal Plants Used in Public Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465508",
+      "course_name_en": "PCPS 508 Chemical and Molecular Genetic Identification of Medicinal Plants",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465509",
+      "course_name_en": "PCPS 509 Development of Aromatherapy Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465511",
+      "course_name_en": "PCPS 511 Natural Health Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465512",
+      "course_name_en": "PCPS 512 Natural Colorants for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465513",
+      "course_name_en": "PCPS 513 Thai Traditional Medicine Knowledge for Health and Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465521",
+      "course_name_en": "PCPS 521 Drug Synthesis and Application in Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465530",
+      "course_name_en": "PCPS 530 Cosmetic Product Development 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465531",
+      "course_name_en": "PCPS 531 Cosmetic Product Development 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465532",
+      "course_name_en": "PCPS 532 Creative Thinking Innovation for Health Product Entrepreneur",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465533",
+      "course_name_en": "PCPS 533 Raw Materials in Cosmetics",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465534",
+      "course_name_en": "PCPS 534 Nutraceuticals and Nutricosmetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465535",
+      "course_name_en": "PCPS 535 Biosimilars and Advanced Therapy Medicinal Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465536",
+      "course_name_en": "PCPS 536 Plant Tissue Culture of Medicinal Plant",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465537",
+      "course_name_en": "PCPS 537 Microbiota in Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465538",
+      "course_name_en": "PCPS 538 Health Informatics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465539",
+      "course_name_en": "PCPS 539 Development of Information System for Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465540",
+      "course_name_en": "PCPS 540 Health and Beauty Product Entrepreneurship",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465560",
+      "course_name_en": "PCPS 560 Comprehensive Pharmacopoeia",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465561",
+      "course_name_en": "PCPS 561 Cannabis Genomics and Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465562",
+      "course_name_en": "PCPS 562 Vaccine Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465563",
+      "course_name_en": "PCPS 563 Molecular Design and Simulation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465564",
+      "course_name_en": "PCPS 564 Food Supplements Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466518",
+      "course_name_en": "PCPC 518 Drugstore Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466521",
+      "course_name_en": "PCPC 521 Total Parenteral Nutrition and Intravenous Chemotherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466525",
+      "course_name_en": "PCPC 525 Pharmacist in the Pharmaceutical Market and Health Outcomes Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466550",
+      "course_name_en": "PCPC 550 Economic Evaluation and Budget Impact Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466551",
+      "course_name_en": "PCPC 551 Health Media Production in Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466552",
+      "course_name_en": "PCPC 552 Computer Applications for Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466555",
+      "course_name_en": "PCPC 555 English Communication for Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466556",
+      "course_name_en": "PCPC 556 Publication and Academic Presentation in Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465565",
+      "course_name_en": "PCPS 565 Pharmaceutical Excipients for Solid Dosage Forms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466558",
+      "course_name_en": "PCPC 558 Social Marketing for Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466559",
+      "course_name_en": "PCPC 559 Promoting Rational Use of Medicines with Systems Thinking",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466560",
+      "course_name_en": "PCPC 560 Health Behavior Concepts for Pharmacy Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466561",
+      "course_name_en": "PCPC 561 Applied Statistics for Pharmacy Practice",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466563",
+      "course_name_en": "PCPC 563 Application of Pharmacology Knowledge Towards Clinical Use",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465429",
+      "course_name_en": "PCPS 429 Extemporaneous Preparations",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465503",
+      "course_name_en": "PCPS 503 Natural Pharmaceutical Products",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466411",
+      "course_name_en": "PCPC 411 Pharmacotherapy 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466412",
+      "course_name_en": "PCPC 412 Pharmaceutical Care Skill",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466482",
+      "course_name_en": "PCPC 482 Using Data for Decision Making",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466490",
+      "course_name_en": "PCPC 490 Pharmaceutical Care Senior Project 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466513",
+      "course_name_en": "PCPC 513 Pharmaceutical Care Skill in Ambulatory Care and Community Pharmacy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466514",
+      "course_name_en": "PCPC 514 New and Current Drugs",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466515",
+      "course_name_en": "PCPC 515 Pharmaceutical Care Skill in Acute Care",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466547",
+      "course_name_en": "PCPC 547 Medication Management System and Hospital Accreditation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466548",
+      "course_name_en": "PCPC 548 Primary Care Pharmacy",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466591",
+      "course_name_en": "PCPC 591 Pharmaceutical Care Senior Project 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466592",
+      "course_name_en": "PCPC 592 Pharmaceutical Care Senior Project 3",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Pharmaceutical Care Track / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465510",
+      "course_name_en": "PCPS 510 Aromatherapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465529",
+      "course_name_en": "PCPS 529 Drug Selection for Hospital Formulary",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466516",
+      "course_name_en": "PCPC 516 Pharmaceutical Care for Patient Receiving Renal Replacement Therapy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466517",
+      "course_name_en": "PCPC 517 Rational Pharmaceutical Products Selection",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466519",
+      "course_name_en": "PCPC 519 Digital Age Community Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466520",
+      "course_name_en": "PCPC 520 Pharmaceutical Care in Community Pharmacy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466522",
+      "course_name_en": "PCPC 522 Palliative Pharmaceutical Care",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466523",
+      "course_name_en": "PCPC 523 Pediatric Pharmaceutical Care",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466524",
+      "course_name_en": "PCPC 524 Geriatric Pharmaceutical Care",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466549",
+      "course_name_en": "PCPC 549 Research Design in Economic Evaluation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466553",
+      "course_name_en": "PCPC 553 Health Consumer Protection",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466557",
+      "course_name_en": "PCPC 557 Vaccines for Pharmacists",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466562",
+      "course_name_en": "PCPC 562 Applied Pharmacotherapy in Cancer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Pharmaceutical Care Track / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466393",
+      "course_name_en": "PCPC 393 Pharmacy Job Training in Community",
+      "course_name_th": "ฝึกปฏิบัติงานวิชาชีพภาคบังคับ",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Professional Clerkship / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466494",
+      "course_name_en": "PCPC 494 Pharmacy Job Training in Drugstore and Hospital",
+      "course_name_th": "ฝึกปฏิบัติงานวิชาชีพภาคบังคับ",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Professional Clerkship / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465620",
+      "course_name_en": "PCPS 620 Clerkship in Pharmaceutical Production 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465654",
+      "course_name_en": "PCPS 654 Clerkship in Pharmaceutical Quality Control and Quality Assurance 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465621",
+      "course_name_en": "PCPS 621 Clerkship in Pharmaceutical Production 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465622",
+      "course_name_en": "PCPS 622 Clerkship in Pharmaceutical Production 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465623",
+      "course_name_en": "PCPS 623 Clerkship in Pharmaceutical Production 4",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465626",
+      "course_name_en": "PCPS 626 Clerkship in Cosmetics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465627",
+      "course_name_en": "PCPS 627 Clerkship in Cosmetics 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465628",
+      "course_name_en": "PCPS 628 Clerkship in Regulatory Affairs 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465629",
+      "course_name_en": "PCPS 629 Clerkship in Regulatory Affairs 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465650",
+      "course_name_en": "PCPS 650 Clerkship in Drug and Health Product Research and Development 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465651",
+      "course_name_en": "PCPS 651 Clerkship in Drug and Health Product Research and Development 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465652",
+      "course_name_en": "PCPS 652 Clerkship in Drug and Health Product Research and Development 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465653",
+      "course_name_en": "PCPS 653 Clerkship in Drug and Health Product Research and Development 4",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465655",
+      "course_name_en": "PCPS 655 Clerkship in Pharmaceutical Quality Control and Quality Assurance 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465656",
+      "course_name_en": "PCPS 656 Clerkship in Pharmaceutical Quality Control and Quality Assurance 3",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465657",
+      "course_name_en": "PCPS 657 Clerkship in Pharmaceutical Quality Control and Quality Assurance 4",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465658",
+      "course_name_en": "PCPS 658 Clerkship in Pharmaceutical Marketing",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465659",
+      "course_name_en": "PCPS 659 Clerkship in Pharmacy Services and Drugstore Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465660",
+      "course_name_en": "PCPS 660 Clerkship in Pharmaceutical and Health Consumer Protection",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "465661",
+      "course_name_en": "PCPS 661 Clerkship in Medical Affairs",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466603",
+      "course_name_en": "PCPC 603 Clerkship in Clinical Research Associate 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466604",
+      "course_name_en": "PCPC 604 Clerkship in Clinical Research Associate 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466655",
+      "course_name_en": "PCPC 655 Clerkship in Health Economics and Outcomes Research",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466658",
+      "course_name_en": "PCPC 658 Clerkship in Health Economics",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Industrial Pharmacy & Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466600",
+      "course_name_en": "PCPC 600 Pharmaceutical Care Clerkship in Ambulatory Care 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466601",
+      "course_name_en": "PCPC 601 Pharmaceutical Care Clerkship in Acute Care 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466602",
+      "course_name_en": "PCPC 602 Pharmaceutical Care Clerkship in Drugstore 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466650",
+      "course_name_en": "PCPC 650 Pharmaceutical Care Clerkship in Drug System Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466605",
+      "course_name_en": "PCPC 605 Pharmaceutical Care Clerkship in Acute Care 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466606",
+      "course_name_en": "PCPC 606 Pharmaceutical Care Clerkship in Drugstore 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466607",
+      "course_name_en": "PCPC 607 Pharmaceutical Care Clerkship in Ambulatory Care 2",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466608",
+      "course_name_en": "PCPC 608 Pharmaceutical Care Clerkship for Therapeutic Drug Monitoring",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466609",
+      "course_name_en": "PCPC 609 Pharmaceutical Care Clerkship for Patients with Nutritional Therapy",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466611",
+      "course_name_en": "PCPC 611 Pharmaceutical Care Clerkship for Critical Patients",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466651",
+      "course_name_en": "PCPC 651 Pharmaceutical Care Clerkship in Consumer Health Protection",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466652",
+      "course_name_en": "PCPC 652 Pharmaceutical Care Clerkship in Drug Information Service",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466653",
+      "course_name_en": "PCPC 653 Pharmaceutical Care Clerkship in Pediatric Patients",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466654",
+      "course_name_en": "PCPC 654 Pharmaceutical Care Clerkship for Patients with Chemotherapy",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466656",
+      "course_name_en": "PCPC 656 Pharmaceutical Care Clerkship in International Pharmacy Service",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "466657",
+      "course_name_en": "PCPC 657 Pharmaceutical Care Clerkship in Community Health",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Pharmaceutical Care Track / Clerkship Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

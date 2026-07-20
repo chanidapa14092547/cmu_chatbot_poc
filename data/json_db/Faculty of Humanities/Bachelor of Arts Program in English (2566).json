@@ -1,0 +1,959 @@
+{
+  "program_name": "Bachelor of Arts Program in English (2566)",
+  "major_tracks": [
+    "Independent Study Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001111",
+      "course_name_en": "Oral Communication 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001113",
+      "course_name_en": "Reading Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176104",
+      "course_name_en": "Rights and Duties of Citizen in Digital Age",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888103",
+      "course_name_en": "Internet Programming Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461170",
+      "course_name_en": "Cosmetics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357110",
+      "course_name_en": "Insects and Mankind",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education - Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001112",
+      "course_name_en": "Oral Communication 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001118",
+      "course_name_en": "Fundamental Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001212",
+      "course_name_en": "Language Consolidation through Translation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001230",
+      "course_name_en": "Introduction to Language",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001231",
+      "course_name_en": "English Phonetics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001250",
+      "course_name_en": "Introduction to Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001282",
+      "course_name_en": "English and Globalized Culture",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001313",
+      "course_name_en": "Academic Skills",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001213",
+      "course_name_en": "Principles of Interlingual and Intercultural Translation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001218",
+      "course_name_en": "Essay Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001234",
+      "course_name_en": "Introduction to English Phonology and Morphology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001235",
+      "course_name_en": "English Semantics and Pragmatics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001314",
+      "course_name_en": "Presentation Skills in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001315",
+      "course_name_en": "Translation for Communication Breakthrough",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001318",
+      "course_name_en": "Academic Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001330",
+      "course_name_en": "English Syntax",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001352",
+      "course_name_en": "Reservoir Literature and Reinterpretation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001353",
+      "course_name_en": "Narratives in Prose",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001354",
+      "course_name_en": "Poetry",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001355",
+      "course_name_en": "Drama",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001489",
+      "course_name_en": "Independent Study",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Requirement - Independent Study Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001428",
+      "course_name_en": "Writing and Research Skills in English",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Choice (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001438",
+      "course_name_en": "Writing and Research Skills in Linguistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Choice (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001478",
+      "course_name_en": "Writing and Research Skills in English Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Required Choice (Independent Study Plan & Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001498",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": null,
+      "credits": "6",
+      "category_or_track": "Major Requirement - Cooperative Education Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001320",
+      "course_name_en": "English and Science and Future Trends",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001322",
+      "course_name_en": "English in Multimodal Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001323",
+      "course_name_en": "English in Business Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001327",
+      "course_name_en": "English in Multicultures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001341",
+      "course_name_en": "English Prosody in Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001342",
+      "course_name_en": "Language and Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001361",
+      "course_name_en": "Mythology and Folklore",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001362",
+      "course_name_en": "English Literature for Young People",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001373",
+      "course_name_en": "Foundation of Literary Theory and Criticism",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001413",
+      "course_name_en": "English Communication and Creative Lanna",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001414",
+      "course_name_en": "Public Speaking",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001415",
+      "course_name_en": "Introduction to Interpreting",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001416",
+      "course_name_en": "Translation in the Digital Era",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001419",
+      "course_name_en": "Literacy in English Reading and Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001422",
+      "course_name_en": "English in Mass Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001423",
+      "course_name_en": "English for Professional Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001424",
+      "course_name_en": "English for the Global Citizen",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001425",
+      "course_name_en": "Translation for Professional Purposes",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001426",
+      "course_name_en": "Literary Translation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001427",
+      "course_name_en": "Reading and Writing about Entertainment Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001429",
+      "course_name_en": "Selected Topics in English Skills and Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001440",
+      "course_name_en": "English and Other World Languages",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001441",
+      "course_name_en": "Language Change",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001442",
+      "course_name_en": "Language and Gender",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001443",
+      "course_name_en": "Introduction to Sociolinguistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001444",
+      "course_name_en": "Introduction to Psycholinguistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001445",
+      "course_name_en": "Discourse in Communication",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001446",
+      "course_name_en": "Introduction to Cognitive Semantics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001447",
+      "course_name_en": "Selected Topics in Linguistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001448",
+      "course_name_en": "Introduction to Corpus Linguistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001461",
+      "course_name_en": "World Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001462",
+      "course_name_en": "Queer Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001463",
+      "course_name_en": "Major Works in British Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001464",
+      "course_name_en": "Major Works in American Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001467",
+      "course_name_en": "Literature and Adaptation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001471",
+      "course_name_en": "Shakespeare and the Modern World",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001472",
+      "course_name_en": "Issues in Contemporary Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001474",
+      "course_name_en": "Selected Topics in English Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001475",
+      "course_name_en": "Texts Across Media",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001476",
+      "course_name_en": "Modern Traditions in Literature",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001488",
+      "course_name_en": "English Study Abroad",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

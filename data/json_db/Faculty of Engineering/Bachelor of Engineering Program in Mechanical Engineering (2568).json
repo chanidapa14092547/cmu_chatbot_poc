@@ -1,0 +1,1419 @@
+{
+  "program_name": "Bachelor of Engineering Program in Mechanical Engineering (2568)",
+  "major_tracks": [
+    "Plan 1 Regular",
+    "Plan 2 Co-operative Education"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201110",
+      "course_name_en": "Integrated Mathematical Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888108",
+      "course_name_en": "Smart Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective - Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education Elective - Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203162",
+      "course_name_en": "General Chemistry for Engineering Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203167",
+      "course_name_en": "General Chemistry Laboratory for Engineering Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206362",
+      "course_name_en": "Applied Differential Equation for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208263",
+      "course_name_en": "Elementary Statistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252280",
+      "course_name_en": "Fundamentals of Electrical Engineering Laboratory for Engineers",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252284",
+      "course_name_en": "Fundamentals of Electrical Engineering for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254206",
+      "course_name_en": "Engineering Dynamics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254207",
+      "course_name_en": "Modeling and Graphics for Mechanical Engineering Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254271",
+      "course_name_en": "Material Property Laboratory for Machine Design Application",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254302",
+      "course_name_en": "Fundamental Numerical Methods for Engineers",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259103",
+      "course_name_en": "Engineering Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259106",
+      "course_name_en": "Workshop Technology",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259201",
+      "course_name_en": "Computer Programming for Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254200",
+      "course_name_en": "Mechanical Engineering Design Process",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254215",
+      "course_name_en": "Mechanics of Solids 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254216",
+      "course_name_en": "Mechanics of Solids 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254222",
+      "course_name_en": "Mechanics of Machinery 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254325",
+      "course_name_en": "Machine Design 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254362",
+      "course_name_en": "Manufacturing Processes for Mechanical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254421",
+      "course_name_en": "Mechanical Vibration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Mechanical Design)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254231",
+      "course_name_en": "Engineering Thermodynamics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254232",
+      "course_name_en": "Engineering Thermodynamics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254333",
+      "course_name_en": "Fluid Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254334",
+      "course_name_en": "Heat Transfer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254444",
+      "course_name_en": "Design of Thermal Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254451",
+      "course_name_en": "Power Plant Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Thermal Science and Fluid Mechanics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254372",
+      "course_name_en": "Computer-Based Instrumentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Dynamic Systems and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254373",
+      "course_name_en": "System Analysis and Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major - Required Courses (Dynamic Systems and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254254",
+      "course_name_en": "Prime Mover Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major - Required Courses (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254371",
+      "course_name_en": "Mechanical Engineering Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Major - Required Courses (Others)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254490",
+      "course_name_en": "Special Study for Project Planning",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Plan 1 Regular - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254491",
+      "course_name_en": "Capstone Design Project in Mechanical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 1 Regular - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254493",
+      "course_name_en": "Industrial Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Plan 1 Regular - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254390",
+      "course_name_en": "Preliminary Study for Mechanical Engineering Project",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Plan 2 Co-operative Education - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254489",
+      "course_name_en": "Cooperative Education for Mechanical Engineering Students",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Plan 2 Co-operative Education - Major Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254403",
+      "course_name_en": "Rotating Machinery Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254411",
+      "course_name_en": "Advanced Mechanics of Solids",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254412",
+      "course_name_en": "Introduction to Fibre Reinforced Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254413",
+      "course_name_en": "Introduction to Contact Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254414",
+      "course_name_en": "Mechanics of Granular Materials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254415",
+      "course_name_en": "Mechanics of Wood",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254423",
+      "course_name_en": "Fracture Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254424",
+      "course_name_en": "Machine Design 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254426",
+      "course_name_en": "Mechanics of Machinery 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254428",
+      "course_name_en": "Design of Mechanical Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254463",
+      "course_name_en": "Computer Aided Design and Computer Aided Manufacturing for Mechanical Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254468",
+      "course_name_en": "Advanced Manufacturing Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254477",
+      "course_name_en": "Conveying Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260413",
+      "course_name_en": "Fundamental Design of Agricultural Machinery",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Mechanical Design",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254402",
+      "course_name_en": "Cryogenic Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254406",
+      "course_name_en": "Clean Energy Engineering Project Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254409",
+      "course_name_en": "Drying Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254431",
+      "course_name_en": "Gas Dynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254433",
+      "course_name_en": "Advanced Mechanics of Fluids",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254434",
+      "course_name_en": "Advanced Heat Transfer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254435",
+      "course_name_en": "Combustion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254438",
+      "course_name_en": "Computational Fluid Dynamics and Heat Transfer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254439",
+      "course_name_en": "Flight Mechanics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254441",
+      "course_name_en": "Refrigeration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254442",
+      "course_name_en": "Air Conditioning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254443",
+      "course_name_en": "Solar Energy Thermal Processes",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254445",
+      "course_name_en": "Basic Aerodynamics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254446",
+      "course_name_en": "Thermal Equipment in Industries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254454",
+      "course_name_en": "Steam Power Plant",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254458",
+      "course_name_en": "Efficiency Improvement in Thermal Energy Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254473",
+      "course_name_en": "Fluid Power Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254476",
+      "course_name_en": "Turbomachines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254478",
+      "course_name_en": "Engineering Piping Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260334",
+      "course_name_en": "Heat and Mass Transfer for Agricultural Process Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260416",
+      "course_name_en": "Pump for Agricultural Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260421",
+      "course_name_en": "Principle of Drying Process for Agricultural Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260424",
+      "course_name_en": "Refrigeration and Cold Storage System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Thermal Science and Fluid Mechanics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254405",
+      "course_name_en": "Industrial Instrumentation and Process Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254425",
+      "course_name_en": "Modeling of Mechanical Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254427",
+      "course_name_en": "Mechanism Analysis and Synthesis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254429",
+      "course_name_en": "Engineering Dynamics 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254466",
+      "course_name_en": "Mechatronics Systems and Automation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254467",
+      "course_name_en": "Digital Control and Signal Processing for Mechanical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260313",
+      "course_name_en": "Fluid Power Control System in Agricultural Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Dynamic Systems and Control",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254352",
+      "course_name_en": "Internal Combustion Engines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254401",
+      "course_name_en": "Medical Device Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254404",
+      "course_name_en": "Underwater Vehicle",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254422",
+      "course_name_en": "Introduction to Finite Element Method",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254436",
+      "course_name_en": "Tribology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254452",
+      "course_name_en": "Automotive Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254453",
+      "course_name_en": "Gas Turbines",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254455",
+      "course_name_en": "Nuclear Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254456",
+      "course_name_en": "Energy Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254457",
+      "course_name_en": "Rocket and Propulsion Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254459",
+      "course_name_en": "Sustainable Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254461",
+      "course_name_en": "Robotic Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254462",
+      "course_name_en": "Soft Computing Techniques",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254464",
+      "course_name_en": "Flow In Plastic Injection Process",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254465",
+      "course_name_en": "Plastic Part Design for Mechanical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254479",
+      "course_name_en": "Computational Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254492",
+      "course_name_en": "Seminar in Mechanical Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254494",
+      "course_name_en": "Special Topic in Mechanical Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254495",
+      "course_name_en": "Special Topic in Mechanical Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254496",
+      "course_name_en": "Special Topic in Mechanical Engineering 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254497",
+      "course_name_en": "Special Topic in Mechanical Engineering 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259401",
+      "course_name_en": "Power Plant Operation and Maintenance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260401",
+      "course_name_en": "Land, Pavement and Agricultural Farmhouse",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260402",
+      "course_name_en": "Agricultural Waste Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260432",
+      "course_name_en": "Introduction to Postharvest Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260434",
+      "course_name_en": "Agricultural Process Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260461",
+      "course_name_en": "Ground Vehicles for Agriculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260462",
+      "course_name_en": "Principles of Agricultural Irrigation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "260494",
+      "course_name_en": "Special Topic in Agricultural Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Major Electives - Others",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

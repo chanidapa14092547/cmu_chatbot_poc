@@ -1,0 +1,1249 @@
+{
+  "program_name": "Bachelor of Engineering Program in Information Systems and Network Engineering (International Program)",
+  "major_tracks": [
+    "Normal Plan",
+    "Cooperative Education Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Learner Person Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201114",
+      "course_name_en": "Environmental Science in Today's World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207109",
+      "course_name_en": "Life and the Universe",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics : the Science that Changed the World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Innovative Co-creator Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Required Courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154130",
+      "course_name_en": "Geo-Information in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203100",
+      "course_name_en": "Chemistry in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259194",
+      "course_name_en": "Characteristics and Values for Being a Professional Entrepreneur",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "127100",
+      "course_name_en": "Politics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "256131",
+      "course_name_en": "Urban Mining",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259193",
+      "course_name_en": "Morality and Intelligence for Being a Professional",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259195",
+      "course_name_en": "Managing Activities for Development",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255201",
+      "course_name_en": "Quantitative Analysis in Industrial Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261216",
+      "course_name_en": "Discrete Mathematics for Computer Engineers",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Mathematics and Statistics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269101",
+      "course_name_en": "Introduction to Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Fundamental of Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269103",
+      "course_name_en": "Programming for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Fundamental of Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252281",
+      "course_name_en": "Fundamentals of Electronic Circuits for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses / Others",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261446",
+      "course_name_en": "Information Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Organizations and Information Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269105",
+      "course_name_en": "Information Systems and Network Engineering Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required / Organizations and Information Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269201",
+      "course_name_en": "Information Systems and Network Engineering Laboratory 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required / Organizations and Information Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269370",
+      "course_name_en": "Project Management for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Organizations and Information Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269470",
+      "course_name_en": "Information Technology Service Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Organizations and Information Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269200",
+      "course_name_en": "Web Programming Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269340",
+      "course_name_en": "Data Centric Application Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269360",
+      "course_name_en": "Platform Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269430",
+      "course_name_en": "Wireless And Broadband Computer Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269491",
+      "course_name_en": "Project Survey",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269492",
+      "course_name_en": "Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology for Application / Normal Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261200",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261205",
+      "course_name_en": "Data Structures and Algorithms",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261361",
+      "course_name_en": "Software Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269102",
+      "course_name_en": "Basic Computer Programming for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269202",
+      "course_name_en": "Algorithms for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269210",
+      "course_name_en": "Computer Architecture for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269462",
+      "course_name_en": "Introduction to Human-Computer Interaction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Technology and Software Methods",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261335",
+      "course_name_en": "Computer Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261336",
+      "course_name_en": "Computer Networks Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261342",
+      "course_name_en": "Fundamentals of Database Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261343",
+      "course_name_en": "Database System Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261433",
+      "course_name_en": "Network Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261434",
+      "course_name_en": "Computer Network Design and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261447",
+      "course_name_en": "Network and Information Security",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269130",
+      "course_name_en": "Fundamentals of Data and Computer Communications for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Basic Structure of the Systems",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261305",
+      "course_name_en": "Operating Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Hardware and Computer Architecture",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269401",
+      "course_name_en": "Information System and Network Engineering Training",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required / Field Experience Training / Normal Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269495",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Required / Field Experience Training / Cooperative Education Plan",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261408",
+      "course_name_en": "Quantum Computation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261409",
+      "course_name_en": "Functional Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261411",
+      "course_name_en": "Parallel Processing and Distributed Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261430",
+      "course_name_en": "Wireless Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261435",
+      "course_name_en": "Broadband Communication Networks",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261438",
+      "course_name_en": "Fundamentals of Multiprotocol Label Switching",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261441",
+      "course_name_en": "Internet of Things and Big Data",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261444",
+      "course_name_en": "Advanced Database Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261448",
+      "course_name_en": "Data Mining for Computer Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261449",
+      "course_name_en": "Software Testing for Computer Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261453",
+      "course_name_en": "Digital Image Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261456",
+      "course_name_en": "Introduction to Computational Intelligence for Computer Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261459",
+      "course_name_en": "Deep Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261461",
+      "course_name_en": "Visual and Interactive Programming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261465",
+      "course_name_en": "Computer Graphics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261468",
+      "course_name_en": "System Analysis and Design for Computer Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261472",
+      "course_name_en": "Robotics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261473",
+      "course_name_en": "Computer - Aided Manufacturing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261475",
+      "course_name_en": "Modeling and Optimization for Big Data Analytics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261476",
+      "course_name_en": "Biomedical Instruments",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269341",
+      "course_name_en": "Data Warehousing and Business Intelligence for Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269400",
+      "course_name_en": "Advanced Information Systems and Network Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269421",
+      "course_name_en": "Computer Network Traffic Analysis",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269431",
+      "course_name_en": "Wireless Sensor Network",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269432",
+      "course_name_en": "Peer-to-Peer Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269433",
+      "course_name_en": "Computer Network Routing Protocols",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269441",
+      "course_name_en": "Information Retrieval and Extraction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269451",
+      "course_name_en": "Introduction to Neuro-Fuzzy Systems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269452",
+      "course_name_en": "Mobile Application Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269461",
+      "course_name_en": "Personal Software Process Improvement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269471",
+      "course_name_en": "Advanced Project Management for Information System and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269472",
+      "course_name_en": "Risk Management in Software Project",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269493",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269494",
+      "course_name_en": "Selected Topics in Information Systems and Network Engineering",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269496",
+      "course_name_en": "Selected Topics in Information Systems 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269497",
+      "course_name_en": "Selected Topics in Information Systems 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269498",
+      "course_name_en": "Selected Topics in Network Engineering 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "269499",
+      "course_name_en": "Selected Topics in Network Engineering 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261485",
+      "course_name_en": "Cybersecurity Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cyber Security",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261486",
+      "course_name_en": "Network Security and Technological Controls",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cyber Security",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261487",
+      "course_name_en": "Cybersecurity Threat Analysis and Detection",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cyber Security",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261488",
+      "course_name_en": "Cybersecurity Incident Response",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cyber Security",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261489",
+      "course_name_en": "Cybersecurity Audit and Cyber Resilience",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Cyber Security",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

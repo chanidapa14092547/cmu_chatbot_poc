@@ -1,0 +1,649 @@
+{
+  "program_name": "Bachelor of Arts Program in Home and Community (2566)",
+  "major_tracks": [
+    "Cooperative Education Plan",
+    "Independent Study Plan"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057136",
+      "course_name_en": "Sport, Health, Fitness and Wellness Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "510100",
+      "course_name_en": "Wellness",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610114",
+      "course_name_en": "Food for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Elective - Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006103",
+      "course_name_en": "Home and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006133",
+      "course_name_en": "Basic Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006206",
+      "course_name_en": "Home Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006242",
+      "course_name_en": "Community Resources Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006253",
+      "course_name_en": "Foundation of Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006307",
+      "course_name_en": "Health and Well-being",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006341",
+      "course_name_en": "Principles of Human Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705211",
+      "course_name_en": "Marketing Principles",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751101",
+      "course_name_en": "Principles of Economics 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Core Courses)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006143",
+      "course_name_en": "New Era Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006330",
+      "course_name_en": "Design for Home Economics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006332",
+      "course_name_en": "Design Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006342",
+      "course_name_en": "Community Studies",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006346",
+      "course_name_en": "Population Studies and Quality of Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006347",
+      "course_name_en": "Innovative Thinking Process of Home and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006349",
+      "course_name_en": "Community Plans and Project Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006433",
+      "course_name_en": "Event Organization for Special Occasions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006443",
+      "course_name_en": "Leader for Community Administration and Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006447",
+      "course_name_en": "Community Management Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006475",
+      "course_name_en": "Research Methods in Home and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006478",
+      "course_name_en": "Community Research",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization (Major Requirements)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006460",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization (Cooperative Education Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006476",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Independent Study Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006479",
+      "course_name_en": "Home and Community Internship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Independent Study Plan)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006203",
+      "course_name_en": "Marriage and Family Relations",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006212",
+      "course_name_en": "Clothing and Fabric Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006226",
+      "course_name_en": "Food Preparation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006230",
+      "course_name_en": "Flower Arrangement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006241",
+      "course_name_en": "Community Welfare",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006301",
+      "course_name_en": "Quality of Elderly Life in Family and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006303",
+      "course_name_en": "Child Care and Guidance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006321",
+      "course_name_en": "Modern Food and Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006326",
+      "course_name_en": "Food Hygiene",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006338",
+      "course_name_en": "Food Design and Decoration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006344",
+      "course_name_en": "Group for Community Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006355",
+      "course_name_en": "Community Nutrition and Health Services",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006423",
+      "course_name_en": "Meal Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006426",
+      "course_name_en": "Food Conservation and Preservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "006448",
+      "course_name_en": "Current Issues in Environmental Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization (Major Electives)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

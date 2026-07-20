@@ -1,0 +1,788 @@
+{
+  "program_name": "Bachelor of Science Program in Agro-Industrial Innovation and Entrepreneurship (2568)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001233",
+      "course_name_en": "English for Standardized Tests",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001241",
+      "course_name_en": "Oral Communication in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001242",
+      "course_name_en": "Exploring Reading and Writing Skills",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001243",
+      "course_name_en": "Basics of Effective Essay Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Language Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Artificial Intelligence and Digital Essentials",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Global Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201190",
+      "course_name_en": "Critical Thinking, Problem Solving and Science Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602201",
+      "course_name_en": "Agro-Industrial Vision",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Creativity and Innovation",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176105",
+      "course_name_en": "Legal Problem Management in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701185",
+      "course_name_en": "Simple Tax Management Technique",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Entrepreneurial Skills",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy or Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy or Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Communication and Networking in Online Society",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy or Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955113",
+      "course_name_en": "Generative Artificial Intelligence for Business Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy or Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955114",
+      "course_name_en": "Generative Artificial Intelligence for Arts and Design",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education - Digital Literacy or Artificial Intelligence",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602122",
+      "course_name_en": "General Food Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602123",
+      "course_name_en": "General Food Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607110",
+      "course_name_en": "Culinary Science and Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607111",
+      "course_name_en": "Culinary Science and Innovation Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Core Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255230",
+      "course_name_en": "Industrial Organization and Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702100",
+      "course_name_en": "Introduction to Entrepreneurial Finance",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607130",
+      "course_name_en": "Preparation for Agro-Industrial Innovation Entrepreneurship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Courses (Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "605332",
+      "course_name_en": "Role of Consumer in Product Development System",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607211",
+      "course_name_en": "Food Chemistry for Food Industry Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607212",
+      "course_name_en": "Innovative Technologies in Food Processing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607213",
+      "course_name_en": "Food Quality and Safety Management for Agro-Industrial Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607311",
+      "course_name_en": "Development Planning of Agro-Industrial Innovation Product",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607314",
+      "course_name_en": "Qualitative and Sustainable Development of Agro-Industrial Innovation Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607315",
+      "course_name_en": "Food Ingredients and Packaging for Agro-Industry Innovation Creation",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607316",
+      "course_name_en": "Biotechnology in Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607317",
+      "course_name_en": "Nutrition and Functional Foods for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607141",
+      "course_name_en": "Field Study for Agro-Industrial Innovation and Entrepreneurship 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607241",
+      "course_name_en": "Field Study for Agro-Industrial Innovation and Entrepreneurship 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607341",
+      "course_name_en": "Field Study for Agro-Industrial Innovation and Entrepreneurship 3",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607451",
+      "course_name_en": "Seminar",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607452",
+      "course_name_en": "Research Project in Business for Agro-Industrial Innovation and Entrepreneurship",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Required Courses (Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607221",
+      "course_name_en": "Economics for Agro-Industrial Innovation Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607222",
+      "course_name_en": "Digital Human Resources Management for Agro-Industrial Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607321",
+      "course_name_en": "Management and Decision Strategies for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607423",
+      "course_name_en": "Branding for Agro-Industrial Innovation Product",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607231",
+      "course_name_en": "Business Legislation and Intellectual properties for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607431",
+      "course_name_en": "Business Plan for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required Courses (Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607461",
+      "course_name_en": "Practice in Simulated Business for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "9",
+      "category_or_track": "Field of Specialization - Major Required Courses (Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601322",
+      "course_name_en": "Halal Food",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601426",
+      "course_name_en": "Fishery Product Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601427",
+      "course_name_en": "Legume Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601443",
+      "course_name_en": "Dried Food Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "601444",
+      "course_name_en": "Food Packaging",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606465",
+      "course_name_en": "Marine Natural Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "606468",
+      "course_name_en": "Innovative Technology in Seafood Preservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607214",
+      "course_name_en": "Innovation of Alternative Protein Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607318",
+      "course_name_en": "Molecular Gastronomy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607319",
+      "course_name_en": "Nutrition for Sustainable Weight Control",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607411",
+      "course_name_en": "Selected Topics in Agro-Industrial Innovation and Entrepreneurship 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607412",
+      "course_name_en": "Selected Topics in Agro-Industrial Innovation and Entrepreneurship 2",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607413",
+      "course_name_en": "Selected Topics in Agro-Industrial Innovation and Entrepreneurship 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 1: Science and Innovation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703322",
+      "course_name_en": "Communication for Business Results",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 2: Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705453",
+      "course_name_en": "Marketing for Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 2: Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "253458",
+      "course_name_en": "Life Cycle Assessment and Carbon Footprint of Product",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 2: Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607323",
+      "course_name_en": "Service and Organization Design for Agro-Industrial Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 2: Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607324",
+      "course_name_en": "Supply Chain Management and Logistics for Agro-Industrial Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 2: Management)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255433",
+      "course_name_en": "System Analysis for Quality and Productivity Improvement",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 3: Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "607332",
+      "course_name_en": "Sustainable Innovative Food Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Electives (Group 3: Technopreneurship)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1399 @@
+{
+  "program_name": "Bachelor of Science Program in Animal Science",
+  "major_tracks": [
+    "Animal Science",
+    "Fishery Science"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001227",
+      "course_name_en": "English for Agriculture and Agro-Industry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074100",
+      "course_name_en": "Nutrition for Promotion of Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "074101",
+      "course_name_en": "Promoting of Health in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "359202",
+      "course_name_en": "Plant and Food Safety",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "462130",
+      "course_name_en": "Medications in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651106",
+      "course_name_en": "Food Sanitary from Food Animal for Consumer",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351100",
+      "course_name_en": "Agricultural Economics Based on Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "General Education (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012173",
+      "course_name_en": "Descriptive Study of Religion",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "063101",
+      "course_name_en": "Learning for Self-Development",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "214100",
+      "course_name_en": "Integrated Zoology and Health Science",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "218100",
+      "course_name_en": "The Science of Gemstone and Jewelry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400110",
+      "course_name_en": "Technology Development and Global Change",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610111",
+      "course_name_en": "Packaging for Marketing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356102",
+      "course_name_en": "Ornamental Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "368100",
+      "course_name_en": "Starting an Agribusiness in a Changing World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602101",
+      "course_name_en": "Biotechnology and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201116",
+      "course_name_en": "Science and Global Warming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602100",
+      "course_name_en": "Introduction to Application of Biotechnology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Innovative Co-creator)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154153",
+      "course_name_en": "Disaster in Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201115",
+      "course_name_en": "Life and Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365221",
+      "course_name_en": "Principles of Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "602102",
+      "course_name_en": "Life and Alternative Energy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651105",
+      "course_name_en": "Ecosystem and Health",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202147",
+      "course_name_en": "Biology for Agricultural Students",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "202231",
+      "course_name_en": "Genetics 1",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203111",
+      "course_name_en": "Chemistry 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203115",
+      "course_name_en": "Chemistry Laboratory 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203206",
+      "course_name_en": "Organic Chemistry for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "203209",
+      "course_name_en": "Organic Chemistry Laboratory for Non-Chemistry Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206108",
+      "course_name_en": "Elementary Mathematics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207181",
+      "course_name_en": "Physics for Agricultural Students",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207191",
+      "course_name_en": "Physics Laboratory for Agricultural Students",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211315",
+      "course_name_en": "Introductory Biochemistry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211319",
+      "course_name_en": "Introductory Biochemistry Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215205",
+      "course_name_en": "Microbiology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "215206",
+      "course_name_en": "Microbiology Laboratory",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Core Course (Science)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "351202",
+      "course_name_en": "Introduction to Agricultural Economics and Agribusiness Management",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course (Agriculture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356210",
+      "course_name_en": "Introduction to Animal and Aquatic Sciences",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course (Agriculture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357210",
+      "course_name_en": "Agricultural Insect Pests",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course (Agriculture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "363210",
+      "course_name_en": "Introduction to Plant Production and Soil Management",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Core Course (Agriculture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "400210",
+      "course_name_en": "Introduction to Agricultural Innovations",
+      "course_name_th": "",
+      "credits": "2",
+      "category_or_track": "Core Course (Agriculture)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356190",
+      "course_name_en": "Professional Skill Training in Animal and Aquatic Sciences 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356290",
+      "course_name_en": "Professional Skill Training in Animal and Aquatic Sciences 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356310",
+      "course_name_en": "Physiology of Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356320",
+      "course_name_en": "Statistical Analysis and Experimental Design in Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356330",
+      "course_name_en": "Feeds and Feeding",
+      "course_name_th": "",
+      "credits": "4",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356350",
+      "course_name_en": "Principles of Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356370",
+      "course_name_en": "Sanitation and Herd Health Control in Farm Animal",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356379",
+      "course_name_en": "Ethics and Code of Ethics for Animal Husbandry",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356410",
+      "course_name_en": "Economic Animal Reproduction",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356420",
+      "course_name_en": "Genetics Improvement of Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356430",
+      "course_name_en": "Animal Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356441",
+      "course_name_en": "Poultry Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356442",
+      "course_name_en": "Swine Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356443",
+      "course_name_en": "Dairy Cow Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required) / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356497",
+      "course_name_en": "Seminar 1",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "651306",
+      "course_name_en": "Anatomy of Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356490",
+      "course_name_en": "Cooperative Education in Animal and Aquatic Sciences",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356390",
+      "course_name_en": "Professional Skill Training in Animal and Aquatic Sciences 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356499",
+      "course_name_en": "Special Problems",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Required)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356312",
+      "course_name_en": "Physiology of Economic Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356314",
+      "course_name_en": "Ichthyology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356357",
+      "course_name_en": "Planktonology for Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356378",
+      "course_name_en": "Water Quality Management in Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356386",
+      "course_name_en": "Disease and Sanitation of Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356417",
+      "course_name_en": "Aquatic Animal Immunology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356427",
+      "course_name_en": "Economic Aquatic Animal Genetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356454",
+      "course_name_en": "Fish Breeding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356459",
+      "course_name_en": "Coastal Marine Culture Technology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356481",
+      "course_name_en": "Aquatic Animal Ethics for Research",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Fishery Science Track (Required) / Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "353421",
+      "course_name_en": "Forage Crops",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "355411",
+      "course_name_en": "Agricultural Machinery 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356334",
+      "course_name_en": "Mycotoxins in Animal Feed",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356335",
+      "course_name_en": "Ruminants Feeding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356336",
+      "course_name_en": "Nutrition and Feed Technology of Aquatic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356352",
+      "course_name_en": "Water Resource Management for Fisheries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356353",
+      "course_name_en": "Integrated Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356354",
+      "course_name_en": "Economic Molluscs Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356356",
+      "course_name_en": "Shrimps and Crabs Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356358",
+      "course_name_en": "Principles of Fish Culture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356377",
+      "course_name_en": "Standard of Aquaculture Farm",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356380",
+      "course_name_en": "Fisheries Oceanography",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356385",
+      "course_name_en": "Diseases of Farm Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356387",
+      "course_name_en": "Information Technology for Animal Sciences Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356388",
+      "course_name_en": "Fishery Law and Resource Conservation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356389",
+      "course_name_en": "Farm Animals and the Environment",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356413",
+      "course_name_en": "Biotechnology for Reproduction in Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356421",
+      "course_name_en": "Biotechnology in Animal Breeding",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356422",
+      "course_name_en": "Omics Technology in Economic Animal Productions",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356423",
+      "course_name_en": "Research Methodology for Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356433",
+      "course_name_en": "Animal Feed Manufacturing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356434",
+      "course_name_en": "Proximate Analysis of Feeds",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356435",
+      "course_name_en": "Animal Feed Additives",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356436",
+      "course_name_en": "Dog and Cat Nutrition",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356444",
+      "course_name_en": "Beef Cattle Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356445",
+      "course_name_en": "Commercial Swine Farm Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356446",
+      "course_name_en": "Management in Livestock Farming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356447",
+      "course_name_en": "Poultry Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356449",
+      "course_name_en": "Rabbit Production",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356450",
+      "course_name_en": "Organic Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356453",
+      "course_name_en": "Ornamental Fish Farming",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356457",
+      "course_name_en": "Smart Systems for Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356458",
+      "course_name_en": "Marine Fish Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356460",
+      "course_name_en": "Goats and Sheep Production in the Tropics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356473",
+      "course_name_en": "Aquatic Animal Toxicology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356479",
+      "course_name_en": "Applied Engineering in Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356480",
+      "course_name_en": "Cell Culture Technology in Economic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356482",
+      "course_name_en": "Biology of Mangroves for Fisheries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356483",
+      "course_name_en": "Waste Management in Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356484",
+      "course_name_en": "Applied Microbiology in Aquaculture",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356485",
+      "course_name_en": "Biotechnology in Farm Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356486",
+      "course_name_en": "Behavior of Domestic Animals",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356487",
+      "course_name_en": "Meat Management",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356488",
+      "course_name_en": "Aquatic Animal Products",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356496",
+      "course_name_en": "Selected Topics in Animal and Aquatic Sciences",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356498",
+      "course_name_en": "Seminar 2",
+      "course_name_th": "",
+      "credits": "1",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "357360",
+      "course_name_en": "Industrial Insects",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Animal Science / Fishery Science Track (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

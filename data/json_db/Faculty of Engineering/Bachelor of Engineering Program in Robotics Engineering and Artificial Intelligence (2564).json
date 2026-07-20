@@ -1,0 +1,1338 @@
+{
+  "program_name": "Bachelor of Engineering Program in Robotics Engineering and Artificial Intelligence",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Learner Person (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259192",
+      "course_name_en": "Skills for Professionalism and Entrepreneurship",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050106",
+      "course_name_en": "Humanistic Arts",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204123",
+      "course_name_en": "Introduction to Data Science",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "210100",
+      "course_name_en": "World of Materials",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259191",
+      "course_name_en": "Principle of Being Professional",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259195",
+      "course_name_en": "Managing Activities for Development",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201100",
+      "course_name_en": "Integrated Science",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well: Better Living and Disease Prevention",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "701181",
+      "course_name_en": "Basic Accounting for Entrepreneurs",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "705191",
+      "course_name_en": "Smart Consumer",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "General Education / Elective (Learner Person)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109114",
+      "course_name_en": "Art in Everyday Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "128100",
+      "course_name_en": "Basic Good Governance in Administration",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254182",
+      "course_name_en": "Introduction to Energy",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259193",
+      "course_name_en": "Morality and Intelligence for Being a Professional",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "General Education / Elective (Active Citizen)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206161",
+      "course_name_en": "Calculus for Engineering 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206162",
+      "course_name_en": "Calculus for Engineering 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206261",
+      "course_name_en": "Calculus for Engineering 3",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206325",
+      "course_name_en": "Linear Algebra",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206362",
+      "course_name_en": "Applied Differential Equation for Engineers",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207105",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207106",
+      "course_name_en": "Physics for Engineering and Agro-Industry Students 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207115",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 1",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207116",
+      "course_name_en": "Physics Laboratory for Engineering and Agro-Industry Students 2",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208150",
+      "course_name_en": "Probability and Statistics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Mathematics and Sciences)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254206",
+      "course_name_en": "Engineering Dynamics 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259104",
+      "course_name_en": "Engineering Drawing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259107",
+      "course_name_en": "Engineering Mechanics 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261102",
+      "course_name_en": "Computer Programming",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271101",
+      "course_name_en": "Robotics Laboratory 1",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Core (Engineering)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254215",
+      "course_name_en": "Mechanics of Solids 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Mechanics and Dynamic System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254373",
+      "course_name_en": "System Analysis and Control",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Mechanics and Dynamic System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254461",
+      "course_name_en": "Robotic Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Mechanics and Dynamic System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271302",
+      "course_name_en": "Robotic Design Essentials",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Mechanics and Dynamic System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252281",
+      "course_name_en": "Fundamentals of Electronic Circuits for Information Systems and Network Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Electric and Electronic Hardware)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261210",
+      "course_name_en": "Logic and Digital Circuits",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Electric and Electronic Hardware)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261212",
+      "course_name_en": "Logic and Digital Circuits Laboratory",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major (Required - Electric and Electronic Hardware)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261214",
+      "course_name_en": "Microprocessor and Interfacing",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Electric and Electronic Hardware)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261215",
+      "course_name_en": "Embedded System Laboratory",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major (Required - Electric and Electronic Hardware)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261200",
+      "course_name_en": "Object-Oriented Programming",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Computer and Programming)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261456",
+      "course_name_en": "Introduction to Computational Intelligence for Computer Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Computer and Programming)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261458",
+      "course_name_en": "Machine Vision",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Computer and Programming)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271401",
+      "course_name_en": "Artificial Intelligence for Robotics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Computer and Programming)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255454",
+      "course_name_en": "Manufacturing Automation System",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271201",
+      "course_name_en": "Robotics Laboratory 2",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271301",
+      "course_name_en": "Robotics Laboratory 3",
+      "course_name_th": "None",
+      "credits": "1",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271391",
+      "course_name_en": "Robotics Engineering Project 1",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271392",
+      "course_name_en": "Robotics Engineering Project 2",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271400",
+      "course_name_en": "Training in Robotic Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271491",
+      "course_name_en": "Robotics Engineering Project 3",
+      "course_name_th": "None",
+      "credits": "2",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271492",
+      "course_name_en": "Robotics Engineering Project 4",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major (Required - Robotic Essentials)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255301",
+      "course_name_en": "Manufacturing Technology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Industrial System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255441",
+      "course_name_en": "Information Technology for Industrial Engineers",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Industrial System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255447",
+      "course_name_en": "Industrial Robotics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Industrial System)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254404",
+      "course_name_en": "Underwater Vehicle",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Dynamic and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254421",
+      "course_name_en": "Mechanical Vibration",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Dynamic and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254425",
+      "course_name_en": "Modeling of Mechanical Systems",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Dynamic and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254467",
+      "course_name_en": "Digital Control and Signal Processing for Mechanical Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Dynamic and Control)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271411",
+      "course_name_en": "Autonomous Robotic System",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271412",
+      "course_name_en": "Smart Material Technologies for Robotics Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271413",
+      "course_name_en": "Data Communication System for Robotics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271494",
+      "course_name_en": "Special Topics in Robotics Engineering 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271495",
+      "course_name_en": "Special Topics in Robotics Engineering 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271496",
+      "course_name_en": "Special Topics in Robotics Engineering 3",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Robotic Technology and AI)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252212",
+      "course_name_en": "Electric Circuits 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252222",
+      "course_name_en": "Electrical Machines",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252232",
+      "course_name_en": "Electronic Devices",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252435",
+      "course_name_en": "Power Electronics",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252439",
+      "course_name_en": "Advanced Topics in Electronic Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252459",
+      "course_name_en": "Advanced Topics in Control System Engineering",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252461",
+      "course_name_en": "Embedded Systems and Communication Protocols for IoT",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Electronics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252702",
+      "course_name_en": "COMPUTER METHODS FOR ELECTRICAL CIRCUITS ANALYSIS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252707",
+      "course_name_en": "ADVANCED ELECTRIC DRIVE SYSTEMS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252714",
+      "course_name_en": "ADVANCED DIGITAL SIGNAL PROCESSING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252735",
+      "course_name_en": "ELECTRONIC INSTRUMENTATION",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252736",
+      "course_name_en": "MICROPROCESSORS AND APPLICATIONS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252739",
+      "course_name_en": "SELECTED TOPICS IN ELECTRONIC ENGINEERING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252746",
+      "course_name_en": "WIRELESS COMMUNICATIONS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252748",
+      "course_name_en": "MOBILE COMMUNICATION ENGINEERING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252751",
+      "course_name_en": "ADAPTIVE CONTROL SYSTEMS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252752",
+      "course_name_en": "OPTIMAL CONTROL SYSTEMS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252755",
+      "course_name_en": "SYSTEM MODELING AND IDENTIFICATION",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "252759",
+      "course_name_en": "SELECTED TOPICS IN CONTROL ENGINEERING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254700",
+      "course_name_en": "ENGINEERING ANALYSIS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254721",
+      "course_name_en": "ANALYTICAL DYNAMICS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254770",
+      "course_name_en": "MECHANICAL CONTROL FUNDAMENTALS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254771",
+      "course_name_en": "SWITCHING CONTROL AND COMPUTER INTERFACING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254773",
+      "course_name_en": "Measurement Systems",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254774",
+      "course_name_en": "Robot Technology",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254775",
+      "course_name_en": "Actuators and Sensors",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254776",
+      "course_name_en": "Embedded Systems",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254777",
+      "course_name_en": "Machine Intelligence",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254824",
+      "course_name_en": "NONLINEAR SYSTEM DYNAMICS AND CONTROL",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254871",
+      "course_name_en": "SYSTEM IDENTIFICATION",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254872",
+      "course_name_en": "OPTIMAL CONTROL",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254873",
+      "course_name_en": "DIGITAL CONTROL OF MECHANICAL SYSTEM",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254874",
+      "course_name_en": "ROTATING MACHINERY DYNAMICS",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254875",
+      "course_name_en": "ROBOT DYNAMICS AND CONTROL",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254876",
+      "course_name_en": "ELECTROMECHANICAL SYSTEM CONTROL",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "254877",
+      "course_name_en": "ADAPTIVE CONTROL",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255733",
+      "course_name_en": "Modern Production and Industrial System",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255744",
+      "course_name_en": "MANUFACTURING STRATEGY",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255749",
+      "course_name_en": "ARTIFICIAL INTELLIGENCE TECHNIQUES IN MANUFACTURING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255791",
+      "course_name_en": "Special Topics in Industrial Engineering 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "255792",
+      "course_name_en": "SPECIAL TOPICS IN INDUSTRIAL ENGINEERING II",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261701",
+      "course_name_en": "MATHEMATICS FOR COMPUTER ENGINEERING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261702",
+      "course_name_en": "Algorithm Analysis and Design",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261721",
+      "course_name_en": "Computer Hardware Design",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261722",
+      "course_name_en": "Advanced Embedded Systems",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261745",
+      "course_name_en": "Data Mining",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261746",
+      "course_name_en": "Human-Computer Interaction",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261751",
+      "course_name_en": "Advanced Neural Networks",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261752",
+      "course_name_en": "Digital Image Analysis",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261753",
+      "course_name_en": "Computer Vision",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261754",
+      "course_name_en": "Advanced Pattern Recognition",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261755",
+      "course_name_en": "Advanced Fuzzy Set Theory",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261766",
+      "course_name_en": "ADVANCED OBJECT-ORIENTED PROGRAMMING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "266795",
+      "course_name_en": "SELECTED TOPICS IN CELL AND TISSUE ENGINEERING",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261895",
+      "course_name_en": "SELECTED TOPICS IN COMPUTATIONAL INTELLIGENCE 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Graduate courses in related fields)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271371",
+      "course_name_en": "Online Self-Learning 1",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Online Self-Learning Course)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271372",
+      "course_name_en": "Online Self-Learning 2",
+      "course_name_th": "None",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective (Online Self-Learning Course)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "program_name": "Bachelor of Arts Program in French (2566)",
+  "major_tracks": [
+    "Independent Study",
+    "Cooperative Education"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001223",
+      "course_name_en": "English for Humanities and Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Required Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050112",
+      "course_name_en": "Reading Human Through Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of the Thai Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "211100",
+      "course_name_en": "Eating Well : Better Living and Disease Prevention",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "461100",
+      "course_name_en": "Herbs for Health and Beauty",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057139",
+      "course_name_en": "Sport and Adventure Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "General Education / GE Electives",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002101",
+      "course_name_en": "French 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002102",
+      "course_name_en": "French 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002111",
+      "course_name_en": "French Conversation 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002211",
+      "course_name_en": "French Conversation 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002230",
+      "course_name_en": "Introduction to French Linguistics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002250",
+      "course_name_en": "French Life and Civilization",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002260",
+      "course_name_en": "Introduction to French Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001210",
+      "course_name_en": "Oral Expression 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001230",
+      "course_name_en": "Introduction to Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001231",
+      "course_name_en": "English Phonetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001234",
+      "course_name_en": "Introduction to English Phonology and Morphology",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001250",
+      "course_name_en": "Introduction to Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001281",
+      "course_name_en": "English Language and Cultures",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001291",
+      "course_name_en": "English for Hospitality Services",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001293",
+      "course_name_en": "English for Tourism Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001310",
+      "course_name_en": "Oral Expression 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001311",
+      "course_name_en": "Reading and Writing 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001312",
+      "course_name_en": "Reading and Writing 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001315",
+      "course_name_en": "Translation for Communication Breakthrough",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001321",
+      "course_name_en": "British and American Cultural Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001323",
+      "course_name_en": "English in Business Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001341",
+      "course_name_en": "English Prosody in Context",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001342",
+      "course_name_en": "Language and Community",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001381",
+      "course_name_en": "Reading Media in English",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses (English)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002110",
+      "course_name_en": "French Pronunciation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002201",
+      "course_name_en": "French 3",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002202",
+      "course_name_en": "French 4",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002221",
+      "course_name_en": "Reading and Writing in French 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002301",
+      "course_name_en": "French 5",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002302",
+      "course_name_en": "French 6",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002489",
+      "course_name_en": "Independent Study",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Requirements (Independent Study)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002488",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Requirements (Cooperative Education)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002331",
+      "course_name_en": "French Syntax 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002333",
+      "course_name_en": "French Phonetics",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002351",
+      "course_name_en": "Culture of French Speaking Countries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002361",
+      "course_name_en": "Reading in French Literature of the 17th and 18th Centuries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002362",
+      "course_name_en": "Reading in French Literature of the 19th and 20th Centuries",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002363",
+      "course_name_en": "French Children's and Juvenile Literature",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002365",
+      "course_name_en": "French Tales and Short Stories",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002431",
+      "course_name_en": "French Syntax 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002458",
+      "course_name_en": "Selected Topics in French and Francophone Studies",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002466",
+      "course_name_en": "French Novels",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002467",
+      "course_name_en": "French Literature and Adaptation",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Literature, Civilization and Linguistics)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002311",
+      "course_name_en": "Listening and Speaking in French 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Skills and Translation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002321",
+      "course_name_en": "Reading and Writing in French 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Skills and Translation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002411",
+      "course_name_en": "Listening and Speaking in French 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Skills and Translation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002441",
+      "course_name_en": "Translation 1",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Skills and Translation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002442",
+      "course_name_en": "Translation 2",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (Skills and Translation)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002371",
+      "course_name_en": "French for Hotel",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002372",
+      "course_name_en": "French for Office",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002373",
+      "course_name_en": "French for Mass Communication",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002471",
+      "course_name_en": "French for Tourism",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002473",
+      "course_name_en": "French for Business",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002474",
+      "course_name_en": "French as a Foreign Language",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "002475",
+      "course_name_en": "Innovative Materials in Online French Teaching and Learning",
+      "course_name_th": "",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives (French for Specific Purposes)",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}
