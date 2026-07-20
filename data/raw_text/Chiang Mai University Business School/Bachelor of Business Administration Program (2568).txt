@@ -1,0 +1,751 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25370041100095
+Bachelor of Business Administration Program (2568)
+Name of the degree
+Full : Bachelor of Business Administration
+Abbreviation : B.B.A.
+Curriculum structure
+1. General Education 24
+1.1 Required Courses 21
+1.1.1 Language Literacy 9
+For students whose e-Pro score is below the B1 level or equivalent
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001228 ENGL 228 English for Business and Economics 3(3-0-6)
+For students whose e-Pro score is on the B1 level or higher or equivalent
+1) Required Courses 3
+001228 ENGL 228 English for Business and Economics 3(3-0-6)
+2) Elective Courses 6
+Select from the followings
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001233 ENGL 233 English for Standardized Tests 3(3-0-6)
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001243 ENGL 243 Basics of Effective Essay Writing 3(3-0-6)
+001244 ENGL 244 English Language, Culture, and Mind 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001246 ENGL 246 English Language in the Hotel Industry 3(3-0-6)
+001247 ENGL 247 English in the Tourism Industry 3(3-0-6)
+001248 ENGL 248 English in the Airline Industry 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+1.1.2 Digital Literacy 3
+261111 CPE 111 Internet and Online Community in the Age of AI 3(3-0-6)
+1.1.3 Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.1.4 Creativity and Innovation 3
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+1.1.5 Entrepreneurial Skills 3
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.2 Elective Courses 3
+1.2.1 Digital Literacy or Global Citizen or Artificial Intelligence 3
+Digital Literacy
+Select from the followings
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+Global Citizen
+Select from the followings
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+103271 DART 271 Music Appreciation 3(3-0-6)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+140103 PG 103 Anti-Corruption in Thailand 3(3-0-6)
+140106 PG 106 Sustainable Development Goals 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+515101 RT 101 Radiation in Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+Artificial Intelligence
+Select from the followings
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955113 ATGE 113 Generative Artificial Intelligence for Business Management 3(3-0-6)
+2. Field of Specialization : a minimum of 102
+2.1 Core Courses 39
+176220 LAGE 220 Fundamental Business Law 3(3-0-6)
+701101 ACC 101 Elementary Accounting 3(3-0-6)
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+702205 FINA 205 Foundations of Economics for Business Administration 3(3-0-6)
+702211 FINA 211 Business Finance 1 3(3-0-6)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Quantitative Analysis
+Plan I For Finance and Banking Student choose
+702341 FINA 341 Quantitative Analysis in Finance 3(3-0-6)
+Plan II Management and Entrepreneurship
+Plan III For Marketing Student choose
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+2.2 Major : a minimum of 48
+Credits earned from required courses in 2.2.1 and 2.2.2 must contain at least 36 credits of 300 level courses and at least
+18 credits of 400 level courses
+Plan I : Finance and Banking
+2.2.1 Required Courses 30
+702312 FINA 312 Business Finance 2 3(3-0-6)
+702316 FINA 316 INVESTMENT ANALYSIS 3(3-0-6)
+702318 FINA 318 Bond Security Investment 3(3-0-6)
+702321 FINA 321 Financial derivative markets 3(3-0-6)
+702331 FINA 331 Financial System 3(3-0-6)
+702343 FINA 343 Financial Modelling and Analytics 3(3-0-6)
+702416 FINA 416 Financial Planning and Control 3(3-0-6)
+702431 FINA 431 International Business Finance 1 3(3-0-6)
+702443 FINA 443 Research in Finance 3(3-0-6)
+702499 FINA 499 Seminar in Finance 3(3-0-6)
+2.2.2 Major Electives : a minimum of 18
+Choose from the following courses a minimum of 18 credits and at least 6 credits must be in courses numbered 400
+series.
+702313 FINA 313 Personal Financial Management 3(3-0-6)
+702314 FINA 314 Financial Management for Small Business Firms 3(3-0-6)
+702317 FINA 317 Insurance 3(3-0-6)
+702319 FINA 319 Working Capital Management 3(3-0-6)
+702320 FINA 320 Behavioral Finance 3(3-0-6)
+702324 FINA 324 Mutual Funds and Pension Funds 3(3-0-6)
+702351 FINA 351 Credit Management 3(3-0-6)
+702354 FINA 354 Commercial Bank Management 3(3-0-6)
+702399 FINA 399 Professional Training in Finance and Banking 3(0-18-
+0)
+702401 FINA 401 Investor Relations 3(3-0-6)
+702411 FINA 411 Risk Management 3(3-0-6)
+702412 FINA 412 Investment Performance Measurement and Evaluation 3(3-0-6)
+702418 FINA 418 Case Problems in Finance 3(3-0-6)
+702423 FINA 423 Real Estate Finance 3(3-0-6)
+702441 FINA 441 Financial Analysis 3(3-0-6)
+702444 FINA 444 Feasibility Study and Project Evaluation 3(3-0-6)
+702445 FINA 445 Business Valuation 3(3-0-6)
+702451 FINA 451 Sustainable Finance and Investment 3(3-0-6)
+702452 FINA 452 Finance for Climate and Energy 3(3-0-6)
+702460 FINA 460 Digital Asset Investment 3(3-0-6)
+702461 FINA 461 Algorithm Trading 3(3-0-6)
+702470 FINA 470 Python for Financial Analysis and Investment Management 3(3-0-6)
+702480 FINA 480 Quantitative Finance with R 3(3-0-6)
+702490 FINA 490 Cooperative Education 6
+702497 FINA 497 Special Problem in Finance 3(3-0-6)
+Plan II : Management and Entrepreneurship
+2.2.1 Required Courses 30
+703305 MGMT 305 Business Project Management 3(3-0-6)
+703308 MGMT 308 Business Organizational Behavior 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+703311 MGMT 311 Information Systems for Business 3(3-0-6)
+703313 MGMT 313 Computer Applications for Entrepreneurs 3(3-0-6)
+703404 MGMT 404 Entrepreneurship and Small Business Management 3(3-0-6)
+703414 MGMT 414 Creativity and Innovation Management 3(3-0-6)
+703415 MGMT 415 Digital Business 3(3-0-6)
+703447 MGMT 447 Research Methodology in Business 3(3-0-6)
+703499 MGMT 499 Seminar in Management 3(3-0-6)
+2.2.2 Major Electives : a minimum of 18
+Choose from the following courses a minimum of 18 credits and at least 3 credits must be in courses numbered 400
+series.
+703302 MGMT 302 Organization Theory and Design 3(3-0-6)
+703303 MGMT 303 Sustainable Business Management 3(3-0-6)
+703310 MGMT 310 Introduction to Business Computer 3(3-0-6)
+703314 MGMT 314 Robotic Process Automation for Business 3(3-0-6)
+703323 MGMT 323 Managerial and Leadership Communication 3(3-0-6)
+703324 MGMT 324 Business Reading and Analysis 3(3-0-6)
+703330 MGMT 330 Meditation for Business Leaders 3(2-2-5)
+703331 MGMT 331 Human Resource Management 3(3-0-6)
+703342 MGMT 342 Quality Improvement Through 5S 3(2-2-5)
+703351 MGMT 351 Hotel Management 3(3-0-6)
+703352 MGMT 352 Introduction to Hospitality and Tourism Management 3(3-0-6)
+703353 MGMT 353 Health Service Organization Management 3(3-0-6)
+703361 MGMT 361 International Business Management 3(3-0-6)
+703362 MGMT 362 Cross Cultural Management 3(3-0-6)
+703363 MGMT 363 Import and Export Management 3(3-0-6)
+703391 MGMT 391 Business Etiquette 3(3-0-6)
+703399 MGMT 399 Professional Training in Management 3(0-18-
+0)
+703411 MGMT 411 Managing Intelligent Office 3(3-0-6)
+703412 MGMT 412 Knowledge Management for Business Organizations 3(3-0-6)
+703413 MGMT 413 Business Intelligence System 3(3-0-6)
+703416 MGMT 416 Data and Big Data Management for Business Analytics 3(3-0-6)
+703417 MGMT 417 Data Mining and Machine Learning with Visual Programming for Business Analytics 3(3-0-6)
+703431 MGMT 431 Human Resource Development in Business 3(3-0-6)
+703433 MGMT 433 Business Negotiat 3(3-0-6)
+703434 MGMT 434 Human Relations in Business 3(3-0-6)
+703435 MGMT 435 Business Leadership 3(3-0-6)
+703436 MGMT 436 Industrial Relations 3(3-0-6)
+703441 MGMT 441 Business Quality Management 3(3-0-6)
+703442 MGMT 442 Business Process Management 3(3-0-6)
+703443 MGMT 443 Lean Six Sigma for Business Management 3(3-0-6)
+703444 MGMT 444 Strategic Supply Chain Management 3(3-0-6)
+703446 MGMT 446 Transportations Management for Service Business 3(3-0-6)
+703454 MGMT 454 Spa Management 3(3-0-6)
+703490 MGMT 490 Cooperative Education 6
+703497 MGMT 497 Special Problem in Management 3(1-4-4)
+703498 MGMT 498 Selected Topics in Management 3(3-0-6)
+Plan III : Marketing
+2.2.1 Required Courses 30
+705312 MKTG 312 Consumer Behavior in the Digital Era 3(3-0-6)
+705313 MKTG 313 Market Offering and Value Management 3(3-0-6)
+705314 MKTG 314 Integrated Marketing Communication and Distribution Strategy 3(3-0-6)
+705315 MKTG 315 Sales Funnel Optimization in the Digital Era 3(3-0-6)
+705343 MKTG 343 Principles of Marketing Research 3(3-0-6)
+705411 MKTG 411 Marketing Analytics 3(3-0-6)
+705412 MKTG 412 Framework for Strategic Marketing 3(3-0-6)
+705413 MKTG 413 Application of Strategic Marketing 3(3-0-6)
+705444 MKTG 444 Digital Marketing 3(3-0-6)
+705499 MKTG 499 Seminar in Marketing 3(3-0-6)
+2.2.2 Major Electives : a minimum of 18
+Choose from the following courses a minimum of 18 credits and at least 3 credits must be in courses numbered 400
+series.
+705328 MKTG 328 Product Strategy 3(3-0-6)
+705329 MKTG 329 Pricing Strategy 3(3-0-6)
+705331 MKTG 331 Marketing Channels of Distribution 3(3-0-6)
+705332 MKTG 332 Marketing Communication 3(3-0-6)
+705341 MKTG 341 Marketing Environment Analysis 3(3-0-6)
+705342 MKTG 342 Marketing Information System 3(3-0-6)
+705351 MKTG 351 Principles of Branding 3(3-0-6)
+705371 MKTG 371 Principles of Marketing Technology 3(3-0-6)
+705399 MKTG 399 Professional Training in Marketing 3(0-18-
+0)
+705430 MKTG 430 Content Marketing 3(3-0-6)
+705431 MKTG 431 Sales Management and Salesmanship 3(3-0-6)
+705432 MKTG 432 Influencer Marketing 3(3-0-6)
+705433 MKTG 433 Advertising Management 3(3-0-6)
+705436 MKTG 436 Integrated Marketing Communication 3(3-0-6)
+705437 MKTG 437 Sales Promotion 3(3-0-6)
+705438 MKTG 438 Marketing Public Relations 3(3-0-6)
+705439 MKTG 439 Business Exhibition and Trade Fair 3(3-0-6)
+705440 MKTG 440 Social Marketing 3(3-0-6)
+705441 MKTG 441 Global Marketing 3(3-0-6)
+705442 MKTG 442 Service Marketing 3(3-0-6)
+705445 MKTG 445 Business Marketing 3(3-0-6)
+705446 MKTG 446 Tourism Marketing 3(3-0-6)
+705447 MKTG 447 Hospitality Service Marketing 3(3-0-6)
+705448 MKTG 448 Customer Relationship Management 3(3-0-6)
+705451 MKTG 451 Strategic Branding 3(3-0-6)
+705452 MKTG 452 Marketing for New and Creative Product Development 3(3-0-6)
+705453 MKTG 453 Marketing for Innovation 3(3-0-6)
+705454 MKTG 454 Sustainability Marketing 3(3-0-6)
+705455 MKTG 455 Seamless Customer Experience Management 3(3-0-6)
+705456 MKTG 456 Storytelling Strategy for Marketing 3(3-0-6)
+705457 MKTG 457 Consumer Listening 3(3-0-6)
+705458 MKTG 458 Brand Experience Design 3(3-0-6)
+705461 MKTG 461 Retail Management 3(3-0-6)
+705462 MKTG 462 Supply Chain Management and Logistics 3(3-0-6)
+705471 MKTG 471 Marketing Technology Applications 3(3-0-6)
+705490 MKTG 490 Cooperative Education 6
+705497 MKTG 497 Special Problem in Marketing 3(3-0-6)
+705498 MKTG 498 Selected Topics in Marketing 3(3-0-6)
+2.3 Minor : a minimum of 15
+1. Students, who wish to enroll in minor courses, can select minor courses in any field according to Chiang Mai University
+Regulation on Minor Courses for Chiangmai University students with the minimum of 15 credits, with the approval of the
+advisor. This will result in addition of minimum of 15 credits to the total credits.
+2. A student who does not desire to register for minor courses must register for the extra of at least 15 credits for major
+elective courses aside from your current plan as shown in the following plans. The total credits of major elective courses
+must be at least 63 credits.
+Plan I : Finance and Banking
+For those extra of at least 15 credits for major elective courses, a student with Field of Concentration 1: Finance and
+Banking can register for the major elective courses chosen from Management and Entrepreneurship field of
+concentration (703…) and/or from Marketing field of concentration (705…) as listed below
+Plan II : Management and Entrepreneurship
+Field of Concentration 2: Management and Entrepreneurship can register for the major elective courses chosen from
+Finance and Banking field of concentration (702…) and/or from Marketing field of concentration (705…) as listed below
+Plan III : Marketing
+Field of Study 3: Marketing can register for the major elective courses chosen from Finance and Banking field of
+concentration (702…) and/or from Management and Entrepreneurship field of concentration (703…) as listed below
+3. Free Electives : a minimum of 6
+Total : a minimum of 132
+Study plan
+First Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+261111 CPE 111 Internet and Online Community in the Age of AI 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+176220 LAGE 220 Fundamental Business Law 3(3-0-6)
+702205 FINA 205 Foundations of Economics for Business Administration 3(3-0-6)
+Total 18
+Second Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+Digital Literacy or Global Citizen or Artificial Intelligence 3
+701101 ACC 101 Elementary Accounting 3(3-0-6)
+702211 FINA 211 Business Finance 1 3(3-0-6)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+Total 18
+Plan 1 Regular Plan (Finance and Banking)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+702312 FINA 312 Business Finance 2 3(3-0-6)
+702331 FINA 331 Financial System 3(3-0-6)
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+702343 FINA 343 Financial Modelling and Analytics 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+Minor 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+702316 FINA 316 INVESTMENT ANALYSIS 3(3-0-6)
+702318 FINA 318 Bond Security Investment 3(3-0-6)
+702341 FINA 341 Quantitative Analysis in Finance 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702321 FINA 321 Financial derivative markets 3(3-0-6)
+702431 FINA 431 International Business Finance 1 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+702416 FINA 416 Financial Planning and Control 3(3-0-6)
+702443 FINA 443 Research in Finance 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702499 FINA 499 Seminar in Finance 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Total 9
+Plan 1 Regular Plan (Management and Entrepreneurship)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+703311 MGMT 311 Information Systems for Business 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+703313 MGMT 313 Computer Applications for Entrepreneurs 3(3-0-6)
+Minor 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+703305 MGMT 305 Business Project Management 3(3-0-6)
+703308 MGMT 308 Business Organizational Behavior 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703414 MGMT 414 Creativity and Innovation Management 3(3-0-6)
+703415 MGMT 415 Digital Business 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+703404 MGMT 404 Entrepreneurship and Small Business Management 3(3-0-6)
+703447 MGMT 447 Research Methodology in Business 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703499 MGMT 499 Seminar in Management 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Total 9
+Plan 1 Regular Plan (Marketing)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+705312 MKTG 312 Consumer Behavior in the Digital Era 3(3-0-6)
+Free Elective 3
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+705313 MKTG 313 Market Offering and Value Management 3(3-0-6)
+705314 MKTG 314 Integrated Marketing Communication and Distribution Strategy 3(3-0-6)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705315 MKTG 315 Sales Funnel Optimization in the Digital Era 3(3-0-6)
+705343 MKTG 343 Principles of Marketing Research 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 15
+Second Semester Credits
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+705411 MKTG 411 Marketing Analytics 3(3-0-6)
+705444 MKTG 444 Digital Marketing 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 18
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+705412 MKTG 412 Framework for Strategic Marketing 3(3-0-6)
+705413 MKTG 413 Application of Strategic Marketing 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+705499 MKTG 499 Seminar in Marketing 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Total 9
+Plan 2 Internship Plan (Finance and Banking)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+702312 FINA 312 Business Finance 2 3(3-0-6)
+702331 FINA 331 Financial System 3(3-0-6)
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+702343 FINA 343 Financial Modelling and Analytics 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+Minor 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+702316 FINA 316 INVESTMENT ANALYSIS 3(3-0-6)
+702318 FINA 318 Bond Security Investment 3(3-0-6)
+702341 FINA 341 Quantitative Analysis in Finance 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702321 FINA 321 Financial derivative markets 3(3-0-6)
+702431 FINA 431 International Business Finance 1 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Summer Session Credits
+Major Elective 3
+Total 3
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+702416 FINA 416 Financial Planning and Control 3(3-0-6)
+702443 FINA 443 Research in Finance 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702499 FINA 499 Seminar in Finance 3(3-0-6)
+Major Elective 3
+Total 6
+Plan 2 Internship Plan (Management and Entrepreneurship)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+703311 MGMT 311 Information Systems for Business 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+703313 MGMT 313 Computer Applications for Entrepreneurs 3(3-0-6)
+Minor 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+703305 MGMT 305 Business Project Management 3(3-0-6)
+703308 MGMT 308 Business Organizational Behavior 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703414 MGMT 414 Creativity and Innovation Management 3(3-0-6)
+703415 MGMT 415 Digital Business 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Summer Session Credits
+Major Elective 3
+Total 3
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+703404 MGMT 404 Entrepreneurship and Small Business Management 3(3-0-6)
+703447 MGMT 447 Research Methodology in Business 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703499 MGMT 499 Seminar in Management 3(3-0-6)
+Major Elective 3
+Total 6
+Plan 2 Internship Plan (Marketing)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+705312 MKTG 312 Consumer Behavior in the Digital Era 3(3-0-6)
+Free Elective 3
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+705313 MKTG 313 Market Offering and Value Management 3(3-0-6)
+705314 MKTG 314 Integrated Marketing Communication and Distribution Strategy 3(3-0-6)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705315 MKTG 315 Sales Funnel Optimization in the Digital Era 3(3-0-6)
+705343 MKTG 343 Principles of Marketing Research 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 15
+Second Semester Credits
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+705411 MKTG 411 Marketing Analytics 3(3-0-6)
+705444 MKTG 444 Digital Marketing 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 18
+Summer Session Credits
+Major Elective 3
+Total 3
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+705412 MKTG 412 Framework for Strategic Marketing 3(3-0-6)
+705413 MKTG 413 Application of Strategic Marketing 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+705499 MKTG 499 Seminar in Marketing 3(3-0-6)
+Major Elective 3
+Total 6
+Plan 3 Cooperative Education Plan (Finance and Banking)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+702312 FINA 312 Business Finance 2 3(3-0-6)
+702331 FINA 331 Financial System 3(3-0-6)
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+702343 FINA 343 Financial Modelling and Analytics 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+Minor 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+702316 FINA 316 INVESTMENT ANALYSIS 3(3-0-6)
+702318 FINA 318 Bond Security Investment 3(3-0-6)
+702341 FINA 341 Quantitative Analysis in Finance 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702321 FINA 321 Financial derivative markets 3(3-0-6)
+702431 FINA 431 International Business Finance 1 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+702416 FINA 416 Financial Planning and Control 3(3-0-6)
+702443 FINA 443 Research in Finance 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+702499 FINA 499 Seminar in Finance 3(3-0-6)
+Major Elective 6
+Total 9
+Plan 3 Cooperative Education Plan (Management and Entrepreneurship)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+703311 MGMT 311 Information Systems for Business 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+703313 MGMT 313 Computer Applications for Entrepreneurs 3(3-0-6)
+Free Elective 3
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+703305 MGMT 305 Business Project Management 3(3-0-6)
+703308 MGMT 308 Business Organizational Behavior 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703414 MGMT 414 Creativity and Innovation Management 3(3-0-6)
+703415 MGMT 415 Digital Business 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 15
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+703404 MGMT 404 Entrepreneurship and Small Business Management 3(3-0-6)
+703447 MGMT 447 Research Methodology in Business 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+703499 MGMT 499 Seminar in Management 3(3-0-6)
+Major Elective 6
+Total 9
+Plan 3 Cooperative Education Plan (Marketing)
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+703243 MGMT 243 Applied Business Statistics 3(3-0-6)
+705212 MKTG 212 Introduction to Digital Marketing 3(3-0-6)
+705312 MKTG 312 Consumer Behavior in the Digital Era 3(3-0-6)
+Free Elective 3
+Free Elective 3
+Total 18
+Second Semester Credits
+701287 ACC 287 Introduction to Managerial Accounting 3(3-0-6)
+703204 MGMT 204 Business Ethics 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+705313 MKTG 313 Market Offering and Value Management 3(3-0-6)
+705314 MKTG 314 Integrated Marketing Communication and Distribution Strategy 3(3-0-6)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+705315 MKTG 315 Sales Funnel Optimization in the Digital Era 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705343 MKTG 343 Principles of Marketing Research 3(3-0-6)
+Major Elective 3
+Minor 3
+Total 15
+Second Semester Credits
+703345 MGMT 345 Quantitative Analysis for Management 3(3-0-6)
+705411 MKTG 411 Marketing Analytics 3(3-0-6)
+705444 MKTG 444 Digital Marketing 3(3-0-6)
+Major Elective 3
+Minor 3
+Minor 3
+Total 18
+Fourth Year
+First Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+705412 MKTG 412 Framework for Strategic Marketing 3(3-0-6)
+705413 MKTG 413 Application of Strategic Marketing 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Second Semester Credits
+705499 MKTG 499 Seminar in Marketing 3(3-0-6)
+Major Elective 6
+Total 9

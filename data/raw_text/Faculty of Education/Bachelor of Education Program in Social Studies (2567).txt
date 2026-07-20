@@ -1,0 +1,210 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25380041100322
+Bachelor of Education Program in Social Studies (2567)
+Name of the degree
+Full : Bachelor of Education (Social Studies)
+Abbreviation : B.Ed. (Social Studies)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+011101 PHIL 101 Meaning of Life 3(3-0-6)
+011155 PHIL 155 Philosophy of Happiness 3(3-0-6)
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+012100 RE 100 Mind Development for High Quality of Life 3(2-3-4)
+057136 EDPE 136 Sport, Health, Fitness and Wellness Development 3(3-0-6)
+057138 EDPE 138 Thai Wisdom Sports for Self-Defense 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+954101 INX 101 Introduction to Modern Management and Information Technology 3(3-0-6)
+1.2 Innovative Co-creator 6
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+011159 PHIL 159 Philosophy of Life, Society and Environment 3(3-0-6)
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+050113 HUGE 113 Locality in Globalization 3(3-0-6)
+050121 HUGE 121 Thai People in the ASEAN Community 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+2. Field of Specialization : a minimum of 106
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Electives Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 69
+A minimum of 36 credits in major courses at 300 level and among these must be a minimum of 18 credits in 400 level.
+2.2.1 Academic Content Courses : a minimum of 60
+1) Required Courses 42
+004430 HIST 430 Southeast Asia, Past to Present 3(3-0-6)
+012271 RE 271 Fundamentals of Buddhism 3(3-0-6)
+012475 RE 475 Comparative Study of Religions 3(3-0-6)
+071412 EDSS 412 Democracy and Citizenship for Civil Society 3(3-0-6)
+071413 EDSS 413 Economics for Balance of Life 3(3-0-6)
+071414 EDSS 414 Development of Historical Process Skills 3(3-0-6)
+071416 EDSS 416 Man and Environment and Sustainable Development 3(3-0-6)
+071418 EDSS 418 Independent Study in Social Studies 3(3-0-6)
+101201 CART 201 Western Art History 3(3-0-6)
+126427 IR 427 Current Affairs in International Relations 3(3-0-6)
+127312 GOV 312 Modern Thai State and Political Dynamics 3(3-0-6)
+154261 GEO 261 Analytical Geography of Thailand 3(3-0-6)
+154384 GEO 384 Human Ecology 3(3-0-6)
+751419 ECON 419 Economic Theory and Entrepreneurship 3(3-0-6)
+2) Electives Courses : a minimum of 18
+Select from the followings:
+004382 HIST 382 History of Lanna and the Greater Mekong Subregion 3(3-0-6)
+071411 EDSS 411 Religion and Ethics for Peace 3(3-0-6)
+071415 EDSS 415 Globe and Geographic Information System 3(3-0-6)
+071423 EDSS 423 Peace Education 3(3-0-6)
+071424 EDSS 424 Legal Dimension of Thai Education 3(3-0-6)
+126326 IR 326 Geopolitics 3(3-0-6)
+127101 GOV 101 Introduction to Political Science 3(3-0-6)
+154151 GEO 151 Physical Geography 3(3-0-6)
+159101 SAGE 101 Introduction to Sociology 3(3-0-6)
+159231 SA 231 Social and Cultural Change 3(3-0-6)
+176101 LAGE 101 Introduction to Law 3(3-0-6)
+751326 ECON 326 ASEAN Economy in the Global Economic Context 3(3-0-6)
+751428 ECON 428 Political Economy 3(3-0-6)
+2.2.2 Educational Courses : a minimum of 9
+1) Required Courses 6
+071420 EDSS 420 Application of Learning Media in Social Studies 3(3-0-6)
+071425 EDSS 425 Methodology of Teaching Social Studies 3(3-0-6)
+2) Electives Courses : a minimum of 3
+Select from the followings:
+071417 EDSS 417 Integration of Local Learning Resources 3(3-0-6)
+071419 EDSS 419 Population Study 3(3-0-6)
+071421 EDSS 421 Application of Learning Assessment Tests in Social Studies 3(3-0-6)
+071422 EDSS 422 Lanna Studies in Schools 3(3-0-6)
+071426 EDSS 426 ASEAN Studies in School 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 142
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+071412 EDSS 412 Democracy and Citizenship for Civil Society 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+GE : Active Citizen (Elective Courses) 3
+Academic Content Courses (Elective Courses) 3
+Total 22
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+012271 RE 271 Fundamentals of Buddhism 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+154261 GEO 261 Analytical Geography of Thailand 3(3-0-6)
+Academic Content Courses (Elective Courses) 3
+Total 20
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+101201 CART 201 Western Art History 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+GE : Learner Person (Elective Courses) 3
+Elective Core Courses 2
+Academic Content Courses (Elective Courses) 6
+Total 21
+Second Semester Credits
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+071416 EDSS 416 Man and Environment and Sustainable Development 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+751419 ECON 419 Economic Theory and Entrepreneurship 3(3-0-6)
+Free Elective 3
+Total 20
+Third Year
+First Semester Credits
+004430 HIST 430 Southeast Asia, Past to Present 3(3-0-6)
+126427 IR 427 Current Affairs in International Relations 3(3-0-6)
+012475 RE 475 Comparative Study of Religions 3(3-0-6)
+071420 EDSS 420 Application of Learning Media in Social Studies 3(3-0-6)
+071425 EDSS 425 Methodology of Teaching Social Studies 3(3-0-6)
+127312 GOV 312 Modern Thai State and Political Dynamics 3(3-0-6)
+Total 18
+Second Semester Credits
+071414 EDSS 414 Development of Historical Process Skills 3(3-0-6)
+071413 EDSS 413 Economics for Balance of Life 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+154384 GEO 384 Human Ecology 3(3-0-6)
+Educational Courses (Elective Courses) 3
+Free Elective 3
+Total 22
+Fourth Year
+First Semester Credits
+071418 EDSS 418 Independent Study in Social Studies 3(3-0-6)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+Academic Content Courses (Elective Courses) 6
+Total 13
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

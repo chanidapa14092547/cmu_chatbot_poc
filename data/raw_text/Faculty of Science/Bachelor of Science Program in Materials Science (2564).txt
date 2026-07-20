@@ -1,0 +1,314 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25380041100129
+Bachelor of Science Program in Materials Science (2564)
+Name of the degree
+Full : Bachelor of Science (Materials Science)
+Abbreviation : B.S. (Materials Science)
+Curriculum structure
+Plan 1 (Emphasis on further study in graduate program)
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+057136 EDPE 136 Sport, Health, Fitness and Wellness Development 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2.2 Innovative Co-creator
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+057132 EDPE 132 Happy Life in Camping 2(2-0-4)
+103271 DART 271 Music Appreciation 3(3-0-6)
+2. Field of Specialization : a minimum of 102
+2.1 Core Courses 32
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+2.2 Major : a minimum of 70
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400), of which at least 18 credits must be from the 400 level courses or upper.
+2.2.1 Major Requirements 58
+203475 CHEM 475 Properties, Processing and Applications of Polymers 3(3-0-6)
+203477 CHEM 477 Polymer Chemistry Laboratory 1 1(0-3-0)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207205 PHYS 205 Electricity and Magnetism 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+210200 MATS 200 Problem Based Learning in Materials Science 1(0-3-0)
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+210202 MATS 202 Crystal Structure and Imperfections 3(3-0-6)
+210205 MATS 205 Materials Thermodynamics and Phase Equilibria 2(2-0-4)
+210206 MATS 206 Phase Transformation and Phase Diagram 2(2-0-4)
+210208 MATS 208 Mass Transport and Heat Transfer in Materials 2(2-0-4)
+210221 MATS 221 Materials Processing 3(3-0-6)
+210251 MATS 251 Mechanical, Thermal and Optical Properties of Materials 3(3-0-6)
+210275 MATS 275 Materials Science Laboratory 1 1(0-3-0)
+210276 MATS 276 Materials Science Laboratory 2 1(0-3-0)
+210315 MATS 315 Materials Characterization Techniques 3(3-0-6)
+210331 MATS 331 Composite Materials 3(3-0-6)
+210343 MATS 343 Ceramics and Glasses 3(3-0-6)
+210351 MATS 351 Electrical and Magnetic Properties of Materials 3(3-0-6)
+210355 MATS 355 Semiconductor Technology 3(3-0-6)
+210375 MATS 375 Materials Science Laboratory 3 1(0-3-0)
+210383 MATS 383 Metals and Alloys 3(3-0-6)
+210496 MATS 496 Seminar in Materials Science 1(1-0-2)
+210499 MATS 499 Independent Study 3
+2.2.2 Major Electives : a minimum of 12
+210408 MATS 408 Selected Topics in Materials Science 3(3-0-6)
+210424 MATS 424 Crystallization and Crystal Growth 3(3-0-6)
+210425 MATS 425 Advanced Materials Processing and Non-Destructive Testing 3(3-0-6)
+210426 MATS 426 Thermodynamics of Materials and Applications 3(3-0-6)
+210432 MATS 432 Recycled Materials 3(3-0-6)
+210433 MATS 433 Cements and Concrete 3(3-0-6)
+210434 MATS 434 Nanomaterials 3(3-0-6)
+210435 MATS 435 Natural Fibers, Biopolymers and Biocomposites 3(3-0-6)
+210436 MATS 436 Biomaterials for Medical Applications 3(3-0-6)
+210445 MATS 445 Fabrication and Applications of Advanced Ceramic Materials 3(3-0-6)
+210448 MATS 448 Optical Materials 3(3-0-6)
+210453 MATS 453 Electrical and Magnetic Materials and Devices 3(3-0-6)
+210454 MATS 454 Materials for High Temperature Applications 3(3-0-6)
+210455 MATS 455 Materials for Energy 3(3-0-6)
+210462 MATS 462 Materials Science of Thin Films 3(3-0-6)
+210463 MATS 463 Joining of Materials 3(3-0-6)
+210464 MATS 464 Advanced Surface Coating Technology 3(3-0-6)
+210465 MATS 465 Surface and Interface Science 3(3-0-6)
+210483 MATS 483 Physical Metallurgy 3(3-0-6)
+210485 MATS 485 Corrosion and Degradation of Materials 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 138
+Plan 2 (Emphasis on working after graduation)
+1. General Education 30
+1.1 Required Courses 27
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 6
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 3
+A student also chooses at least 3 credits from these 2 groups of GE courses.
+1.2.1 Learner Person
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2.2 Innovative Co-creator
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+2. Field of Specialization : a minimum of 103
+2.1 Core Courses 35
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+255230 IE 230 Industrial Organization and Management 3(3-0-6)
+2.2 Major : a minimum of 68
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400), of which at least 18 credits must be from the 400 level courses or upper.
+2.2.1 Major Requirements 59
+203475 CHEM 475 Properties, Processing and Applications of Polymers 3(3-0-6)
+203477 CHEM 477 Polymer Chemistry Laboratory 1 1(0-3-0)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207205 PHYS 205 Electricity and Magnetism 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+210200 MATS 200 Problem Based Learning in Materials Science 1(0-3-0)
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+210202 MATS 202 Crystal Structure and Imperfections 3(3-0-6)
+210205 MATS 205 Materials Thermodynamics and Phase Equilibria 2(2-0-4)
+210206 MATS 206 Phase Transformation and Phase Diagram 2(2-0-4)
+210208 MATS 208 Mass Transport and Heat Transfer in Materials 2(2-0-4)
+210221 MATS 221 Materials Processing 3(3-0-6)
+210251 MATS 251 Mechanical, Thermal and Optical Properties of Materials 3(3-0-6)
+210275 MATS 275 Materials Science Laboratory 1 1(0-3-0)
+210276 MATS 276 Materials Science Laboratory 2 1(0-3-0)
+210315 MATS 315 Materials Characterization Techniques 3(3-0-6)
+210331 MATS 331 Composite Materials 3(3-0-6)
+210343 MATS 343 Ceramics and Glasses 3(3-0-6)
+210351 MATS 351 Electrical and Magnetic Properties of Materials 3(3-0-6)
+210355 MATS 355 Semiconductor Technology 3(3-0-6)
+210375 MATS 375 Materials Science Laboratory 3 1(0-3-0)
+210383 MATS 383 Metals and Alloys 3(3-0-6)
+210474 MATS 474 Workshop for Materials Science Students 1(0-3-0)
+210496 MATS 496 Seminar in Materials Science 1(1-0-2)
+and choose at least 3 credits from the followings:
+210497 MATS 497 Cooperative Education 6
+210499 MATS 499 Independent Study 3
+2.2.2 Major Electives : a minimum of 9
+Among the credits earned from the electives courses taken, at least 9 credits must be from the 400 level courses or
+upper. Choose any course from the followings:
+210408 MATS 408 Selected Topics in Materials Science 3(3-0-6)
+210424 MATS 424 Crystallization and Crystal Growth 3(3-0-6)
+210425 MATS 425 Advanced Materials Processing and Non-Destructive Testing 3(3-0-6)
+210432 MATS 432 Recycled Materials 3(3-0-6)
+210433 MATS 433 Cements and Concrete 3(3-0-6)
+210434 MATS 434 Nanomaterials 3(3-0-6)
+210435 MATS 435 Natural Fibers, Biopolymers and Biocomposites 3(3-0-6)
+210436 MATS 436 Biomaterials for Medical Applications 3(3-0-6)
+210445 MATS 445 Fabrication and Applications of Advanced Ceramic Materials 3(3-0-6)
+210448 MATS 448 Optical Materials 3(3-0-6)
+210453 MATS 453 Electrical and Magnetic Materials and Devices 3(3-0-6)
+210454 MATS 454 Materials for High Temperature Applications 3(3-0-6)
+210455 MATS 455 Materials for Energy 3(3-0-6)
+210462 MATS 462 Materials Science of Thin Films 3(3-0-6)
+210463 MATS 463 Joining of Materials 3(3-0-6)
+210464 MATS 464 Advanced Surface Coating Technology 3(3-0-6)
+210465 MATS 465 Surface and Interface Science 3(3-0-6)
+210483 MATS 483 Physical Metallurgy 3(3-0-6)
+210485 MATS 485 Corrosion and Degradation of Materials 3(3-0-6)
+254181 ME 181 Engineering Drawing for Non-Engineering Majors 2(1-3-2)
+255323 IE 323 Introduction to Quality Assurance 3(3-0-6)
+255445 IE 445 Advanced Computer Application for Industrial Engineering 3(2-3-4)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 139
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+General Education Elective 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+Total 20
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207205 PHYS 205 Electricity and Magnetism 3(3-0-6)
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+210202 MATS 202 Crystal Structure and Imperfections 3(3-0-6)
+210205 MATS 205 Materials Thermodynamics and Phase Equilibria 2(2-0-4)
+210275 MATS 275 Materials Science Laboratory 1 1(0-3-0)
+Total 21
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+210200 MATS 200 Problem Based Learning in Materials Science 1(0-3-0)
+210206 MATS 206 Phase Transformation and Phase Diagram 2(2-0-4)
+210208 MATS 208 Mass Transport and Heat Transfer in Materials 2(2-0-4)
+210221 MATS 221 Materials Processing 3(3-0-6)
+210251 MATS 251 Mechanical, Thermal and Optical Properties of Materials 3(3-0-6)
+210276 MATS 276 Materials Science Laboratory 2 1(0-3-0)
+Total 19
+Third Year
+First Semester Credits
+203475 CHEM 475 Properties, Processing and Applications of Polymers 3(3-0-6)
+203477 CHEM 477 Polymer Chemistry Laboratory 1 1(0-3-0)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+210343 MATS 343 Ceramics and Glasses 3(3-0-6)
+210351 MATS 351 Electrical and Magnetic Properties of Materials 3(3-0-6)
+210375 MATS 375 Materials Science Laboratory 3 1(0-3-0)
+210383 MATS 383 Metals and Alloys 3(3-0-6)
+Major Elective 3
+Total 20
+Plan 1 (Emphasis on further study in graduate program)
+Third Year
+Second Semester Credits
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+210315 MATS 315 Materials Characterization Techniques 3(3-0-6)
+210331 MATS 331 Composite Materials 3(3-0-6)
+210355 MATS 355 Semiconductor Technology 3(3-0-6)
+Major Elective 3
+Total 16
+Fourth Year
+First Semester Credits
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+210496 MATS 496 Seminar in Materials Science 1(1-0-2)
+Major Elective 3
+Major Elective 3
+General Education Elective 3
+Total 13
+Second Semester Credits
+210499 MATS 499 Independent Study 3
+Free Elective 3
+Free Elective 3
+Total 9
+Plan 2 (Emphasis on working after graduation)
+Third Year
+Second Semester Credits
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+210315 MATS 315 Materials Characterization Techniques 3(3-0-6)
+210331 MATS 331 Composite Materials 3(3-0-6)
+210355 MATS 355 Semiconductor Technology 3(3-0-6)
+210474 MATS 474 Workshop for Materials Science Students 1(0-3-0)
+255230 IE 230 Industrial Organization and Management 3(3-0-6)
+Major Elective 3
+Total 20
+Fourth Year
+First Semester Credits
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+210496 MATS 496 Seminar in Materials Science 1(1-0-2)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+Major Elective 3
+Free Elective 3
+Free Elective 3
+Total 16
+Second Semester Credits
+210497 MATS 497 Cooperative Education 6
+or 210499 MATS 499 Independent Study 3
+Total 6

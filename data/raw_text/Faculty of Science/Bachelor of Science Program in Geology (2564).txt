@@ -1,0 +1,189 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25330041100056
+Bachelor of Science Program in Geology (2564)
+Name of the degree
+Full : Bachelor of Science (Geology)
+Abbreviation : B.S. (Geology)
+Curriculum structure
+1. General Education 30
+Required Courses 24
+1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.2 Innovative Co-creator 3
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+Learner Person
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+Innovative Co-creator
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+218100 GEM 100 The Science of Gemstone and Jewelry 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+888109 DIN 109 Introduction to Emerging Rules of Disruptive Technology in Trade 3(3-0-6)
+Active Citizen
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+256100 MN 100 Sustainable Use of Mineral Resources 3(3-0-6)
+256131 MN 131 Urban Mining 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+2. Field of Specialization : a minimum of 103
+2.1 Core Courses 33
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+203104 CHEM 104 General Chemistry 2 3(3-0-6)
+203107 CHEM 107 General Chemistry Laboratory 1 1(0-3-0)
+203108 CHEM 108 General Chemistry Laboratory 2 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+205103 GEOL 103 Physical Geology 4(3-3-6)
+205104 GEOL 104 Historical Geology 4(3-3-6)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+207186 PHYS 186 Physics for Earth Science 4(3-3-6)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+2.2 Major : a minimum of 70
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400) of which at least 18 credits must be from the 400 level courses or upper.
+2.2.1 Major Requirements 58
+205193 GEOL 193 Graphic Methods in Geology 1(0-3-0)
+205216 GEOL 216 Practice in Field Geology 1(0-3-0)
+205235 GEOL 235 Optical Mineralogy 4(3-3-6)
+205239 GEOL 239 Mineralogy 4(3-3-6)
+205246 GEOL 246 Lithology 4(3-3-6)
+205252 GEOL 252 Palaeontology 4(3-3-6)
+205303 GEOL 303 Geomorphology 4(3-3-6)
+205310 GEOL 310 Regional Field Geology 3(0-18-
+0)
+205324 GEOL 324 Structural Geology 4(3-3-6)
+205337 GEOL 337 Geochemistry 3(3-0-6)
+205344 GEOL 344 Igneous and Metamorphic Petrology 4(3-3-6)
+205355 GEOL 355 Principles of Sedimentology 3(2-3-4)
+205358 GEOL 358 Stratigraphy 3(2-3-4)
+205382 GEOL 382 Exploration Geophysics 4(3-3-6)
+205410 GEOL 410 Field Geology 4(0-24-
+0)
+205415 GEOL 415 Geology of Thailand 2(2-0-4)
+205485 GEOL 485 Geologic Information Systems 3(2-3-4)
+205495 GEOL 495 Seminar 1(1-0-2)
+205499 GEOL 499 Independent Study in Geology 2
+2.2.2 Major Electives : a minimum of 12
+Choose any courses from the followings:
+205361 GEOL 361 Minerals in Industry 3(3-0-6)
+205397 GEOL 397 Internship in Geology 1 1(0-6-0)
+205404 GEOL 404 Surficial Geology and Terrain Analysis 3(3-0-6)
+205405 GEOL 405 Geotourism 3(3-0-6)
+205417 GEOL 417 Geology of Southeast Asia 3(3-0-6)
+205421 GEOL 421 Tectonics 3(3-0-6)
+205441 GEOL 441 Volcanic Facies 3(3-0-6)
+205457 GEOL 457 Fundamentals of Sequence Stratigraphy 3(3-0-6)
+205461 GEOL 461 Economic Geology 3(2-3-4)
+205464 GEOL 464 Petroleum Geology 3(3-0-6)
+205472 GEOL 472 Environmental Geology 3(3-0-6)
+205473 GEOL 473 Hydrogeology 3(3-0-6)
+205474 GEOL 474 Applied Hydrogeology and Geotechnic 3(3-0-6)
+205475 GEOL 475 Engineering Geology 3(2-3-4)
+205476 GEOL 476 Subsurface Geology 3(3-0-6)
+205483 GEOL 483 Petroleum Geophysics 4(3-3-6)
+205486 GEOL 486 Coal Geology and its Utilization 3(3-0-6)
+205487 GEOL 487 Seismic Data Acquisition 3(2-3-4)
+205488 GEOL 488 Seismic Data Processing 3(2-3-4)
+205489 GEOL 489 Seismic Data Interpretation 3(2-3-4)
+205496 GEOL 496 Selected Topics in Geology 2(2-0-4)
+205497 GEOL 497 Internship in Geology 2 2(0-12-
+0)
+205498 GEOL 498 Cooperative Education in Geology 6
+2.3 Minor (If any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total.
+3. Free Electives : a minimum of 6
+Total : a minimum of 139
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+207186 PHYS 186 Physics for Earth Science 4(3-3-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+203107 CHEM 107 General Chemistry Laboratory 1 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+203104 CHEM 104 General Chemistry 2 3(3-0-6)
+203108 CHEM 108 General Chemistry Laboratory 2 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+205103 GEOL 103 Physical Geology 4(3-3-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+205104 GEOL 104 Historical Geology 4(3-3-6)
+205193 GEOL 193 Graphic Methods in Geology 1(0-3-0)
+205235 GEOL 235 Optical Mineralogy 4(3-3-6)
+205239 GEOL 239 Mineralogy 4(3-3-6)
+Total 19
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+205216 GEOL 216 Practice in Field Geology 1(0-3-0)
+205246 GEOL 246 Lithology 4(3-3-6)
+205252 GEOL 252 Palaeontology 4(3-3-6)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+Total 18
+Third Year
+First Semester Credits
+205303 GEOL 303 Geomorphology 4(3-3-6)
+205324 GEOL 324 Structural Geology 4(3-3-6)
+205337 GEOL 337 Geochemistry 3(3-0-6)
+205310 GEOL 310 Regional Field Geology 3(0-18-0)
+205355 GEOL 355 Principles of Sedimentology 3(2-3-4)
+Total 17
+Second Semester Credits
+205344 GEOL 344 Igneous and Metamorphic Petrology 4(3-3-6)
+205358 GEOL 358 Stratigraphy 3(2-3-4)
+205382 GEOL 382 Exploration Geophysics 4(3-3-6)
+205485 GEOL 485 Geologic Information Systems 3(2-3-4)
+GE Elective 3
+Total 17
+Fourth Year
+First Semester Credits
+205410 GEOL 410 Field Geology 4(0-24-0)
+205415 GEOL 415 Geology of Thailand 2(2-0-4)
+205495 GEOL 495 Seminar 1(1-0-2)
+205499 GEOL 499 Independent Study in Geology 2
+Major Electives 6
+GE Elective 3
+Total 18
+Second Semester Credits
+205495 GEOL 495 Seminar 1(1-0-2)
+205499 GEOL 499 Independent Study in Geology 2
+Major Electives 6
+Free Elective 6
+-
+Total 15

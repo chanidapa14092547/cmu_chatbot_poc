@@ -1,0 +1,317 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code :
+Bachelor of Science Program in Highland Agriculture and Forest
+Resources (2568)
+Name of the degree
+Full : Bachelor of Science (Highland Agriculture and Forest Resources)
+Abbreviation : B.S. (Highland Agriculture and Forest Resources)
+Curriculum structure
+(1) General Education 24
+1) Required courses 21
+1.1) Language Literacy 9
+• For students whose e-Pro score is below the B1 level or equivalent
+- Required courses
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+• For students whose e-Pro score is on the B1 level or higher or equivalent
+- Required courses
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+- Elective courses
+Select 2 courses from the following courses
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001233 ENGL 233 English for Standardized Tests 3(3-0-6)
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001243 ENGL 243 Basics of Effective Essay Writing 3(3-0-6)
+001244 ENGL 244 English Language, Culture, and Mind 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001247 ENGL 247 English for Tour Guides and Travel Agents 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+1.2) Digital Literacy 3
+Select 1 course from the following courses
+204100 CS 100 Artificial Intelligence and Digital Essentials 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+1.3) Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.4) Creativity and Innovation 3
+Select 1 course from the following courses
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+203100 CHEM 100 Chemistry in Everyday Life 3(3-0-6)
+210100 MATS 100 World of Materials 3(3-0-6)
+210110 MATS 110 General Biomaterials 3(3-0-6)
+215100 MICB 100 Microbiology in Everyday Life 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+602101 BIOT 101 Biotechnology and Modern World 3(3-0-6)
+602201 BIOT 201 Agro-Industrial Vision 1(0-3-0)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+610111 AG 111 Packaging for Marketing 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+900100 BME 100 วิศวกรรมชีวการแพทยใ์ นชีวิตประจําวัน 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+1.5) Entrepreneurial Skills 3
+Select 1 course from the following courses
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+176105 LAGE 105 Legal Problem Management in Everyday Life 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+602103 BIOT 103 Agro-Industry and Quality of Life 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+701185 ACC 185 Simple Tax Management Technique 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+703100 MGMT 100 Startup and Entrepreneurship Fundamentals 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+888109 DIN 109 Introduction to Emerging Rules of Disruptive Technology in Trade 3(3-0-6)
+2) Elective courses 3
+2.1) Digital Literacy or Global Citizen or Artificial Intelligence 3
+Select 1 course from the following courses
+Digital Literacy
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+888103 DIN 103 Internet Programming Language 3(2-2-5)
+888104 DIN 104 Introduction to Internet of Things 3(3-0-6)
+888105 DIN 105 Internet Data System 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+954101 INX 101 Introduction to Modern Management and Information Technology 3(3-0-6)
+Global Citizen
+004170 HIST 170 Thai Society and Culture 3(3-0-6)
+011157 PHIL 157 Social Philosophy 3(3-0-6)
+011159 PHIL 159 Philosophy of Life, Society and Environment 3(3-0-6)
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+050101 HUGE 101 Lan Na Perspective in the 21st Century 3(3-0-6)
+050104 HUGE 104 Man and the Modern World 3(3-0-6)
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+050113 HUGE 113 Locality in Globalization 3(3-0-6)
+050121 HUGE 121 Thai People in the ASEAN Community 3(3-0-6)
+103271 DART 271 Music Appreciation 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+109119 FAGE 119 Lanna Art Appreciation 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+140103 PG 103 Anti-Corruption in Thailand 3(3-0-6)
+140106 PG 106 Sustainable Development Goals 3(3-0-6)
+152100 SSA 100 Social Science Around Us 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+168100 SWS 100 Gender Equality 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+176102 LAGE 102 Peace and Human Rights 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201192 SC 192 Doi Suthep Study 1(0-3-0)
+205105 GEOL 105 Earth Science and Civilization 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+357101 ENT 101 Household Insects and Garden Pests 3(3-0-6)
+357110 ENT 110 Insects and Mankind 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+360108 PLP 108 Plant Disease and Environmental Safety 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+515101 RT 101 Radiation in Everyday Life 3(3-0-6)
+571103 NGGE 103 Friendship and Being Together 2(0-6-2)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+888108 DIN 108 Smart Society 3(3-0-6)
+888194 DIN 194 Service Learning in Society 5.0 3(3-0-6)
+Artificial Intelligence
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955113 ATGE 113 Generative Artificial Intelligence for Business Management 3(3-0-6)
+955114 ATGE 114 Generative Artificial Intelligence for Arts and Design 3(3-0-6)
+955115 ATGE 115 Generative Artificial Intelligence for Digital Innovation 3(3-0-6)
+Note: Students can select general education courses from both in country and abroad, then transfer the credit to
+general education courses as defined in the curriculum from the consent of the department.
+2. Field of Specialization : a minimum of 109
+2.1 Core Courses 53
+2.1.1 Science 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+2.1.2 Highland Agriculture and Forest Resources 22
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+365201 HANR 201 Natural Resources and Agroforestry 3(3-0-6)
+365223 HANR 223 Fundamental Forest Resource 3(3-0-6)
+365290 HANR 290 Practical Training in Highland Agriculture and Forest Resources 1(0-6-0)
+365326 HANR 326 Dendrology 3(2-3-4)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+2.2 Major : a minimum of 41
+The major field must have 300 level course or higher at least 36 credits and in the 36 credits must be 400 level course
+at least 18 credits.
+2.2.1 Required Courses 41
+365211 HANR 211 Highland Agricultural Systems and Innovations 3(3-0-6)
+365301 HANR 301 Economy and Sustainable Forest Development 3(3-0-6)
+365311 HANR 311 Soil, Water, Plant, Forest and Climate Relationships in Highland Agriculture 3(3-0-6)
+365312 FORA 312 Highland Regenerative Agriculture 3(3-0-6)
+365324 HANR 324 Principles of Agroforestry 3(3-0-6)
+365331 HANR 331 Geo-Informatic Technology for Forest Resource and Agricultural Management 3(2-3-4)
+365401 HANR 401 Forest Ecosystems for Climate Change Mitigation 3(3-0-6)
+365421 HANR 421 Principles of Watershed Management 3(2-3-4)
+365424 HANR 424 Wildfire and Ecosystems 3(3-0-6)
+365427 HANR 427 Forest Plantation 3(3-0-6)
+365428 HANR 428 Forest Mensuration and Computer Applications 3(2-3-4)
+365497 HANR 497 Seminar 1 1(1-0-2)
+365498 HANR 498 Seminar 2 1(1-0-2)
+and students must select cooperative education group or special problem
+Cooperative Education
+365490 HANR 490 Cooperative Education in Forest Resource and Agroforestry 6
+or Special Problems
+365390 HANR 390 Professional Skill Training in Forest Resource and Agroforestry 3(0-18-
+0)
+and 365499 HANR 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits, in order
+that students must select the 400 level of major elective courses as following at least 4 credits.
+If students who do not require to study the major elective courses must follow the number 2.3 by studying minor
+courses at least 15 credits.
+202342 BIOL 342 General Plant Physiology 4(3-3-6)
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+351364 AEC 364 Principles of Natural Resource and Environmental Economics 3(3-0-6)
+351371 AEC 371 Sufficiency Economy Paths 3(3-0-6)
+352313 AET 313 Highland Agricultural Extension 3(3-0-6)
+352323 AET 323 Modern Agricultural Development 3(3-0-6)
+352422 AET 422 Agro-tourism Management 3(3-0-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+359207 HORT 207 Agricultural Production Standards 1(1-0-2)
+359305 HORT 305 Agricultural Research Methodology 1(1-0-2)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359409 HORT 409 Highland Horticulture 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+365291 HANR 291 Field Practices in Forest and Agroforestry Ecosystems 2(0-12-
+0)
+365322 HANR 322 Forest Resources Conservation 3(3-0-6)
+365323 HANR 323 Nature of Forest Soils 3(3-0-6)
+365325 HANR 325 Agroforest Ecosystems 3(3-0-6)
+365411 FORA 411 Highland Agricultural and Forestry Product Value Addition 3(3-0-6)
+365412 FORA 412 Technology and Innovation in Highland Coffee Production 3(2-3-4)
+365422 HANR 422 Forest Ecosystem and Watershed Restoration 3(3-0-6)
+365423 HANR 423 Forest Ecosystem Nutrient Balance 3(3-0-6)
+365425 HANR 425 Wildlife Resource Conservation 3(3-0-6)
+365426 HANR 426 Forest Plants and Utilization 3(3-0-6)
+365429 HANR 429 Greenhouse Gas Management in Forest and Agricultural Sectors 3(3-0-6)
+365431 HANR 431 Remote Sensing for Forest Resource and Agricultural Surveys 3(2-3-4)
+365432 HANR 432 Forest and Agroforest Micrometeorology 3(2-3-4)
+365491 HANR 491 Selected Topics in Forest Resource and Agroforestry 1 1(1-0-2)
+365492 HANR 492 Selected Topics in Forest Resource and Agroforestry 2 2(2-0-4)
+365493 HANR 493 Selected Topics in Forest Resource and Agroforestry 3 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+1) For students, who wish to study in the Minor Subject, must choose a minimum of 15 credits from any minor course
+according to the university announcement with the approval of the advisor.
+2) For students who do not wish to study in the minor subject have to choose the elective courses in 2.2.2., however,
+students have to enroll not less than 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 139
+Study plan
+First Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+Total 21
+Second Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+365201 HANR 201 Natural Resources and Agroforestry 3(3-0-6)
+365211 HANR 211 Highland Agricultural Systems and Innovations 3(3-0-6)
+GE (Digital Literacy) 3
+Total 20
+Second Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001227 ENGL 227 English for Agriculture and Agro-Industry -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+001227 ENGL 227 English for Agriculture and Agro-Industry -(3-0-6)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+GE (Creativity and Innovation) 3
+Total 16
+Second Semester Credits
+202231 BIOL 231 Genetics 1 4(3-3-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+365223 HANR 223 Fundamental Forest Resource 3(3-0-6)
+365290 HANR 290 Practical Training in Highland Agriculture and Forest Resources 1(0-6-0)
+GE (Entrepreneurial Skills) 3
+Total 17
+Third Year
+First Semester Credits
+365301 HANR 301 Economy and Sustainable Forest Development 3(3-0-6)
+365311 HANR 311 Soil, Water, Plant, Forest and Climate Relationships in Highland Agriculture 3(3-0-6)
+365326 HANR 326 Dendrology 3(2-3-4)
+365401 HANR 401 Forest Ecosystems for Climate Change Mitigation 3(3-0-6)
+365424 HANR 424 Wildfire and Ecosystems 3(3-0-6)
+365428 HANR 428 Forest Mensuration and Computer Applications 3(2-3-4)
+GE (Digital Literacy or Global Citizen or Artificial Intelligence) 3
+Total 21
+Second Semester Credits
+365324 HANR 324 Principles of Agroforestry 3(3-0-6)
+365331 HANR 331 Geo-Informatic Technology for Forest Resource and Agricultural Management 3(2-3-4)
+365421 HANR 421 Principles of Watershed Management 3(2-3-4)
+365427 HANR 427 Forest Plantation 3(3-0-6)
+365497 HANR 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 6
+Total 19
+Fourth Year
+First Semester Credits
+365390 HANR 390 Professional Skill Training in Forest Resource and Agroforestry 3(0-18-0)
+365499 HANR 499 Special Problems 3(0-9-0)
+or 365490 HANR 490 Cooperative Education in Forest Resource and Agroforestry 6
+Total 6
+Second Semester Credits
+365312 FORA 312 Highland Regenerative Agriculture 3(3-0-6)
+365498 HANR 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 19

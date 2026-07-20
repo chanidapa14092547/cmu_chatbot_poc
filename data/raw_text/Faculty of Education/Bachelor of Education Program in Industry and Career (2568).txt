@@ -1,0 +1,254 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25630041100096
+Bachelor of Education Program in Industry and Career (2568)
+Name of the degree
+Full : Bachelor of Education (Industry and Career)
+Abbreviation : B.Ed. (Industry and Career)
+Curriculum structure
+1. General Education 24
+1.1) Required Courses 15
+1) Language Literacy 9
+For students whose e-Pro score is lower than the B1 level or equivalent.
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+For students whose e-Pro score is on the B1 level or higher or equivalent.
+1. Required Courses 3
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+2. Elective Courses 6
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+2) Digital Literacy 3
+204100 CS 100 Artificial Intelligence and Digital Essentials 3(3-0-6)
+3) Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+4) Creativity and Innovation 3
+Choose one course from the followings :
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+5) Entrepreneurial Skills 3
+Choose one course from the followings :
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2) Elective Courses 3
+Choose one course, 3 credits from the followings :
+1) Digital Literacy
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+888104 DIN 104 Introduction to Internet of Things 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+2) Global Citizen
+050101 HUGE 101 Lan Na Perspective in the 21st Century 3(3-0-6)
+050113 HUGE 113 Locality in Globalization 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+140106 PG 106 Sustainable Development Goals 3(3-0-6)
+140107 PG 107 Anti-corruption Studies 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+201192 SC 192 Doi Suthep Study 1(0-3-0)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+3) Artificial Intelligence
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955115 ATGE 115 Generative Artificial Intelligence for Digital Innovation 3(3-0-6)
+2. Field of Specialization : a minimum of 126
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Elective Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 89
+Industrial majors and Career majors there must be a minimum of 36 credits in major courses at 300 level and among
+these must be a minimum of 18 credits in 400 level.
+2.2.1 Joint Major Courses 9
+081201 EDIC 201 Philosophy of Vocational Education and Career 3(3-0-6)
+081411 EDIC 411 Learning Management for Entrepreneurship in Modern Era for Industry and Career 3(3-0-6)
+081421 EDIC 421 Human Resource Development for Industrial and Career Teachers 3(3-0-6)
+2.2.2 Industrial Major : a minimum of 40
+2.2.2.1 Academic Content Courses : a minimum of 28
+1) Required Courses 22
+079260 EDIE 260 Skill Training for Industrial Education 3(2-2-5)
+079270 EDIE 270 Learning Management of Drawing and Reading in Industrial Education 3(2-2-5)
+079373 EDIE 373 Learning Management of Wood Working Technology for Industrial Education 3(2-2-5)
+079377 EDIE 377 Metal Working Technology for Industrial Education 3(2-2-5)
+079379 EDIE 379 Engine Technology for Industrial Education 3(2-2-5)
+079479 EDIE 479 Modern Automotive Technology Learning Management for Industrial Education 2(2-0-4)
+079482 EDIE 482 Learning Management for Safety and Workshop Management in Educational Institution 3(3-0-6)
+079492 EDIE 492 Learning Management of Smart Grid in Modern Industry 2(2-0-4)
+2) Elective Courses : a minimum of 6
+079169 EDIE 169 Technical English Learning for Industrial Education 2(2-0-4)
+079213 EDIE 213 Construction Technology for Industrial Education 3(2-2-5)
+079220 EDIE 220 Thinking Skills for Learning in Industrial Education 3(3-0-6)
+079268 EDIE 268 Learning Management of Production Technology for Industrial Education 2(2-0-4)
+079375 EDIE 375 Electricity-Electronics Technology for Industrial Education 3(2-2-5)
+079488 EDIE 488 Development of Instructional Materials for Industrial Teachers 3(2-2-5)
+079445 EDIE 445 Special Lecture for Industrial Education 3(3-0-6)
+079467 EDIE 467 Independent Study for Industrial Education 3
+079490 EDIE 490 Pottery Innovation for Industrial Education 3(2-2-5)
+2.2.2.2 Educational Courses : a minimum of 12
+1) Required Courses 9
+079383 EDIE 383 Principles and Development of Modern Industrial Education Curriculum 3(3-0-6)
+079385 EDIE 385 Active Learning Management for Industrial Education 3(3-0-6)
+079412 EDIE 412 Teaching Computing Science in Secondary School Level 3(2-2-5)
+2) Elective Courses : a minimum of 3
+079312 EDIE 312 Teaching Computing Science in Primary School Level 3(2-2-5)
+079322 EDIE 322 Educational Quality Assurance for Industrial Education 3(3-0-6)
+079368 EDIE 368 Vocational Learning in the Modern Era 3(3-0-6)
+2.2.3 Career Major : a minimum of 40
+2.2.3.1 Academic Content Courses : a minimum of 28
+1) Required Courses 22
+006206 HC 206 Home Management 3(3-0-6)
+006253 HC 253 Foundation of Nutrition 3(3-0-6)
+080411 EDCE 411 Leather and Imitation Leather for Occupations and Livelihoods 3(2-2-5)
+356203 ANS 203 Tropical Livestock Farming and Aquaculture 3(3-0-6)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+703303 MGMT 303 Sustainable Business Management 3(3-0-6)
+2) Elective Courses : a minimum of 6
+006126 HC 126 Introduction to Food 3(3-0-6)
+080321 EDCE 321 Innovation and Information Technology for Career Education 3(2-2-5)
+080412 EDCE 412 Learning Management in Innovations of Modern Electrical Appliances 3(2-2-5)
+080421 EDCE 421 Infographic Design for Career Education 3(2-2-5)
+353100 AGRO 100 Thai Rice 3(3-0-6)
+2.2.3.2 Educational Courses : a minimum of 12
+1) Required Courses 9
+052486 EDEL 486 Methodology of Career Learning for Competency Development of Elementary Students 3(3-0-6)
+080481 EDCE 481 Learning Provision of Career Education for Competency Development of Secondary 3(2-2-5)
+Students
+080482 EDCE 482 Artificial Intelligence in Modern Career Learning Management 3(2-2-5)
+2) Elective Courses : a minimum of 3
+080483 EDCE 483 Sustainable Environment and Energy Learning Management for Living and Family 3(3-0-6)
+080484 EDCE 484 Career Learning Management Styles in the Future 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai university , they can register those courses
+not less than 15 credits with the academic advisor's approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 156
+Study plan
+First Year
+First Semester Credits
+GE (Language Literacy) 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+006206 HC 206 Home Management 3(3-0-6)
+079260 EDIE 260 Skill Training for Industrial Education 3(2-2-5)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+204100 CS 100 Artificial Intelligence and Digital Essentials 3(3-0-6)
+356203 ANS 203 Tropical Livestock Farming and Aquaculture 3(3-0-6)
+Creativity and Innovation 3
+Total 22
+Second Semester Credits
+GE (Language Literacy) 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+079270 EDIE 270 Learning Management of Drawing and Reading in Industrial Education 3(2-2-5)
+140104 PG 104 Citizenship 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+Entrepreneurial Skills 3
+Total 20
+Second Year
+First Semester Credits
+GE (Language Literacy) 3
+For students who have below and higher the B1 level scores or equivalent on the e-Pro -
+test
+001202 ENGL 202 English in Professional Contexts -(3-0-6)
+079377 EDIE 377 Metal Working Technology for Industrial Education 3(2-2-5)
+081201 EDIC 201 Philosophy of Vocational Education and Career 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+Elective Core Courses 2
+General Education (Elective Courses) 3
+Total 22
+Second Semester Credits
+006253 HC 253 Foundation of Nutrition 3(3-0-6)
+052486 EDEL 486 Methodology of Career Learning for Competency Development of Elementary Students 3(3-0-6)
+079373 EDIE 373 Learning Management of Wood Working Technology for Industrial Education 3(2-2-5)
+079379 EDIE 379 Engine Technology for Industrial Education 3(2-2-5)
+079383 EDIE 383 Principles and Development of Modern Industrial Education Curriculum 3(3-0-6)
+079492 EDIE 492 Learning Management of Smart Grid in Modern Industry 2(2-0-4)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+Total 22
+Third Year
+First Semester Credits
+079385 EDIE 385 Active Learning Management for Industrial Education 3(3-0-6)
+079479 EDIE 479 Modern Automotive Technology Learning Management for Industrial Education 2(2-0-4)
+080482 EDCE 482 Artificial Intelligence in Modern Career Learning Management 3(2-2-5)
+081411 EDIC 411 Learning Management for Entrepreneurship in Modern Era for Industry and Career 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+703303 MGMT 303 Sustainable Business Management 3(3-0-6)
+Career Major, Academic Content Courses (Elective Courses) 3
+Total 22
+Second Semester Credits
+079482 EDIE 482 Learning Management for Safety and Workshop Management in Educational Institution 3(3-0-6)
+080411 EDCE 411 Leather and Imitation Leather for Occupations and Livelihoods 3(2-2-5)
+081421 EDIC 421 Human Resource Development for Industrial and Career Teachers 3(3-0-6)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+Industrial Major, Academic Content Courses (Elective Courses) 3
+Free Electives 3
+Total 21
+Fourth Year
+First Semester Credits
+079412 EDIE 412 Teaching Computing Science in Secondary School Level 3(2-2-5)
+080481 EDCE 481 Learning Provision of Career Education for Competency Development of Secondary 3(2-2-5)
+Students
+Industrial Major, Academic Content Courses (Elective Courses) 3
+Career Major, Academic Content Courses (Elective Courses) 3
+Industrial Major, Educational Courses (Elective Courses) 3
+Career Major, Educational Courses (Elective Courses) 3
+Free Elective 3
+Total 21
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

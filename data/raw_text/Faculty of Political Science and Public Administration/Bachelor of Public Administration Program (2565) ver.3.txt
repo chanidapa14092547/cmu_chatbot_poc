@@ -1,0 +1,203 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25480041103326
+Bachelor of Public Administration Program (2565) ver.3
+Name of the degree
+Full : Bachelor of Public Administration
+Abbreviation : B.P.A.
+Curriculum structure
+1. General Education 30
+1.1 Learner Person 18
+1.1.1 Required courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+or 261111 CPE 111 Internet and Online Community 3(3-0-6)
+1.1.2 Elective Courses 3
+Select 1 course from the followings
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 3
+Select 1 course from the followings
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+201117 SC 117 Mathematics and Science in Civilization 3(3-0-6)
+208101 STAT 101 Statistics for Everyday Life and Work 3(2-2-5)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.3 Active Citizen 9
+1.3.1 Required courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 6
+Select 2 courses from the followings
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+140103 PG 103 Anti-Corruption in Thailand 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+2. Field of Specialization : a minimum of 84
+2.1 Core Courses 24
+2.1.1 Required Core Courses 21
+013103 PSY 103 General Psychology 3(3-0-6)
+126101 IR 101 Introduction to International Relations 3(3-0-6)
+127101 GOV 101 Introduction to Political Science 3(3-0-6)
+128101 PA 101 Introduction to Public Administration 3(3-0-6)
+128201 PA 201 Thai Public Administration 3(3-0-6)
+176101 LAGE 101 Introduction to Law 3(3-0-6)
+751101 ECON 101 Principles of Economics 1 3(3-0-6)
+2.1.2 Elective Courses 3
+Select 1 course from the followings
+013203 PSY 203 Social Psychology 3(3-0-6)
+751102 ECON 102 Principles of Economics 2 3(3-0-6)
+2.2 Major : a minimum of 60
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the 300 – 400 level
+courses of which at least 18 credits must be from the 400 level courses or upper.
+Cooperative Education Plan
+2.2.1 Major Requirements 45
+128202 PA 202 Organization and Management 3(3-0-6)
+128203 PA 203 Human Resource Management 3(3-0-6)
+128204 PA 204 Local Administration 3(3-0-6)
+128205 PA 205 Design Thinking for Public Administrator 3(3-0-6)
+128208 PA 208 Digital Analytics for Public Administrators 3(3-0-6)
+128304 PA 304 Public Policy and Policy Development 3(3-0-6)
+128305 PA 305 Planning in Public Sector 3(3-0-6)
+128306 PA 306 Public Finance Administration 3(3-0-6)
+128307 PA 307 Strategic Management Techniques 3(3-0-6)
+128309 PA 309 Research Methodology in Public Administration 1 3(3-0-6)
+128310 PA 310 Research Methodology in Public Administration 2 3(3-0-6)
+128401 PA 401 Ethics for Administrators 3(3-0-6)
+128403 PA 403 Project Management 3(3-0-6)
+128470 PA 470 Cooperative Education in Public Administration 6
+Action Research Plan
+2.2.1 Major Requirements 45
+128202 PA 202 Organization and Management 3(3-0-6)
+128203 PA 203 Human Resource Management 3(3-0-6)
+128204 PA 204 Local Administration 3(3-0-6)
+128205 PA 205 Design Thinking for Public Administrator 3(3-0-6)
+128208 PA 208 Digital Analytics for Public Administrators 3(3-0-6)
+128304 PA 304 Public Policy and Policy Development 3(3-0-6)
+128305 PA 305 Planning in Public Sector 3(3-0-6)
+128306 PA 306 Public Finance Administration 3(3-0-6)
+128307 PA 307 Strategic Management Techniques 3(3-0-6)
+128309 PA 309 Research Methodology in Public Administration 1 3(3-0-6)
+128310 PA 310 Research Methodology in Public Administration 2 3(3-0-6)
+128401 PA 401 Ethics for Administrators 3(3-0-6)
+128403 PA 403 Project Management 3(3-0-6)
+128471 PA 471 Independent Study 3
+128480 PA 480 Seminar in Public Administration Research 3(3-0-6)
+2.2.2 Major Electives : a minimum of 15
+...........................ข้อความภาษาอังกฤษ..........................
+2.2.2.1 Government/State Enterprise Subjects Group
+128331 PA 331 Project Appraisal 3(3-0-6)
+128334 PA 334 Public Choice 3(3-0-6)
+128351 PA 351 Change Management 3(3-0-6)
+128352 PA 352 Conflict Management 3(3-0-6)
+128354 PA 354 Public Archive and Modern Conference 3(3-0-6)
+128355 PA 355 Electronic Government 3(3-0-6)
+128356 PA 356 Governance of the People’s Republic of China 3(3-0-6)
+128357 PA 357 Administration of Administrative Justice 3(3-0-6)
+128431 PA 431 Governmental Budgeting 3(3-0-6)
+128434 PA 434 Local Public Finance 3(3-0-6)
+128443 PA 443 Public Project Evaluation 3(3-0-6)
+128445 PA 445 Public Service Management 3(3-0-6)
+128446 PA 446 Collaborative Public Management 3(3-0-6)
+128447 PA 447 Security and Border Affairs 3(3-0-6)
+128448 PA 448 Governance and Development Policy 3(3-0-6)
+128462 PA 462 Management in Crisis 3(3-0-6)
+128484 PA 484 Seminar in Thai Administrative System 3(3-0-6)
+2.2.2.2 Human Capital Management and Organization Development Subjects Group
+128322 PA 322 Organizational Behavior and Organization Development 3(3-0-6)
+128325 PA 325 Human Resource Development 3(3-0-6)
+128423 PA 423 Human Resource Information Systems 3(3-0-6)
+128425 PA 425 Labor Administration 3(3-0-6)
+128427 PA 427 Reward Management 3(3-0-6)
+128428 PA 428 Performance Management 3(3-0-6)
+128429 PA 429 Recruitment and Selection of Human Resource 3(3-0-6)
+128481 PA 481 Seminar in Human Resource Management 3(3-0-6)
+2.2.2.3 Social Enterprise Subjects Group
+128353 PA 353 Non-Profit Organization Management 3(3-0-6)
+128335 PA 335 Community Innovation Design 3(3-0-6)
+128436 PA 436 Data Analytics for Social Enterprise Startup 3(3-0-6)
+128437 PA 437 Social Enterprise Management 3(3-0-6)
+128451 PA 451 Management of Innovation for Public Service 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 9
+Total : a minimum of 123
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+127101 GOV 101 Introduction to Political Science 3(3-0-6)
+128101 PA 101 Introduction to Public Administration 3(3-0-6)
+176101 LAGE 101 Introduction to Law 3(3-0-6)
+751101 ECON 101 Principles of Economics 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+or 261111 CPE 111 Internet and Online Community 3(3-0-6)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+013103 PSY 103 General Psychology 3(3-0-6)
+126101 IR 101 Introduction to International Relations 3(3-0-6)
+128201 PA 201 Thai Public Administration 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+GE : Active Citizen (Elective Course) 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+128202 PA 202 Organization and Management 3(3-0-6)
+128203 PA 203 Human Resource Management 3(3-0-6)
+128204 PA 204 Local Administration 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+GE : Innovative Co-creator (Elective Course) 3
+GE : Active Citizen (Elective Course) 3
+Total 21
+Second Semester Credits
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+128205 PA 205 Design Thinking for Public Administrator 3(3-0-6)
+128208 PA 208 Digital Analytics for Public Administrators 3(3-0-6)
+128304 PA 304 Public Policy and Policy Development 3(3-0-6)
+128305 PA 305 Planning in Public Sector 3(3-0-6)
+Core course (Elective) 3
+Total 18
+Third Year
+First Semester Credits
+128307 PA 307 Strategic Management Techniques 3(3-0-6)
+128309 PA 309 Research Methodology in Public Administration 1 3(3-0-6)
+128403 PA 403 Project Management 3(3-0-6)
+((Major Elective 300) 3
+(Free Elective) 3
+Total 15
+Second Semester Credits
+128306 PA 306 Public Finance Administration 3(3-0-6)
+128310 PA 310 Research Methodology in Public Administration 2 3(3-0-6)
+(Major Elective 300) 3
+(Major Elective 400) 3
+(Free Elective) 3
+Total 15
+Fourth Year
+First Semester Credits
+128401 PA 401 Ethics for Administrators 3(3-0-6)
+(Major Elective 400) 3
+(Major Elective 400) 3
+(Free Elective) 3
+Total 12
+Cooperative Education Plan
+Fourth Year
+Second Semester Credits
+128470 PA 470 Cooperative Education in Public Administration 6
+Total 6
+Action Research Pla
+Fourth Year
+Second Semester Credits
+128471 PA 471 Independent Study 3
+128480 PA 480 Seminar in Public Administration Research 3(3-0-6)
+Total 6

@@ -1,0 +1,314 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25380041100309
+Bachelor of Education Program in Early Childhood Education-
+Special Education (2567)
+Name of the degree
+Full : Bachelor of Education (Early Childhood Education-Special Education)
+Abbreviation : B.Ed. (Early Childhood Education-Special Education)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+510100 AMS 100 Wellness 3(2-3-4)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective Courses 3
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+201115 SC 115 Life and Energy 3(3-0-6)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+651104 VM 104 Elephant in Thai Cultures 2(2-0-4)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization : a minimum of 108
+2.1 Core Courses : a minimum of 39
+2.1.1 Required Core Courses 37
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Elective Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+2.2 Major : a minimum of 69
+The major field must have 300 level course or higher at least 36 credits and in the 36 credits must be 400 level course
+at least 18 credits
+2.2.1 Joint Major Courses 9
+060210 EDCS 210 Self-discipline of Early Childhood and Special Education Teachers 3(3-0-6)
+060301 EDCS 301 Executive Functions for Early Childhood and Special Education Teachers 3(3-0-6)
+060310 EDCS 310 School Safety for Early Childhood Children and Children with Special Needs 3(3-0-6)
+1) Early Childhood Education : a minimum of 60
+2.2.2 Required Course 40
+062200 EDEC 200 Early Childhood Education Theories 3(3-0-6)
+062210 EDEC 210 Development and Learning of Early Childhood Children 2(2-0-4)
+062320 EDEC 320 Integrated Early Childhood Curriculum 3(3-0-6)
+062341 EDEC 341 Language and Communication for Early Childhood Children 3(3-0-6)
+062342 EDEC 342 Mathematics, Sciences and Technology for Early Childhood Children 3(3-0-6)
+062343 EDEC 343 Social Skills of Early Childhood Children 2(2-0-4)
+062345 EDEC 345 Storytelling and Tales for Early Childhood Children 2(2-0-4)
+062346 EDEC 346 Health and Physical Education for Early Childhood Children 3(3-0-6)
+062347 EDEC 347 Arts and Music for Early Childhood Children 3(3-0-6)
+062360 EDEC 360 Instructional Media for Early Childhood Children 2(2-0-4)
+062380 EDEC 380 Development and Learning Assessment in Early Childhood Level 2(2-0-4)
+062440 EDEC 440 Early Childhood Pedagogy and Human Development 3(3-0-6)
+062445 EDEC 445 Units and Early Childhood Learning Experience Plans Align with Its Standards 3(3-0-6)
+062451 EDEC 451 Supervision and Quality Assurance in Early Childhood Education 2(2-0-4)
+062452 EDEC 452 Collaboration among Early Childhood Teachers, Parents and Community 2(2-0-4)
+062470 EDEC 470 Qualitative Research for Early Childhood Education 2(2-0-4)
+2.2.3 Elective Course : a minimum of 20
+Select from the followings:
+062302 EDEC 302 Development of Morals, Ethics and Values of Early Childhood Children 2(2-0-4)
+062303 EDEC 303 Personality Psychology in Early Childhood Level 2(2-0-4)
+062304 EDEC 304 Science Concepts for Early Childhood Teacher 3(3-0-6)
+062305 EDEC 305 Nutrition and Nutrition Management for Early Childhood Children 2(2-0-4)
+062306 EDEC 306 Digital Technology for Early Childhood Teachers 3(3-0-6)
+062401 EDEC 401 Learning Experience Management for Thinking Development of Early Childhood Children 2(2-0-4)
+062402 EDEC 402 Administration and Management of Early Childhood Education Institutions 2(2-0-4)
+062450 EDEC 450 Early Childhood Teachers and Knowledge of Teaching Profession 3(3-0-6)
+062460 EDEC 460 Administrative Information Data Analysis in Administration in Early Childhood Institution 2(2-0-4)
+062499 EDEC 499 Early Childhood Education Research Project 3(1-6-0)
+070201 EDSP 201 Collaboration of Teachers, Parents, Paraprofessionals and Communities in Special 2(2-0-4)
+Education
+070406 EDSP 406 Food for Health for Children with Special Needs 3(3-0-6)
+070413 EDSP 413 Introduction to Sign Language 3(1-4-4)
+070414 EDSP 414 Introduction to Reading and Writing Braille 3(1-4-4)
+555351 NGP 351 Child Care 2(2-0-4)
+555352 NGP 352 Child Health 2(2-0-4)
+2) Special Education : a minimum of 60
+2.2.2 Required Course 40
+070200 EDSP 200 Educating Individuals with Disabilities 2(2-0-4)
+070201 EDSP 201 Collaboration of Teachers, Parents, Paraprofessionals and Communities in Special 2(2-0-4)
+Education
+070301 EDSP 301 Educational Psychology for Children with Special Needs 3(3-0-6)
+070302 EDSP 302 Teaching Techniques for Students with Special Needs 3(3-0-6)
+070303 EDSP 303 Assessment of Children for Special Education Needs 3(3-0-6)
+070304 EDSP 304 Technology for Special Education 3(3-0-6)
+070305 EDSP 305 Special Education Field Study 3(1-6-0)
+070306 EDSP 306 Curriculum Development for Students with Special Needs 3(3-0-6)
+070308 EDSP 308 Organizing Individualized Educational Plan 3(3-0-6)
+070401 EDSP 401 Early Intervention in Special Education 3(3-0-6)
+070410 EDSP 410 Educating Children with Autism Spectrum Disorders 3(3-0-6)
+070411 EDSP 411 Educating Children with Learning Disabilities 3(3-0-6)
+070415 EDSP 415 Behavior Modification for Children with Special Needs 3(3-0-6)
+070416 EDSP 416 Educating Children with Intellectual Disabilities and Slow Learners 3(3-0-6)
+2.2.3 Elective Course : a minimum of 20
+Select from the followings:
+070100 EDSP 100 Basic American Sign Language 3(1-6-0)
+070202 EDSP 202 Ethics for Special Education Teachers 3(3-0-6)
+070402 EDSP 402 Development of Children’s Articulation and Speaking 3(3-0-6)
+070403 EDSP 403 Arts and Music Activities for Children with Special Needs 3(3-0-6)
+070404 EDSP 404 Paraprofessionals Therapist for Children with Special Needs 3(3-0-6)
+070405 EDSP 405 Physical and Recreational Activities for Children with Special Needs 3(3-0-6)
+070406 EDSP 406 Food for Health for Children with Special Needs 3(3-0-6)
+070409 EDSP 409 Educating Children with Multiple Disabilities 3(3-0-6)
+070412 EDSP 412 Educating Gifted Children 3(3-0-6)
+070413 EDSP 413 Introduction to Sign Language 3(1-4-4)
+070414 EDSP 414 Introduction to Reading and Writing Braille 3(1-4-4)
+070417 EDSP 417 Educating Children with Visual Impairments 2(2-0-4)
+070418 EDSP 418 Educating Children with Physical or Movement or Health Impairments 2(2-0-4)
+070419 EDSP 419 Educating Children with Hearing Impairments 2(2-0-4)
+070420 EDSP 420 Guidance in Special Education 3(3-0-6)
+070421 EDSP 421 Vocational Skills for Special Education 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 144
+Study plan
+1) Early Childhood Education
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+062200 EDEC 200 Early Childhood Education Theories 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+GE : Innovative Co-creator (Elective Courses) 3
+GE : Active Citizen (Elective Courses) 3
+Total 22
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+062210 EDEC 210 Development and Learning of Early Childhood Children 2(2-0-4)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+062320 EDEC 320 Integrated Early Childhood Curriculum 3(3-0-6)
+062343 EDEC 343 Social Skills of Early Childhood Children 2(2-0-4)
+140104 PG 104 Citizenship 3(3-0-6)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+060210 EDCS 210 Self-discipline of Early Childhood and Special Education Teachers 3(3-0-6)
+060310 EDCS 310 School Safety for Early Childhood Children and Children with Special Needs 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+062341 EDEC 341 Language and Communication for Early Childhood Children 3(3-0-6)
+Elective Courses 3
+Total 22
+Second Semester Credits
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+060301 EDCS 301 Executive Functions for Early Childhood and Special Education Teachers 3(3-0-6)
+062380 EDEC 380 Development and Learning Assessment in Early Childhood Level 2(2-0-4)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+Elective Core Courses 2
+Elective Courses 3
+Total 20
+Third Year
+First Semester Credits
+062342 EDEC 342 Mathematics, Sciences and Technology for Early Childhood Children 3(3-0-6)
+062345 EDEC 345 Storytelling and Tales for Early Childhood Children 2(2-0-4)
+062346 EDEC 346 Health and Physical Education for Early Childhood Children 3(3-0-6)
+062347 EDEC 347 Arts and Music for Early Childhood Children 3(3-0-6)
+062360 EDEC 360 Instructional Media for Early Childhood Children 2(2-0-4)
+062440 EDEC 440 Early Childhood Pedagogy and Human Development 3(3-0-6)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+Elective Courses 2
+Total 22
+Second Semester Credits
+062445 EDEC 445 Units and Early Childhood Learning Experience Plans Align with Its Standards 3(3-0-6)
+062452 EDEC 452 Collaboration among Early Childhood Teachers, Parents and Community 2(2-0-4)
+062470 EDEC 470 Qualitative Research for Early Childhood Education 2(2-0-4)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+Elective Courses 8
+Total 18
+Fourth Year
+First Semester Credits
+062451 EDEC 451 Supervision and Quality Assurance in Early Childhood Education 2(2-0-4)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+Elective Courses 4
+Free Electives 6
+Total 16
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6
+2) Special Education
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+070200 EDSP 200 Educating Individuals with Disabilities 2(2-0-4)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+140104 PG 104 Citizenship 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+GE : Active Citizen (Elective Courses) 3
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+070201 EDSP 201 Collaboration of Teachers, Parents, Paraprofessionals and Communities in Special 2(2-0-4)
+Education
+070301 EDSP 301 Educational Psychology for Children with Special Needs 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+GE : Innovative Co-creator (Elective Courses) 3
+Free Electives 3
+Total 22
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+060210 EDCS 210 Self-discipline of Early Childhood and Special Education Teachers 3(3-0-6)
+070303 EDSP 303 Assessment of Children for Special Education Needs 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+Elective Core Course 2
+Free Electives 3
+Total 20
+Second Semester Credits
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+060301 EDCS 301 Executive Functions for Early Childhood and Special Education Teachers 3(3-0-6)
+060310 EDCS 310 School Safety for Early Childhood Children and Children with Special Needs 3(3-0-6)
+070302 EDSP 302 Teaching Techniques for Students with Special Needs 3(3-0-6)
+070306 EDSP 306 Curriculum Development for Students with Special Needs 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+Total 20
+Third Year
+First Semester Credits
+070304 EDSP 304 Technology for Special Education 3(3-0-6)
+070308 EDSP 308 Organizing Individualized Educational Plan 3(3-0-6)
+070401 EDSP 401 Early Intervention in Special Education 3(3-0-6)
+070411 EDSP 411 Educating Children with Learning Disabilities 3(3-0-6)
+070415 EDSP 415 Behavior Modification for Children with Special Needs 3(3-0-6)
+Elective Courses 5
+Total 20
+Second Semester Credits
+070410 EDSP 410 Educating Children with Autism Spectrum Disorders 3(3-0-6)
+070416 EDSP 416 Educating Children with Intellectual Disabilities and Slow Learners 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+Elective Courses 6
+Total 19
+Fourth Year
+First Semester Credits
+070305 EDSP 305 Special Education Field Study 3(1-6-0)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+Elective Courses 9
+Total 16
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

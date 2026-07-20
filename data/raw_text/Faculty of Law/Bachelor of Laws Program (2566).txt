@@ -1,0 +1,235 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25460041100782
+Bachelor of Laws Program (2566)
+Name of the degree
+Full : Bachelor of Laws
+Abbreviation : LL.B.
+Curriculum structure
+(1)General Education 30
+1)Required Courses 21
+1.1)Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.2)Innovative Co-creator 3
+Select 1 course from the following courses:
+011151 PHIL 151 Reasoning 3(3-0-6)
+004170 HIST 170 Thai Society and Culture 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+201100 SC 100 Integrated Science 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+208101 STAT 101 Statistics for Everyday Life and Work 3(2-2-5)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+1.3)Active Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+2) GE Electives 9
+A student also chooses 9 credits from these GE courses including from the group of Innovative Co-creator (compulsory
+courses) listed in 1.2 above or from the followings:
+2.1)Learner Person
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+571113 NGGE 113 Maintaining the Equilibrium in Adolescent Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+2.2)Active Citizen
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+050121 HUGE 121 Thai People in the ASEAN Community 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+(2) Field of Specialization : a minimum of 110
+2.1 Core Courses 47
+177101 LAW 101 Introduction to Law and Legal Ethics 3(3-0-6)
+177102 LAW 102 Fundamental Principles of Private Law and Law of Persons 3(3-0-6)
+177105 LAW 105 Juristic Method and Legal Reasoning 3(3-0-6)
+177113 LAW 113 Law of Juristic Acts and Contract 3(3-0-6)
+177141 LAW 141 Principles of Public Law 3(3-0-6)
+177181 LAW 181 Criminal Law: General Provisions 3(3-0-6)
+177212 LAW 212 Property Law 3(3-0-6)
+177214 LAW 214 Law of Obligations 3(3-0-6)
+177215 LAW 215 Torts, Management of Affairs without Mandate and Undue Enrichment 3(3-0-6)
+177216 LAW 216 Family Law 3(3-0-6)
+177217 LAW 217 Law of Succession 3(3-0-6)
+177223 LAW 223 Law on Business Contracts 1 3(3-0-6)
+177224 LAW 224 Law on Business Contracts 2 3(3-0-6)
+177241 LAW 241 Constitutional Law 3(3-0-6)
+177252 LAW 252 Legal Institutions and Constitute of the Courts of Justice 2(2-0-4)
+177281 LAW 281 Criminal Offences 3(3-0-6)
+2.2 Major : a minimum of 63
+2.2.1 Requirements 42
+177322 LAW 322 Law on Business Organizations 3(3-0-6)
+177330 LAW 330 Civil Procedural Law 3(3-0-6)
+177334 LAW 334 Law of Evidence 3(3-0-6)
+177341 LAW 341 Administrative Law 3(3-0-6)
+177342 LAW 342 Administrative Procedural Law and Specific Administrative Law 3(3-0-6)
+177351 LAW 351 Labor Law 3(3-0-6)
+177361 LAW 361 Public International Law 3(3-0-6)
+177362 LAW 362 Private International Law 3(3-0-6)
+177393 LAW 393 Criminal Procedural Law 3(3-0-6)
+177412 LAW 412 Philosophy of Law 3(3-0-6)
+177402 LAW 402 Law and Society 3(3-0-6)
+177440 LAW 440 Public Economic and Finance Law 3(3-0-6)
+177451 LAW 451 Tax Law 3(3-0-6)
+177400 LAW 400 Legal Internship 3(0-18-
+0)
+2.2.2 Major Electives : a minimum of 21
+General Legal Courses
+178401 LAWS 401 Legal History 3(3-0-6)
+178402 LAWS 402 Thai Legal History 3(3-0-6)
+178403 LAWS 403 Legal Research Methodology 3(3-0-6)
+178404 LAWS 404 Introduction to Chinese Legal System 3(3-0-6)
+178405 LAWS 405 Introduction to the Roman Law 3(3-0-6)
+178406 LAWS 406 Foreign Legal Language for Communication 3(3-0-6)
+178407 LAWS 407 Foreign Legal Writing 3(3-0-6)
+178408 LAWS 408 Environmental Clinical Legal Education 3(1-6-2)
+178409 LAWS 409 Clinical Legal Education 3(1-6-2)
+178411 LAWS 411 Comparative Law 3(3-0-6)
+Private Law Courses
+178314 LAWS 314 Legal Advice for Foreign Clients 3(3-0-6)
+178323 LAWS 323 Securities Law 3(3-0-6)
+178324 LAWS 324 Capital Markets Law, Corporate Governance and Sustainable Development 3(3-0-6)
+178325 LAWS 325 Law of Negotiable Instruments 3(3-0-6)
+178326 LAWS 326 Insurance Law 3(3-0-6)
+178327 LAWS 327 Banking Law and Financial Institutions 3(3-0-6)
+178328 LAWS 328 Electronic Commerce Law 3(3-0-6)
+178329 LAWS 329 Competition Law 3(3-0-6)
+178410 LAWS 410 Seminar on Civil Law 3(3-0-6)
+178420 LAWS 420 Seminar on Business Law 3(3-0-6)
+178421 LAWS 421 Law of Corporate Control and Transactions 3(3-0-6)
+178422 LAWS 422 Economic Analysis of Law 3(3-0-6)
+Procedural Law Courses
+178331 LAWS 331 Legal Execution 3(3-0-6)
+178332 LAWS 332 Bankruptcy Law 3(3-0-6)
+178333 LAWS 333 Reorganization Law 3(3-0-6)
+178334 LAWS 334 Alternative Dispute Resolution 3(3-0-6)
+178335 LAWS 335 Law of Debt Restructuring and Business Law 3(3-0-6)
+178430 LAWS 430 Counsel Practice 3(3-0-6)
+Public Law Courses
+178340 LAWS 340 Organic Laws 3(3-0-6)
+178347 LAWS 347 Land Law 3(3-0-6)
+178441 LAWS 441 Seminar in Constitutional Law 3(3-0-6)
+178442 LAWS 442 Information Law 3(3-0-6)
+178446 LAWS 446 Law of Local Administration 3(3-0-6)
+178447 LAWS 447 Administrative Law Seminar 3(3-0-6)
+Special Law
+178350 LAWS 350 Copyright in the Digital Age 3(3-0-6)
+178351 LAWS 351 Law and Environment 3(3-0-6)
+178352 LAWS 352 Consumer Protection Law 3(3-0-6)
+178353 LAWS 353 Sports Law 3(3-0-6)
+178355 LAWS 355 Intellectual Property Law 3(3-0-6)
+178451 LAWS 451 Information Technology Law 3(3-0-6)
+178452 LAWS 452 Cyber Law 3(3-0-6)
+178453 LAWS 453 Energy law 3(3-0-6)
+178454 LAWS 454 Real Estate Law 3(3-0-6)
+178455 LAWS 455 Law on Natural Resources 3(3-0-6)
+178456 LAWS 456 Poverty Law 3(3-0-6)
+International Law Courses
+178366 LAWS 366 Maritime Law 3(3-0-6)
+178367 LAWS 367 International Trade Law 3(3-0-6)
+178462 LAWS 462 Law of International Business Transactions 3(3-0-6)
+178463 LAWS 463 The Law of the Sea 3(3-0-6)
+178464 LAWS 464 Law of Treaties 3(3-0-6)
+178465 LAWS 465 Human Rights Law 3(3-0-6)
+178466 LAWS 466 International Economic Law 3(3-0-6)
+178468 LAWS 468 International Environmental Law 3(3-0-6)
+178469 LAWS 469 European Union Law 3(3-0-6)
+178471 LAWS 471 Law and Society in Southeast Asia 3(3-0-6)
+178472 LAWS 472 ASEAN Community Law 3(3-0-6)
+178474 LAWS 474 International Humanitarian Law 3(3-0-6)
+178475 LAWS 475 Law of International Organizations 3(3-0-6)
+178476 LAWS 476 International Criminal Law 3(3-0-6)
+178477 LAWS 477 Law on Migration and Border-Crossing of People and Capital 3(3-0-6)
+Criminal Law Courses
+178380 LAWS 380 Criminal Offences 2 3(3-0-6)
+178383 LAWS 383 Economic Crime 3(3-0-6)
+178384 LAWS 384 Criminology in Criminal Justice 3(3-0-6)
+178481 LAWS 481 Seminar on Criminal Law 3(3-0-6)
+178484 LAWS 484 Law on Cybercrime, Cyber Warfare and Cybersecurity 3(3-0-6)
+178390 LAWS 390 Criminal Procedural Law in the Part of Criminal Trial 3(3-0-6)
+178491 LAWS 491 Law of Juvenile Delinquency 3(3-0-6)
+178494 LAWS 494 Criminal Investigation and Forensic Science 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+Students, who wish to enroll in minor courses, can select minor courses in any field according to Chiang Mai University
+Regulation on Minor Courses for Chaingmai University students with the minimum of 15 credits, with the approval of the
+advisor. This will result in addition of minimum of 15 credits to the total credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 146
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+GE Elective (Innovative Co-creator) 3
+GE (Elective course) 3
+177101 LAW 101 Introduction to Law and Legal Ethics 3(3-0-6)
+177102 LAW 102 Fundamental Principles of Private Law and Law of Persons 3(3-0-6)
+177105 LAW 105 Juristic Method and Legal Reasoning 3(3-0-6)
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+GE (Elective course) 3
+GE (Elective course) 3
+177113 LAW 113 Law of Juristic Acts and Contract 3(3-0-6)
+177141 LAW 141 Principles of Public Law 3(3-0-6)
+177181 LAW 181 Criminal Law: General Provisions 3(3-0-6)
+Total 21
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+177212 LAW 212 Property Law 3(3-0-6)
+177214 LAW 214 Law of Obligations 3(3-0-6)
+177215 LAW 215 Torts, Management of Affairs without Mandate and Undue Enrichment 3(3-0-6)
+177241 LAW 241 Constitutional Law 3(3-0-6)
+177281 LAW 281 Criminal Offences 3(3-0-6)
+Total 18
+Second Semester Credits
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+177216 LAW 216 Family Law 3(3-0-6)
+177217 LAW 217 Law of Succession 3(3-0-6)
+177223 LAW 223 Law on Business Contracts 1 3(3-0-6)
+177224 LAW 224 Law on Business Contracts 2 3(3-0-6)
+177252 LAW 252 Legal Institutions and Constitute of the Courts of Justice 2(2-0-4)
+Total 17
+Third Year
+First Semester Credits
+177322 LAW 322 Law on Business Organizations 3(3-0-6)
+177330 LAW 330 Civil Procedural Law 3(3-0-6)
+177341 LAW 341 Administrative Law 3(3-0-6)
+177351 LAW 351 Labor Law 3(3-0-6)
+177393 LAW 393 Criminal Procedural Law 3(3-0-6)
+Free Elective 3
+Total 18
+Second Semester Credits
+177334 LAW 334 Law of Evidence 3(3-0-6)
+177342 LAW 342 Administrative Procedural Law and Specific Administrative Law 3(3-0-6)
+177361 LAW 361 Public International Law 3(3-0-6)
+177362 LAW 362 Private International Law 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Total 18
+Fourth Year
+First Semester Credits
+177400 LAW 400 Legal Internship 3(0-18-0)
+177412 LAW 412 Philosophy of Law 3(3-0-6)
+177440 LAW 440 Public Economic and Finance Law 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Major Elective 3
+Total 18
+Second Semester Credits
+177402 LAW 402 Law and Society 3(3-0-6)
+177451 LAW 451 Tax Law 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Free Elective 3
+Total 15

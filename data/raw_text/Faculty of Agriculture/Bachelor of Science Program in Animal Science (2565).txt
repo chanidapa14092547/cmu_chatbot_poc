@@ -1,0 +1,430 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25650044000032
+Bachelor of Science Program in Animal Science (2565)
+Name of the degree
+Full : Bachelor of Science (Animal Science)
+Abbreviation : B.S. (Animal Science)
+Curriculum structure
+(1) General Education 30
+1) Learner Person 18
+1. Required courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+2. Elective courses 3
+Students must be select from the following courses:
+851100 MC 100 Introduction to Communication 3(3-0-6)
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+651106 VM 106 Food Sanitary from Food Animal for Consumer 2(1-2-3)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+2) Innovative Co-creator 6
+Students must select 2 courses form the following:
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+050106 HUGE 106 Humanistic Arts 3(3-0-6)
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+214100 ZOOL 100 Integrated Zoology and Health Science 3(3-0-6)
+218100 GEM 100 The Science of Gemstone and Jewelry 3(3-0-6)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+610111 AG 111 Packaging for Marketing 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+356102 ANS 102 Ornamental Aquatic Animals 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+602101 BIOT 101 Biotechnology and Modern World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+3) Active Citizen 6
+1. Required courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+2. Elective courses 3
+Students must select 1 course from the followings:
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+012200 RE 200 Mind Volunteer 3(2-2-5)
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+201115 SC 115 Life and Energy 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+651105 VM 105 Ecosystem and Health 3(3-0-6)
+Note: Students can select general education courses from both in country and abroad, then transfer the credit to
+general education courses as defined in the curriculum from the consent of the department.
+(2) Field of Specialization : a minimum of 107
+2.1) Core Courses 43
+2.1.1) Science 31
+202147 BIOL 147 Biology for Agricultural Students 4(3-3-6)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+2.1.2) Agriculture 12
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+2.2 Major : a minimum of 64
+The major field must have 300 level course or higher at least 36 credits and in the 36 credits must be 400 level course
+or higher at least 18 credits.
+Animal Science
+2.2.1) Required Courses 49
+356190 ANS 190 Professional Skill Training in Animal and Aquatic Sciences 1 1(0-6-0)
+356290 ANS 290 Professional Skill Training in Animal and Aquatic Sciences 2 1(0-6-0)
+356310 ANS 310 Physiology of Economic Animals 3(3-0-6)
+356320 ANS 320 Statistical Analysis and Experimental Design in Animals 3(3-0-6)
+356330 ANS 330 Feeds and Feeding 4(3-3-6)
+356350 ANS 350 Principles of Aquaculture 3(3-0-6)
+356370 ANS 370 Sanitation and Herd Health Control in Farm Animal 3(2-3-4)
+356379 ANS 379 Ethics and Code of Ethics for Animal Husbandry 3(3-0-6)
+356410 ANS 410 Economic Animal Reproduction 3(3-0-6)
+356420 ANS 420 Genetics Improvement of Economic Animals 3(3-0-6)
+356430 ANS 430 Animal Nutrition 3(3-0-6)
+356441 ANS 441 Poultry Production 3(3-0-6)
+356442 ANS 442 Swine Production 3(2-3-4)
+356443 ANS 443 Dairy Cow Production 3(3-0-6)
+356497 ANS 497 Seminar 1 1(1-0-2)
+651306 VM 306 Anatomy of Economic Animals 3(2-3-4)
+and students must select cooperative education group or special problem
+Cooperative Education
+356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+Or Special Problems
+356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-
+0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+2.2.2) Major Electives : a minimum of 15
+Choose a minimum of 15 credits and must be 400 level at least 6 credits.
+353421 AGRO 421 Forage Crops 3(3-0-6)
+355411 FM 411 Agricultural Machinery 1 3(3-0-6)
+356312 ANS 312 Physiology of Economic Aquatic Animals 3(2-3-4)
+356314 ANS 314 Ichthyology 3(2-3-4)
+356334 ANS 334 Mycotoxins in Animal Feed 3(3-0-6)
+356335 ANS 335 Ruminants Feeding 3(3-0-6)
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356352 ANS 352 Water Resource Management for Fisheries 3(3-0-6)
+356353 ANS 353 Integrated Aquaculture 3(3-0-6)
+356354 ANS 354 Economic Molluscs Aquaculture 3(3-0-6)
+356356 ANS 356 Shrimps and Crabs Aquaculture 3(3-0-6)
+356357 ANS 357 Planktonology for Aquaculture 3(2-3-4)
+356358 ANS 358 Principles of Fish Culture 3(2-3-4)
+356377 ANS 377 Standard of Aquaculture Farm 3(3-0-6)
+356378 ANS 378 Water Quality Management in Aquaculture 3(2-3-4)
+356380 ANS 380 Fisheries Oceanography 3(3-0-6)
+356385 ANS 385 Diseases of Farm Animals 3(3-0-6)
+356386 ANS 386 Disease and Sanitation of Aquatic Animals 3(2-3-4)
+356387 ANS 387 Information Technology for Animal Sciences Study 3(3-0-6)
+356388 ANS 388 Fishery Law and Resource Conservation 3(3-0-6)
+356389 ANS 389 Farm Animals and the Environment 3(3-0-6)
+356413 ANS 413 Biotechnology for Reproduction in Economic Animals 3(3-0-6)
+356417 ANS 417 Aquatic Animal Immunology 3(2-3-4)
+356421 ANS 421 Biotechnology in Animal Breeding 3(3-0-6)
+356422 ANS 422 Omics Technology in Economic Animal Productions 3(3-0-6)
+356423 ANS 423 Research Methodology for Economic Animals 3(3-0-6)
+356427 ANS 427 Economic Aquatic Animal Genetics 3(2-3-4)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356434 ANS 434 Proximate Analysis of Feeds 1(0-3-0)
+356435 ANS 435 Animal Feed Additives 3(3-0-6)
+356436 ANS 436 Dog and Cat Nutrition 3(3-0-6)
+356444 ANS 444 Beef Cattle Production 3(3-0-6)
+356445 ANS 445 Commercial Swine Farm Management 3(3-0-6)
+356446 ANS 446 Management in Livestock Farming 3(3-0-6)
+356447 ANS 447 Poultry Management 3(3-0-6)
+356449 ANS 449 Rabbit Production 3(3-0-6)
+356450 ANS 450 Organic Aquaculture 3(3-0-6)
+356453 ANS 453 Ornamental Fish Farming 3(3-0-6)
+356454 ANS 454 Fish Breeding 3(2-3-4)
+356457 ANS 457 Smart Systems for Aquaculture 3(3-0-6)
+356458 ANS 458 Marine Fish Aquaculture 3(3-0-6)
+356459 ANS 459 Coastal Marine Culture Technology 3(3-0-6)
+356460 ANS 460 Goats and Sheep Production in the Tropics 3(3-0-6)
+356473 ANS 473 Aquatic Animal Toxicology 3(3-0-6)
+356479 ANS 479 Applied Engineering in Aquaculture 3(3-0-6)
+356480 ANS 480 Cell Culture Technology in Economic Animals 3(3-0-6)
+356481 ANS 481 Aquatic Animal Ethics for Research 3(3-0-6)
+356482 ANS 482 Biology of Mangroves for Fisheries 3(3-0-6)
+356483 ANS 483 Waste Management in Aquaculture 3(3-0-6)
+356484 ANS 484 Applied Microbiology in Aquaculture 3(2-3-4)
+356485 ANS 485 Biotechnology in Farm Animals 3(3-0-6)
+356486 ANS 486 Behavior of Domestic Animals 3(3-0-6)
+356487 ANS 487 Meat Management 3(3-0-6)
+356488 ANS 488 Aquatic Animal Products 3(3-0-6)
+356496 ANS 496 Selected Topics in Animal and Aquatic Sciences 3(3-0-6)
+356498 ANS 498 Seminar 2 1(1-0-2)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+Fishery Science
+2.2.1) Required Courses 49
+356190 ANS 190 Professional Skill Training in Animal and Aquatic Sciences 1 1(0-6-0)
+356290 ANS 290 Professional Skill Training in Animal and Aquatic Sciences 2 1(0-6-0)
+356312 ANS 312 Physiology of Economic Aquatic Animals 3(2-3-4)
+356314 ANS 314 Ichthyology 3(2-3-4)
+356320 ANS 320 Statistical Analysis and Experimental Design in Animals 3(3-0-6)
+356330 ANS 330 Feeds and Feeding 4(3-3-6)
+356350 ANS 350 Principles of Aquaculture 3(3-0-6)
+356357 ANS 357 Planktonology for Aquaculture 3(2-3-4)
+356378 ANS 378 Water Quality Management in Aquaculture 3(2-3-4)
+356386 ANS 386 Disease and Sanitation of Aquatic Animals 3(2-3-4)
+356417 ANS 417 Aquatic Animal Immunology 3(2-3-4)
+356427 ANS 427 Economic Aquatic Animal Genetics 3(2-3-4)
+356454 ANS 454 Fish Breeding 3(2-3-4)
+356459 ANS 459 Coastal Marine Culture Technology 3(3-0-6)
+356481 ANS 481 Aquatic Animal Ethics for Research 3(3-0-6)
+356497 ANS 497 Seminar 1 1(1-0-2)
+and students must select cooperative education group or special problem
+Cooperative Education
+356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+Or Special Problems
+356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-
+0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+2.2.2) Major Electives : a minimum of 15
+Choose a minimum of 15 credits and must be 400 level at least 6 credits.
+353421 AGRO 421 Forage Crops 3(3-0-6)
+355411 FM 411 Agricultural Machinery 1 3(3-0-6)
+356310 ANS 310 Physiology of Economic Animals 3(3-0-6)
+356334 ANS 334 Mycotoxins in Animal Feed 3(3-0-6)
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356352 ANS 352 Water Resource Management for Fisheries 3(3-0-6)
+356353 ANS 353 Integrated Aquaculture 3(3-0-6)
+356354 ANS 354 Economic Molluscs Aquaculture 3(3-0-6)
+356356 ANS 356 Shrimps and Crabs Aquaculture 3(3-0-6)
+356377 ANS 377 Standard of Aquaculture Farm 3(3-0-6)
+356380 ANS 380 Fisheries Oceanography 3(3-0-6)
+356387 ANS 387 Information Technology for Animal Sciences Study 3(3-0-6)
+356388 ANS 388 Fishery Law and Resource Conservation 3(3-0-6)
+356389 ANS 389 Farm Animals and the Environment 3(3-0-6)
+356413 ANS 413 Biotechnology for Reproduction in Economic Animals 3(3-0-6)
+356420 ANS 420 Genetics Improvement of Economic Animals 3(3-0-6)
+356422 ANS 422 Omics Technology in Economic Animal Productions 3(3-0-6)
+356423 ANS 423 Research Methodology for Economic Animals 3(3-0-6)
+356430 ANS 430 Animal Nutrition 3(3-0-6)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356434 ANS 434 Proximate Analysis of Feeds 1(0-3-0)
+356435 ANS 435 Animal Feed Additives 3(3-0-6)
+356441 ANS 441 Poultry Production 3(3-0-6)
+356442 ANS 442 Swine Production 3(2-3-4)
+356443 ANS 443 Dairy Cow Production 3(3-0-6)
+356444 ANS 444 Beef Cattle Production 3(3-0-6)
+356446 ANS 446 Management in Livestock Farming 3(3-0-6)
+356450 ANS 450 Organic Aquaculture 3(3-0-6)
+356453 ANS 453 Ornamental Fish Farming 3(3-0-6)
+356457 ANS 457 Smart Systems for Aquaculture 3(3-0-6)
+356458 ANS 458 Marine Fish Aquaculture 3(3-0-6)
+356473 ANS 473 Aquatic Animal Toxicology 3(3-0-6)
+356479 ANS 479 Applied Engineering in Aquaculture 3(3-0-6)
+356480 ANS 480 Cell Culture Technology in Economic Animals 3(3-0-6)
+356482 ANS 482 Biology of Mangroves for Fisheries 3(3-0-6)
+356483 ANS 483 Waste Management in Aquaculture 3(3-0-6)
+356484 ANS 484 Applied Microbiology in Aquaculture 3(2-3-4)
+356487 ANS 487 Meat Management 3(3-0-6)
+356488 ANS 488 Aquatic Animal Products 3(3-0-6)
+356496 ANS 496 Selected Topics in Animal and Aquatic Sciences 3(3-0-6)
+356498 ANS 498 Seminar 2 1(1-0-2)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+2.3 Minor (if any) : a minimum of 15
+1) For students, who wish to study in the Minor Subject, must choose a minimum of 1 5 credits from any minor course
+according to the university announcement with the approval of the advisor.
+2) For students who do not wish to study in the minor subject have to choose the elective courses in 2.2.2., however,
+students have to enroll not less than 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 143
+Note: have provided preparation training for students before cooperative education at least 30 hours
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+and 357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+or 363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+GE (Learner Person) 3
+GE (Active Citizen) 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202147 BIOL 147 Biology for Agricultural Students 4(3-3-6)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+and 357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+or 363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+Total 20
+Animal Science
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+356190 ANS 190 Professional Skill Training in Animal and Aquatic Sciences 1 1(0-6-0)
+356330 ANS 330 Feeds and Feeding 4(3-3-6)
+Total 21
+Second Semester Credits
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+356290 ANS 290 Professional Skill Training in Animal and Aquatic Sciences 2 1(0-6-0)
+356310 ANS 310 Physiology of Economic Animals 3(3-0-6)
+356320 ANS 320 Statistical Analysis and Experimental Design in Animals 3(3-0-6)
+GE (Innovative Co-creator) 3
+Total 21
+Third Year
+First Semester Credits
+356350 ANS 350 Principles of Aquaculture 3(3-0-6)
+356430 ANS 430 Animal Nutrition 3(3-0-6)
+356370 ANS 370 Sanitation and Herd Health Control in Farm Animal 3(2-3-4)
+and 356410 ANS 410 Economic Animal Reproduction 3(3-0-6)
+and 356420 ANS 420 Genetics Improvement of Economic Animals 3(3-0-6)
+or 356441 ANS 441 Poultry Production 3(3-0-6)
+and 356442 ANS 442 Swine Production 3(2-3-4)
+and 356443 ANS 443 Dairy Cow Production 3(3-0-6)
+GE (Innovative Co-creator) 3
+Total 18
+Second Semester Credits
+356379 ANS 379 Ethics and Code of Ethics for Animal Husbandry 3(3-0-6)
+651306 VM 306 Anatomy of Economic Animals 3(2-3-4)
+356370 ANS 370 Sanitation and Herd Health Control in Farm Animal 3(2-3-4)
+and 356410 ANS 410 Economic Animal Reproduction 3(3-0-6)
+and 356420 ANS 420 Genetics Improvement of Economic Animals 3(3-0-6)
+or 356441 ANS 441 Poultry Production 3(3-0-6)
+and 356442 ANS 442 Swine Production 3(2-3-4)
+and 356443 ANS 443 Dairy Cow Production 3(3-0-6)
+Major Elective 3
+Total 18
+Cooperative Education
+Fourth Year
+First Semester Credits
+356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+or 356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+-
+Total 6
+Second Semester Credits
+356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+or 356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+0
+Total 19
+Special Problems
+Fourth Year
+First Semester Credits
+356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+or 356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+0
+Total 6
+Second Semester Credits
+356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+or 356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+0
+Total 19
+Fishery Science
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+356190 ANS 190 Professional Skill Training in Animal and Aquatic Sciences 1 1(0-6-0)
+356314 ANS 314 Ichthyology 3(2-3-4)
+Total 20
+Second Semester Credits
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+356290 ANS 290 Professional Skill Training in Animal and Aquatic Sciences 2 1(0-6-0)
+356320 ANS 320 Statistical Analysis and Experimental Design in Animals 3(3-0-6)
+356350 ANS 350 Principles of Aquaculture 3(3-0-6)
+GE (Innovative Co-creator) 3
+Total 21
+Third Year
+First Semester Credits
+356312 ANS 312 Physiology of Economic Aquatic Animals 3(2-3-4)
+356330 ANS 330 Feeds and Feeding 4(3-3-6)
+356357 ANS 357 Planktonology for Aquaculture 3(2-3-4)
+356378 ANS 378 Water Quality Management in Aquaculture 3(2-3-4)
+356386 ANS 386 Disease and Sanitation of Aquatic Animals 3(2-3-4)
+GE (Innovative Co-creator) 3
+Total 19
+Second Semester Credits
+356417 ANS 417 Aquatic Animal Immunology 3(2-3-4)
+356427 ANS 427 Economic Aquatic Animal Genetics 3(2-3-4)
+356454 ANS 454 Fish Breeding 3(2-3-4)
+356459 ANS 459 Coastal Marine Culture Technology 3(3-0-6)
+356481 ANS 481 Aquatic Animal Ethics for Research 3(3-0-6)
+Major Elective 3
+Total 18
+Cooperative Education
+Fourth Year
+First Semester Credits
+356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+or 356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+-
+Total 6
+Second Semester Credits
+356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+or 356490 ANS 490 Cooperative Education in Animal and Aquatic Sciences 6
+-
+Total 19
+Special Problems
+Fourth Year
+First Semester Credits
+356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+or 356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+-
+Total 6
+Second Semester Credits
+356497 ANS 497 Seminar 1 1(1-0-2)
+and Major Elective 12
+and Free Elective 6
+or 356390 ANS 390 Professional Skill Training in Animal and Aquatic Sciences 3 3(0-18-0)
+and 356499 ANS 499 Special Problems 3(0-9-0)
+-
+Total 19

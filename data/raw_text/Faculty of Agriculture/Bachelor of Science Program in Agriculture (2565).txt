@@ -1,0 +1,1031 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25070041100024
+Bachelor of Science Program in Agriculture (2565)
+Name of the degree
+Full : Bachelor of Science (Agriculture)
+Abbreviation : B.S. (Agriculture)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1. Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+2. Elective Courses 3
+Students must be select from the following courses:
+Digital Literacy
+851100 MC 100 Introduction to Communication 3(3-0-6)
+Language Literacy
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+Health Literacy
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+651106 VM 106 Food Sanitary from Food Animal for Consumer 2(1-2-3)
+Financial Literacy
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+Management Skills
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+1.2 Innovative Co-Creator 6
+Students must select 2 courses form the following:
+Thinking Skills
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+050106 HUGE 106 Humanistic Arts 3(3-0-6)
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+214100 ZOOL 100 Integrated Zoology and Health Science 3(3-0-6)
+218100 GEM 100 The Science of Gemstone and Jewelry 3(3-0-6)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+610111 AG 111 Packaging for Marketing 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+Entrepreneurial Skills
+356102 ANS 102 Ornamental Aquatic Animals 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+602101 BIOT 101 Biotechnology and Modern World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+Startup and Innovation
+610112 AG 112 Food Product Innovation 3(3-0-6)
+Adaptability
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+1.3 Active Citizen 6
+1. Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+2. Elective Courses 3
+Students must select 1 course form the followings:
+Culture and Art
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+Volunteerism
+012200 RE 200 Mind Volunteer 3(2-2-5)
+Civic Literacy and Environment Concerns
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+201115 SC 115 Life and Energy 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+651105 VM 105 Ecosystem and Health 3(3-0-6)
+Note: Students can select general education courses from both in country and abroad, then transfer the credit to
+general education courses as defined in the curriculum from the consent of the department.
+2. Field of Specialization : a minimum of 107
+2.1 Core Courses 52
+2.1.1 Science 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+2.1.2 Agriculture 21
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+352210 AET 210 Introduction to Agricultural Extension 2(2-0-4)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+359207 HORT 207 Agricultural Production Standards 1(1-0-2)
+360210 PLP 210 Elementary Plant Pathology 2(2-0-4)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+400290 AGRI 290 Practical Training 2 1(0-6-0)
+2.2 Major : a minimum of 40
+The major field must have 300 level course or higher at least 36 credits and in the 36 credits must be 400 level course
+or higher at least 18 credits.
+Agricultural Extension
+2.2.1 Required Courses 40
+352301 AET 301 Leadership in Agricultural Extension 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+352314 AET 314 Information Technology Management for Agricultural Extension 3(3-0-6)
+352316 AET 316 Principle of Agricultural Extension Research 4(3-3-7)
+352321 AET 321 Methods of Agricultural Extension 3(3-0-6)
+352323 AET 323 Modern Agricultural Development 3(3-0-6)
+352332 AET 332 Diffusion of Agricultural Innovations 3(3-0-6)
+352414 AET 414 Community Agricultural Entrepreneurship 3(3-0-6)
+352421 AET 421 Management of Agricultural Extension Organizations 3(3-0-6)
+352441 AET 441 Planning and Evaluation of Agricultural Extension Project 3(3-0-6)
+352494 AET 494 Selected Topics in Agricultural Extension and Rural Development 1(1-0-2)
+352497 AET 497 Seminar 1 1(1-0-2)
+352498 AET 498 Seminar 2 1(1-0-2)
+and students must select cooperative education group or special problem group
+Cooperative Education
+352490 AET 490 Cooperative Education in Agricultural Extension and Rural Development 6
+Special problem
+352390 AET 390 Professional Skill Training in Agricultural Extension 3(0-18-
+0)
+and 352499 AET 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses from either plan 1, plan 2 or plan 3 at
+least 15 credits, in order that students in which a group of special problem must select the 400 level of major elective
+courses as following at least 3 credits. If students who do not require study the major elective courses must follow the
+number 2.3 by studying minor courses at least 15 credits, in order that students in which a group of special problem
+must select the 400 level of major elective courses as following at least 3 credits.
+Plan 1 Agricultural Extension and Community Economy Development
+A minimum of 15 credits must be selected from the following courses
+006103 HC 103 Home and Community 3(3-0-6)
+006341 HC 341 Principles of Human Relations 3(3-0-6)
+006349 HC 349 Community Participation Process in Development Projects 3(3-0-6)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+351331 AEC 331 Agricultural Cooperation and Institution 3(3-0-6)
+352313 AET 313 Highland Agricultural Extension 3(3-0-6)
+352317 AET 317 Human Relations and Recreation in Agricultural Extension 3(3-0-6)
+352319 AET 319 Welfare for Agricultural Community Development 3(3-0-6)
+352322 AET 322 Modern Rural Development 3(3-0-6)
+352324 AET 324 Sustainable Agricultural Community Economy Development 3(3-0-6)
+352325 AET 325 Social Innovation for Agricultural Community Development 3(3-0-6)
+352331 AET 331 Speaking and Writing for Agricultural Extension 3(3-0-6)
+352401 AET 401 Agricultural Extension for Adult Farmers 3(3-0-6)
+352413 AET 413 Planning and Management of Training in Agricultural Extension 3(3-0-6)
+352422 AET 422 Agro-tourism Management 3(3-0-6)
+365301 HANR 301 Economy and Sustainable Forest Development 3(3-0-6)
+368211 ABM 211 Agribusiness Management 3(3-0-6)
+701100 ACC 100 Elementary Accounting 1 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+Plan 2 Communication for Agricultural Development
+A minimum of 15 credits must be selected from the following courses
+204202 CS 202 Information Technology and Web Development 3(2-2-5)
+352431 AET 431 Principles of Public Relations and Communication in Agriculture 3(3-0-6)
+352433 AET 433 Media Production Technology in Agricultural Extension 3(2-2-5)
+851204 MC 204 Principles of Public Relations, Advertising and Marketing Communication 3(3-0-6)
+851305 MC 305 Arts for Communication 3(3-0-6)
+851309 MC 309 Media and the Modern World 3(3-0-6)
+954140 INX 140 Information Technology Literacy 3(2-2-5)
+954464 INX 464 Information Technology for Knowledge Worker Management 3(3-0-6)
+Plan 3 Agriculture
+A minimum of 15 credits must be selected from the following courses
+Plant and Soil Science Group
+260462 AE 462 Principles of Agricultural Irrigation 3(3-0-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+359301 HORT 301 Plant Propagation 3(2-3-4)
+359341 HORT 341 Nursery Management 3(3-0-6)
+359350 HORT 350 Principles of Fruit Production 2(2-0-4)
+359360 HORT 360 Introduction to Industrial Crops 3(3-0-6)
+359403 HORT 403 Postharvest Handling of Horticultural Crops 3(2-3-4)
+359410 HORT 410 Principles of Floriculture 2(2-0-4)
+359421 HORT 421 Vegetable Production 3(3-0-6)
+359461 HORT 461 Beverage Crops 3(3-0-6)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+363403 PLS 403 Information System for Crop Management 3(2-3-4)
+Entomology and Plant Pathology Group
+357322 ENT 322 Economic Entomology 3(3-0-6)
+357323 ENT 323 Insect Pests of Stored Products 3(3-0-6)
+357324 ENT 324 Insect Pests of Fruit Crops 3(3-0-6)
+357325 ENT 325 Insect Pests of Field Crops 3(3-0-6)
+357326 ENT 326 Insect Pests of Vegetable Crops 3(3-0-6)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+360401 PLP 401 Diseases of Ornamental Plants 3(2-3-4)
+360402 PLP 402 Diseases of Field Crops 3(2-3-4)
+360403 PLP 403 Diseases of Fruit Crops 3(2-3-4)
+360404 PLP 404 Diseases of Vegetable Crops 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+Animal and Aquatic Science Group
+356330 ANS 330 Feeds and Feeding 4(3-3-6)
+356350 ANS 350 Principles of Aquaculture 3(3-0-6)
+356370 ANS 370 Sanitation and Herd Health Control in Farm Animal 3(2-3-4)
+356441 ANS 441 Poultry Production 3(3-0-6)
+356442 ANS 442 Swine Production 3(2-3-4)
+356443 ANS 443 Dairy Cow Production 3(3-0-6)
+356444 ANS 444 Beef Cattle Production 3(3-0-6)
+356446 ANS 446 Management in Livestock Farming 3(3-0-6)
+Agronomy
+2.2.1 Required Courses 40
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+353303 AGRO 303 Principles of Plant Breeding 4(3-3-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+353497 AGRO 497 Seminar 1 1(1-0-2)
+353498 AGRO 498 Seminar 2 1(1-0-2)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+354312 AS 312 Experimental Design 3(2-3-4)
+355411 FM 411 Agricultural Machinery 1 3(3-0-6)
+and students must select cooperative education group or special problem group
+Cooperative Education
+353490 AGRO 490 Cooperative Education in Agronomy 6
+Special problem
+353390 AGRO 390 Professional Skill Training in Agronomy 3(0-18-
+0)
+and 353499 AGRO 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits, in order
+that students in which a group of special problem must select the 400 level of major elective courses as following at
+least 3 credits. If students who do not require study the major elective courses must follow the number 2.3 by studying
+minor courses at least 15 credits, in order that students in which a group of special problem must select the 400 level of
+major elective courses as following at least 3 credits.
+260462 AE 462 Principles of Agricultural Irrigation 3(3-0-6)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+351331 AEC 331 Agricultural Cooperation and Institution 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+352321 AET 321 Methods of Agricultural Extension 3(3-0-6)
+353302 AGRO 302 Practice in Hybridization of Field Crops 1(0-3-0)
+353418 AGRO 418 Legumes 3(3-0-6)
+353421 AGRO 421 Forage Crops 3(3-0-6)
+353422 AGRO 422 Tropical Pastures 3(3-0-6)
+353441 AGRO 441 Field Crop Breeding 3(3-0-6)
+353452 AGRO 452 Seed Testing 3(2-3-4)
+353453 AGRO 453 Commercial Seed Production 3(2-3-4)
+353471 AGRO 471 Advanced Agronomy 3(3-0-6)
+353482 AGRO 482 Genetic Resources in Plants 3(3-0-6)
+357322 ENT 322 Economic Entomology 3(3-0-6)
+357325 ENT 325 Insect Pests of Field Crops 3(3-0-6)
+357442 ENT 442 Biological Control of Insect Pests 3(2-3-4)
+357443 ENT 443 Plant Resistance to Insect 3(3-0-6)
+357444 ENT 444 Insecticides 3(3-0-6)
+359407 HORT 407 Water Management for Horticulture 3(3-0-6)
+359422 HORT 422 Vegetable Seed Production 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360402 PLP 402 Diseases of Field Crops 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360450 PLP 450 Postharvest Disease 3(2-3-4)
+360460 PLP 460 Molecular Plant-Pathogen Interactions 3(3-0-6)
+360471 PLP 471 Application of Molecular Techniques in Plant Pathology and Agriculture 3(2-3-4)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361475 SOIL 475 Soil Water Management and on-Farm Irrigation 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+363403 PLS 403 Information System for Crop Management 3(2-3-4)
+368211 ABM 211 Agribusiness Management 3(3-0-6)
+368310 ABM 310 Applications of Economic Theories for Farm Business 3(2-3-4)
+368411 ABM 411 Intermediate Agribusiness Management 3(3-0-6)
+368431 ABM 431 Financial Management for Agribusiness 3(3-0-6)
+Entomology
+2.2.1 Required Courses 40
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+357322 ENT 322 Economic Entomology 3(3-0-6)
+357323 ENT 323 Insect Pests of Stored Products 3(3-0-6)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+357417 ENT 417 Insect Anatomy 3(2-3-4)
+357418 ENT 418 Insect Ecology 3(3-0-6)
+357432 ENT 432 Insect Systematics 1 3(2-3-4)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+357444 ENT 444 Insecticides 3(3-0-6)
+357491 ENT 491 Techniques in Entomology 3(3-0-6)
+357497 ENT 497 Seminar 1 1(1-0-2)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+and students must select cooperative education group or special problem group
+Cooperative Education
+357490 ENT 490 Cooperative Education in Entomology 6
+or Special problem
+357390 ENT 390 Professional Skill Training in Entomology 3(0-18-
+0)
+and 357499 ENT 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits. If
+students who do not require study the major elective courses must follow the number 2.3 by studying minor courses at
+least 15 credits.
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+352321 AET 321 Methods of Agricultural Extension 3(3-0-6)
+352323 AET 323 Modern Agricultural Development 3(3-0-6)
+352332 AET 332 Diffusion of Agricultural Innovations 3(3-0-6)
+352401 AET 401 Agricultural Extension for Adult Farmers 3(3-0-6)
+352412 AET 412 Farm Youth Extension 3(3-0-6)
+352421 AET 421 Management of Agricultural Extension Organizations 3(3-0-6)
+352433 AET 433 Media Production Technology in Agricultural Extension 3(2-2-5)
+352441 AET 441 Planning and Evaluation of Agricultural Extension Project 3(3-0-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353418 AGRO 418 Legumes 3(3-0-6)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+357421 ENT 421 Insect Transmission of Plant Diseases 3(3-0-6)
+357422 ENT 422 Medical and Veterinary Entomology 3(2-3-4)
+357426 ENT 426 Apiculture 3(2-3-4)
+357427 ENT 427 Sericulture 3(2-3-4)
+357433 ENT 433 Insect Systematics 2 3(2-3-4)
+357442 ENT 442 Biological Control of Insect Pests 3(2-3-4)
+357443 ENT 443 Plant Resistance to Insect 3(3-0-6)
+357446 ENT 446 Principles of Plant Quarantine 3(3-0-6)
+357494 ENT 494 Selected Topics in Entomology 1(1-0-2)
+357498 ENT 498 Seminar 2 1(1-0-2)
+359350 HORT 350 Principles of Fruit Production 2(2-0-4)
+359360 HORT 360 Introduction to Industrial Crops 3(3-0-6)
+359431 HORT 431 Mushroom Culture 3(2-3-4)
+359451 HORT 451 Tropical Fruits 3(3-0-6)
+359460 HORT 460 Herbs and Spices 3(3-0-6)
+359461 HORT 461 Beverage Crops 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360301 PLP 301 Plant Pathology Techniques 3(2-3-4)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+360401 PLP 401 Diseases of Ornamental Plants 3(2-3-4)
+360402 PLP 402 Diseases of Field Crops 3(2-3-4)
+360403 PLP 403 Diseases of Fruit Crops 3(2-3-4)
+360404 PLP 404 Diseases of Vegetable Crops 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360411 PLP 411 Bacterial Plant Diseases 3(2-3-4)
+360423 PLP 423 Plant Parasitic Fungi 3(2-3-4)
+360431 PLP 431 Plant Parasitic Nematodes 3(2-3-4)
+360441 PLP 441 Plant Virology 3(2-3-4)
+360450 PLP 450 Postharvest Disease 3(2-3-4)
+361341 SOIL 341 Spatial Information System for Agriculture 3(2-3-4)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363403 PLS 403 Information System for Crop Management 3(2-3-4)
+365425 HANR 425 Wildlife Resource Conservation 3(3-0-6)
+365431 HANR 431 Remote Sensing for Forest Resource and Agricultural Surveys 3(2-3-4)
+Horticulture
+2.2.1 Required Courses 40
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+359301 HORT 301 Plant Propagation 3(2-3-4)
+359305 HORT 305 Agricultural Research Methodology 1(1-0-2)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359350 HORT 350 Principles of Fruit Production 2(2-0-4)
+359360 HORT 360 Introduction to Industrial Crops 3(3-0-6)
+359401 HORT 401 Improvement of Horticultural Crops 3(3-0-6)
+359403 HORT 403 Postharvest Handling of Horticultural Crops 3(2-3-4)
+359410 HORT 410 Principles of Floriculture 2(2-0-4)
+359421 HORT 421 Vegetable Production 3(3-0-6)
+359497 HORT 497 Seminar 1(1-0-2)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+and students must select cooperative education group or special problem group
+Cooperative Education
+359490 HORT 490 Cooperative Education in Horticulture 6
+or Special problem
+359390 HORT 390 Professional Skill Training in Horticulture 3(0-18-
+0)
+and 359499 HORT 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits, in order
+that students in which a group of special problem must select the 400 level of major elective courses as following at
+least 3 credits. If students who do not require study the major elective courses must follow the number 2.3 by studying
+minor courses at least 15 credits, in order that students in which a group of special problem must select the 400 level of
+major elective courses as following at least 3 credits.
+202356 BIOL 356 Plant Anatomy 3(2-3-4)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+352414 AET 414 Community Agricultural Entrepreneurship 3(3-0-6)
+352422 AET 422 Agro-tourism Management 3(3-0-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+355315 FM 315 Engines and Farm Machinery 3(2-3-4)
+357322 ENT 322 Economic Entomology 3(3-0-6)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+359302 HORT 302 Advanced Plant Propagation 3(2-3-5)
+359303 HORT 303 Turf Management 3(3-0-6)
+359306 HORT 306 Entrepreneurship in Horticulture 3(3-0-6)
+359341 HORT 341 Nursery Management 3(3-0-6)
+359380 HORT 380 Plant Materials for Garden and Environmental Design 3(3-0-6)
+359381 HORT 381 Garden and Environmental Design 1 4(2-6-7)
+359382 HORT 382 Garden and Environmental Design 2 4(2-6-7)
+359405 HORT 405 Orchidology 3(3-0-6)
+359407 HORT 407 Water Management for Horticulture 3(3-0-6)
+359408 HORT 408 Soilless Culture for Horticultural Crops 3(2-3-4)
+359409 HORT 409 Highland Horticulture 3(3-0-6)
+359412 HORT 412 Flower Business 3(3-0-6)
+359413 HORT 413 Ornamental Plants 3(3-0-6)
+359414 HORT 414 Flower Bulbs, Tubers and Corms 3(3-0-6)
+359419 HORT 419 Postharvest Physiology of Flowers 3(3-0-6)
+359422 HORT 422 Vegetable Seed Production 3(3-0-6)
+359423 HORT 423 Commercial Vegetable Production 3(3-0-6)
+359431 HORT 431 Mushroom Culture 3(2-3-4)
+359451 HORT 451 Tropical Fruits 3(3-0-6)
+359452 HORT 452 Subtropical Fruits 3(3-0-6)
+359453 HORT 453 Nut Culture 3(3-0-6)
+359455 HORT 455 Temperate Fruits 3(3-0-6)
+359460 HORT 460 Herbs and Spices 3(3-0-6)
+359461 HORT 461 Beverage Crops 3(3-0-6)
+359462 HORT 462 Coconut and Oil Palm 3(3-0-6)
+359463 HORT 463 Fiber Crops 3(3-0-6)
+359464 HORT 464 Aromatic Crops 3(3-0-6)
+359465 HORT 465 Fast Growing Crops for Wood Industry 3(3-0-6)
+359466 HORT 466 Industrial Latex and Resin Crops 3(3-0-6)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+359481 HORT 481 Landscape Design 3(2-3-4)
+359483 HORT 483 Garden and Environmental Design 3 4(2-6-5)
+359484 HORT 484 Garden and Environmental Design 4 4(2-6-5)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360450 PLP 450 Postharvest Disease 3(2-3-4)
+361301 SOIL 301 Soil and Environmental Quality 3(3-0-6)
+361322 SOIL 322 Introduction to Soil and Plant Analysis 3(2-3-4)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+363403 PLS 403 Information System for Crop Management 3(2-3-4)
+363451 PLS 451 Energy Crops 3(3-0-6)
+365321 HANR 321 Fundamental Forest Resource 3(3-0-6)
+Plant Pathology
+2.2.1 Required Courses 40
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+357322 ENT 322 Economic Entomology 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360301 PLP 301 Plant Pathology Techniques 3(2-3-4)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360411 PLP 411 Bacterial Plant Diseases 3(2-3-4)
+360423 PLP 423 Plant Parasitic Fungi 3(2-3-4)
+360431 PLP 431 Plant Parasitic Nematodes 3(2-3-4)
+360441 PLP 441 Plant Virology 3(2-3-4)
+360497 PLP 497 Seminar 1 1(1-0-2)
+360498 PLP 498 Seminar 2 1(1-0-2)
+and students must select cooperative education group or special problem group
+Cooperative Education
+360490 PLP 490 Cooperative Education in Plant Pathology 6
+or Special problem
+360390 PLP 390 Professional Skill Training in Plant Pathology 3(0-18-
+0)
+and 360499 PLP 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits. If
+students who do not require study the major elective courses must follow the number 2.3 by studying minor courses at
+least 15 credits.
+202311 BIOL 311 Cell and Molecular Biology 4(3-3-6)
+202331 BIOL 331 Plant Breeding 3(2-3-4)
+211311 BCT 311 Biochemistry 1 3(3-0-6)
+211312 BCT 312 Biochemistry 2 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211317 BCT 317 Biochemistry Laboratory 1 1(0-3-0)
+211318 BCT 318 Biochemistry Laboratory 2 1(0-3-0)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+215431 MICB 431 Microbial Genetics 3(2-3-4)
+368211 ABM 211 Agribusiness Management 3(3-0-6)
+352301 AET 301 Leadership in Agricultural Extension 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+353303 AGRO 303 Principles of Plant Breeding 4(3-3-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353441 AGRO 441 Field Crop Breeding 3(3-0-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+354312 AS 312 Experimental Design 3(2-3-4)
+357323 ENT 323 Insect Pests of Stored Products 3(3-0-6)
+357421 ENT 421 Insect Transmission of Plant Diseases 3(3-0-6)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+357442 ENT 442 Biological Control of Insect Pests 3(2-3-4)
+357444 ENT 444 Insecticides 3(3-0-6)
+357446 ENT 446 Principles of Plant Quarantine 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+353303 AGRO 303 Principles of Plant Breeding 4(3-3-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353441 AGRO 441 Field Crop Breeding 3(3-0-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+354312 AS 312 Experimental Design 3(2-3-4)
+357323 ENT 323 Insect Pests of Stored Products 3(3-0-6)
+357421 ENT 421 Insect Transmission of Plant Diseases 3(3-0-6)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+357442 ENT 442 Biological Control of Insect Pests 3(2-3-4)
+357444 ENT 444 Insecticides 3(3-0-6)
+357446 ENT 446 Principles of Plant Quarantine 3(3-0-6)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359403 HORT 403 Postharvest Handling of Horticultural Crops 3(2-3-4)
+359408 HORT 408 Soilless Culture for Horticultural Crops 3(2-3-4)
+359410 HORT 410 Principles of Floriculture 2(2-0-4)
+359421 HORT 421 Vegetable Production 3(3-0-6)
+359422 HORT 422 Vegetable Seed Production 3(3-0-6)
+359431 HORT 431 Mushroom Culture 3(2-3-4)
+359451 HORT 451 Tropical Fruits 3(3-0-6)
+359452 HORT 452 Subtropical Fruits 3(3-0-6)
+359453 HORT 453 Nut Culture 3(3-0-6)
+359455 HORT 455 Temperate Fruits 3(3-0-6)
+359461 HORT 461 Beverage Crops 3(3-0-6)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+360401 PLP 401 Diseases of Ornamental Plants 3(2-3-4)
+360402 PLP 402 Diseases of Field Crops 3(2-3-4)
+360403 PLP 403 Diseases of Fruit Crops 3(2-3-4)
+360404 PLP 404 Diseases of Vegetable Crops 3(2-3-4)
+360450 PLP 450 Postharvest Disease 3(2-3-4)
+360460 PLP 460 Molecular Plant-Pathogen Interactions 3(3-0-6)
+360470 PLP 470 Application of Plant Tissue Culture in Plant Pathology 3(2-3-4)
+360471 PLP 471 Application of Molecular Techniques in Plant Pathology and Agriculture 3(2-3-4)
+361341 SOIL 341 Spatial Information System for Agriculture 3(2-3-4)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+361433 SOIL 433 Soil Microbial Biotechnology 3(2-3-4)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363403 PLS 403 Information System for Crop Management 3(2-3-4)
+365431 HANR 431 Remote Sensing for Forest Resource and Agricultural Surveys 3(2-3-4)
+Soil Science
+2.2.1 Required Courses 40
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+361211 SOIL 211 Principle of Soil Science 3(3-0-6)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+361321 SOIL 321 Soil and Plant Analysis 4(3-3-7)
+361341 SOIL 341 Spatial Information System for Agriculture 3(2-3-4)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+361414 SOIL 414 Precision Resource Allocation for Sustainable Agroecosystem 3(3-0-6)
+361433 SOIL 433 Soil Microbial Biotechnology 3(2-3-4)
+361442 SOIL 442 Soil Survey and Classification 3(2-3-4)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361497 SOIL 497 Seminar 1 1(1-0-2)
+361498 SOIL 498 Seminar 2 1(1-0-2)
+and students must select cooperative education group or special problem group
+Cooperative Education
+361490 SOIL 490 Cooperative Education in Soil Science 6
+or Special problem
+361390 SOIL 390 Professional Skill Training in Soil Science 3(0-18-
+0)
+and 361499 SOIL 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits. If
+students who do not require study the major elective courses must follow the number 2.3 by studying minor courses at
+least 15 credits.
+202342 BIOL 342 General Plant Physiology 4(3-3-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+260462 AE 462 Principles of Agricultural Irrigation 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+353303 AGRO 303 Principles of Plant Breeding 4(3-3-6)
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+357418 ENT 418 Insect Ecology 3(3-0-6)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+357444 ENT 444 Insecticides 3(3-0-6)
+359301 HORT 301 Plant Propagation 3(2-3-4)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359403 HORT 403 Postharvest Handling of Horticultural Crops 3(2-3-4)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+361301 SOIL 301 Soil and Environmental Quality 3(3-0-6)
+361413 SOIL 413 Soil-Crop Systems Modeling 3(3-0-6)
+361421 SOIL 421 Soil Chemistry 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361471 SOIL 471 Soil Physics 3(3-0-6)
+361474 SOIL 474 Methods of Soil Physics 1(0-3-0)
+361475 SOIL 475 Soil Water Management and on-Farm Irrigation 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+365324 HANR 324 Principles of Agroforestry 3(3-0-6)
+365427 HANR 427 Forest Plantation 3(3-0-6)
+365431 HANR 431 Remote Sensing for Forest Resource and Agricultural Surveys 3(2-3-4)
+368310 ABM 310 Applications of Economic Theories for Farm Business 3(2-3-4)
+751101 ECON 101 Principles of Economics 1 3(3-0-6)
+Highland Agriculture and Natural Resources
+2.2.1 Required Courses 40
+365201 HANR 201 Natural Resources and Agriculture 3(3-0-6)
+365211 HANR 211 Highland Agricultural System 3(3-0-6)
+365291 HANR 291 Field Practices in Forest and Agroforestry Ecosystems 2(0-12-
+0)
+365301 HANR 301 Economy and Sustainable Forest Development 3(3-0-6)
+365321 HANR 321 Fundamental Forest Resource 3(3-0-6)
+365324 HANR 324 Principles of Agroforestry 3(3-0-6)
+365331 HANR 331 Geo-Informatic Technology for Forest Resource and Agricultural Management 3(2-3-4)
+365401 HANR 401 Forest Ecosystems for Climate Change Mitigation 3(3-0-6)
+365421 HANR 421 Principles of Watershed Management 3(2-3-4)
+365422 HANR 422 Forest Ecosystem and Watershed Restoration 3(3-0-6)
+365428 HANR 428 Forest Mensuration and Computer Applications 3(2-3-4)
+365497 HANR 497 Seminar 1 1(1-0-2)
+365498 HANR 498 Seminar 2 1(1-0-2)
+and students must select cooperative education group or special problem group
+Cooperative Education
+365490 HANR 490 Cooperative Education in Forest Resource and Agroforestry 6
+or Special problem
+365390 HANR 390 Professional Skill Training in Forest Resource and Agroforestry 3(0-18-
+0)
+and 365499 HANR 499 Special Problems 3(0-9-0)
+2.2.2 Major Electives : a minimum of 15
+Students who require to study major elective courses must select the courses as following at least 15 credits, in order
+that students must select the 400 level of major elective courses as following at least 4 credits. If students who do not
+require study the major elective courses must follow the number 2.3 by studying minor courses at least 15 credits, in
+order that students must select the 400 level of major elective courses as following at least 4 credits.
+351364 AEC 364 Principles of Natural Resource and Environmental Economics 3(3-0-6)
+351371 AEC 371 Sufficiency Economy Paths 3(3-0-6)
+352313 AET 313 Highland Agricultural Extension 3(3-0-6)
+352323 AET 323 Modern Agricultural Development 3(3-0-6)
+352422 AET 422 Agro-tourism Management 3(3-0-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+359305 HORT 305 Agricultural Research Methodology 1(1-0-2)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359409 HORT 409 Highland Horticulture 3(3-0-6)
+361453 SOIL 453 Soil and Plant Nutrition 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361476 SOIL 476 Agricultural Meteorology 3(3-0-6)
+365322 HANR 322 Forest Resources Conservation 3(3-0-6)
+365323 HANR 323 Nature of Forest Soils 3(3-0-6)
+365325 HANR 325 Agroforest Ecosystems 3(3-0-6)
+365423 HANR 423 Forest Ecosystem Nutrient Balance 3(3-0-6)
+365424 HANR 424 Wildfire and Ecosystems 3(3-0-6)
+365425 HANR 425 Wildlife Resource Conservation 3(3-0-6)
+365426 HANR 426 Forest Plants and Utilization 3(3-0-6)
+365427 HANR 427 Forest Plantation 3(3-0-6)
+365429 HANR 429 Greenhouse Gas Management in Forest and Agricultural Sectors 3(3-0-6)
+365431 HANR 431 Remote Sensing for Forest Resource and Agricultural Surveys 3(2-3-4)
+365432 HANR 432 Forest and Agroforest Micrometeorology 3(2-3-4)
+365491 HANR 491 Selected Topics in Forest Resource and Agroforestry 1 1(1-0-2)
+365492 HANR 492 Selected Topics in Forest Resource and Agroforestry 2 2(2-0-4)
+365493 HANR 493 Selected Topics in Forest Resource and Agroforestry 3 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+1) For students, who wish to study in the Minor subject, must choose a minimum of 15 credits from any minor course
+according to the university announcement with the approval of the advisor.
+2) For students who do not wish to study in the minor subject have to choose the elective courses in 2.2.2., however,
+students have to enroll not less than 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 143
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+and 352210 AET 210 Introduction to Agricultural Extension 2(2-0-4)
+or 363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+351202 AEC 202 Introduction to Agricultural Economics and Agribusiness Management 2(2-0-4)
+and 352210 AET 210 Introduction to Agricultural Extension 2(2-0-4)
+or 363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+or 357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+GE (Innovative Co-creator) 6
+Total 20
+Second Semester Credits
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+202231 BIOL 231 Genetics 1 4(3-3-6)
+207181 PHYS 181 Physics for Agricultural Students 3(3-0-6)
+207191 PHYS 191 Physics Laboratory for Agricultural Students 1(0-3-0)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+or 357210 ENT 210 Agricultural Insect Pests 2(1-3-2)
+359207 HORT 207 Agricultural Production Standards 1(1-0-2)
+360210 PLP 210 Elementary Plant Pathology 2(2-0-4)
+400290 AGRI 290 Practical Training 2 1(0-6-0)
+GE (Learner Person or Active Citizen) 3
+Total 20
+Agricultural Extension
+Third Year
+First Semester Credits
+352301 AET 301 Leadership in Agricultural Extension 3(3-0-6)
+352311 AET 311 Principles of Agricultural Extension 3(3-0-6)
+352321 AET 321 Methods of Agricultural Extension 3(3-0-6)
+352332 AET 332 Diffusion of Agricultural Innovations 3(3-0-6)
+Major Elective/Minor 6
+GE (Learner Person or Active Citizen) 3
+Total 21
+Second Semester Credits
+352314 AET 314 Information Technology Management for Agricultural Extension 3(3-0-6)
+352316 AET 316 Principle of Agricultural Extension Research 4(3-3-7)
+352323 AET 323 Modern Agricultural Development 3(3-0-6)
+352421 AET 421 Management of Agricultural Extension Organizations 3(3-0-6)
+352497 AET 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 3
+Free Elective 3
+Total 20
+Special problem
+Fourth Year
+First Semester Credits
+352390 AET 390 Professional Skill Training in Agricultural Extension 3(0-18-0)
+352499 AET 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+352414 AET 414 Community Agricultural Entrepreneurship 3(3-0-6)
+352441 AET 441 Planning and Evaluation of Agricultural Extension Project 3(3-0-6)
+352494 AET 494 Selected Topics in Agricultural Extension and Rural Development 1(1-0-2)
+352498 AET 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 6
+Free Elective 3
+Total 17
+Cooperative Education
+Fourth Year
+First Semester Credits
+352490 AET 490 Cooperative Education in Agricultural Extension and Rural Development 6
+Total 6
+Second Semester Credits
+352414 AET 414 Community Agricultural Entrepreneurship 3(3-0-6)
+352441 AET 441 Planning and Evaluation of Agricultural Extension Project 3(3-0-6)
+352494 AET 494 Selected Topics in Agricultural Extension and Rural Development 1(1-0-2)
+352498 AET 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 6
+Free Elective 3
+Total 17
+Agronomy
+Third Year
+First Semester Credits
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+353303 AGRO 303 Principles of Plant Breeding 4(3-3-6)
+353312 AGRO 312 Applied Field Crop Physiology 4(3-3-6)
+353454 AGRO 454 Seed Technology 4(3-3-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+Total 19
+Second Semester Credits
+353313 AGRO 313 Important Field Crops of Thailand 3(2-3-5)
+353497 AGRO 497 Seminar 1 1(1-0-2)
+354312 AS 312 Experimental Design 3(2-3-4)
+355411 FM 411 Agricultural Machinery 1 3(3-0-6)
+Major Elective/Minor 6
+GE (Learner Person or Active Citizen) 3
+Total 19
+Special problem
+Fourth Year
+First Semester Credits
+353390 AGRO 390 Professional Skill Training in Agronomy 3(0-18-0)
+353499 AGRO 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353498 AGRO 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 20
+Cooperative Education
+Fourth Year
+First Semester Credits
+353490 AGRO 490 Cooperative Education in Agronomy 6
+Total 6
+Second Semester Credits
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+353498 AGRO 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 20
+Entomology
+Third Year
+First Semester Credits
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+357322 ENT 322 Economic Entomology 3(3-0-6)
+357417 ENT 417 Insect Anatomy 3(2-3-4)
+357441 ENT 441 Principles of Insect Control 3(3-0-6)
+GE (Learner Person or Active Citizen) 3
+Free Elective 3
+Total 18
+Second Semester Credits
+357323 ENT 323 Insect Pests of Stored Products 3(3-0-6)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+357418 ENT 418 Insect Ecology 3(3-0-6)
+357432 ENT 432 Insect Systematics 1 3(2-3-4)
+357491 ENT 491 Techniques in Entomology 3(3-0-6)
+357497 ENT 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 6
+Total 22
+Special problem
+Fourth Year
+First Semester Credits
+357390 ENT 390 Professional Skill Training in Entomology 3(0-18-0)
+357499 ENT 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+357444 ENT 444 Insecticides 3(3-0-6)
+Major Elective/Minor 9
+Free Elective 3
+Total 18
+Cooperative Education
+Fourth Year
+First Semester Credits
+357490 ENT 490 Cooperative Education in Entomology 6
+Total 6
+Second Semester Credits
+360304 PLP 304 Diseases of Economic Plants 3(2-3-4)
+357444 ENT 444 Insecticides 3(3-0-6)
+Major Elective/Minor 9
+Free Elective 3
+Total 18
+Horticulture
+Third Year
+First Semester Credits
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+359301 HORT 301 Plant Propagation 3(2-3-4)
+359305 HORT 305 Agricultural Research Methodology 1(1-0-2)
+359311 HORT 311 Physiology of Horticultural Crops 3(2-3-4)
+359410 HORT 410 Principles of Floriculture 2(2-0-4)
+359421 HORT 421 Vegetable Production 3(3-0-6)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+Total 19
+Second Semester Credits
+359350 HORT 350 Principles of Fruit Production 2(2-0-4)
+359360 HORT 360 Introduction to Industrial Crops 3(3-0-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+359401 HORT 401 Improvement of Horticultural Crops 3(3-0-6)
+359403 HORT 403 Postharvest Handling of Horticultural Crops 3(2-3-4)
+GE (Learner Person or Active Citizen) 3
+Major Elective/Minor 3
+Total 20
+Special problem
+Fourth Year
+First Semester Credits
+359390 HORT 390 Professional Skill Training in Horticulture 3(0-18-0)
+359499 HORT 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+359497 HORT 497 Seminar 1(1-0-2)
+Major Elective/Minor 12
+Free Elective 6
+Total 19
+Cooperative Education
+Fourth Year
+First Semester Credits
+359490 HORT 490 Cooperative Education in Horticulture 6
+Total 6
+Second Semester Credits
+359497 HORT 497 Seminar 1(1-0-2)
+Major Elective / Minor 12
+Free Elective 6
+Total 19
+Plant Pathology : Special problem
+Third Year
+First Semester Credits
+357322 ENT 322 Economic Entomology 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360301 PLP 301 Plant Pathology Techniques 3(2-3-4)
+360423 PLP 423 Plant Parasitic Fungi 3(2-3-4)
+GE (Learner Person or Active Citizen) 3
+Free Elective 3
+Total 16
+Second Semester Credits
+360411 PLP 411 Bacterial Plant Diseases 3(2-3-4)
+360441 PLP 441 Plant Virology 3(2-3-4)
+Major Elective/Minor 6
+Free Elective 3
+Total 15
+Fourth Year
+First Semester Credits
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+360390 PLP 390 Professional Skill Training in Plant Pathology 3(0-18-0)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360431 PLP 431 Plant Parasitic Nematodes 3(2-3-4)
+360497 PLP 497 Seminar 1 1(1-0-2)
+Major Elective/ Minor 6
+Total 19
+Second Semester Credits
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+360498 PLP 498 Seminar 2 1(1-0-2)
+360499 PLP 499 Special Problems 3(0-9-0)
+Major Elective/Minor 3
+Total 14
+Cooperative Education
+Third Year
+First Semester Credits
+357322 ENT 322 Economic Entomology 3(3-0-6)
+360212 PLP 212 Elementary Plant Pathology Laboratory 1(0-3-1)
+360301 PLP 301 Plant Pathology Techniques 3(2-3-4)
+360407 PLP 407 Plant Disease Control 3(2-3-4)
+360431 PLP 431 Plant Parasitic Nematodes 3(2-3-4)
+360423 PLP 423 Plant Parasitic Fungi 3(2-3-4)
+GE (Learner Person or Active Citizen) 3
+Total 19
+Second Semester Credits
+360411 PLP 411 Bacterial Plant Diseases 3(2-3-4)
+360441 PLP 441 Plant Virology 3(2-3-4)
+360497 PLP 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 22
+Fourth Year
+First Semester Credits
+360490 PLP 490 Cooperative Education in Plant Pathology 6
+Total 6
+Second Semester Credits
+353432 AGRO 432 Weeds and Weed Control 4(3-3-6)
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+360400 PLP 400 Diagnosis of Plant Diseases 3(2-3-4)
+360498 PLP 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 6
+Total 17
+Soil Science
+Third Year
+First Semester Credits
+354311 AS 311 Statistics for Agricultural Research 3(2-3-4)
+361211 SOIL 211 Principle of Soil Science 3(3-0-6)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+361341 SOIL 341 Spatial Information System for Agriculture 3(2-3-4)
+361351 SOIL 351 Soil Fertility Management 3(3-0-6)
+Major Elective/Minor 3
+Free Elective 3
+Total 19
+Second Semester Credits
+361321 SOIL 321 Soil and Plant Analysis 4(3-3-7)
+361433 SOIL 433 Soil Microbial Biotechnology 3(2-3-4)
+361442 SOIL 442 Soil Survey and Classification 3(2-3-4)
+361497 SOIL 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 9
+Total 20
+Special problem
+Fourth Year
+First Semester Credits
+361390 SOIL 390 Professional Skill Training in Soil Science 3(0-18-0)
+361499 SOIL 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+361414 SOIL 414 Precision Resource Allocation for Sustainable Agroecosystem 3(3-0-6)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361498 SOIL 498 Seminar 2 1(1-0-2)
+GE (Learner Person or Active Citizen) 3
+Major Elective/Minor 3
+Free Elective 3
+Total 19
+Cooperative Education
+Fourth Year
+First Semester Credits
+361490 SOIL 490 Cooperative Education in Soil Science 6
+Total 6
+Second Semester Credits
+361414 SOIL 414 Precision Resource Allocation for Sustainable Agroecosystem 3(3-0-6)
+361452 SOIL 452 Fertilizer and Plant Nutrient Management 3(3-0-6)
+361461 SOIL 461 Soil Conservation 3(3-0-6)
+361498 SOIL 498 Seminar 2 1(1-0-2)
+GE (Learner Person or Active Citizen) 3
+Major Elective/Minor 3
+Free Elective 3
+Total 19
+Highland Agriculture and Natural Resources
+Third Year
+First Semester Credits
+365201 HANR 201 Natural Resources and Agriculture 3(3-0-6)
+365211 HANR 211 Highland Agricultural System 3(3-0-6)
+365301 HANR 301 Economy and Sustainable Forest Development 3(3-0-6)
+365321 HANR 321 Fundamental Forest Resource 3(3-0-6)
+365331 HANR 331 Geo-Informatic Technology for Forest Resource and Agricultural Management 3(2-3-4)
+365421 HANR 421 Principles of Watershed Management 3(2-3-4)
+GE (Learner Person or Active Citizen) 3
+Total 21
+Second Semester Credits
+365291 HANR 291 Field Practices in Forest and Agroforestry Ecosystems 2(0-12-0)
+365324 HANR 324 Principles of Agroforestry 3(3-0-6)
+365401 HANR 401 Forest Ecosystems for Climate Change Mitigation 3(3-0-6)
+365422 HANR 422 Forest Ecosystem and Watershed Restoration 3(3-0-6)
+365428 HANR 428 Forest Mensuration and Computer Applications 3(2-3-4)
+365497 HANR 497 Seminar 1 1(1-0-2)
+Major Elective/Minor 6
+Total 21
+Special problem
+Fourth Year
+First Semester Credits
+365390 HANR 390 Professional Skill Training in Forest Resource and Agroforestry 3(0-18-0)
+365499 HANR 499 Special Problems 3(0-9-0)
+Total 6
+Second Semester Credits
+365498 HANR 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 16
+Cooperative Education
+Fourth Year
+First Semester Credits
+365490 HANR 490 Cooperative Education in Forest Resource and Agroforestry 6
+Total 6
+Second Semester Credits
+365498 HANR 498 Seminar 2 1(1-0-2)
+Major Elective/Minor 9
+Free Elective 6
+Total 16

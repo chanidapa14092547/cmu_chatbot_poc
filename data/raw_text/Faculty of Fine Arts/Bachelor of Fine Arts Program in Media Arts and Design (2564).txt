@@ -1,0 +1,156 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25530041102422
+Bachelor of Fine Arts Program in Media Arts and Design (2564)
+Name of the degree
+Full : Bachelor of Fine Arts (Media Arts and Design)
+Abbreviation : B.F.A. (Media Arts and Design)
+Curriculum structure
+1. General Education 30
+Required Courses 21
+1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+1.2 Innovative Co-creator 3
+Seclect 1 course from the followings
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+050104 HUGE 104 Man and the Modern World 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+1.3 Active Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+GE Electives 9
+A student also chooses at least 9 credits from these 2 groups of GE course.
+- Learner Person
+057136 EDPE 136 Sport, Health, Fitness and Wellness Development 3(3-0-6)
+057137 EDPE 137 Sports for Health 3(3-0-6)
+571151 NGGE 151 Science and Art for Happiness Creation 3(2-3-4)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+057133 EDPE 133 Recreation for Quality of Life 2(2-0-4)
+571103 NGGE 103 Friendship and Being Together 2(0-6-2)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+- Active Citizen
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+050113 HUGE 113 Localism and Globalization 3(3-0-6)
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+2. Field of Specialization : a minimum of 99
+2.1 Core Courses 24
+112101 MAAD 101 Visual Culture Studies 3(3-0-6)
+112104 MAAD 104 Media and Cultural Studies 3(3-0-6)
+112107 MAAD 107 New Media Art History 3(3-0-6)
+112108 MAAD 108 Storyboards Drawing 3(1-4-4)
+112110 MAAD 110 Trans-local Media Cultures and Art Movement in Southeast Asia 3(3-0-6)
+112300 MAAD 300 Arts of Information Design 3(2-2-5)
+112304 MAAD 304 Media Archaeology 3(3-0-6)
+112400 MAAD 400 Curating and Managing New Media and Contemporary Arts 3(2-2-5)
+2.2 Major : a minimum of 75
+2.2.1 Requirements 51
+112102 MAAD 102 Digital Photography 3(1-4-4)
+112103 MAAD 103 Fundamental Media Design 3(1-4-4)
+112105 MAAD 105 Moving Image and Narratives 3(1-4-4)
+112106 MAAD 106 Advanced Media Design 3(1-4-4)
+112201 MAAD 201 Fundamental Web Design 3(1-4-4)
+112202 MAAD 202 Fundamental Digital Still and Motion Images 3(1-4-4)
+112203 MAAD 203 Integrated Theories of Design 3(3-0-6)
+112204 MAAD 204 Sound Basics 3(2-2-5)
+112205 MAAD 205 Multiple Media Study 3(3-0-6)
+112301 MAAD 301 Multiple Media Discourse 3(3-0-6)
+112302 MAAD 302 Multiple Media Research Project 1 3(1-4-4)
+112303 MAAD 303 Management in New Media and Contemporary Art 3(3-0-6)
+112401 MAAD 401 Multiple Media Research Project 2 3(1-4-4)
+112403 MAAD 403 Advanced Multiple Media Research Project 6(2-8-8)
+112413 MAAD 413 Sound Design 3(1-4-4)
+112415 MAAD 415 Sociology of Art 3(3-0-6)
+2.2.2 Major Electives : a minimum of 24
+Select from the followings
+112213 MAAD 213 Advanced Digital Still and Motion Images 3(1-4-4)
+112311 MAAD 311 Moving Image and Experimentation 3(1-4-4)
+112212 MAAD 212 Internet Art 3(2-2-5)
+112314 MAAD 314 Programming for Interactive Media 3(1-4-4)
+112321 MAAD 321 Advanced Web Design 3(1-4-4)
+112322 MAAD 322 Art of Digital Still and Motion Images 3(1-4-4)
+112405 MAAD 405 New Media and Cyberculture 3(3-0-6)
+112406 MAAD 406 Design Culture 3(2-2-5)
+112408 MAAD 408 Seminar in Media Arts and Design 3(3-0-6)
+112411 MAAD 411 Moving Image and Documentation 3(1-4-4)
+112412 MAAD 412 Digital Still and Motion Images Project 3(1-4-4)
+112414 MAAD 414 Sonic Art 3(1-6-2)
+112423 MAAD 423 Media Interactive Devices 3(1-4-4)
+112424 MAAD 424 Arts for Mobile Application Design 3(1-4-4)
+2.3 Minor (if any) : a minimum of 15
+3. Free Electives : a minimum of 6
+Total : a minimum of 135
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+112102 MAAD 102 Digital Photography 3(1-4-4)
+112103 MAAD 103 Fundamental Media Design 3(1-4-4)
+112104 MAAD 104 Media and Cultural Studies 3(3-0-6)
+112108 MAAD 108 Storyboards Drawing 3(1-4-4)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+112101 MAAD 101 Visual Culture Studies 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+112105 MAAD 105 Moving Image and Narratives 3(1-4-4)
+112106 MAAD 106 Advanced Media Design 3(1-4-4)
+112202 MAAD 202 Fundamental Digital Still and Motion Images 3(1-4-4)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+112201 MAAD 201 Fundamental Web Design 3(1-4-4)
+112204 MAAD 204 Sound Basics 3(2-2-5)
+112205 MAAD 205 Multiple Media Study 3(3-0-6)
+GE : Innovative Co-creator 3
+Major Elective 3
+Total 18
+Second Semester Credits
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+112107 MAAD 107 New Media Art History 3(3-0-6)
+112301 MAAD 301 Multiple Media Discourse 3(3-0-6)
+112413 MAAD 413 Sound Design 3(1-4-4)
+GE Elective courses 3
+Major Elective 3
+Major Elective 3
+Total 21
+Third Year
+First Semester Credits
+112300 MAAD 300 Arts of Information Design 3(2-2-5)
+112304 MAAD 304 Media Archaeology 3(3-0-6)
+112400 MAAD 400 Curating and Managing New Media and Contemporary Arts 3(2-2-5)
+GE Elective courses 3
+Major Elective 3
+Major Elective 3
+Total 18
+Second Semester Credits
+112203 MAAD 203 Integrated Theories of Design 3(3-0-6)
+112302 MAAD 302 Multiple Media Research Project 1 3(1-4-4)
+GE Elective courses 3
+Major Elective 3
+Major Elective 3
+Total 15
+Fourth Year
+First Semester Credits
+112110 MAAD 110 Trans-local Media Cultures and Art Movement in Southeast Asia 3(3-0-6)
+112303 MAAD 303 Management in New Media and Contemporary Art 3(3-0-6)
+112401 MAAD 401 Multiple Media Research Project 2 3(1-4-4)
+Free Elective 3
+Major Elective 3
+Total 15
+Second Semester Credits
+112403 MAAD 403 Advanced Multiple Media Research Project 6(2-8-8)
+112415 MAAD 415 Sociology of Art 3(3-0-6)
+Major Elective 3
+Total 12

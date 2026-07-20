@@ -1,0 +1,184 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25260041100071
+Bachelor of Fine Arts Program in Printmaking (2566)
+Name of the degree
+Full : Bachelor of Fine Arts (Printmaking)
+Abbreviation : B.F.A. (Printmaking)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+1.1.2 GE Electives
+Select 3 credits from the followings
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+057133 EDPE 133 Recreation for Quality of Life 2(2-0-4)
+057137 EDPE 137 Sports for Health 3(3-0-6)
+057138 EDPE 138 Thai Wisdom Sports for Self-Defense 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+610114 AG 114 Food for Health and Beauty 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+571103 NGGE 103 Friendship and Being Together 2(0-6-2)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 GE Electives
+Select 3 credits from the followings
+050104 HUGE 104 Man and the Modern World 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+050106 HUGE 106 Humanistic Arts 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+852100 DF 100 Introduction to Film 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+888109 DIN 109 Introduction to Emerging Rules of Disruptive Technology in Trade 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 GE Electives
+Select 3 credits from the followings
+103271 DART 271 Music Appreciation 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+057132 EDPE 132 Happy Life in Camping 2(2-0-4)
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+201115 SC 115 Life and Energy 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+(2) Field of Specialization : a minimum of 99
+2.1 Core Courses 36
+101100 CART 100 Art Theory 3(3-0-6)
+101103 CART 103 Fundamental Art 3(1-4-4)
+101114 CART 114 Fundamental Drawing 3(1-4-4)
+101115 CART 115 Academic Drawing 3(1-4-4)
+101201 CART 201 Western Art History 3(3-0-6)
+101202 CART 202 20th Century Art 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+101221 CART 221 Art Composition 3(3-0-6)
+101222 CART 222 Principles of Art 3(3-0-6)
+101315 CART 315 Contemporary Art in Thailand 3(3-0-6)
+101325 CART 325 Aesthetics 3(3-0-6)
+101490 CART 490 Art Criticism 3(3-0-6)
+2.2 Major : a minimum of 63
+2.2.1 Requirements 48
+107211 PRIN 211 Fundamental Printmaking 3(1-4-4)
+107212 PRIN 212 Relief Printmaking 3(1-4-4)
+107226 PRIN 226 Graphics for Fine Art 3(2-2-5)
+107330 PRIN 330 Intaglio Printmaking 3(1-4-4)
+107331 PRIN 331 Lithography 3(1-4-4)
+107332 PRIN 332 Screen Printmaking 3(1-4-4)
+107336 PRIN 336 Printmaking Project 1 6(0-18-
+0)
+107337 PRIN 337 Printmaking Project 2 6(0-18-
+0)
+107400 PRIN 400 Art Management for Printmaking 3(2-2-5)
+107439 PRIN 439 Multi Prints 3(1-4-4)
+107497 PRIN 497 Thesis in Printmaking 9
+107498 PRIN 498 Seminar in Printmaking 3(3-0-6)
+2.2.2 Major Electives (if any) : a minimum of 15
+In the event that the students do not wish to the major electives have to choose The minor subjects according to Chiang
+Mai University’s announcement, Enroll not less than 15 credits
+107213 PRIN 213 Creative Drawing 3(1-4-4)
+107223 PRIN 223 Fundamental Watercolor Woodblock Printmaking 3(1-4-4)
+107230 PRIN 230 Advanced Relief Printmaking 3(1-4-4)
+107328 PRIN 328 Papermaking for Arts 3(1-4-4)
+107329 PRIN 329 Advanced Screen Printmaking 3(1-4-4)
+107340 PRIN 340 Advanced Intaglio Printmaking 3(1-4-4)
+107341 PRIN 341 Mezzotint 3(1-4-4)
+107342 PRIN 342 Advanced Lithography 3(1-4-4)
+107338 PRIN 338 Experimental Thinking in Printmaking Production Process 3(2-2-5)
+2.3 Minor (if any) : a minimum of 15
+2.3.1 Students who wish to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+2.3.2 If students do not wish to study in the minor subject have to choose the courses in 2.2.2., however, students have
+to enroll not less than 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 135
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+101100 CART 100 Art Theory 3(3-0-6)
+101103 CART 103 Fundamental Art 3(1-4-4)
+101114 CART 114 Fundamental Drawing 3(1-4-4)
+107211 PRIN 211 Fundamental Printmaking 3(1-4-4)
+107226 PRIN 226 Graphics for Fine Art 3(2-2-5)
+140104 PG 104 Citizenship 3(3-0-6)
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+101115 CART 115 Academic Drawing 3(1-4-4)
+101205 CART 205 Eastern Art History 3(3-0-6)
+107212 PRIN 212 Relief Printmaking 3(1-4-4)
+or 107330 PRIN 330 Intaglio Printmaking 3(1-4-4)
+or 107331 PRIN 331 Lithography 3(1-4-4)
+or 107332 PRIN 332 Screen Printmaking 3(1-4-4)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+Major Elective/Minor 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+101221 CART 221 Art Composition 3(3-0-6)
+101201 CART 201 Western Art History 3(3-0-6)
+107212 PRIN 212 Relief Printmaking 3(1-4-4)
+or 107330 PRIN 330 Intaglio Printmaking 3(1-4-4)
+or 107331 PRIN 331 Lithography 3(1-4-4)
+or 107332 PRIN 332 Screen Printmaking 3(1-4-4)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+Major Elective/Minor 3
+Total 18
+Second Semester Credits
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+101222 CART 222 Principles of Art 3(3-0-6)
+101325 CART 325 Aesthetics 3(3-0-6)
+107212 PRIN 212 Relief Printmaking 3(1-4-4)
+or 107330 PRIN 330 Intaglio Printmaking 3(1-4-4)
+or 107331 PRIN 331 Lithography 3(1-4-4)
+or 107332 PRIN 332 Screen Printmaking 3(1-4-4)
+Active Citizen 3
+Major Elective/Minor 3
+Total 18
+Third Year
+First Semester Credits
+101315 CART 315 Contemporary Art in Thailand 3(3-0-6)
+101490 CART 490 Art Criticism 3(3-0-6)
+107212 PRIN 212 Relief Printmaking 3(1-4-4)
+or 107330 PRIN 330 Intaglio Printmaking 3(1-4-4)
+or 107331 PRIN 331 Lithography 3(1-4-4)
+or 107332 PRIN 332 Screen Printmaking 3(1-4-4)
+Learner Person 3
+Major Elective/Minor 3
+Free Elective 3
+Total 18
+Second Semester Credits
+101202 CART 202 20th Century Art 3(3-0-6)
+107336 PRIN 336 Printmaking Project 1 6(0-18-0)
+107439 PRIN 439 Multi Prints 3(1-4-4)
+Innovative Co-creator 3
+Major Elective/Minor 3
+Free Elective 3
+Total 21
+Fourth Year
+First Semester Credits
+107337 PRIN 337 Printmaking Project 2 6(0-18-0)
+107400 PRIN 400 Art Management for Printmaking 3(2-2-5)
+107498 PRIN 498 Seminar in Printmaking 3(3-0-6)
+Total 12
+Second Semester Credits
+107497 PRIN 497 Thesis in Printmaking 9
+Total 9

@@ -1,0 +1,373 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25430041100092
+Bachelor of Science Program in Computer Science (2564)
+Name of the degree
+Full : Bachelor of Science (Computer Science)
+Abbreviation : B.S. (Computer Science)
+Curriculum structure
+1. General Education 30
+1.1 Required Courses
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+Students must choose 6 credits from these 3 groups of GE courses.
+Learner Person
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+Innovative Co-creator
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+Active Citizen
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+2. Field of Specialization
+(1) Regular Plan : a minimum of 98
+(2) Co-operative Education Plan : a minimum of 99
+(3) Honors Plan : a minimum of 110
+2.1 Core Courses 24
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+204111 CS 111 Fundamentals of Programming 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206183 MATH 183 Discrete Structure 3(3-0-6)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208269 STAT 269 Statistics for Computer Science 3(3-0-6)
+2.2 Major
+(1) Regular Plan : a minimum of 59
+Among the credits earned from the major courses, a minimum of 36 credits must be from the advanced level courses
+(300-400), of which at least 18 credits must be from the 400 Level courses.
+(2) Co-operative Education Plan : a minimum of 60
+Among the credits earned from the major courses, a minimum of 36 credits must be from the advanced level courses
+(300-400), of which at least 18 credits must be from the 400 Level courses.
+(3) Honors Plan : a minimum of 71
+Among the credits earned from the major courses, a minimum of 48 credits must be from the advanced level courses
+(300 and higher), of which at least 18 credits must be from the 400 level courses, and 12 credits must be from the 700
+level courses.
+2.2.1 Compulsory Courses 41
+Organization Issues and Information System
+204203 CS 203 Computer Science Technology 3(2-2-5)
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+Technology for Application
+204212 CS 212 Modern Application Development 3(2-2-5)
+204271 CS 271 Introduction to Artificial Intelligence 3(2-2-5)
+Technologyy and System Methodology
+204321 CS 321 Database Systems 3(2-2-5)
+204361 CS 361 Software Engineering 3(3-0-6)
+204451 CS 451 Algorithm Design and Analysis 3(3-0-6)
+204390 CS 390 Computer Job Training 1(0-6-0)
+204490 CS 490 Research in Computer Science 3(3-0-6)
+System of Fundamental Structure
+204114 CS 114 Introduction to Object-oriented Programming 3(2-2-5)
+204232 CS 232 Computer Networks and Protocols 3(3-0-6)
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+204315 CS 315 Organization of Programming Languages 3(3-0-6)
+204341 CS 341 Operating Systems 3(3-0-6)
+Hardware and Computer Architecture
+204231 CS 231 Computer Organization and Architecture 3(2-2-5)
+2.2.2 Plan-specific Compulsory Courses
+(1) Regular Plan 3
+204491 CS 491 Independent Study 1 1
+204499 CS 499 Independent Study 2 2
+(2) Co-operative Education Plan 7
+204496 CS 496 Cooperative Education 6
+204497 CS 497 Seminar in Computer Science 1(1-0-2)
+(3) Honors Plan 3
+204491 CS 491 Independent Study 1 1
+204499 CS 499 Independent Study 2 2
+2.2.3 Major Electives
+(1) Regular Plan : a minimum of 15
+Elective courses must be chosen from 300 Level or 400 Level courses, of which at least 9 credits must be from 400
+Level courses.
+(2) Co-operative Education Plan : a minimum of 12
+Elective courses must be chosen from 300 Level or 400 Level courses, of which at least 6 credits must be from 400
+Level courses.
+(3) Honors Plan : a minimum of 27
+Elective courses must be chosen from 300 Level courses or higher, of which at least 9 credits of which must be from
+400 Level courses and 12 credits must be from the 700-level courses (Graduate Courses.
+For all plans, elective courses in 300-400 level courses must be chosen from the followings:
+204311 CS 311 Mobile Application Development Frameworks 3(2-2-5)
+204312 CS 312 Simulation and Experience Reality Design 3(2-2-5)
+204322 CS 322 Advanced Database Systems 3(3-0-6)
+204325 CS 325 System Analysis and Design 3(3-0-6)
+204333 CS 333 Internet Application Development 3(2-2-5)
+204335 CS 335 Microcontroller and Internet of Things 3(2-2-5)
+204355 CS 355 Competitive Programming 3(2-2-5)
+204362 CS 362 Object-oriented Design 3(3-0-6)
+204363 CS 363 Software Modeling and Requirements 3(3-0-6)
+204364 CS 364 Software Design and Implementation 3(3-0-6)
+204365 CS 365 Human-computer Interaction 3(3-0-6)
+204371 CS 371 Feature Engineering 3(2-2-5)
+204381 CS 381 Numerical Computation and Software 3(3-0-6)
+204382 CS 382 Computer Graphics 3(3-0-6)
+204383 CS 383 Image Processing 3(3-0-6)
+204422 CS 422 Data Warehousing 3(2-2-5)
+204423 CS 423 Data Mining 3(3-0-6)
+204424 CS 424 Ontology Design and Development 3(3-0-6)
+204425 CS 425 Management Information System 3(3-0-6)
+204426 CS 426 Data Engineering 3(2-2-5)
+204432 CS 432 Computer Network Design and Management 3(2-2-5)
+204435 CS 435 Parallel Processing 3(3-0-6)
+204441 CS 441 Concurrent Programming and Distributed System 3(3-0-6)
+204442 CS 442 Compiler Construction 3(3-0-6)
+204443 CS 443 Computer System Security 3(3-0-6)
+204452 CS 452 Theory of Computation 3(3-0-6)
+204453 CS 453 Pattern Recognition 3(2-2-5)
+204454 CS 454 Combinatorial Optimization Algorithms and Programming 3(2-2-5)
+204456 CS 456 Machine Learning 3(3-0-6)
+204471 CS 471 Artificial Intelligence 3(3-0-6)
+204472 CS 472 Natural Language Processing 3(3-0-6)
+204481 CS 481 Mathematical Programming and Software 3(3-0-6)
+204482 CS 482 Simulation and Modelling 3(3-0-6)
+204483 CS 483 Computer Vision 3(3-0-6)
+204494 CS 494 Selected Topics in Computer Science 1 3(3-0-6)
+204495 CS 495 Selected Topics in Computer Science 2 3(3-0-6)
+206324 MATH 324 Applied Linear Algebra 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+For honors plan, elective courses in 700 level courses must be chosen from the following graduate courses :
+204712 CS 712 Computer Systems and Networks 3(3-0-6)
+204713 CS 713 Cloud Computing and Big Data 3(3-0-6)
+204715 CS 715 Intelligent Embedded System 3(3-0-6)
+204721 CS 721 Data Engineering 3(3-0-6)
+204725 CS 725 Data Analytic and Machine Learning 3(3-0-6)
+204728 CS 728 Data Manipulation 3(3-0-6)
+204732 CS 732 Software Engineering:Theory and Application 3(3-0-6)
+204735 CS 735 Computation and Algorithms 3(3-0-6)
+204736 CS 736 Software Process Improvement 3(3-0-6)
+204737 CS 737 Software Quality Engineering 3(3-0-6)
+204764 CS 764 Artificial Intelligence 3(3-0-6)
+204779 CS 779 SELECTED TOPICS IN COMPUTER SCIENCE 2(2-0-4)
+204789 CS 789 SELECTED TOPICS IN COMPUTER SCIENCE 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+2.3.1 For student who wishes to have minor
+(1) Regular Plan and Co-operative Education Plan :
+Students are required to take a minimum of 15 credits in any academic minor program offered by any department in the
+University, with approval of the academic advisor.
+(2) Honors Plan :
+Students are required to take one of the following academic minor programs: Mathematics, Statistics or Data Sciences
+For students who do not wish to take an academic minor, they are required to take a minimum of 15 credits of Computer
+Science courses at 300 or 400 level, in addition to courses chosen in 2.2.3.
+3. Free Electives : a minimum of 6
+Total : a minimum of 134
+Study plan
+Regular Plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+204111 CS 111 Fundamentals of Programming 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206183 MATH 183 Discrete Structure 3(3-0-6)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204114 CS 114 Introduction to Object-oriented Programming 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207187 PHYS 187 Physics 1 3(3-0-6)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204203 CS 203 Computer Science Technology 3(2-2-5)
+204231 CS 231 Computer Organization and Architecture 3(2-2-5)
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+208269 STAT 269 Statistics for Computer Science 3(3-0-6)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+204212 CS 212 Modern Application Development 3(2-2-5)
+204232 CS 232 Computer Networks and Protocols 3(3-0-6)
+204271 CS 271 Introduction to Artificial Intelligence 3(2-2-5)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+204321 CS 321 Database Systems 3(2-2-5)
+204341 CS 341 Operating Systems 3(3-0-6)
+204361 CS 361 Software Engineering 3(3-0-6)
+204451 CS 451 Algorithm Design and Analysis 3(3-0-6)
+GE Elective Course 3
+Minor 3
+Total 18
+Second Semester Credits
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+204315 CS 315 Organization of Programming Languages 3(3-0-6)
+204490 CS 490 Research in Computer Science 3(3-0-6)
+Major Elective Courses Level 300 or 400 6
+Minor 3
+Free Elective 3
+Total 19
+Fourth Year
+First Semester Credits
+204390 CS 390 Computer Job Training 1(0-6-0)
+204491 CS 491 Independent Study 1 1
+GE Elective Course 3
+Major Elective Courses Level 400 6
+Minor 3
+Total 14
+Second Semester Credits
+204499 CS 499 Independent Study 2 2
+Major Elective Courses Level 400 3
+Minor 3
+Free Elective 3
+Total 11
+Co-operative Education Plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+204111 CS 111 Fundamentals of Programming 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206183 MATH 183 Discrete Structure 3(3-0-6)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204114 CS 114 Introduction to Object-oriented Programming 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207187 PHYS 187 Physics 1 3(3-0-6)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204203 CS 203 Computer Science Technology 3(2-2-5)
+204231 CS 231 Computer Organization and Architecture 3(2-2-5)
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+208269 STAT 269 Statistics for Computer Science 3(3-0-6)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+204212 CS 212 Modern Application Development 3(2-2-5)
+204232 CS 232 Computer Networks and Protocols 3(3-0-6)
+204271 CS 271 Introduction to Artificial Intelligence 3(2-2-5)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+204321 CS 321 Database Systems 3(2-2-5)
+204341 CS 341 Operating Systems 3(3-0-6)
+204361 CS 361 Software Engineering 3(3-0-6)
+204451 CS 451 Algorithm Design and Analysis 3(3-0-6)
+GE Elective Course 3
+Minor 3
+Total 18
+Second Semester Credits
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+204315 CS 315 Organization of Programming Languages 3(3-0-6)
+204490 CS 490 Research in Computer Science 3(3-0-6)
+Major Elective Courses Level 300 or 400 3
+Minor 6
+Free Elective 3
+Total 19
+Fourth Year
+First Semester Credits
+204390 CS 390 Computer Job Training 1(0-6-0)
+204496 CS 496 Cooperative Education 6
+Total 7
+Second Semester Credits
+204497 CS 497 Seminar in Computer Science 1(1-0-2)
+GE Elective Course 3
+Major Elective Courses Level 300 or 400 3
+Major Elective Courses Level 400 6
+Minor 3
+Free Elective 3
+Total 19
+Honors Plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+204111 CS 111 Fundamentals of Programming 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206183 MATH 183 Discrete Structure 3(3-0-6)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204114 CS 114 Introduction to Object-oriented Programming 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207187 PHYS 187 Physics 1 3(3-0-6)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204203 CS 203 Computer Science Technology 3(2-2-5)
+204231 CS 231 Computer Organization and Architecture 3(2-2-5)
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+208269 STAT 269 Statistics for Computer Science 3(3-0-6)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+204212 CS 212 Modern Application Development 3(2-2-5)
+204232 CS 232 Computer Networks and Protocols 3(3-0-6)
+204271 CS 271 Introduction to Artificial Intelligence 3(2-2-5)
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+204321 CS 321 Database Systems 3(2-2-5)
+204341 CS 341 Operating Systems 3(3-0-6)
+204361 CS 361 Software Engineering 3(3-0-6)
+204451 CS 451 Algorithm Design and Analysis 3(3-0-6)
+GE Elective Course 3
+Minor 3
+Total 18
+Second Semester Credits
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+204315 CS 315 Organization of Programming Languages 3(3-0-6)
+204490 CS 490 Research in Computer Science 3(3-0-6)
+Major Elective Courses Level 300 or 400 6
+Minor 3
+Free Elective 3
+Total 19
+Fourth Year
+First Semester Credits
+204390 CS 390 Computer Job Training 1(0-6-0)
+204491 CS 491 Independent Study 1 1
+GE Elective Course 3
+Major Elective Courses Level 400 6
+Major Elective Courses Level 700 6
+Minor 3
+Total 20
+Second Semester Credits
+204499 CS 499 Independent Study 2 2
+Major Elective Courses Level 400 3
+Major Elective Courses Level 700 6
+Minor 3
+Free Elective 3
+Total 17

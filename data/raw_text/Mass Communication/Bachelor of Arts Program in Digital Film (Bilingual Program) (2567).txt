@@ -1,0 +1,161 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25620044000106
+Bachelor of Arts Program in Digital Film (Bilingual Program) (2567)
+Name of the degree
+Full : Bachelor of Arts (Digital Film)
+Abbreviation : B.A. (Digital Film)
+Curriculum structure
+1. General Education 30
+1.1 Learner Person 18
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001229 ENGL 229 English for Media Arts 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+1.2 Innovative Co-creator 6
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.3 Active Citizen 6
+1) Required courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+2) Elective courses 3
+Choose one course from the followings:
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+2. Field of Specialization : a minimum of 94
+2.1 Core Courses 42
+852101 DF 101 Introduction to Digital Film 3(3-0-6)
+852104 DF 104 Basic Acting for Digital Film 3(2-2-5)
+852105 DF 105 Digital Content Writing and Storytelling 3(2-2-5)
+852202 DF 202 Basic Cinematography for Digital Film 3(2-2-5)
+852203 DF 203 Lighting Techniques for Digital Film 3(2-2-5)
+852206 DF 206 Basic Directing for Digital Film 3(2-2-5)
+852207 DF 207 Communication Theories 3(3-0-6)
+852315 DF 315 Digital Film Research 3(3-0-6)
+951107 ANI 107 Drawing for Digital Film 3(1-4-4)
+951211 ANI 211 Three Dimensional Modeling and Animation Design 1 3(1-4-4)
+951341 ANI 341 Art Concept and Digital Creativity 3(2-2-5)
+951344 ANI 344 Sound Design in Animation and Multimedia 3(1-4-4)
+957106 VFX 106 Introduction to Visual Effects 3(3-0-6)
+957213 VFX 213 Composite 1 3(1-4-4)
+2.2 Major : a minimum of 52
+Select level 300 courses at least 36 credits (including level 400 courses) and level 400 courses at least 18 credits from
+the following courses.
+2.2.1 Required Courses 37
+852205 DF 205 Screenwriting 3(2-2-5)
+852208 DF 208 Advanced Cinematography for Digital Film 3(2-2-5)
+852301 DF 301 Experimental Film for Commercial Art 3(2-2-5)
+852400 DF 400 Film Operation 3(2-2-5)
+852401 DF 401 Cooperative and Work Integrated Education for Digital Film 1 6
+or 852402 DF 402 Digital Film Production 1 6(0-36-
+0)
+852403 DF 403 Cooperative and Work Integrated Education for Digital Film 2 6
+or 852404 DF 404 Digital Film Production 2 6(0-36-
+0)
+852405 DF 405 Digital Film Seminar 1(0-6-0)
+852411 DF 411 Film Analysis and Criticism 3(3-0-6)
+852422 DF 422 Production Design 3(2-2-5)
+852431 DF 431 Film Editing 3(2-2-5)
+852432 DF 432 Music for Digital Film 3(2-2-5)
+2.2.2 Major Electives : a minimum of 15
+Students choose one major from the following list
+2.2.2.1 Film Studies
+852311 DF 311 American Cinema 3(3-0-6)
+852312 DF 312 European Cinema 3(3-0-6)
+852313 DF 313 Asian Cinema 3(3-0-6)
+852314 DF 314 Thai Cinema 3(3-0-6)
+852317 DF 317 Film and Society 3(3-0-6)
+or 852492 DF 492 Selected Topics in Film Studies 3(3-0-6)
+or 852494 DF 494 Selected Topics in Modern Acting for Digital Film 3(3-0-6)
+2.2.2.2 Film Administration
+852321 DF 321 Presentation for Film Business 3(2-2-5)
+852323 DF 323 Law and Film Industry 3(3-0-6)
+852324 DF 324 Film Administration 3(3-0-6)
+852326 DF 326 Film Festival Organization 3(2-2-5)
+852327 DF 327 Film Business 3(3-0-6)
+or 852493 DF 493 Selected Topics in Film Administration 3(3-0-6)
+or 852494 DF 494 Selected Topics in Modern Acting for Digital Film 3(3-0-6)
+2.2.2.3 Visual Effects for Film
+957311 VFX 311 Producing Visual Effects 3(3-0-6)
+957325 VFX 325 Special Effects 3(2-2-5)
+957332 VFX 332 Matte Painting 3(1-4-4)
+957333 VFX 333 Advanced Lighting and Rendering 3(1-4-4)
+957331 VFX 331 Color Grading 3(1-4-4)
+or 957335 VFX 335 Two Dimensional Motion Tracking 3(1-4-4)
+or 957491 VFX 491 Selected Topic in Visual Effects 3(3-0-6)
+or 852494 DF 494 Selected Topics in Modern Acting for Digital Film 3(3-0-6)
+2.3 Minor : a minimum of 15
+Students, who wish to enroll in minor courses, may select from available minor courses at least 15 credits based on
+consent of advisor and Chiang Mai University’s Announcement on Chiang Mai Unviersity’s Minor Courses, for those who
+do not wish to have a minor, it is required that a minimum of 15 credits from major elective course must be chosen.
+3. Free Electives : a minimum of 6
+Total : a minimum of 130
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+852101 DF 101 Introduction to Digital Film 3(3-0-6)
+852202 DF 202 Basic Cinematography for Digital Film 3(2-2-5)
+852203 DF 203 Lighting Techniques for Digital Film 3(2-2-5)
+951107 ANI 107 Drawing for Digital Film 3(1-4-4)
+951341 ANI 341 Art Concept and Digital Creativity 3(2-2-5)
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+852105 DF 105 Digital Content Writing and Storytelling 3(2-2-5)
+951211 ANI 211 Three Dimensional Modeling and Animation Design 1 3(1-4-4)
+957106 VFX 106 Introduction to Visual Effects 3(3-0-6)
+GE : Active Citizen (Elective) 3
+Total 21
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+852104 DF 104 Basic Acting for Digital Film 3(2-2-5)
+852207 DF 207 Communication Theories 3(3-0-6)
+951344 ANI 344 Sound Design in Animation and Multimedia 3(1-4-4)
+Total 18
+Second Semester Credits
+001229 ENGL 229 English for Media Arts 3(3-0-6)
+852205 DF 205 Screenwriting 3(2-2-5)
+852206 DF 206 Basic Directing for Digital Film 3(2-2-5)
+852208 DF 208 Advanced Cinematography for Digital Film 3(2-2-5)
+852301 DF 301 Experimental Film for Commercial Art 3(2-2-5)
+852315 DF 315 Digital Film Research 3(3-0-6)
+957213 VFX 213 Composite 1 3(1-4-4)
+Total 21
+Third Year
+First Semester Credits
+852400 DF 400 Film Operation 3(2-2-5)
+852411 DF 411 Film Analysis and Criticism 3(3-0-6)
+852422 DF 422 Production Design 3(2-2-5)
+852431 DF 431 Film Editing 3(2-2-5)
+852432 DF 432 Music for Digital Film 3(2-2-5)
+Free Electives 3
+Total 18
+Second Semester Credits
+Major Elective 3
+Major Elective 3
+Major Elective 3
+Major Elective 3
+Major Elective 3
+Free Electives 3
+Total 18
+Fourth Year
+First Semester Credits
+852401 DF 401 Cooperative and Work Integrated Education for Digital Film 1 6
+or 852402 DF 402 Digital Film Production 1 6(0-36-0)
+Total 6
+Second Semester Credits
+852403 DF 403 Cooperative and Work Integrated Education for Digital Film 2 6
+or 852404 DF 404 Digital Film Production 2 6(0-36-0)
+852405 DF 405 Digital Film Seminar 1(0-6-0)
+Total 7

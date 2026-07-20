@@ -1,0 +1,203 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25620041100182
+Bachelor of Science Program in Data Science (2567)
+Name of the degree
+Full : Bachelor of Science (Data Science)
+Abbreviation : B.S. (Data Science)
+Curriculum structure
+1. General Education 30
+1.1 Required Courses 21
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.2 GE Electives 9
+A student also chooses at least 9 credits from these 3 groups of GE courses.
+Learner Person
+057137 EDPE 137 Sports for Health 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+Innovative Co-creator
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+Active Citizen
+201111 SC 111 The World of Science 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+2. Field of Specialization : a minimum of 101
+2.1 Core Courses 27
+2.1.1 Basic Courses for Data Science 21
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+208150 STAT 150 Probability and Statistics 3(3-0-6)
+229123 DSCI 123 Fundamental Concept of Data Science 3(3-0-6)
+229223 DSCI 223 Programming for Data Science 3(2-2-5)
+2.1.2 Basic Science Courses 6
+Select from the following courses:
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+207187 PHYS 187 Physics 1 3(3-0-6)
+2.2 Major : a minimum of 59
+Among the credits earned from major courses taken, a minimum of 36 credits must be from the advanced level courses
+(300-400), and of which at least 18 credits must be from the 400 level courses.
+2.2.1 Compulsory Courses 35
+204217 CS 217 Computer Programming Languages 3(2-2-5)
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+204320 CS 320 Database Management 3(2-2-5)
+204371 CS 371 Feature Engineering 3(2-2-5)
+204456 CS 456 Machine Learning 3(3-0-6)
+206324 MATH 324 Applied Linear Algebra 3(3-0-6)
+or 206325 MATH 325 Linear Algebra 3(3-0-6)
+208250 STAT 250 Statistical Methods for Data Science 3(2-2-5)
+229323 DSCI 323 Data Manipulation for Data Science 3(2-2-5)
+229351 DSCI 351 Statistical Learning for Data Science 1 3(2-2-5)
+229352 DSCI 352 Statistical Learning for Data Science 2 3(2-2-5)
+229490 DSCI 490 Seminar 1(1-0-2)
+229496 DSCI 496 Cooperative Education 6
+2.2.2 Major Elective Courses : a minimum of 24
+Register courses from one of the following groups with 18 credits:
+Group: Data analytics using mathematical modeling
+204426 CS 426 Data Engineering 3(2-2-5)
+204471 CS 471 Artificial Intelligence 3(3-0-6)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+Group: Statistical data analytics
+204453 CS 453 Pattern Recognition 3(2-2-5)
+208350 STAT 350 Applied Multivariate Statistics for Data Science 3(3-0-6)
+208354 STAT 354 Time Series Analysis for Data Science 3(2-2-5)
+208424 STAT 424 Optimization for Statistical Learning 3(3-0-6)
+208450 STAT 450 Analytics for Observational Data 3(3-0-6)
+Select courses from the following with 3 credits:
+204422 CS 422 Data Warehousing 3(2-2-5)
+204471 CS 471 Artificial Intelligence 3(3-0-6)
+Group: Data analytics using computational modeling
+204383 CS 383 Image Processing 3(3-0-6)
+204422 CS 422 Data Warehousing 3(2-2-5)
+204426 CS 426 Data Engineering 3(2-2-5)
+204471 CS 471 Artificial Intelligence 3(3-0-6)
+204472 CS 472 Natural Language Processing 3(3-0-6)
+Select courses from the following with 3 credits:
+204423 CS 423 Data Mining 3(3-0-6)
+204453 CS 453 Pattern Recognition 3(2-2-5)
+Select courses from the following with at least 6 credits:
+204381 CS 381 Numerical Computation and Software 3(3-0-6)
+204383 CS 383 Image Processing 3(3-0-6)
+204422 CS 422 Data Warehousing 3(2-2-5)
+204423 CS 423 Data Mining 3(3-0-6)
+204424 CS 424 Ontology Design and Development 3(3-0-6)
+204426 CS 426 Data Engineering 3(2-2-5)
+204453 CS 453 Pattern Recognition 3(2-2-5)
+204471 CS 471 Artificial Intelligence 3(3-0-6)
+204482 CS 482 Simulation and Modelling 3(3-0-6)
+204483 CS 483 Computer Vision 3(3-0-6)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+208251 STAT 251 Regression Analysis and Non-parametric Statistics 3(2-2-5)
+208350 STAT 350 Applied Multivariate Statistics for Data Science 3(3-0-6)
+208354 STAT 354 Time Series Analysis for Data Science 3(2-2-5)
+208424 STAT 424 Optimization for Statistical Learning 3(3-0-6)
+208450 STAT 450 Analytics for Observational Data 3(3-0-6)
+208451 STAT 451 Analytics for Experimental and Simulated Data 3(2-2-5)
+208453 STAT 453 Statistics for Finance and Investment 3(3-0-6)
+208454 STAT 454 Actuarial Modeling 3(2-2-5)
+229452 DSCI 452 Research in Data Science 3(0-9-0)
+229471 DSCI 471 Data Analytics in Medicine 3(2-2-5)
+261441 CPE 441 Internet of Things and Big Data 3(3-0-6)
+261461 CPE 461 Visual and Interactive Programming 3(3-0-6)
+954471 INX 471 Business Data Mining 3(2-2-5)
+954472 INX 472 Business Data Visualization 3(2-2-5)
+2.3 Minor (if any) : a minimum of 15
+2.3.1 Students who wish to have minor is required to register at least 15 credits and may take courses choosing from
+minor in general Business Administration, Economics, or any minor being offered by science faculty ( except minor in
+Data Science, Mathematics, Computer Science, and Statistics). Furthermore, student may choose any minor courses
+corresponding to minor listed in the Chiang Mai University announcement about minor offered for CMU students with
+approval of an academic advisor.
+2.3.2 For those who do not wish to have a minor, it is required that a minimum of 15 credits from major elective courses
+at 300 or 400 level must be chosen.
+3. Free Electives : a minimum of 6
+Total : a minimum of 137
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+208150 STAT 150 Probability and Statistics 3(3-0-6)
+229123 DSCI 123 Fundamental Concept of Data Science 3(3-0-6)
+229223 DSCI 223 Programming for Data Science 3(2-2-5)
+Basic Science 3
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204217 CS 217 Computer Programming Languages 3(2-2-5)
+208250 STAT 250 Statistical Methods for Data Science 3(2-2-5)
+Basic Science 3
+Total 21
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204320 CS 320 Database Management 3(2-2-5)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+229323 DSCI 323 Data Manipulation for Data Science 3(2-2-5)
+229351 DSCI 351 Statistical Learning for Data Science 1 3(2-2-5)
+General Education Electives 3
+Total 21
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204252 CS 252 Data Structures and Analysis 3(3-0-6)
+206324 MATH 324 Applied Linear Algebra 3(3-0-6)
+or 206325 MATH 325 Linear Algebra 3(3-0-6)
+229352 DSCI 352 Statistical Learning for Data Science 2 3(2-2-5)
+Major Electives 3
+Minor or Major Electives 3
+Total 18
+Third Year
+First Semester Credits
+204371 CS 371 Feature Engineering 3(2-2-5)
+Major Electives 9
+Minor or Major Electives 3
+Free Electives 3
+Total 18
+Second Semester Credits
+204306 CS 306 Ethics for Computer Professionals 1(1-0-2)
+204456 CS 456 Machine Learning 3(3-0-6)
+Major Electives 6
+Minor or Major Electives 6
+Free Electives 3
+Total 19
+Fourth Year
+First Semester Credits
+229496 DSCI 496 Cooperative Education 6
+Total 6
+Second Semester Credits
+229490 DSCI 490 Seminar 1(1-0-2)
+General Education Electives 6
+Major Electives 6
+Minor or Major Electives 3
+Total 16

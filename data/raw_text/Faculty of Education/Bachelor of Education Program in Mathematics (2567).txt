@@ -1,0 +1,239 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25380041100107
+Bachelor of Education Program in Mathematics (2567)
+Name of the degree
+Full : Bachelor of Education (Mathematics)
+Abbreviation : B.Ed. (Mathematics)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+057131 EDPE 131 Exercise and Health 2(2-0-4)
+057137 EDPE 137 Sports for Health 3(3-0-6)
+057138 EDPE 138 Thai Wisdom Sports for Self-Defense 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+571113 NGGE 113 Maintaining the Equilibrium in Adolescent Life 3(3-0-6)
+571116 NGGE 116 Health and Working in the Digital Age 3(3-0-6)
+610113 AG 113 Processed Food in Daily Life 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective Courses 3
+Choose one course from the followings :
+011151 PHIL 151 Reasoning 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+050104 HUGE 104 Man and the Modern World 3(3-0-6)
+050106 HUGE 106 Humanistic Arts 3(3-0-6)
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+201110 SC 110 Integrated Mathematical Sciences 3(3-0-6)
+201117 SC 117 Mathematics and Science in Civilization 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+206109 MATH 109 Mathematics in Today’s World 3(3-0-6)
+208102 STAT 102 Statistical Reasoning and Thinking 3(3-0-6)
+208161 STAT 161 Fundamentals of Statistics 3(3-0-6)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+012200 RE 200 Mind Volunteer 3(2-2-5)
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+057132 EDPE 132 Happy Life in Camping 2(2-0-4)
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+109114 FAGE 114 Art in Everyday Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization : a minimum of 102
+2.1 Core Courses 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Electives Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 65
+A minimum of 36 credits in major courses at 300 level and among these must be a minimum of 18 credits in 400 level.
+2.2.1 Academic Content Courses : a minimum of 48
+1) Required Courses 36
+065210 EDMA 210 Numbers and Operations in School Mathematics 3(3-0-6)
+065211 EDMA 211 Measurement in School Mathematics 3(3-0-6)
+065212 EDMA 212 Algebra in School Mathematics 3(3-0-6)
+065310 EDMA 310 Geometry in School Mathematics 3(3-0-6)
+065311 EDMA 311 Probability and Statistics in School Mathematics 3(3-0-6)
+065334 EDMA 334 Mathematical Problem Solving for Teachers 3(3-0-6)
+065420 EDMA 420 Mathematical Thinking at the School Level 3(3-0-6)
+065421 EDMA 421 Mathematical Skills and Processes 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+2) Electives Courses : a minimum of 12
+A minimum of 9 credits in major elective courses at 300 level
+065320 EDMA 320 History of Mathematics for Teachers 3(3-0-6)
+065410 EDMA 410 Calculus in School Mathematics 3(3-0-6)
+065411 EDMA 411 Connection between University Mathematics and School Mathematics 3(3-0-6)
+206207 MATH 207 Solid Analytic Geometry 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206216 MATH 216 Introduction to Mathematical Logic 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206311 MATH 311 Axiomatic Set Theory 3(3-0-6)
+206312 MATH 312 Introduction to Foundation of Geometry 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206327 MATH 327 Theory of Numbers 1 3(3-0-6)
+206328 MATH 328 Theory of Equations 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206336 MATH 336 Real analysis 1 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+206412 MATH 412 Topology 3(3-0-6)
+206421 MATH 421 Abstract Algebra 3(3-0-6)
+206423 MATH 423 Wavelets 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206437 MATH 437 Complex Variables 3(3-0-6)
+206446 MATH 446 Differential Geometry 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+2.2.2 Educational Courses : a minimum of 17
+1) Required Courses 11
+065122 EDMA 122 Learning Mathematics in the 21st Century 2(2-0-4)
+065123 EDMA 123 Fundamental Concepts in Mathematics Learning Provision 3(3-0-6)
+065335 EDMA 335 Organizing Mathematics Learning in School 3(3-0-6)
+065437 EDMA 437 Innovation and Technology for Teaching Mathematics 3(3-0-6)
+2) Electives Courses : a minimum of 6
+Select from the followings
+065322 EDMA 322 English for Mathematics Teachers 3(3-0-6)
+065434 EDMA 434 Analyzing Problems in the Mathematics Classroom 3(3-0-6)
+065435 EDMA 435 Independent Study in Mathematics Education 3
+065436 EDMA 436 Mathematical Instruction Media 3(3-0-6)
+065438 EDMA 438 Integrated Mathematics Learning Management 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence,the total credits for the whole curriculum is
+increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 138
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+GE : Innovative Co-creator (Elective Courses) 3
+Total 19
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+065122 EDMA 122 Learning Mathematics in the 21st Century 2(2-0-4)
+065123 EDMA 123 Fundamental Concepts in Mathematics Learning Provision 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+065210 EDMA 210 Numbers and Operations in School Mathematics 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+GE : Active Citizen (Elective Courses) 3
+Total 20
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+065211 EDMA 211 Measurement in School Mathematics 3(3-0-6)
+065212 EDMA 212 Algebra in School Mathematics 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+Elective Core Course 2
+Academic Content Courses (Elective Courses) 3
+Total 18
+Third Year
+First Semester Credits
+065310 EDMA 310 Geometry in School Mathematics 3(3-0-6)
+065335 EDMA 335 Organizing Mathematics Learning in School 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+Academic Content Courses (Elective Courses) 9
+Total 20
+Second Semester Credits
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+065311 EDMA 311 Probability and Statistics in School Mathematics 3(3-0-6)
+065334 EDMA 334 Mathematical Problem Solving for Teachers 3(3-0-6)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+Free Electives 3
+Total 18
+Fourth Year
+First Semester Credits
+065420 EDMA 420 Mathematical Thinking at the School Level 3(3-0-6)
+065421 EDMA 421 Mathematical Skills and Processes 3(3-0-6)
+065437 EDMA 437 Innovation and Technology for Teaching Mathematics 3(3-0-6)
+Educational Courses (Elective Courses) 6
+Free Electives 3
+Total 18
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

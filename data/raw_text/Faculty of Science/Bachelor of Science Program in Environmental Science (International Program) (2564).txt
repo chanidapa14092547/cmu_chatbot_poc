@@ -1,0 +1,322 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25620041100194
+Bachelor of Science Program in Environmental Science
+(International Program) (2564)
+Name of the degree
+Full : Bachelor of Science (Environmental Science) (International Program)
+Abbreviation : B.S. (Environmental Science) (International Program)
+Curriculum structure
+Regular Plan
+1. General Education 30
+1.1 Learner Person 15
+Case 1: Students who are Thai citizen or other nationality whose English is not their first language must take the
+following English courses.
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+Case 2 : Students of other nationality whose English is their first language must take the following courses.
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+And, select at least 12 credits from any Language and Communication courses offered in Chiang Mai University.
+1.2 Innovative Co-creator 6
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+205100 GEOL 100 The Earth and its Geological Processes 3(3-0-6)
+1.3 Active Citizen 9
+140104 PG 104 Citizenship 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+Note: Students can take any general education courses offered by either Thai or foreign higher education institutes. The
+credits can be transferred for general education courses specified in the program with the approval of the department.
+2. Field of Specialization : a minimum of 102
+2.1 Core Courses 29
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+or 206111 MATH 111 Calculus 1 3(3-0-6)
+206265 MATH 265 Mathematical Methods for Environmental Science 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+2.2 Major : a minimum of 73
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400) of which at least 18 credits must be from the 400 level courses or upper.
+2.2.1 Requirements 61
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+208265 STAT 265 Environmental Statistics 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+213201 ES 201 Principles of Environmental Science 3(3-0-6)
+213202 ES 202 Environmental Analytical Chemistry 4(3-3-6)
+213211 ES 211 Environmental Safety and Ethics 1(1-0-2)
+213222 ES 222 Environmental Ecology 3(2-3-4)
+213302 ES 302 Applications of GIS in Environmental Science 3(2-3-4)
+213311 ES 311 Introduction to Environmental Standards, Law and Regulations 3(3-0-6)
+213312 ES 312 Clean Technology and Life Cycle Assessment 3(3-0-6)
+213322 ES 322 Concepts of Environmental Microbiology 3(2-3-4)
+213331 ES 331 Water Pollution and Wastewater Treatment 3(2-3-4)
+213341 ES 341 Soil and Groundwater Pollution 3(2-3-4)
+213351 ES 351 Air Pollution 3(2-3-4)
+213362 ES 362 Sustainable Municipal Waste Management 3(3-0-6)
+213371 ES 371 Environmental Remediation Technology 3(3-0-6)
+213411 ES 411 Environmental, Social and Health Risk and Impact Assessment 3(3-0-6)
+213490 ES 490 Apprenticeship 2(0-10-
+0)
+213495 ES 495 Seminar in Environmental Science 1(1-0-2)
+213499 ES 499 Special Problems 3(0-9-0)
+361210 SOIL 210 Introduction to Soil Science and Natural Resources Management 2(2-0-4)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+2.2.2 Major Electives : a minimum of 12
+And, choose any courses from the following list for at least 12 credits:
+202473 BIOL 473 Water Pollution Biology 3(2-3-4)
+202475 BIOL 475 Environmental Toxicology 3(3-0-6)
+205472 GEOL 472 Environmental Geology 3(3-0-6)
+213441 ES 441 Contaminated Site Characterization 3(3-0-6)
+213451 ES 451 Climate Change and Climate System Modeling 3(3-0-6)
+213461 ES 461 Toxicology and Management of Hazardous and Industrial Wastes 3(3-0-6)
+213480 ES 480 Introduction to Environmental Modeling 3(3-0-6)
+213481 ES 481 Field Trip in Environmental Science 3(0-9-0)
+213496 ES 496 Selected Topics in Environmental Science 3(3-0-6)
+253432 ENV 432 Noise and Vibration Control 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+3. Free Electives : a minimum of 6
+At least 6 credits of elective courses, taken outside the major and minor (if any) fields, are required.
+Total : a minimum of 138
+Cooperative Education Plan
+1. General Education 30
+1.1 Learner Person 15
+Case 1: Students who are Thai citizen or other nationality whose English is not their first language must take the
+following English courses.
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+Case 2 : Students of other nationality whose English is their first language must take the following courses.
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+And, select at least 12 credits from any Language and Communication courses offered in Chiang Mai University.
+1.2 Innovative Co-creator 6
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+205100 GEOL 100 The Earth and its Geological Processes 3(3-0-6)
+1.3 Active Citizen 9
+140104 PG 104 Citizenship 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+Note: Students can take any general education courses offered by either Thai or foreign higher education institutes. The
+credits can be transferred for general education courses specified in the program with the approval of the department.
+2. Field of Specialization : a minimum of 106
+2.1 Core Courses 29
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206108 MATH 108 Elementary Mathematics 3(3-0-6)
+or 206111 MATH 111 Calculus 1 3(3-0-6)
+206265 MATH 265 Mathematical Methods for Environmental Science 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+2.2 Major : a minimum of 77
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400) of which at least 18 credits must be from the 400 level courses or upper.
+2.2.1 Requirements 65
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+208265 STAT 265 Environmental Statistics 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+213201 ES 201 Principles of Environmental Science 3(3-0-6)
+213202 ES 202 Environmental Analytical Chemistry 4(3-3-6)
+213211 ES 211 Environmental Safety and Ethics 1(1-0-2)
+213222 ES 222 Environmental Ecology 3(2-3-4)
+213302 ES 302 Applications of GIS in Environmental Science 3(2-3-4)
+213311 ES 311 Introduction to Environmental Standards, Law and Regulations 3(3-0-6)
+213312 ES 312 Clean Technology and Life Cycle Assessment 3(3-0-6)
+213322 ES 322 Concepts of Environmental Microbiology 3(2-3-4)
+213331 ES 331 Water Pollution and Wastewater Treatment 3(2-3-4)
+213341 ES 341 Soil and Groundwater Pollution 3(2-3-4)
+213351 ES 351 Air Pollution 3(2-3-4)
+213362 ES 362 Sustainable Municipal Waste Management 3(3-0-6)
+213371 ES 371 Environmental Remediation Technology 3(3-0-6)
+213411 ES 411 Environmental, Social and Health Risk and Impact Assessment 3(3-0-6)
+213495 ES 495 Seminar in Environmental Science 1(1-0-2)
+213498 ES 498 Cooperative Education 6
+213499 ES 499 Special Problems 3(0-9-0)
+361210 SOIL 210 Introduction to Soil Science and Natural Resources Management 2(2-0-4)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+2.2.2 Major Electives : a minimum of 12
+And, choose any courses from the following list for at least 12 credits:
+202473 BIOL 473 Water Pollution Biology 3(2-3-4)
+202475 BIOL 475 Environmental Toxicology 3(3-0-6)
+205472 GEOL 472 Environmental Geology 3(3-0-6)
+213441 ES 441 Contaminated Site Characterization 3(3-0-6)
+213451 ES 451 Climate Change and Climate System Modeling 3(3-0-6)
+213461 ES 461 Toxicology and Management of Hazardous and Industrial Wastes 3(3-0-6)
+213480 ES 480 Introduction to Environmental Modeling 3(3-0-6)
+213481 ES 481 Field Trip in Environmental Science 3(0-9-0)
+213496 ES 496 Selected Topics in Environmental Science 3(3-0-6)
+253432 ENV 432 Noise and Vibration Control 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+3. Free Electives : a minimum of 6
+At least 6 credits of elective courses, taken outside the major and minor (if any) fields, are required.
+Total : a minimum of 142
+Study plan
+Regular Plan
+First Year
+First Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Learner Person: Language & Communication 3
+Total 20
+Second Semester Credits
+140104 PG 104 Citizenship 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+Learner Person: Language & Communication 3
+Total 21
+Second Year
+First Semester Credits
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+205100 GEOL 100 The Earth and its Geological Processes 3(3-0-6)
+208265 STAT 265 Environmental Statistics 3(3-0-6)
+213201 ES 201 Principles of Environmental Science 3(3-0-6)
+361210 SOIL 210 Introduction to Soil Science and Natural Resources Management 2(2-0-4)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+Learner Person: Language & Communication 3
+Total 19
+Second Semester Credits
+206265 MATH 265 Mathematical Methods for Environmental Science 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+213202 ES 202 Environmental Analytical Chemistry 4(3-3-6)
+213211 ES 211 Environmental Safety and Ethics 1(1-0-2)
+213222 ES 222 Environmental Ecology 3(2-3-4)
+Learner Person: Language & Communication 3
+Total 18
+Third Year
+First Semester Credits
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+213311 ES 311 Introduction to Environmental Standards, Law and Regulations 3(3-0-6)
+213322 ES 322 Concepts of Environmental Microbiology 3(2-3-4)
+213331 ES 331 Water Pollution and Wastewater Treatment 3(2-3-4)
+213341 ES 341 Soil and Groundwater Pollution 3(2-3-4)
+Free Elective 3
+Total 18
+Second Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+213302 ES 302 Applications of GIS in Environmental Science 3(2-3-4)
+213312 ES 312 Clean Technology and Life Cycle Assessment 3(3-0-6)
+213351 ES 351 Air Pollution 3(2-3-4)
+213362 ES 362 Sustainable Municipal Waste Management 3(3-0-6)
+213371 ES 371 Environmental Remediation Technology 3(3-0-6)
+Total 18
+Fourth Year
+First Semester Credits
+213411 ES 411 Environmental, Social and Health Risk and Impact Assessment 3(3-0-6)
+213490 ES 490 Apprenticeship 2(0-10-0)
+213495 ES 495 Seminar in Environmental Science 1(1-0-2)
+Major Electives 6
+Free Elective 3
+Total 15
+Second Semester Credits
+213499 ES 499 Special Problems 3(0-9-0)
+Major Electives 6
+Total 9
+Cooperative Education Plan
+First Year
+First Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Learner Person: Language & Communication 3
+Total 20
+Second Semester Credits
+140104 PG 104 Citizenship 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+Learner Person: Language & Communication 3
+Total 21
+Second Year
+First Semester Credits
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+205100 GEOL 100 The Earth and its Geological Processes 3(3-0-6)
+208265 STAT 265 Environmental Statistics 3(3-0-6)
+213201 ES 201 Principles of Environmental Science 3(3-0-6)
+361210 SOIL 210 Introduction to Soil Science and Natural Resources Management 2(2-0-4)
+361214 SOIL 214 Soil Science Laboratory 1(0-3-0)
+Learner Person: Language & Communication 3
+Total 19
+Second Semester Credits
+206265 MATH 265 Mathematical Methods for Environmental Science 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+213202 ES 202 Environmental Analytical Chemistry 4(3-3-6)
+213211 ES 211 Environmental Safety and Ethics 1(1-0-2)
+213222 ES 222 Environmental Ecology 3(2-3-4)
+Learner Person: Language & Communication 3
+Total 18
+Third Year
+First Semester Credits
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+213311 ES 311 Introduction to Environmental Standards, Law and Regulations 3(3-0-6)
+213322 ES 322 Concepts of Environmental Microbiology 3(2-3-4)
+213331 ES 331 Water Pollution and Wastewater Treatment 3(2-3-4)
+213341 ES 341 Soil and Groundwater Pollution 3(2-3-4)
+Free Elective 3
+Total 18
+Second Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+213302 ES 302 Applications of GIS in Environmental Science 3(2-3-4)
+213312 ES 312 Clean Technology and Life Cycle Assessment 3(3-0-6)
+213351 ES 351 Air Pollution 3(2-3-4)
+213362 ES 362 Sustainable Municipal Waste Management 3(3-0-6)
+213371 ES 371 Environmental Remediation Technology 3(3-0-6)
+Total 18
+Fourth Year
+First Semester Credits
+213411 ES 411 Environmental, Social and Health Risk and Impact Assessment 3(3-0-6)
+213495 ES 495 Seminar in Environmental Science 1(1-0-2)
+213499 ES 499 Special Problems 3(0-9-0)
+Major Electives 12
+Free Elective 3
+Total 22
+Second Semester Credits
+213498 ES 498 Cooperative Education 6
+Total 6

@@ -1,0 +1,228 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25400041100807
+Bachelor of Education Program in Elementary Education (2567)
+Name of the degree
+Full : Bachelor of Education (Elementary Education)
+Abbreviation : B.Ed. (Elementary Education)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+057133 EDPE 133 Recreation for Quality of Life 2(2-0-4)
+057136 EDPE 136 Sport, Health, Fitness and Wellness Development 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+510100 AMS 100 Wellness 3(2-3-4)
+601201 FST 201 Principles of Food Processing and Preservation 3(3-0-6)
+610113 AG 113 Processed Food in Daily Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective Courses 3
+Choose one course from the followings :
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+050112 HUGE 112 Reading Human Through Literature 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201110 SC 110 Integrated Mathematical Sciences 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+602103 BIOT 103 Agro-Industry and Quality of Life 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+057132 EDPE 132 Happy Life in Camping 2(2-0-4)
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+109114 FAGE 114 Art in Everyday Life 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+201192 SC 192 Doi Suthep Study 1(0-3-0)
+259108 ENGR 108 Electricity in Everyday Life 3(3-0-6)
+357110 ENT 110 Insects and Mankind 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization : a minimum of 99
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Electives Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 62
+A minimum of 36 credits in major courses at 300 level and among these must be a minimum of 18 credits in 400 level.
+2.2.1 Academic Content Courses : a minimum of 36
+052111 EDEL 111 Dynamics of Elementary Education for Sustainable Development 3(3-0-6)
+052113 EDEL 113 Curriculum of Elementary Education Management 3(3-0-6)
+052361 EDEL 361 Thai Language for Competency Development of Elementary Students 3(3-0-6)
+052362 EDEL 362 Mathematics for Competency Development of Elementary Students 3(3-0-6)
+052363 EDEL 363 Science for Competency Development of Elementary Students 3(3-0-6)
+052364 EDEL 364 English for Competency Development of Elementary Students 3(3-0-6)
+052365 EDEL 365 Social Studies for Competency Development of Elementary Students 3(3-0-6)
+052481 EDEL 481 Methodology of Thai Language Learning for Competency Development of Elementary 3(3-0-6)
+Students
+052482 EDEL 482 Methodology of Mathematics Learning for Competency Development of Elementary 3(3-0-6)
+Students
+052483 EDEL 483 Methodology of Science Learning for Competency Development of Elementary Students 3(3-0-6)
+052484 EDEL 484 Methodology of English Learning for Competency Development of Elementary Students 3(3-0-6)
+052485 EDEL 485 Methodology of Social Studies Learning for Competency Development of Elementary 3(3-0-6)
+Students
+2.2.2 Educational Courses : a minimum of 26
+1) Required Courses 6
+052112 EDEL 112 Development and Learning of Elementary Education Students 3(3-0-6)
+052244 EDEL 244 Integration of Area-based and Transdisciplinary Learning Management at Elementary 3(3-0-6)
+Education Level
+2) Electives Courses : a minimum of 20
+Select from the followings:
+052241 EDEL 241 Elementary Classroom Management in Digital Era 3(3-0-6)
+052242 EDEL 242 Creative Communication Strategies for Elementary Education Teachers 2(2-0-4)
+052243 EDEL 243 Activities for Competency Development of Elementary Students 2(2-0-4)
+052245 EDEL 245 Transformative Teachers of Elementary Education 3(3-0-6)
+052246 EDEL 246 Educational Innovation Design for Elementary Education Students 3(3-0-6)
+052247 EDEL 247 Development of Higher Order Thinking Skills for Elementary Education Students 3(3-0-6)
+052366 EDEL 366 Life and Career Skills for Competency Development of Elementary Students 3(3-0-6)
+052367 EDEL 367 Health and Physical Education for Competency Development of Elementary Students 3(3-0-6)
+052368 EDEL 368 Aesthetics for Competency Development of Elementary Students 3(3-0-6)
+052486 EDEL 486 Methodology of Career Learning for Competency Development of Elementary Students 3(3-0-6)
+052487 EDEL 487 Methodology of Health and Physical Education Learning for Competency Development 3(3-0-6)
+of Elementary Students
+052488 EDEL 488 Methodology of Aesthetics Learning for Competency Development of Elementary 3(3-0-6)
+Students
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 135
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+052111 EDEL 111 Dynamics of Elementary Education for Sustainable Development 3(3-0-6)
+052113 EDEL 113 Curriculum of Elementary Education Management 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+GE : Innovative Co-creator (Elective Courses) 3
+GE : Active Citizen (Elective Courses) 3
+Total 22
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+052112 EDEL 112 Development and Learning of Elementary Education Students 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+Major Educational Courses (Elective Courses) 3
+Total 20
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+052244 EDEL 244 Integration of Area-based and Transdisciplinary Learning Management at Elementary 3(3-0-6)
+Education Level
+052365 EDEL 365 Social Studies for Competency Development of Elementary Students 3(3-0-6)
+052485 EDEL 485 Methodology of Social Studies Learning for Competency Development of Elementary 3(3-0-6)
+Students
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+Elective Core Course 2
+Total 21
+Second Semester Credits
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+052362 EDEL 362 Mathematics for Competency Development of Elementary Students 3(3-0-6)
+052482 EDEL 482 Methodology of Mathematics Learning for Competency Development of Elementary 3(3-0-6)
+Students
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+Major Educational Courses (Elective Courses) 5
+Total 19
+Third Year
+First Semester Credits
+052363 EDEL 363 Science for Competency Development of Elementary Students 3(3-0-6)
+052483 EDEL 483 Methodology of Science Learning for Competency Development of Elementary 3(3-0-6)
+Students
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+Major Educational Courses (Elective Courses) 6
+Total 16
+Second Semester Credits
+052364 EDEL 364 English for Competency Development of Elementary Students 3(3-0-6)
+052484 EDEL 484 Methodology of English Learning for Competency Development of Elementary Students 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+Major Educational Courses (Elective Courses) 3
+Total 16
+Fourth Year
+First Semester Credits
+052361 EDEL 361 Thai Language for Competency Development of Elementary Students 3(3-0-6)
+052481 EDEL 481 Methodology of Thai Language Learning for Competency Development of Elementary 3(3-0-6)
+Students
+Major Educational Courses (Elective Courses) 3
+Free Electives 6
+Total 15
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

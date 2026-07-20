@@ -1,0 +1,226 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25470041103628
+Bachelor of Education Program in Chemistry (2567)
+Name of the degree
+Full : ศึกษาศาสตรบณั ฑิต (เคมี)
+Abbreviation : B.Ed. (Chemistry)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Elective courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+203100 CHEM 100 Chemistry in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective courses 3
+Choose one course from the followings :
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective courses 3
+Choose one course from the followings :
+012200 RE 200 Mind Volunteer 3(2-2-5)
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+(2) Field of Specialization : a minimum of 108
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Elective Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 71
+A minimum of 36 credits in major courses at 300 level and among these must be a minimum of 18 credits in 400 level.
+2.2.1 Academic Content Courses : a minimum of 56
+1) Required Courses 45
+064211 EDSC 211 Design and Organize Chemistry Learning in Basic Education Curriculum 1 3(3-0-6)
+064212 EDSC 212 Design and Organize Chemistry Learning in Basic Education Curriculum 2 3(3-0-6)
+064213 EDSC 213 Design and Organize Chemistry Learning in Basic Education Curriculum 3 3(3-0-6)
+064443 EDSC 443 Equipment, Chemicals and Experiment in Chemistry Laboratory for Teachers 3(3-0-6)
+064444 EDSC 444 Ethics of Science and Technology for Professional Teachers 3(2-2-5)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+203201 CHEM 201 Organic Chemistry 1 3(3-0-6)
+203202 CHEM 202 Organic Chemistry 2 3(3-0-6)
+203211 CHEM 211 Fundamental Inorganic Chemistry 2(2-0-4)
+203226 CHEM 226 Physical Chemistry for Non-Chemistry Students 3(3-0-6)
+203229 CHEM 229 Physical Chemistry Laboratory 1(0-3-0)
+203231 CHEM 231 Fundamental Analytical Chemistry 3(3-0-6)
+203241 CHEM 241 Organic Chemistry Laboratory 1 1(0-3-0)
+203242 CHEM 242 Organic Chemistry Laboratory 2 1(0-3-0)
+203286 CHEM 286 Analytical Chemistry Laboratory 1 1(0-3-0)
+203315 CHEM 315 Symmetry and Bonding 2(2-0-4)
+203352 CHEM 352 Safety in the Chemistry Laboratory 2(2-0-4)
+2) Electives Courses : a minimum of 11
+Select from the followings and among these must be a minimum of 10 credits in 400 level.
+064445 EDSC 445 Applying Learning Materials to Develop Conceptual Understanding in Chemistry 3(2-3-4)
+064446 EDSC 446 Chemistry Project for Teachers in Digital Era 3(2-2-5)
+064447 EDSC 447 Research and Innovation for Sustainable Chemistry Learning 3(2-2-6)
+203300 CHEM 300 Basic Skills and Ethics in Science 2(2-0-4)
+203303 CHEM 303 Organic Spectroscopy 3(3-0-6)
+203308 CHEM 308 Organic Chemistry Laboratory 3 1(0-3-0)
+203316 CHEM 316 Coordination and Organometallic Chemistry 2(2-0-4)
+203318 CHEM 318 Inorganic Chemistry Laboratory 1(0-3-0)
+203332 CHEM 332 Chromatographic Analysis 2(2-0-4)
+203351 CHEM 351 Glass Blowing 2(1-3-2)
+203405 CHEM 405 Natural Product Chemistry 2(2-0-4)
+203413 CHEM 413 Inorganic Spectroscopy 2(2-0-4)
+203414 CHEM 414 Physical Methods in Inorganic Chemistry 2(2-0-4)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+211412 BCT 412 Bioenergetics and Health 3(3-0-6)
+211414 BCT 414 Gene and Protein Technology 3(3-0-6)
+211415 BCT 415 Carbohydrate and Lipid Technology 3(3-0-6)
+211421 BCT 421 Modern Biomedical Technology 3(3-0-6)
+211422 BCT 422 Food and Agricultural Biochemical Innovation 3(3-0-6)
+211423 BCT 423 Bioenergy Technology and Environment 3(3-0-6)
+211445 BCT 445 Flavor and Fragrance 3(3-0-6)
+211451 BCT 451 Complex Problem Solving in Bioscience 1(1-0-2)
+211452 BCT 452 Bioinnovation and Enterprises 3(3-0-6)
+2.2.2 Educational Courses : a minimum of 15
+1) Required Courses 6
+064430 EDSC 430 Principles and Teaching Methods in Science 3(3-0-6)
+064442 EDSC 442 Technological Pedagogical Content Knowledge in Chemistry Strand 3(2-3-4)
+2) Electives Courses : a minimum of 9
+064415 EDSC 415 Activities to Promote Science Attitude 3(2-3-0)
+064416 EDSC 416 Extra Activities to Enrich Science Strands 3(2-3-4)
+064421 EDSC 421 Instruction of Environmental Science in Schools 3(3-0-6)
+064422 EDSC 422 Science Communication 3(3-0-6)
+064423 EDSC 423 Local Wisdom Related to Science 3(2-3-4)
+064424 EDSC 424 Astronomical Learning Management 3(3-0-6)
+064429 EDSC 429 Independent Study in Science Education 3(3-0-6)
+064431 EDSC 431 General Science Instruction for Secondary Level Teachers 3(2-3-4)
+064433 EDSC 433 Teaching of Science and Technology Related to Society 3(3-0-6)
+064434 EDSC 434 Additional Science Course Design 3(3-0-6)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 144
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+GE : Learner Person (Elective Courses) 3
+GE : Active Citizen (Elective Courses) 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+064211 EDSC 211 Design and Organize Chemistry Learning in Basic Education Curriculum 1 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+203113 CHEM 113 Chemistry 2 3(3-0-6)
+203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+064212 EDSC 212 Design and Organize Chemistry Learning in Basic Education Curriculum 2 3(3-0-6)
+064430 EDSC 430 Principles and Teaching Methods in Science 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+203201 CHEM 201 Organic Chemistry 1 3(3-0-6)
+203241 CHEM 241 Organic Chemistry Laboratory 1 1(0-3-0)
+Total 21
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+064213 EDSC 213 Design and Organize Chemistry Learning in Basic Education Curriculum 3 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+203202 CHEM 202 Organic Chemistry 2 3(3-0-6)
+203211 CHEM 211 Fundamental Inorganic Chemistry 2(2-0-4)
+203242 CHEM 242 Organic Chemistry Laboratory 2 1(0-3-0)
+Elective Core Course 2
+Academic Content Courses (Elective Courses) 2
+Total 20
+Third Year
+First Semester Credits
+064443 EDSC 443 Equipment, Chemicals and Experiment in Chemistry Laboratory for Teachers 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+203231 CHEM 231 Fundamental Analytical Chemistry 3(3-0-6)
+203286 CHEM 286 Analytical Chemistry Laboratory 1 1(0-3-0)
+203315 CHEM 315 Symmetry and Bonding 2(2-0-4)
+203352 CHEM 352 Safety in the Chemistry Laboratory 2(2-0-4)
+Free Electives 3
+Total 19
+Second Semester Credits
+064442 EDSC 442 Technological Pedagogical Content Knowledge in Chemistry Strand 3(2-3-4)
+064444 EDSC 444 Ethics of Science and Technology for Professional Teachers 3(2-2-5)
+203226 CHEM 226 Physical Chemistry for Non-Chemistry Students 3(3-0-6)
+203229 CHEM 229 Physical Chemistry Laboratory 1(0-3-0)
+Academic Content Courses (Elective Courses) 6
+Free Electives 3
+Total 19
+Fourth Year
+First Semester Credits
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+GE : Innovative Co-creator (Elective Courses) 3
+Educational Courses (Elective Courses) 9
+Academic Content Courses (Elective Courses) 3
+Total 21
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

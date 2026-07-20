@@ -1,0 +1,194 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25260041100058
+Bachelor of Fine Arts Program in Painting (2568)
+Name of the degree
+Full : Bachelor of Fine Arts (Painting)
+Abbreviation : B.F.A. (Painting)
+Curriculum structure
+(1) General Education 24
+Required Courses 15
+1.1 Language Literacy 9
+For students who have not achieved a B1 level or equivalent on the e-Pro test
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test
+1. Required Courses 3
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+2. Elective Course 6
+choose two course from the following:
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001233 ENGL 233 English for Standardized Tests 3(3-0-6)
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001243 ENGL 243 Basics of Effective Essay Writing 3(3-0-6)
+001244 ENGL 244 English Language, Culture, and Mind 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001246 ENGL 246 English Language in the Hotel Industry 3(3-0-6)
+001247 ENGL 247 English for Tour Guides and Travel Agents 3(3-0-6)
+001248 ENGL 248 English for Airline Services and Operations 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+955202 ATGE 202 Critical Reading and Effective Writing for Digital Workforce 3(3-0-6)
+955203 ATGE 203 English for Digital Technology System Developer 3(3-0-6)
+1.2 Digital Literacy 3
+choose one course from the following:
+204100 CS 100 Artificial Intelligence and Digital Essentials 3(3-0-6)
+261111 CPE 111 Internet and Online Community in the Age of AI 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+1.3 Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+Elective Course 9
+2.1 Creativity and Innovation 3
+choose one course from the following:
+201116 SC 116 Science and Global Warming 3(3-0-6)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+2.2 Entrepreneurial Skills 3
+choose one course from the following:
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+2.3 Digital Literacy or Global Citizen or Artificial Intelligence 3
+choose one course from the following:
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+011157 PHIL 157 Social Philosophy 3(3-0-6)
+011159 PHIL 159 Philosophy of Life, Society and Environment 3(3-0-6)
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+050113 HUGE 113 Locality in Globalization 3(3-0-6)
+109100 FAGE 100 Man and Art 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+357101 ENT 101 Household Insects and Garden Pests 3(3-0-6)
+802100 LAAR 100 Landscape Architecture in Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955114 ATGE 114 Generative Artificial Intelligence for Arts and Design 3(3-0-6)
+(2) Field of Specialization : a minimum of 105
+2.1 Core Courses 27
+101114 CART 114 Fundamental Drawing 3(1-4-4)
+101115 CART 115 Academic Drawing 3(1-4-4)
+101201 CART 201 Western Art History 3(3-0-6)
+101202 CART 202 20th Century Art 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+101221 CART 221 Art Composition 3(3-0-6)
+101325 CART 325 Aesthetics 3(3-0-6)
+101490 CART 490 Art Criticism 3(3-0-6)
+105102 PART 102 Contemporary Art Theory 3(3-0-6)
+2.2 Major : a minimum of 63
+2.2.1 Required Major course 54
+105100 PART 100 Fundamental Painting 3(1-6-2)
+105101 PART 101 Still-Life Painting 3(1-6-2)
+105203 PART 203 Figure Painting 3(1-6-2)
+105204 PART 204 Landscape Painting 3(1-6-2)
+105250 PART 250 Basic Software for Visual Art Practice 3(1-4-4)
+105252 PART 252 Field Studies on the Profession of Art 3(2-2-5)
+105253 PART 253 Research Methodology of Visual Art 3(3-0-6)
+105304 PART 304 Contemporary Art 3(3-0-6)
+105351 PART 351 Individual Painting 1 3(0-6-0)
+105352 PART 352 Individual Painting 2 3(0-6-0)
+105353 PART 353 Individual Painting 3 3(0-6-0)
+105400 PART 400 Art Practice Management 3(1-4-4)
+105444 PART 444 Seminar in Painting 3(3-0-6)
+105454 PART 454 Individual Painting 4 6(0-18-
+0)
+105455 PART 455 Thesis in Painting 9
+2.2.2 Major Electives : a minimum of 9
+In the case where students choose to study an elective major, Choose to study 112201 Basic Web Design and form the
+following courses, not less than six credits.
+112201 MAAD 201 Fundamental Web Design 3(1-4-4)
+101400 CART 400 Art Philosophy 3(3-0-6)
+104320 TART 320 Lanna Environment and Culture 3(3-0-6)
+104325 TART 325 Folk Art of Lanna 3(3-0-6)
+104327 TART 327 Decorative Stucco and Woodcarving in Lanna 3(2-2-5)
+105230 PART 230 Materials and Special Techniques in Painting 3(1-4-4)
+105251 PART 251 Psychology of Art 3(3-0-6)
+105305 PART 305 Context in Art 3(3-0-6)
+105332 PART 332 Nude Painting 3(1-4-4)
+105333 PART 333 Seascape Painting 3(1-4-4)
+105334 PART 334 Abstract Painting 3(1-4-4)
+105335 PART 335 Mixed-Media Art 3(1-4-4)
+105336 PART 336 Art and Environment 3(1-4-4)
+105337 PART 337 Performance Art 3(1-4-4)
+105343 PART 343 Painting and Anthropology Approach 3(1-4-4)
+110120 DESN 120 Two Dimensional Computer Design 3(1-4-4)
+2.3 Minor (if any) : a minimum of 15
+............................................................................. .............................................................................
+3. Free Electives : a minimum of 6
+Total : a minimum of 135
+Study plan
+First Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+001222 ENGL 222 English for Fine Arts -(3-0-6)
+101114 CART 114 Fundamental Drawing 3(1-4-4)
+101221 CART 221 Art Composition 3(3-0-6)
+105100 PART 100 Fundamental Painting 3(1-6-2)
+140104 PG 104 Citizenship 3(3-0-6)
+Total 15
+Second Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Language Literacy (Elective) -
+101115 CART 115 Academic Drawing 3(1-4-4)
+105101 PART 101 Still-Life Painting 3(1-6-2)
+105102 PART 102 Contemporary Art Theory 3(3-0-6)
+105250 PART 250 Basic Software for Visual Art Practice 3(1-4-4)
+Required Course (Digital Literacy) 3
+Total 18
+Second Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001222 ENGL 222 English for Fine Arts -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Language Literacy (Elective) -
+101201 CART 201 Western Art History 3(3-0-6)
+105203 PART 203 Figure Painting 3(1-6-2)
+105252 PART 252 Field Studies on the Profession of Art 3(2-2-5)
+112201 MAAD 201 Fundamental Web Design 3(1-4-4)
+Elective Course (Creativity and Innovation) 3
+Elective Course (Entrepreneurial Skills) 3
+Total 21
+Second Semester Credits
+101202 CART 202 20th Century Art 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+105204 PART 204 Landscape Painting 3(1-6-2)
+105253 PART 253 Research Methodology of Visual Art 3(3-0-6)
+105351 PART 351 Individual Painting 1 3(0-6-0)
+Major Elective or Minor (2) 3
+Elective Course (Digital Literacy or Global Citizen or Artificial Intelligence) 3
+Total 21
+Third Year
+First Semester Credits
+105304 PART 304 Contemporary Art 3(3-0-6)
+105352 PART 352 Individual Painting 2 3(0-6-0)
+Major Elective or Minor (3) 3
+Major Elective 3
+Major Elective 3
+Free elective (1) 3
+Total 18
+Second Semester Credits
+101325 CART 325 Aesthetics 3(3-0-6)
+101490 CART 490 Art Criticism 3(3-0-6)
+105353 PART 353 Individual Painting 3 3(0-6-0)
+105400 PART 400 Art Practice Management 3(1-4-4)
+Major Elective or Minor (4) 3
+Free elective (2) 3
+Total 18
+Fourth Year
+First Semester Credits
+105444 PART 444 Seminar in Painting 3(3-0-6)
+105454 PART 454 Individual Painting 4 6(0-18-0)
+Major Elective or Minor (5) 3
+Major Elective 3
+Total 15
+Second Semester Credits
+105455 PART 455 Thesis in Painting 9
+Total 9

@@ -1,0 +1,343 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25360041100105
+Bachelor of Science Program in Industrial Chemistry (2564)
+Name of the degree
+Full : Bachelor of Science (Industrial Chemistry)
+Abbreviation : B.S. (Industrial Chemistry)
+Curriculum structure
+(1) General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+Students must choose 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+011152 PHIL 152 Ethics for Good Quality of Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2.2 Innovative Co-creator
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+2. Field of Specialization
+Plan 1 General Industrial Chemistry : a minimum of 102
+Plan 2 Silicate Science and Technology : a minimum of 103
+2.1 Core Courses 29
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+203104 CHEM 104 General Chemistry 2 3(3-0-6)
+203107 CHEM 107 General Chemistry Laboratory 1 1(0-3-0)
+203108 CHEM 108 General Chemistry Laboratory 2 1(0-3-0)
+203235 CHEM 235 Analytical Chemistry 3(3-0-6)
+203288 CHEM 288 Analytical Chemistry Laboratory 1(0-3-0)
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206115 MATH 115 Calculus for Natural Sciences 1 3(2-2-5)
+206116 MATH 116 Calculus for Natural Sciences 2 3(2-2-5)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+2.2 Major
+Plan 1 General Industrial Chemistry : a minimum of 73
+Plan 2 Silicate Science and Technology : a minimum of 74
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400) of which at least 18 credits must be from the 400 level courses.
+2.2.1 Major Requirement 41
+203222 CHEM 222 Physical Chemistry 1 3(3-0-6)
+203228 CHEM 228 Physical Chemistry Laboratory 1 1(0-3-0)
+203331 CHEM 331 Instrumental Methods of Chemical Analysis 3(3-0-6)
+203337 CHEM 337 Instrumental Methods of Chemical Analysis Laboratory 1(0-3-0)
+208346 STAT 346 Statistics for Industrial Chemistry 4(3-2-7)
+209201 IC 201 Chemical Stoichiometry 3(3-0-6)
+209251 IC 251 Introduction to Ceramics 2(2-0-4)
+209271 IC 271 Unit Operations of Industrial Chemistry 1 3(3-0-6)
+209272 IC 272 Unit Operations of Industrial Chemistry Laboratory 1 1(0-3-0)
+209301 IC 301 Industrial Process Chemistry 3(3-0-6)
+209302 IC 302 Industrial Process Chemistry Laboratory 1(0-3-0)
+209303 IC 303 Characterization of Industrial Materials 3(3-0-6)
+209498 IC 498 Seminar in Industrial Chemistry 1(1-0-2)
+253303 ENV 303 Environmental and Safety Management in Industry 3(3-0-6)
+255323 IE 323 Introduction to Quality Assurance 3(3-0-6)
+For regular plan, it is required to register IC 493 and IC 497.
+209493 IC 493 Industrial Chemistry Training 2(0-12-
+0)
+209497 IC 497 Special Problems in Industrial Chemistry 4(0-12-
+0)
+For cooperative education plan, it is required to register IC 494.
+209494 IC 494 Cooperative Education 6
+2.2.2 Major Elective Requirement
+Choose Plan 1 or Plan 2 as follows:
+Plan 1 General Industrial Chemistry 17
+203203 CHEM 203 Organic Chemistry 1 3(3-0-6)
+203207 CHEM 207 Organic Chemistry Laboratory 1 1(0-3-0)
+209270 IC 270 Transport Phenomena of Industrial Chemistry 3(3-0-6)
+209370 IC 370 Kinetic Chemistry and Chemical Reactor Design 3(3-0-6)
+209375 IC 375 Unit Operations of Industrial Chemistry 2 3(3-0-6)
+209376 IC 376 Unit Operations of Industrial Chemistry 3 3(3-0-6)
+209377 IC 377 Unit Operations of Industrial Chemistry Laboratory 2 1(0-3-0)
+Plan 2 Silicate Science and Technology 18
+209254 IC 254 Production of Conventional Ceramics in Industry 3(3-0-6)
+209351 IC 351 Silicate Science 1 2(2-0-4)
+209352 IC 352 Silicate Science 2 2(2-0-4)
+209358 IC 358 Drying and Firing Technology in Ceramic Processing 2(2-0-4)
+209361 IC 361 Silicate Science Laboratory 1 1(0-3-0)
+209362 IC 362 Silicate Science Laboratory 2 1(0-3-0)
+209368 IC 368 Drying and Firing Technology in Ceramic Processing Laboratory 1(0-3-0)
+209455 IC 455 Glaze Technology and Ceramic Pigment 2(2-0-4)
+209457 IC 457 Production Efficiency and Quality Enhancement of Ceramic Products 3(3-0-6)
+209465 IC 465 Glaze Technology and Ceramic Pigment Laboratory 1(0-3-0)
+2.2.3 Major Electives : a minimum of 15
+Choose from the followings
+110332 DESN 332 Product Design 3(2-2-5)
+203211 CHEM 211 Fundamental Inorganic Chemistry 2(2-0-4)
+203250 CHEM 250 Environmental Chemistry 3(3-0-6)
+203315 CHEM 315 Symmetry and Bonding 2(2-0-4)
+203316 CHEM 316 Coordination and Organometallic Chemistry 2(2-0-4)
+203318 CHEM 318 Inorganic Chemistry Laboratory 1(0-3-0)
+203323 CHEM 323 Physical Chemistry 3 2(2-0-4)
+203324 CHEM 324 Physical Chemistry 4 2(2-0-4)
+203327 CHEM 327 Physical Chemistry Laboratory 2 1(0-3-0)
+203471 CHEM 471 Properties and Characterization of Polymeric Materials 2(2-0-4)
+203474 CHEM 474 Reactions and Synthesis Methods of Polymers 2(2-0-4)
+203477 CHEM 477 Polymer Chemistry Laboratory 1 1(0-3-0)
+203478 CHEM 478 Polymer Chemistry Laboratory 2 2(0-6-0)
+206355 MATH 355 Numerical Method 3(3-0-6)
+208345 STAT 345 Statistical Quality Control 3(3-0-6)
+209203 IC 203 Introduction to Industrial Chemistry 3(3-0-6)
+209204 IC 204 Elementary Industrial Chemistry Laboratory 1(0-3-0)
+209206 IC 206 Chemical Process Safety and Chemical Management for Industrial Chemistry 3(3-0-6)
+209252 IC 252 Constructional and Technical Ceramics 2(2-0-4)
+209253 IC 253 Production of Pottery 2(2-0-4)
+209262 IC 262 Constructional and Technical Ceramics Laboratory 1(0-3-0)
+209263 IC 263 Pottery Laboratory 1(0-3-0)
+209331 IC 331 Fuel and Fuel Technology 3(3-0-6)
+209332 IC 332 Fuel Analysis Laboratory 1(0-3-0)
+209341 IC 341 Petrochemical Industry 3(3-0-6)
+209382 IC 382 Polymeric Materials 3(3-0-6)
+209403 IC 403 Adsorption Technology for Water and Wastewater Treatment 3(3-0-6)
+209404 IC 404 Circular Water Technology for Chemical Industry 3(3-0-6)
+209405 IC 405 Chemical Process Design and Green Chemistry 3(3-0-6)
+209406 IC 406 Problem-Solving for Industrial Chemistry Using Software Package 3(3-0-6)
+209422 IC 422 Metallurgical Chemistry 3(3-0-6)
+209424 IC 424 Corrosion and Corrosion Control 3(3-0-6)
+209442 IC 442 Heterogeneous Catalysis 3(3-0-6)
+209444 IC 444 Selected Topics in Petrochemicals and Petrochemical Technology 2(2-0-4)
+209451 IC 451 Silicate Technology 2(2-0-4)
+209452 IC 452 Advanced Ceramics 2(2-0-4)
+209453 IC 453 Refractory 2(2-0-4)
+209454 IC 454 Science and Technology of Cement 2(2-0-4)
+209456 IC 456 Glass and Enamel Technology 2(2-0-4)
+209461 IC 461 Silicate Technology Laboratory 1(0-3-0)
+209462 IC 462 Advanced Ceramics Laboratory 1(0-3-0)
+209463 IC 463 Refractory Laboratory 1(0-3-0)
+209464 IC 464 Science and Technology of Cement Laboratory 1(0-3-0)
+209466 IC 466 Glass and Enamel Technology Laboratory 1(0-3-0)
+209471 IC 471 Chemical Plant Design 3(3-0-6)
+209483 IC 483 Polymer Products Process Technology 3(3-0-6)
+209485 IC 485 Polymer Technology Laboratory 1(0-3-0)
+209486 IC 486 Textile Technology 3(3-0-6)
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+254181 ME 181 Engineering Drawing for Non-Engineering Majors 2(1-3-2)
+254383 ME 383 Energy Conservation 3(3-0-6)
+254483 ME 483 Energy Conversion Systems 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+751443 ECON 443 Industrial Economics 3(3-0-6)
+For cooperative education plan, students can choose from the following courses
+209493 IC 493 Industrial Chemistry Training 2(0-12-
+0)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total.
+3. Free Electives : a minimum of 6
+Total : a minimum of 138
+Study plan
+Plan 1 General Industrial Chemistry
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+203107 CHEM 107 General Chemistry Laboratory 1 1(0-3-0)
+206115 MATH 115 Calculus for Natural Sciences 1 3(2-2-5)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+203104 CHEM 104 General Chemistry 2 3(3-0-6)
+203108 CHEM 108 General Chemistry Laboratory 2 1(0-3-0)
+206116 MATH 116 Calculus for Natural Sciences 2 3(2-2-5)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+Free Elective 3
+Total 20
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+203203 CHEM 203 Organic Chemistry 1 3(3-0-6)
+203207 CHEM 207 Organic Chemistry Laboratory 1 1(0-3-0)
+203235 CHEM 235 Analytical Chemistry 3(3-0-6)
+203288 CHEM 288 Analytical Chemistry Laboratory 1(0-3-0)
+209201 IC 201 Chemical Stoichiometry 3(3-0-6)
+209251 IC 251 Introduction to Ceramics 2(2-0-4)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+Total 22
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+203222 CHEM 222 Physical Chemistry 1 3(3-0-6)
+203228 CHEM 228 Physical Chemistry Laboratory 1 1(0-3-0)
+209270 IC 270 Transport Phenomena of Industrial Chemistry 3(3-0-6)
+209271 IC 271 Unit Operations of Industrial Chemistry 1 3(3-0-6)
+209272 IC 272 Unit Operations of Industrial Chemistry Laboratory 1 1(0-3-0)
+Major Elective 3
+Free Elective 3
+Total 20
+Third Year
+First Semester Credits
+203331 CHEM 331 Instrumental Methods of Chemical Analysis 3(3-0-6)
+203337 CHEM 337 Instrumental Methods of Chemical Analysis Laboratory 1(0-3-0)
+209301 IC 301 Industrial Process Chemistry 3(3-0-6)
+209302 IC 302 Industrial Process Chemistry Laboratory 1(0-3-0)
+209303 IC 303 Characterization of Industrial Materials 3(3-0-6)
+209375 IC 375 Unit Operations of Industrial Chemistry 2 3(3-0-6)
+253303 ENV 303 Environmental and Safety Management in Industry 3(3-0-6)
+Total 17
+Second Semester Credits
+General Education Electives 3
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+208346 STAT 346 Statistics for Industrial Chemistry 4(3-2-7)
+209370 IC 370 Kinetic Chemistry and Chemical Reactor Design 3(3-0-6)
+209376 IC 376 Unit Operations of Industrial Chemistry 3 3(3-0-6)
+209377 IC 377 Unit Operations of Industrial Chemistry Laboratory 2 1(0-3-0)
+255323 IE 323 Introduction to Quality Assurance 3(3-0-6)
+Total 20
+Plan 1 General Industrial Chemistry (Regular Plan)
+Fourth Year
+First Semester Credits
+209493 IC 493 Industrial Chemistry Training 2(0-12-0)
+209498 IC 498 Seminar in Industrial Chemistry 1(1-0-2)
+Major Elective 1
+Major Elective Courses Level 400 6
+General Education Electives 3
+Total 13
+Second Semester Credits
+209497 IC 497 Special Problems in Industrial Chemistry 4(0-12-0)
+Major Elective Courses Level 400 5
+Total 9
+Plan 1 General Industrial Chemistry (Cooperative Education Plan)
+Fourth Year
+First Semester Credits
+209498 IC 498 Seminar in Industrial Chemistry 1(1-0-2)
+Major Elective 1
+Major Elective Courses Level 400 11
+General Education Electives 3
+Total 16
+Second Semester Credits
+209494 IC 494 Cooperative Education 6
+Total 6
+Plan 2 Silicate Science and Technology
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203103 CHEM 103 General Chemistry 1 3(3-0-6)
+203107 CHEM 107 General Chemistry Laboratory 1 1(0-3-0)
+206115 MATH 115 Calculus for Natural Sciences 1 3(2-2-5)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+203104 CHEM 104 General Chemistry 2 3(3-0-6)
+203108 CHEM 108 General Chemistry Laboratory 2 1(0-3-0)
+206116 MATH 116 Calculus for Natural Sciences 2 3(2-2-5)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+Free Elective 3
+Total 20
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+203235 CHEM 235 Analytical Chemistry 3(3-0-6)
+203288 CHEM 288 Analytical Chemistry Laboratory 1(0-3-0)
+209201 IC 201 Chemical Stoichiometry 3(3-0-6)
+209251 IC 251 Introduction to Ceramics 2(2-0-4)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+203222 CHEM 222 Physical Chemistry 1 3(3-0-6)
+203228 CHEM 228 Physical Chemistry Laboratory 1 1(0-3-0)
+209254 IC 254 Production of Conventional Ceramics in Industry 3(3-0-6)
+209271 IC 271 Unit Operations of Industrial Chemistry 1 3(3-0-6)
+209272 IC 272 Unit Operations of Industrial Chemistry Laboratory 1 1(0-3-0)
+Major Elective 3
+Free Elective 3
+Total 20
+Third Year
+First Semester Credits
+203331 CHEM 331 Instrumental Methods of Chemical Analysis 3(3-0-6)
+203337 CHEM 337 Instrumental Methods of Chemical Analysis Laboratory 1(0-3-0)
+209301 IC 301 Industrial Process Chemistry 3(3-0-6)
+209302 IC 302 Industrial Process Chemistry Laboratory 1(0-3-0)
+209303 IC 303 Characterization of Industrial Materials 3(3-0-6)
+209351 IC 351 Silicate Science 1 2(2-0-4)
+209361 IC 361 Silicate Science Laboratory 1 1(0-3-0)
+209358 IC 358 Drying and Firing Technology in Ceramic Processing 2(2-0-4)
+209368 IC 368 Drying and Firing Technology in Ceramic Processing Laboratory 1(0-3-0)
+253303 ENV 303 Environmental and Safety Management in Industry 3(3-0-6)
+Total 20
+Second Semester Credits
+GE Elective Course 3
+204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+208346 STAT 346 Statistics for Industrial Chemistry 4(3-2-7)
+209352 IC 352 Silicate Science 2 2(2-0-4)
+209362 IC 362 Silicate Science Laboratory 2 1(0-3-0)
+209455 IC 455 Glaze Technology and Ceramic Pigment 2(2-0-4)
+209465 IC 465 Glaze Technology and Ceramic Pigment Laboratory 1(0-3-0)
+209457 IC 457 Production Efficiency and Quality Enhancement of Ceramic Products 3(3-0-6)
+255323 IE 323 Introduction to Quality Assurance 3(3-0-6)
+Total 22
+Plan 2 Silicate Science and Technology (Regular Plan)
+Fourth Year
+First Semester Credits
+209493 IC 493 Industrial Chemistry Training 2(0-12-0)
+209498 IC 498 Seminar in Industrial Chemistry 1(1-0-2)
+Major Elective 3
+Major Elective Courses Level 400 3
+General Education Electives 3
+Total 12
+Second Semester Credits
+209497 IC 497 Special Problems in Industrial Chemistry 4(0-12-0)
+Major Elective 3
+Major Elective Courses Level 400 3
+Total 10
+Plan 2 Silicate Science and Technology (Cooperative Education Plan)
+Fourth Year
+First Semester Credits
+209498 IC 498 Seminar in Industrial Chemistry 1(1-0-2)
+Major Elective 6
+Major Elective Courses Level 400 6
+General Education Electives 3
+Total 16
+Second Semester Credits
+209494 IC 494 Cooperative Education 6
+Total 6

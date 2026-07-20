@@ -1,0 +1,962 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25100041100016
+Bachelor of Science Program in Mathematics (2564)
+Name of the degree
+Full : Bachelor of Science (Mathematics)
+Abbreviation : B.S. (Mathematics)
+Curriculum structure
+(1) General Education 30
+Required Courses 24
+1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.2 Innovative Co-creator 3
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+- Learner Person
+057131 EDPE 131 Exercise and Health 2(2-0-4)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+- Innovative Co-creator
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+- Active Citizen
+109100 FAGE 100 Man and Art 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization
+- Track 1 General Mathematics : a minimum of 96
+- Track 2 Teaching Mathematics : a minimum of 96
+- Track 3 Financial and Insurance Mathematics : a minimum of 96
+- Track 4 Industrial Mathematics : a minimum of 96
+- Track 5 Pure Mathematics
+Regular Plan : a minimum of 96
+Honors Plan : a minimum of 108
+- Track 6 Applied Mathematics
+Regular Plan : a minimum of 96
+Honors Plan : a minimum of 108
+2.1 Core Courses 28
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+and chooses any 4 credits from a group of followings:
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+2.2 Major
+- Track 1 General Mathematics : a minimum of 53
+- Track 2 Teaching Mathematics : a minimum of 53
+- Track 3 Financial and Insurance Mathematics : a minimum of 53
+- Track 4 Industrial Mathematics : a minimum of 53
+- Track 5 Pure Mathematics
+Regular Plan : a minimum of 68
+Honors Plan : a minimum of 80
+- Track 6 Applied Mathematics
+Regular Plan : a minimum of 68
+Honors Plan : a minimum of 80
+For regular plan, among the credits earned from the major course taken, a minimum of 36 credits must be from the
+advanced level courses 300-400, of which at least 18 credits must be from the 400 level courses.
+For honor plan, among the credits earned from the major course taken, a minimum of 48 credits must be from the 300
+level courses or upper, of which at least 30 credits must be from the 400 level courses or upper, and of which at least 12
+credits must be from the 700 level courses.
+2.2.1 Major Requirement
+- Track 1 General Mathematics 32
+- Track 2 Teaching Mathematics 44
+- Track 3 Financial and Insurance Mathematics 44
+- Track 4 Industrial Mathematics 44
+- Track 5 Pure Mathematics
+Regular Plan 44
+Honors Plan 44
+- Track 6 Applied Mathematics
+Regular Plan 44
+Honors Plan 44
+Joint Major Requirement 32
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+206499 MATH 499 Independent Study 3
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Track Major Requirement
+- Track 1 General Mathematics
+-None-
+- Track 2 Teaching Mathematics 12
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206328 MATH 328 Theory of Equations 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+- Track 3 Financial and Insurance Mathematics 12
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+- Track 4 Industrial Mathematics 12
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+- Track 5 Pure Mathematics 12
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206311 MATH 311 Axiomatic Set Theory 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+- Track 6 Applied Mathematics 12
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+2.2.2 Major Elective
+- Track 1 General Mathematics
+with minor : a minimum of 21
+without minor : a minimum of 36
+Choose any courses from the followings:
+206207 MATH 207 Solid Analytic Geometry 3(3-0-6)
+206216 MATH 216 Introduction to Mathematical Logic 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206311 MATH 311 Axiomatic Set Theory 3(3-0-6)
+206312 MATH 312 Introduction to Foundation of Geometry 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206327 MATH 327 Theory of Numbers 1 3(3-0-6)
+206328 MATH 328 Theory of Equations 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+206412 MATH 412 Topology 3(3-0-6)
+206415 MATH 415 Introduction to Homotopy Theory 3(3-0-6)
+206421 MATH 421 Abstract Algebra 3(3-0-6)
+206423 MATH 423 Wavelets 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206427 MATH 427 Theory of Numbers 2 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206438 MATH 438 Fixed Point Theory and Applications 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+206446 MATH 446 Differential Geometry 3(3-0-6)
+206453 MATH 453 Computational Optimization 3(3-0-6)
+206455 MATH 455 Numerical Analysis 3(3-0-6)
+206456 MATH 456 Numerical Method for Differential Equations 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206464 MATH 464 Introduction to Mathematical Control Theory 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206473 MATH 473 Portfolio Optimization 3(3-0-6)
+206474 MATH 474 Stochastic Processes and Martingale Theory 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+- Track 2 Teaching Mathematics : a minimum of 9
+Choose any courses from the followings:
+206207 MATH 207 Solid Analytic Geometry 3(3-0-6)
+206216 MATH 216 Introduction to Mathematical Logic 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206327 MATH 327 Theory of Numbers 1 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+- Track 3 Financial and Insurance Mathematics
+with minor : a minimum of 9
+without minor : a minimum of 24
+Choose at least 6 credits from the following courses:
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206473 MATH 473 Portfolio Optimization 3(3-0-6)
+206474 MATH 474 Stochastic Processes and Martingale Theory 3(3-0-6)
+and choose the rest credits from the following courses:
+206216 MATH 216 Introduction to Mathematical Logic 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206412 MATH 412 Topology 3(3-0-6)
+206423 MATH 423 Wavelets 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+206453 MATH 453 Computational Optimization 3(3-0-6)
+206455 MATH 455 Numerical Analysis 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206464 MATH 464 Introduction to Mathematical Control Theory 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+- Track 4 Industrial Mathematics
+with minor : a minimum of 9
+without minor : a minimum of 24
+Choose at least 9 credits from the following courses:
+206453 MATH 453 Computational Optimization 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206473 MATH 473 Portfolio Optimization 3(3-0-6)
+206474 MATH 474 Stochastic Processes and Martingale Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+and choose the rest credits from the following courses:
+206216 MATH 216 Introduction to Mathematical Logic 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206423 MATH 423 Wavelets 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206428 MATH 428 Coding Theory 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+206455 MATH 455 Numerical Analysis 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206464 MATH 464 Introduction to Mathematical Control Theory 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206476 MATH 476 Game theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+- Track 5 Pure Mathematics
+Regular Plan : a minimum of 24
+Choose any courses from the followings:
+206312 MATH 312 Introduction to Foundation of Geometry 3(3-0-6)
+206327 MATH 327 Theory of Numbers 1 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+206412 MATH 412 Topology 3(3-0-6)
+206415 MATH 415 Introduction to Homotopy Theory 3(3-0-6)
+206421 MATH 421 Abstract Algebra 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206427 MATH 427 Theory of Numbers 2 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206446 MATH 446 Differential Geometry 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+Honors Plan : a minimum of 36
+Choose at least 12 credits from the following graduate courses:
+206705 MATH 705 Linear Algebra 3(3-0-6)
+or 219720 AMTH 720 Matrix Analysis 3(3-0-6)
+206720 MATH 720 Algebra 1 3(3-0-6)
+206731 MATH 731 REAL ANALYSIS 1 3(3-0-6)
+206734 MATH 734 FUNCTIONAL ANALYSIS 3(3-0-6)
+206738 MATH 738 COMBINATORICS 3(3-0-6)
+206743 MATH 743 Theory of Differntial Equations 3(3-0-6)
+219731 AMTH 731 Applied Analysis 3(3-0-6)
+219753 AMTH 753 Numerical Analysis 3(3-0-6)
+and choose at least 24 credits from the following undergraduate courses:
+206312 MATH 312 Introduction to Foundation of Geometry 3(3-0-6)
+206327 MATH 327 Theory of Numbers 1 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206381 MATH 381 Combinatorics 3(3-0-6)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+206412 MATH 412 Topology 3(3-0-6)
+206415 MATH 415 Introduction to Homotopy Theory 3(3-0-6)
+206421 MATH 421 Abstract Algebra 3(3-0-6)
+206426 MATH 426 Linear Algebra 2 3(3-0-6)
+206427 MATH 427 Theory of Numbers 2 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206446 MATH 446 Differential Geometry 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+- Track 6 Applied Mathematics
+Regular Plan : a minimum of 24
+Choose any courses from the followings:
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206453 MATH 453 Computational Optimization 3(3-0-6)
+206455 MATH 455 Numerical Analysis 3(3-0-6)
+206456 MATH 456 Numerical Method for Differential Equations 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206464 MATH 464 Introduction to Mathematical Control Theory 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206474 MATH 474 Stochastic Processes and Martingale Theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+Honors Plan : a minimum of 36
+Choose at least 12 credits from the following graduate courses:
+206705 MATH 705 Linear Algebra 3(3-0-6)
+or 219720 AMTH 720 Matrix Analysis 3(3-0-6)
+206720 MATH 720 Algebra 1 3(3-0-6)
+206731 MATH 731 REAL ANALYSIS 1 3(3-0-6)
+206734 MATH 734 FUNCTIONAL ANALYSIS 3(3-0-6)
+206738 MATH 738 COMBINATORICS 3(3-0-6)
+206743 MATH 743 Theory of Differntial Equations 3(3-0-6)
+219731 AMTH 731 Applied Analysis 3(3-0-6)
+219753 AMTH 753 Numerical Analysis 3(3-0-6)
+and choose at least 24 credits from the following undergraduate courses:
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206335 MATH 335 Vector Analysis 3(3-0-6)
+206357 MATH 357 Scientific Computation 3(2-3-4)
+206358 MATH 358 Mathematics for Data Science 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206432 MATH 432 Introduction to Functional Analysis 3(3-0-6)
+206435 MATH 435 Real Analysis 2 3(3-0-6)
+206436 MATH 436 Introduction to Calculus of Variations 3(3-0-6)
+206441 MATH 441 Nonlinear Ordinary Differential Equations 3(3-0-6)
+206453 MATH 453 Computational Optimization 3(3-0-6)
+206455 MATH 455 Numerical Analysis 3(3-0-6)
+206456 MATH 456 Numerical Method for Differential Equations 3(3-0-6)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+206463 MATH 463 Deterministic Optimization 3(3-0-6)
+206464 MATH 464 Introduction to Mathematical Control Theory 3(3-0-6)
+206467 MATH 467 Neural Networks 3(3-0-6)
+206470 MATH 470 Probability 2 3(3-0-6)
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206474 MATH 474 Stochastic Processes and Martingale Theory 3(3-0-6)
+206481 MATH 481 Graph Theory 3(3-0-6)
+206483 MATH 483 Combinatorial Optimization 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+- Track 1 General Mathematics
+Students who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+In the case of no minor, students must take a total of at least 36 credits for major elective courses than the case of
+having minor.
+- Track 2 Teaching Mathematics
+Students in this plan must choose to Minor in Mathematics Education, offered by the Faculty of Education only.
+- Track 3 Financial and Insurance Mathematics and Track 4 Industrial Mathematics
+Students who wishes to have minor must choose to Minor in one of the following fields. - Statistics, Faculty of Science -
+Data Science, Faculty of Science - Business Administration, Concentration on Finance and Banking, Faculty of Business
+Administration - Business Administration, Concentration on General Business, Faculty of Business Administration -
+Economics, Faculty of Economics In the case of no minor, students must take a total of at least 24 credits for major
+elective courses than the case of having minor.
+- Track 5 Pure Mathematics and Track 6 Applied Mathematics
+Students who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+Hence, the total credits for the whole curriculum is increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Study plan
+Track 1 General Mathematics
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Major Elective or Minor (if any) 3
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective or Minor (if any) 6
+GE Electives 3
+Total 18
+Second Semester Credits
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+Major Elective or Minor (if any) 12
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective or Minor (if any) 9
+GE Electives 3
+Total 16
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective or Minor (if any) 6
+Free Electives 3
+Total 12
+Track 2 Teaching Mathematics
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective or Minor 6
+GE Electives 3
+Total 18
+Second Semester Credits
+206370 MATH 370 Probability 1 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+206411 MATH 411 Classical Geometry 3(3-0-6)
+Major Elective or Minor 6
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206328 MATH 328 Theory of Equations 3(3-0-6)
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective or Minor 6
+GE Electives 3
+Total 16
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective or Minor 6
+Free Electives 3
+Total 12
+Track 3 Financial and Insurance Mathematics
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Major Elective or Minor (if any) 3
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective or Minor (if any) 3
+GE Electives 3
+Total 18
+Second Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+206457 MATH 457 Mathematics of Financial Derivatives 3(3-0-6)
+Major Elective or Minor (if any) 6
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective or Minor (if any) 9
+GE Electives 3
+Total 16
+Second Semester Credits
+206471 MATH 471 Introduction to Actuarial Mathematics 3(3-0-6)
+206499 MATH 499 Independent Study 3
+Major Elective or Minor (if any) 3
+Free Electives 3
+Total 12
+Track 4 Industrial Mathematics
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Major Elective or Minor (if any) 3
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+206370 MATH 370 Probability 1 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206300 MATH 300 Mathematics of Finance and Insurance 3(3-0-6)
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective or Minor (if any) 3
+GE Electives 3
+Total 18
+Second Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+206383 MATH 383 Deterministic Operations Research Models 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+Major Elective or Minor (if any) 6
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective or Minor (if any) 6
+GE Electives 3
+Total 16
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective or Minor (if any) 6
+Free Electives 3
+Total 12
+Track 5 Pure Mathematics (Regular Plan)
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective 3
+GE Electives 3
+Total 18
+Second Semester Credits
+206311 MATH 311 Axiomatic Set Theory 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+Major Elective 6
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective 9
+GE Electives 3
+Total 16
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective 6
+Free Electives 3
+Total 12
+Track 5 Pure Mathematics (Honor Plan)
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206281 MATH 281 Discrete Mathematics 3(3-0-6)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Major Elective (undergraduate level) 3
+Total 19
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective (undergraduate level) 3
+GE Electives 3
+Total 18
+Second Semester Credits
+206311 MATH 311 Axiomatic Set Theory 3(3-0-6)
+206313 MATH 313 Introduction to Topology 3(3-0-6)
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+Major Elective (graduate level) 3
+Major Elective (undergraduate level) 6
+Free Electives 3
+Total 19
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective (graduate level) 6
+Major Elective (undergraduate level) 6
+GE Electives 3
+Total 19
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective (graduate level) 3
+Major Elective (undergraduate level) 6
+Free Electives 3
+Total 15
+Track 6 Applied Mathematics (Regular Plan)
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Total 16
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective 3
+GE Electives 3
+Total 18
+Second Semester Credits
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+Major Elective 9
+Free Electives 3
+Total 16
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective 6
+GE Electives 3
+Total 16
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective 6
+Free Electives 3
+Total 12
+Track 6 Applied Mathematics (Honor Plan)
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208264 STAT 264 Principles of Statistics 3(2-2-5)
+Total 19
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+206211 MATH 211 Advanced Calculus 1 3(3-0-6)
+206217 MATH 217 Fundamental Concepts of Mathematics 3(3-0-6)
+206254 MATH 254 Mathematical Package 3(2-2-5)
+208280 STAT 280 Statistical Methods 3(2-2-5)
+Total 18
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+and 202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+or 203113 CHEM 113 Chemistry 2 3(3-0-6)
+and 203117 CHEM 117 Chemistry Laboratory 2 1(0-3-0)
+or 207118 PHYS 118 Physics Laboratory 2 1(0-3-0)
+and 207188 PHYS 188 Physics 2 3(3-0-6)
+206325 MATH 325 Linear Algebra 3(3-0-6)
+206341 MATH 341 Differential Equations 3(3-0-6)
+Major Elective (undergraduate level) 3
+Total 19
+Third Year
+First Semester Credits
+206321 MATH 321 Introduction to Abstract Algebra 3(3-0-6)
+206331 MATH 331 Advanced Calculus 2 3(3-0-6)
+206336 MATH 336 Real Analysis 1 3(3-0-6)
+206355 MATH 355 Numerical Method 3(3-0-6)
+Major Elective (undergraduate level) 3
+GE Electives 3
+Total 18
+Second Semester Credits
+206390 MATH 390 Seminar in Mathematics 1(1-0-2)
+206442 MATH 442 Partial Differential Equations 3(3-0-6)
+Major Elective (graduate level) 3
+Major Elective (undergraduate level) 9
+Free Electives 3
+Total 19
+Fourth Year
+First Semester Credits
+206437 MATH 437 Complex Variables 3(3-0-6)
+206465 MATH 465 Principles of Mathematical Modeling 3(3-0-6)
+206492 MATH 492 Mathematical Practicum 1(0-6-0)
+Major Elective (graduate Level) 6
+Major Elective (undergraduate level) 3
+GE Electives 3
+Total 19
+Second Semester Credits
+206499 MATH 499 Independent Study 3
+Major Elective (graduate level) 3
+Major Elective (undergraduate level) 6
+Free Electives 3
+Total 15

@@ -1,0 +1,183 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25260041100082
+Bachelor of Fine Arts Program in Thai Arts and Creative Cultures
+(2566)
+Name of the degree
+Full : Bachelor of Fine Arts (Thai Arts and Creative Cultures)
+Abbreviation : B.F.A. (Thai Arts and Creative Cultures)
+Curriculum structure
+1. General Education 30
+1.1 Required Courses 21
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+Select 1 course from the followings
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+207109 PHYS 109 Life and the Universe 3(3-0-6)
+218100 GEM 100 The Science of Gemstone and Jewelry 3(3-0-6)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.1.3 Active Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.2 GE Electives Courses 9
+A student also chooses 9 credits from these of GE course.
+1.2.1 Learner Person
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+057137 EDPE 137 Sports for Health 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2.2 Active Citizen
+103271 DART 271 Music Appreciation 3(3-0-6)
+012200 RE 200 Mind Volunteer 3(2-2-5)
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+2. Field of Specialization : a minimum of 94
+2.1 Core Courses 24
+101105 CART 105 Fundamental Thai Decorative Motifs 3(1-4-4)
+101113 CART 113 Sketch Drawing 3(1-4-4)
+101201 CART 201 Western Art History 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+101400 CART 400 Art Philosophy 3(3-0-6)
+101405 CART 405 Art Research Methodology 3(2-2-5)
+101490 CART 490 Art Criticism 3(3-0-6)
+104310 TART 310 Folk Art and Handicraft 3(3-0-6)
+2.2 Major : a minimum of 55
+2.2.1 Requirements 25
+104201 TART 201 Southeast Asian Art and Culture 3(3-0-6)
+104301 TART 301 Thai Architecture and Rituals 3(3-0-6)
+104302 TART 302 Thai Painting and Sculpture 3(3-0-6)
+104320 TART 320 Lanna Environment and Culture 3(3-0-6)
+104490 TART 490 Seminar in Thai Arts and Creative Cultures 3(3-0-6)
+104494 TART 494 Individual Study in Thai Arts and Creative Cultures 3(0-9-0)
+104497 TART 497 Internship Program 1(0-6-0)
+104498 TART 498 Project in Thai Art and Creative Cultures 6(0-18-
+0)
+2.2.2 Major Electives : a minimum of 30
+2.2.2.1 Select 3 courses from the followings, choose course 104410 - 104480 not less than 1 course.
+General Major Elective Groups
+104100 TART 100 Fundamental Traditional Thai Painting 3(1-4-4)
+104200 TART 200 Composition in Thai Arts 3(3-0-6)
+104325 TART 325 Folk Art of Lanna 3(3-0-6)
+104327 TART 327 Decorative Stucco and Woodcarving in Lanna 3(2-2-5)
+104340 TART 340 Lacquerware in Southeast Asia 3(3-0-6)
+104410 TART 410 Thai Art in Contemporary Design 3(3-0-6)
+104424 TART 424 Thai Art in Product Design 3(2-2-5)
+104436 TART 436 Traditional Thai Art 3(1-4-4)
+104440 TART 440 Thai Ceramics 3(3-0-6)
+104450 TART 450 Thai Textiles 3(2-2-5)
+104465 TART 465 Thai Jewelry 3(3-0-6)
+104471 TART 471 Thai Furniture 3(2-2-5)
+104475 TART 475 Thai Basketry 3(3-0-6)
+104480 TART 480 Art of Flower Arrangement and Thai Fresh Work 3(2-2-5)
+2.2.2.2 And select 7 courses. Choose only one of the groups
+1) Cultural Arts Management Group
+104205 TART 205 Visual Presentation 3(1-4-4)
+104300 TART 300 Art Conservation 3(3-0-6)
+104435 TART 435 Art in Community 3(3-0-6)
+115200 MENT 200 Principles and Procedures in Art and Culture Management 3(2-2-5)
+115300 MENT 300 Management and Administration of Cultural Resources 3(2-2-5)
+115301 MENT 301 Exhibition and Presentation of Art and Culture 3(2-2-5)
+115302 MENT 302 Art Gallery and Museum 3(2-2-5)
+115400 MENT 400 Technical and Special Effects in Contemporary Art and Cultural Presentation 3(2-2-5)
+115401 MENT 401 Marketing in Art and Culture 3(2-2-5)
+2) Arts History Group
+116200 ARTH 200 Concepts and Theories on Art History 3(1-4-4)
+116201 ARTH 201 Indian and Lanka Art 3(3-0-6)
+116300 ARTH 300 Chinese Art 3(3-0-6)
+116301 ARTH 301 Art in Myanmar 3(3-0-6)
+116302 ARTH 302 Khmer Art and Architecture 3(3-0-6)
+116303 ARTH 303 Tai – Laos Art and Architecture 3(3-0-6)
+116400 ARTH 400 Art in Thailand before the 19th Century (B.E.) 3(3-0-6)
+116401 ARTH 401 Art in Thailand from the 19th-23rd Century (B.E.) 3(3-0-6)
+116402 ARTH 402 Art in Thailand from the 24th Century (B.E.) to Present 3(3-0-6)
+3) Contemporary Thai Art Group
+104231 TART 231 Compositions in Thai Painting 3(1-4-4)
+104232 TART 232 Materials and Techniques in Thai Arts 3(1-4-4)
+104303 TART 303 Practicum in Thai Art 3(0-6-3)
+104333 TART 333 Traditional Thai Painting 3(1-4-4)
+104334 TART 334 Analysis in Thai Painting 3(2-2-5)
+104335 TART 335 Art of Thai Lacquer and Gilt Work 3(1-4-4)
+104437 TART 437 Contemporary Thai Art 3(1-4-4)
+2.3 Minor : a minimum of 15
+2.3.1 Students who wish to study in the Minor Subject, must choose the subject according to Chiang Mai University's
+announcement "The minor subjects taught at Chiang Mai University". However, students must enroll not less than 15
+credits. 2.3.2 If students do not wish to study in the Minor Subject, must choose the subjects in 2.2.2, However, students
+must enroll not less than 15 credits.
+3. Free Electives : a minimum of 6
+Total : a minimum of 130
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+101105 CART 105 Fundamental Thai Decorative Motifs 3(1-4-4)
+101113 CART 113 Sketch Drawing 3(1-4-4)
+or 115200 MENT 200 Principles and Procedures in Art and Culture Management 3(2-2-5)
+101201 CART 201 Western Art History 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+GE : Innovative Co-creator 3
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+104310 TART 310 Folk Art and Handicraft 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+GE Electives 3
+GE Electives 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+104201 TART 201 Southeast Asian Art and Culture 3(3-0-6)
+104301 TART 301 Thai Architecture and Rituals 3(3-0-6)
+GE Electives 3
+Major Elective 3
+Major Elective 3
+Total 18
+Second Semester Credits
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+104302 TART 302 Thai Painting and Sculpture 3(3-0-6)
+104320 TART 320 Lanna Environment and Culture 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Minor 3
+Total 18
+Third Year
+First Semester Credits
+101400 CART 400 Art Philosophy 3(3-0-6)
+101405 CART 405 Art Research Methodology 3(2-2-5)
+Major Elective 3
+Major Elective 3
+Minor 3
+Free Elective 3
+-
+Total 18
+Second Semester Credits
+101490 CART 490 Art Criticism 3(3-0-6)
+104494 TART 494 Individual Study in Thai Arts and Creative Cultures 3(0-9-0)
+Major Elective 3
+Major Elective 3
+Minor 3
+Minor 3
+-
+Total 18
+Summer Session Credits
+104497 TART 497 Internship Program 1(0-6-0)
+Total 1
+Fourth Year
+First Semester Credits
+104490 TART 490 Seminar in Thai Arts and Creative Cultures 3(3-0-6)
+Major Elective 3
+Major Elective 3
+Free Elective 3
+Total 12
+Second Semester Credits
+104498 TART 498 Project in Thai Art and Creative Cultures 6(0-18-0)
+Minor 3
+Total 9

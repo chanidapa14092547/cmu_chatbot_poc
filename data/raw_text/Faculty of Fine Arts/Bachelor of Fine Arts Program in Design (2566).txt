@@ -1,0 +1,341 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25450041101049
+Bachelor of Fine Arts Program in Design (2566)
+Name of the degree
+Full : Bachelor of Fine Arts (Design)
+Abbreviation : B.F.A. (Design)
+Curriculum structure
+1. General Education 30
+1.1 Required Courses 21
+1. Learner Person 15
+Digital Literacy
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+Language Literacy
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+2.Innovative Co-creator 3
+Select 1 course from the following courses
+Entrepreneurial Skills
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+3.Active Citizen 3
+Civic Literacy and Environmental Concerns
+140104 PG 104 Citizenship 3(3-0-6)
+1.2 Elective courses 9
+Select freely from the following courses
+1. Learner Person
+Digital Literacy
+261111 CPE 111 Internet and Online Community 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+259109 ENGR 109 Telecommunication in Thailand 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+954101 INX 101 Introduction to Modern Management and Information Technology 3(3-0-6)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+888103 DIN 103 Internet Programming Language 3(2-2-5)
+888104 DIN 104 Introduction to Internet of Things 3(3-0-6)
+888105 DIN 105 Internet Data System 3(3-0-6)
+Language Literacy
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+070100 EDSP 100 English Sign Language 1 3(1-6-0)
+Health Literacy
+011101 PHIL 101 Meaning of Life 3(3-0-6)
+011152 PHIL 152 Ethics for Good Quality of Life 3(3-0-6)
+011155 PHIL 155 Philosophy of Happiness 3(3-0-6)
+011277 PHIL 277 Bioethics 3(3-0-6)
+012100 RE 100 Mind Development for High Quality of Life 3(2-3-4)
+057121 EDPE 121 Football for Life and Exercise 1(1-0-2)
+057122 EDPE 122 Swimming for Life and Exercise 1(1-0-2)
+057123 EDPE 123 Volleyball for Life and Exercise 1(1-0-2)
+057123 EDPE 123 Volleyball for Life and Exercise 1(1-0-2)
+057125 EDPE 125 Rhythmic Activities for Life and Exercise 1(1-0-2)
+057126 EDPE 126 Basketball for Life and Exercise 1(1-0-2)
+057127 EDPE 127 Badminton for Life and Exercise 1(1-0-2)
+057128 EDPE 128 Tennis for Life and Exercise 1(1-0-2)
+057129 EDPE 129 Table Tennis for Life and Exercise 1(1-0-2)
+057130 EDPE 130 Golf for Life and Exercise 1(1-0-2)
+057131 EDPE 131 Exercise and Health 2(2-0-4)
+057134 EDPE 134 Muscle Building with Weight Training 2(2-0-4)
+057135 EDPE 135 Aerobic Exercise for Health 2(2-0-4)
+057136 EDPE 136 Sport, Health, Fitness and Wellness Development 3(3-0-6)
+057137 EDPE 137 Sports for Health 3(3-0-6)
+057138 EDPE 138 Thai Wisdom Sports for Self-Defense 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+202100 BIOL 100 Biology in Everyday Life 3(3-0-6)
+203100 CHEM 100 Chemistry in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+357101 ENT 101 Household Insects and Garden Pests 3(3-0-6)
+359202 HORT 202 Plant and Food Safety 3(3-0-6)
+359204 HORT 204 Horticulture for Health 2(2-0-4)
+359206 HORT 206 Landscape, Environment, Behaviors, and Minds 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+461170 PHPS 170 Cosmetics in Everyday Life 3(3-0-6)
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+510100 AMS 100 Wellness 3(2-3-4)
+515100 RT 100 Introduction to Radiological Technology 1(1-0-2)
+571113 NGGE 113 Maintaining the Equilibrium in Adolescent Life 3(3-0-6)
+571116 NGGE 116 Health and Working in the Digital Age 3(3-0-6)
+571151 NGGE 151 Science and Art for Happiness Creation 3(2-3-4)
+601201 FST 201 Principles of Food Processing and Preservation 3(3-0-6)
+601212 FST 212 Nutrition for Contemporary Living 3(3-0-6)
+610113 AG 113 Processed Food in Daily Life 3(3-0-6)
+610114 AG 114 Food for Health and Beauty 3(3-0-6)
+651106 VM 106 Food Sanitary from Food Animal for Consumer 2(1-2-3)
+Financial Literacy
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+Management Skills
+011269 PHIL 269 Philosophy of Sufficiency Economy 3(3-0-6)
+057133 EDPE 133 Recreation for Quality of Life 2(2-0-4)
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+571103 NGGE 103 Friendship and Being Together 2(0-6-2)
+2.Innovative Co-Creator
+Entrepreneurial Skills
+356102 ANS 102 Ornamental Aquatic Animals 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+571115 NGGE 115 Spa for Health 3(3-0-6)
+602101 BIOT 101 Biotechnology and Modern World 3(3-0-6)
+888109 DIN 109 Introduction to Emerging Rules of Disruptive Technology in Trade 3(3-0-6)
+Thinking Skills
+011151 PHIL 151 Reasoning 3(3-0-6)
+011157 PHIL 157 Social Philosophy 3(3-0-6)
+012173 RE 173 Descriptive Study of Religion 3(3-0-6)
+004170 HIST 170 Thai Society and Culture 3(3-0-6)
+050104 HUGE 104 Man and the Modern World 3(3-0-6)
+050106 HUGE 106 Humanistic Arts 3(3-0-6)
+050112 HUGE 112 Reading Human Through Literature 3(3-0-6)
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+152100 SSA 100 Social Science Around Us 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+201117 SC 117 Mathematics and Science in Civilization 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+203192 CHEM 192 Polymers in Everyday Life 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+205100 GEOL 100 The Earth and its Geological Processes 3(3-0-6)
+205105 GEOL 105 Earth Science and Civilization 3(3-0-6)
+206100 MATH 100 Mathematics in Everyday Life 3(3-0-6)
+206109 MATH 109 Mathematics in Today’s World 3(3-0-6)
+207100 PHYS 100 Physics in Everyday Life 3(3-0-6)
+207109 PHYS 109 Life and the Universe 3(3-0-6)
+207110 PHYS 110 Physics : the Science that Changed the World 3(3-0-6)
+208101 STAT 101 Statistics for Everyday Life and Work 3(2-2-5)
+208102 STAT 102 Statistical Reasoning and Thinking 3(3-0-6)
+208161 STAT 161 Fundamentals of Statistics 3(3-0-6)
+210100 MATS 100 World of Materials 3(3-0-6)
+214100 ZOOL 100 Integrated Zoology and Health Science 3(3-0-6)
+218100 GEM 100 The Science of Gemstone and Jewelry 3(3-0-6)
+351101 AEC 101 Economics for Happiness in Households 3(3-0-6)
+359201 HORT 201 Agricultural Way and Vision 1(0-3-0)
+359203 HORT 203 Horticultural Wisdom 3(3-0-6)
+359205 HORT 205 World of Orchids 3(3-0-6)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+571104 NGGE 104 Creation of Good Feeling for Oneself 2(0-6-2)
+571111 NGGE 111 Critical Thinking and Creative Thinking 3(2-2-5)
+602111 BIOT 111 Agro-Industrial Biotechnology 3(3-0-6)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+610111 AG 111 Packaging for Marketing 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+852100 DF 100 Introduction to Film 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+Startup and Innovation
+602103 BIOT 103 Agro-Industry and Quality of Life 3(3-0-6)
+602201 BIOT 201 Agro-Industrial Vision 1(0-3-0)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+Adaptability
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+602100 BIOT 100 Introduction to Application of Biotechnology 3(3-0-6)
+3.Active Citizen
+Culture and Art
+050111 HUGE 111 Man and Quest for Knowledge 3(3-0-6)
+103271 DART 271 Music Appreciation 3(3-0-6)
+109118 FAGE 118 Aesthetics in Lanna Art 3(3-0-6)
+109119 FAGE 119 Lanna Art Appreciation 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+353100 AGRO 100 Thai Rice 3(3-0-6)
+651104 VM 104 Elephant in Thai Cultures 2(2-0-4)
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+Teamwork
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+460301 PHDA 301 Self-Development for Professionalism 3(3-0-6)
+Volunteerism
+012200 RE 200 Mind Volunteer 3(2-2-5)
+057132 EDPE 132 Happy Life in Camping 2(2-0-4)
+Civic Literacy and Environmental Concerns
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+011159 PHIL 159 Philosophy of Life, Society and Environment 3(3-0-6)
+050113 HUGE 113 Locality in Globalization 3(3-0-6)
+050121 HUGE 121 Thai People in the ASEAN Community 3(3-0-6)
+154100 GEO 100 Introduction to Geography 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154111 GEO 111 Weather in Everyday Life 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+201115 SC 115 Life and Energy 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+259108 ENGR 108 Electricity in Everyday Life 3(3-0-6)
+357110 ENT 110 Insects and Mankind 3(3-0-6)
+360100 PLP 100 Plant Pathology in Everyday Life 3(3-0-6)
+360108 PLP 108 Plant Disease and Environmental Safety 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+602102 BIOT 102 Life and Alternative Energy 3(3-0-6)
+651105 VM 105 Ecosystem and Health 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+140103 PG 103 Anti-Corruption in Thailand 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+2. Field of Specialization
+Plan A. Internship : a minimum of 84
+Plan B. Thesis : a minimum of 87
+2.1 Core Courses 24
+101201 CART 201 Western Art History 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+110101 DESN 101 Design Fundamentals and Creative Lanna Thinking 3(2-2-5)
+110105 DESN 105 Sketch Drawing for Designers 3(1-4-4)
+110120 DESN 120 Two Dimensional Computer Design 3(1-4-4)
+110200 DESN 200 Contemporary Design and Design Innovation 3(1-4-4)
+110220 DESN 220 Three Dimensional Computer Design 3(1-4-4)
+110304 DESN 304 Design Management 3(3-0-6)
+2.2 Major
+Plan A. Internship : a minimum of 60
+Plan B. Thesis : a minimum of 63
+2.2.1 Requirements
+Select from the following pathways
+2.2.1.1 Plan A. Internship 39
+110381 DESN 381 Studio in Creative Design 1 6(0-18-
+0)
+110382 DESN 382 Studio in Creative Design 2 6(0-18-
+0)
+110383 DESN 383 Studio in Creative Design 3 6(0-18-
+0)
+110406 DESN 406 Experiment in Creative Design 6(0-18-
+0)
+110436 DESN 436 Internship Program in Creative Industry 6(0-36-
+0)
+110496 DESN 496 Project in Creative Design 9(0-27-
+0)
+2.2.1.2 Plan B. Thesis 42
+110381 DESN 381 Studio in Creative Design 1 6(0-18-
+0)
+110382 DESN 382 Studio in Creative Design 2 6(0-18-
+0)
+110383 DESN 383 Studio in Creative Design 3 6(0-18-
+0)
+110406 DESN 406 Experiment in Creative Design 6(0-18-
+0)
+110434 DESN 434 Individual Study in Creative Design 6(2-8-8)
+110435 DESN 435 Thesis in Creative Design 12
+2.2.2 Major Electives : a minimum of 21
+Select from the following courses
+110203 DESN 203 User Experience Design for Creative Industry 3(1-4-4)
+110211 DESN 211 Fundamental Ceramics 3(1-4-4)
+110213 DESN 213 Decorative Techniques for Ceramics 3(1-4-4)
+110221 DESN 221 Contemporary Typography Design 3(1-4-4)
+110222 DESN 222 Contemporary Illustration Design 3(1-4-4)
+110224 DESN 224 Packaging Design 3(2-2-6)
+110231 DESN 231 Structural Textile Design 3(1-4-4)
+110232 DESN 232 Fundamental Fashion Design 3(1-4-4)
+110233 DESN 233 Jewelry Design and Making 3(1-4-4)
+110234 DESN 234 Jewelry Sketch Design 3(1-4-4)
+110252 DESN 252 Introduction to Garment Construction 3(1-4-4)
+110271 DESN 271 Comic and Graphic Novel Illustration 3(1-4-4)
+110305 DESN 305 Design for Future and Sustainability 3(1-4-4)
+110306 DESN 306 Design Philosophy and Criticism 3(3-0-6)
+110307 DESN 307 Design Aesthetics 3(3-0-6)
+110308 DESN 308 Semiotics in Contemporary Design 3(3-0-6)
+110309 DESN 309 Social and Cultural Design 3(1-4-4)
+110321 DESN 321 Advanced Garment Construction 3(1-4-4)
+110323 DESN 323 Conceptual Design and Art Direction for Creative Industry 3(1-4-4)
+110324 DESN 324 Graphic Design for Advertising and Branding 3(1-4-4)
+110331 DESN 331 Creative Furniture Design 3(1-4-4)
+110332 DESN 332 Creative Product Design 3(1-4-4)
+110344 DESN 344 Production and Materials Management in Creative Product Design 3(1-4-4)
+110354 DESN 354 Surface Design in Textile 3(1-4-4)
+110355 DESN 355 Fashion Business 3(3-0-6)
+110356 DESN 356 Manipulating in Textile Design 3(1-4-4)
+110374 DESN 374 Advanced 3D Modelling for Designers 3(1-4-4)
+110421 DESN 421 Editorial Design and Print Industry 3(1-4-4)
+110422 DESN 422 Motion Graphic Design for Communication Arts 3(1-4-4)
+110423 DESN 423 Computer Graphics and Design Technology 3(2-2-6)
+2.3 Minor (if any) : a minimum of 15
+Students who intend to study in Minor course, can select the course from Chiang Mai University’s notice in the topic of
+minor course for Chiang Mai University students, more than 15 credits with the approval of advisors, this minor course
+will increase the total credits of curriculum not less than 15 credits.
+3. Free Electives : a minimum of 6
+Total
+Plan A. Internship : a minimum of 120
+Plan B. Thesis : a minimum of 123
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+110101 DESN 101 Design Fundamentals and Creative Lanna Thinking 3(2-2-5)
+101201 CART 201 Western Art History 3(3-0-6)
+110120 DESN 120 Two Dimensional Computer Design 3(1-4-4)
+110220 DESN 220 Three Dimensional Computer Design 3(1-4-4)
+Total 21
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+101205 CART 205 Eastern Art History 3(3-0-6)
+110105 DESN 105 Sketch Drawing for Designers 3(1-4-4)
+(Entrepreneurial Skills) 3
+GE: Elective Courses 3
+GE: Elective Courses 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+110200 DESN 200 Contemporary Design and Design Innovation 3(1-4-4)
+110381 DESN 381 Studio in Creative Design 1 6(0-18-0)
+Major Elective 3
+Major Elective 3
+GE: Elective Courses 3
+Total 21
+Second Semester Credits
+001222 ENGL 222 English for Fine Arts 3(3-0-6)
+110382 DESN 382 Studio in Creative Design 2 6(0-18-0)
+Major Elective 3
+Major Elective 3
+Free Elective 3
+Total 18
+Third Year
+First Semester Credits
+110304 DESN 304 Design Management 3(3-0-6)
+110383 DESN 383 Studio in Creative Design 3 6(0-18-0)
+Major Elective 3
+Major Elective 3
+Free Elective 3
+Total 18
+Second Semester Credits
+110406 DESN 406 Experiment in Creative Design 6(0-18-0)
+Major Elective 3
+Total 9
+Plan A. Internship
+Fourth Year
+First Semester Credits
+110496 DESN 496 Project in Creative Design 9(0-27-0)
+Total 9
+Second Semester Credits
+110436 DESN 436 Internship Program in Creative Industry 6(0-36-0)
+Total 6
+Plan B. Thesis
+Fourth Year
+First Semester Credits
+110434 DESN 434 Individual Study in Creative Design 6(2-8-8)
+Total 6
+Second Semester Credits
+110435 DESN 435 Thesis in Creative Design 12
+Total 12

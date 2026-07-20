@@ -1,0 +1,299 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25280041100128
+Bachelor of Science Program in Agricultural Economics and
+Agribusiness (2566)
+Name of the degree
+Full : Bachelor of Science (Agricultural Economics and Agribusiness)
+Abbreviation : B.S. (Agricultural Economics and Agribusiness)
+Curriculum structure
+(1) General Education 33
+1.1 Learner Person 21
+1) Required Courses 18
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+2) Elective Courses 3
+Select from the following courses:
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+011152 PHIL 152 Ethics for Good Quality of Life 3(3-0-6)
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+351100 AEC 100 Agricultural Economics Based on Sufficiency Economy 3(3-0-6)
+571116 NGGE 116 Health and Working in the Digital Age 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+954101 INX 101 Introduction to Modern Management and Information Technology 3(3-0-6)
+1.2 Innovative Co-creator 6
+Students must select 2 courses from the followings:
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+063101 EDCI 101 Learning for Self-Development 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+351101 AEC 101 Economics for Happiness in Households 3(3-0-6)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+400110 AGRI 110 Technology Development and Global Change 3(3-0-6)
+571111 NGGE 111 Critical Thinking and Creative Thinking 3(2-2-5)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+1.3 Active Citizen 6
+1) Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+2) Elective Courses 3
+Select from the following courses:
+011100 PHIL 100 Man and Philosophy 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization : a minimum of 93
+2.1 Core Courses 37
+2.1.1 Science 9
+206171 MATH 171 General Mathematics 1 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+208373 STAT 373 Statistics for Agriculture 3(3-0-6)
+2.1.2 Agriculture 16
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+363211 PLS 211 Introduction to Postharvest Management of Economic Crops 2(2-0-4)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+400290 AGRI 290 Practical Training 2 1(0-6-0)
+610201 AG 201 Introduction to Agro-Industrial Process 2(2-0-4)
+2.1.3 Economics and Business Administration 12
+751106 ECON 106 Principles of Economics 3(3-0-6)
+751209 ECON 209 Introduction to Mathematical Economics 3(3-0-6)
+751301 ECON 301 Microeconomic Theory 1 3(3-0-6)
+751308 ECON 308 Macroeconomic Theory 1 3(3-0-6)
+2.2 Major : a minimum of 41
+Out of 41 credits must be at least 36 credits of courses in the 300 level or higher and in the 36 credits, at least 18
+credits must be in the 400 level.
+2.2.1 Required Courses 41
+351201 AEC 201 Principles of Agricultural Economics 3(3-0-6)
+351301 AEC 301 Agricultural Production Economics 3(3-0-6)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+351351 AEC 351 Economics of Agricultural Development and Policy 3(3-0-6)
+351441 AEC 441 Research Methods in Agricultural Economics 3(3-0-6)
+351497 AEC 497 Seminar 1 1(1-0-2)
+351498 AEC 498 Seminar 2 1(1-0-2)
+368211 ABM 211 Agribusiness Management 3(3-0-6)
+368310 ABM 310 Applications of Economic Theories for Farm Business 3(2-3-4)
+Students must be select from Special Problems group or Cooperative Education group.
+Special Problems
+351391 AEC 391 Professional Skill Training in Agricultural Economics 3(0-18-
+0)
+and 351499 AEC 499 Special Problems 3(0-9-0)
+or Cooperative Education
+351490 AEC 490 Cooperative Education in Agricultural Economics 6
+And students must be select from Plan 1 Agricultural Economics or Plan 2 Agricultural Business. Study 12 credits from
+the following courses
+Plan 1 Agricultural Economics
+351303 AEC 303 Introduction to Machine Learning in Agricultural Data Analysis 3(3-0-6)
+351392 AEC 392 Agricultural Household and Community Study 3(2-3-4)
+351442 AEC 442 Quantitative Analysis in Agricultural Economics 3(2-3-4)
+351464 AEC 464 Natural Resource and Environmental Economics 3(3-0-6)
+or Plan 2 Agricultural Business
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+368331 ABM 331 Agri - Food Business Finance 3(3-0-6)
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+368441 ABM 441 Quantitative Methods for Agribusiness Management 3(2-3-4)
+2.2.2 Major Electives (if any) : a minimum of 15
+Students who require to study major elective courses must select Plan 1 Agricultural Economics or Plan 2 Agricultural
+Business at least 15 credits as specified in each plan only. For the students who select Plan 1 Agricultural Economics
+must select courses that be in 400 level at least 4 credits or Plan 2 Agricultural Business must select courses that be in
+400 level at least 7 credits
+Plan 1 Agricultural Economics
+Agricultural Economics Group
+351204 AEC 204 Agricultural Systems and Economies in ASEAN Economic Community 3(3-0-6)
+351302 AEC 302 Agricultural Economic Analysis Based on Macroeconomic Theories 3(3-0-6)
+351331 AEC 331 Farmer Institutions for Agricultural Economy 3(3-0-6)
+351371 AEC 371 Sufficiency Economy Paths 3(3-0-6)
+351410 AEC 410 Risk Management in Agriculture 3(3-0-6)
+351416 AEC 416 Alternative Farm Management 3(3-0-6)
+351418 AEC 418 Economic Efficiency of Agricultural Production 3(3-0-6)
+351421 AEC 421 Intermediate Economics of Agricultural Marketing 3(3-0-6)
+351425 AEC 425 Economics of International Trade on Agricultural Commodities 3(3-0-6)
+351426 AEC 426 Agricultural Prices 3(3-0-6)
+351443 AEC 443 Mathematical Programming for Agricultural Economics and Agribusiness 3(3-0-6)
+351461 AEC 461 Agricultural Resource Development and Management 3(3-0-6)
+351463 AEC 463 Environmental Impact Assessment in Socio-Economics 3(3-0-6)
+351487 AEC 487 Selected Topics in Agricultural Economics 1 1(1-0-2)
+351488 AEC 488 Selected Topics in Agricultural Economics 2 2(2-0-4)
+351489 AEC 489 Selected Topics in Agricultural Economics 3 3(3-0-6)
+Agricultural Business Group
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+368331 ABM 331 Agri - Food Business Finance 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+368416 ABM 416 Agribusiness Plan and Investment Project 3(3-0-6)
+368417 ABM 417 Innovation in Agricultural Logistics Management 3(3-0-6)
+Agricultural Group
+352301 AET 301 Leadership in Agricultural Extension 3(3-0-6)
+352431 AET 431 Principles of Public Relations and Communication in Agriculture 3(3-0-6)
+361341 SOIL 341 Spatial Information System for Agriculture 3(2-3-4)
+Economics Group
+751302 ECON 302 Microeconomic Theory 2 3(3-0-6)
+751303 ECON 303 Public Finance 3(3-0-6)
+751309 ECON 309 Macroeconomic Theory 2 3(3-0-6)
+751321 ECON 321 Community Economic Development 3(3-0-6)
+751330 ECON 330 Money and Banking 3(3-0-6)
+751345 ECON 345 Transportation Economics 3(3-0-6)
+751401 ECON 401 International Economics 3(3-0-6)
+751437 ECON 437 Tax System 3(3-0-6)
+Plan 2 Agricultural Business
+Agricultural Economics Group
+351204 AEC 204 Agricultural Systems and Economies in ASEAN Economic Community 3(3-0-6)
+351303 AEC 303 Introduction to Machine Learning in Agricultural Data Analysis 3(3-0-6)
+351331 AEC 331 Farmer Institutions for Agricultural Economy 3(3-0-6)
+351371 AEC 371 Sufficiency Economy Paths 3(3-0-6)
+351410 AEC 410 Risk Management in Agriculture 3(3-0-6)
+351416 AEC 416 Alternative Farm Management 3(3-0-6)
+351425 AEC 425 Economics of International Trade on Agricultural Commodities 3(3-0-6)
+351443 AEC 443 Mathematical Programming for Agricultural Economics and Agribusiness 3(3-0-6)
+351464 AEC 464 Natural Resource and Environmental Economics 3(3-0-6)
+Agricultural Business and Business Administration Group
+368411 ABM 411 Intermediate Agribusiness Management 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+368416 ABM 416 Agribusiness Plan and Investment Project 3(3-0-6)
+368417 ABM 417 Innovation in Agricultural Logistics Management 3(3-0-6)
+368418 ABM 418 Strategic Planning and Management in Agribusiness 3(3-0-6)
+368421 ABM 421 Negotiation in Agri-Food Business 2(2-0-4)
+368431 ABM 431 Financial Management for Agribusiness 3(3-0-6)
+368433 ABM 433 Futures and Options Markets 3(3-0-6)
+368487 ABM 487 Selected Topics in Agribusiness 1 1(1-0-2)
+368488 ABM 488 Selected Topics in Agribusiness 2 2(2-0-4)
+368489 ABM 489 Selected Topics in Agribusiness 3 3(3-0-6)
+703310 MGMT 310 Introduction to Business Computer 3(3-0-6)
+703391 MGMT 391 Business Etiquette 3(3-0-6)
+Agriculture and Agro-Industry Group
+352301 AET 301 Leadership in Agricultural Extension 3(3-0-6)
+352422 AET 422 Agro-tourism Management 3(3-0-6)
+352431 AET 431 Principles of Public Relations and Communication in Agriculture 3(3-0-6)
+356202 ANS 202 Principles of Feed and Animal Nutrition 3(3-0-6)
+356203 ANS 203 Tropical Livestock Farming and Aquaculture 3(3-0-6)
+356212 ANS 212 Animal Production 3(3-0-6)
+357360 ENT 360 Industrial Insects 3(2-3-4)
+363202 PLS 202 Tropical Agriculture 3(3-0-6)
+601351 FST 351 Food Legislation and Standards 2(2-0-4)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+Economics Group
+751330 ECON 330 Money and Banking 3(3-0-6)
+751345 ECON 345 Transportation Economics 3(3-0-6)
+751401 ECON 401 International Economics 3(3-0-6)
+751420 ECON 420 International Finance 3(3-0-6)
+751421 ECON 421 Economics of Investment 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+1) For students, who wish to study in the Minor Subject, must choose a minimum of 15 credits from any minor course
+according to the university announcement with the approval of the advisor.
+2 ) For students, who wish to study in the Miner Subject and chooses to study under Plan 2 in Agricultural Business,
+they must register for one elective course specific to Plan 2 in Agricultural Business. This course must be at the 300
+level or higher.
+3) For students who do not wish to study in the minor subject have to choose the elective courses in 2.2.2., however,
+students have to enroll not less than 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 132
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+206171 MATH 171 General Mathematics 1 3(3-0-6)
+356210 ANS 210 Introduction to Animal and Aquatic Sciences 2(2-0-4)
+363210 PLS 210 Introduction to Plant Production and Soil Management 4(3-3-6)
+GE (Innovative Co-creator) 3
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+751106 ECON 106 Principles of Economics 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+GE (Innovative Co-creator) 3
+GE (Active Citizen) 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+351201 AEC 201 Principles of Agricultural Economics 3(3-0-6)
+400190 AGRI 190 Practical Training 1 1(0-6-0)
+400211 AGRI 211 Agricultural Systems and Natural Resource Management 2(2-0-4)
+363211 PLS 211 Introduction to Postharvest Management of Economic Crops 2(2-0-4)
+GE (Learner Person) 3
+Total 17
+Second Semester Credits
+001227 ENGL 227 English for Agriculture and Agro-Industry 3(3-0-6)
+208373 STAT 373 Statistics for Agriculture 3(3-0-6)
+368211 ABM 211 Agribusiness Management 3(3-0-6)
+400210 AGRI 210 Introduction to Agricultural Innovations 2(2-0-4)
+400290 AGRI 290 Practical Training 2 1(0-6-0)
+751209 ECON 209 Introduction to Mathematical Economics 3(3-0-6)
+751301 ECON 301 Microeconomic Theory 1 3(3-0-6)
+610201 AG 201 Introduction to Agro-Industrial Process 2(2-0-4)
+Total 20
+Plan 1 Agricultural Economics
+Third Year
+First Semester Credits
+351301 AEC 301 Agricultural Production Economics 3(3-0-6)
+351303 AEC 303 Introduction to Machine Learning in Agricultural Data Analysis 3(3-0-6)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+751308 ECON 308 Macroeconomic Theory 1 3(3-0-6)
+Major Elective/Minor 3
+Free Elective 3
+Total 18
+Second Semester Credits
+351351 AEC 351 Economics of Agricultural Development and Policy 3(3-0-6)
+351392 AEC 392 Agricultural Household and Community Study 3(2-3-4)
+351497 AEC 497 Seminar 1 1(1-0-2)
+368310 ABM 310 Applications of Economic Theories for Farm Business 3(2-3-4)
+Major Elective/Minor 3
+Free Elective 3
+Total 16
+Fourth Year
+First Semester Credits
+351441 AEC 441 Research Methods in Agricultural Economics 3(3-0-6)
+351442 AEC 442 Quantitative Analysis in Agricultural Economics 3(2-3-4)
+351464 AEC 464 Natural Resource and Environmental Economics 3(3-0-6)
+Major Elective/Minor 9
+Total 18
+Second Semester Credits
+351498 AEC 498 Seminar 2 1(1-0-2)
+351391 AEC 391 Professional Skill Training in Agricultural Economics 3(0-18-0)
+and 351499 AEC 499 Special Problems 3(0-9-0)
+or 351490 AEC 490 Cooperative Education in Agricultural Economics 6
+Total 7
+Plan 2 Agricultural Business
+Third Year
+First Semester Credits
+351301 AEC 301 Agricultural Production Economics 3(3-0-6)
+351321 AEC 321 Economics of Agricultural Marketing 3(3-0-6)
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+751308 ECON 308 Macroeconomic Theory 1 3(3-0-6)
+Major Elective/Minor 3
+Free Elective 3
+Total 18
+Second Semester Credits
+351351 AEC 351 Economics of Agricultural Development and Policy 3(3-0-6)
+351497 AEC 497 Seminar 1 1(1-0-2)
+368310 ABM 310 Applications of Economic Theories for Farm Business 3(2-3-4)
+368331 ABM 331 Agri - Food Business Finance 3(3-0-6)
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+Major Elective/Minor 3
+Free Elective 3
+Total 19
+Fourth Year
+First Semester Credits
+351441 AEC 441 Research Methods in Agricultural Economics 3(3-0-6)
+368441 ABM 441 Quantitative Methods for Agribusiness Management 3(2-3-4)
+Major Elective/Minor 9
+Total 15
+Second Semester Credits
+351498 AEC 498 Seminar 2 1(1-0-2)
+351391 AEC 391 Professional Skill Training in Agricultural Economics 3(0-18-0)
+and 351499 AEC 499 Special Problems 3(0-9-0)
+or 351490 AEC 490 Cooperative Education in Agricultural Economics 6
+Total 7

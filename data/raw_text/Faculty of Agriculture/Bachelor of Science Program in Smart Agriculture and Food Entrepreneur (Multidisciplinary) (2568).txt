@@ -1,0 +1,419 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code :
+Bachelor of Science Program in Smart Agriculture and Food
+Entrepreneur (Multidisciplinary) (2568)
+Name of the degree
+Full : Bachelor of Science (Smart Agriculture and Food Entrepreneur)
+Abbreviation : B.S. (Smart Agriculture and Food Entrepreneur)
+Curriculum structure
+1. General Education 24
+1) Language Literacy 9
+Classify the courses for students based on their English proficiency test (e-Pro) results into two groups as follows
+• For students whose e-Pro score is below the B1 level or equivalent
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+• For students whose e-Pro score is on the B1 level or higher or equivalent
+1) Required course 3
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+2) Elective courses 6
+Select 2 English courses in General Education
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001233 ENGL 233 English for Standardized Tests 3(3-0-6)
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001243 ENGL 243 Basics of Effective Essay Writing 3(3-0-6)
+001244 ENGL 244 English Language, Culture, and Mind 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001246 ENGL 246 English Language in the Hotel Industry 3(3-0-6)
+001247 ENGL 247 English for Tour Guides and Travel Agents 3(3-0-6)
+001248 ENGL 248 English for Airline Services and Operations 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+* or use standard English test results according to the announcement from the university for equivalence
+2) Digital Literacy 3
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+3) Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+4) Creativity and Innovation 3
+Select from the following courses
+201110 SC 110 Integrated Mathematical Sciences 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+210110 MATS 110 General Biomaterials 3(3-0-6)
+271111 REAI 111 Robotics Appreciation 3(3-0-6)
+271112 REAI 112 Fundamentals of Rapid Prototyping for Robotics Engineering 3(3-0-6)
+602101 BIOT 101 Biotechnology and Modern World 3(3-0-6)
+603200 PKT 200 Packaging in Daily Life 3(3-0-6)
+610111 AG 111 Packaging for Marketing 3(3-0-6)
+610112 AG 112 Food Product Innovation 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+5) Entrepreneurial Skills 3
+Select from the following courses
+128100 PA 100 Basic Good Governance in Administration 3(3-0-6)
+176105 LAGE 105 Legal Problem Management in Everyday Life 3(3-0-6)
+259194 ENGR 194 Characteristics and Values for Being a Professional Entrepreneur 1(0-3-1)
+368100 ABM 100 Starting an Agribusiness in a Changing World 3(3-0-6)
+602103 BIOT 103 Agro-Industry and Quality of Life 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+701185 ACC 185 Simple Tax Management Technique 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+702102 FINA 102 Investment in a Dynamic Financial World 3(3-0-6)
+703100 MGMT 100 Startup and Entrepreneurship Fundamentals 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+888109 DIN 109 Introduction to Emerging Rules of Disruptive Technology in Trade 3(3-0-6)
+6) Digital Literacy or Global Citizen or Artificial Intelligence 3
+Select from the following courses
+Digital Literacy
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+888103 DIN 103 Internet Programming Language 3(2-2-5)
+888104 DIN 104 Introduction to Internet of Things 3(3-0-6)
+888105 DIN 105 Internet Data System 3(3-0-6)
+888106 DIN 106 Communication and Networking in Online Society 3(3-0-6)
+954101 INX 101 Introduction to Modern Management and Information Technology 3(3-0-6)
+Global Citizen
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+140106 PG 106 Sustainable Development Goals 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+888108 DIN 108 Smart Society 3(3-0-6)
+888194 DIN 194 Service Learning in Society 5.0 3(3-0-6)
+Artificial Intelligence
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955113 ATGE 113 Generative Artificial Intelligence for Business Management 3(3-0-6)
+955115 ATGE 115 Generative Artificial Intelligence for Digital Innovation 3(3-0-6)
+Note: Students can select general education courses from both in country and abroad, then transfer the credit to
+general education courses as defined in the curriculum from the consent of the department.
+2. Field of Specialization : a minimum of 101
+2.1 Core Courses 51
+2.1.1) Science 9
+201120 SC 120 Science for Smart Agriculture and Food 3(3-0-6)
+204101 CS 101 Introduction to Computer Science 3(2-2-5)
+204217 CS 217 Computer Programming Languages 3(2-2-5)
+2.1.2) Engineering 9
+260213 AE 213 Power and Machinery for Modern Agriculture and Food 3(3-0-6)
+260251 AE 251 Automation System in Agriculture and Food 3(3-0-6)
+260261 AE 261 Modern Plant Watering Technology 3(3-0-6)
+2.1.3) Agriculture 22
+356170 ANS 170 Animal Production by Smart Farm System 3(1-6-5)
+356171 ANS 171 Aquaculture by Smart Farm System 3(1-6-5)
+356270 ANS 270 Pre and Post Handling Technology in Animal Production 3(1-6-5)
+363212 PLS 212 Smart Plant Production 6(4-6-8)
+363213 PLS 213 Postharvest Handling of Grains and Perishable Produces 3(2-3-4)
+368212 ABM 212 Introduction to Agri-Food Business Management 4(4-0-8)
+2.1.4) Agro-Industry 11
+601101 FST 101 Basic Food Quality Control and Quality Assurance 3(3-0-6)
+605100 PDT 100 Basic Food Manufacturing 3(2-3-4)
+605101 PDT 101 Basic Food Product Development 3(3-0-6)
+610201 AG 201 Introduction to Agro-Industrial Process 2(2-0-4)
+2.2 Major : a minimum of 50
+The major field must have 300 level course or higher at least 36 credits and in the 36 credits must be 400 level course
+at least 18 credits.
+1) Smart Automation
+2.2.1 Required Courses 38
+204202 CS 202 Information Technology and Web Development 3(2-2-5)
+204320 CS 320 Database Management 3(2-2-5)
+or 204383 CS 383 Image Processing 3(3-0-6)
+204335 CS 335 Microcontroller and Internet of Things 3(2-2-5)
+260302 AE 302 Engineering Principles for Smart Agriculture and Food 3(3-0-6)
+260315 AE 315 Agriculture and Food Materials Handling System 3(3-0-6)
+260321 AE 321 Modern Drying Technology for Agriculture and Food 3(3-0-6)
+260322 AE 322 Cooling Technology for Agriculture and Food 3(3-0-6)
+260351 AE 351 Power Control System for Agriculture and Food Production 3(3-0-6)
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+and students us select either Startup Incubation group or Work Integrated Learning group
+Work Integrated Learning Group
+371490 SAFE 490 Work Integrated Learning 1 6
+371491 SAFE 491 Work Integrated Learning 2 6
+or Startup Incubation Group
+371492 SAFE 492 Startup Incubation 1 6(0-36-
+0)
+371493 SAFE 493 Startup Incubation 2 6(0-36-
+0)
+2.2.2 Major Electives : a minimum of 12
+Select courses from Smart Agriculture and Food or Smart Agri-business Management
+Select major elective courses level 400 at least 4 credits
+Smart Agriculture and Food
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356461 ANS 461 Good Agricultural Practices in Livestock and Aquaculture Farming 3(2-3-4)
+356487 ANS 487 Meat Management 3(3-0-6)
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+602432 BIOT 432 Oriental Fermented Food 3(2-3-4)
+605332 PDT 332 Role of Consumer in Product Development System 3(3-0-6)
+605460 PDT 460 Flavor for Product Development 3(3-0-6)
+606464 MPT 464 Fish Mince Product Technology 3(2-3-4)
+Or Smart Agri-business Management
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+703331 MGMT 331 Human Resource Management 3(3-0-6)
+954321 INX 321 Operations and Service for E-Service 3(3-0-6)
+954347 INX 347 E-Commerce 3(2-2-5)
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+368417 ABM 417 Innovation in Agricultural Logistics Management 3(3-0-6)
+368418 ABM 418 Strategic Planning and Management in Agribusiness 3(3-0-6)
+368421 ABM 421 Negotiation in Agri-Food Business 3(3-0-6)
+705439 MKTG 439 Business Exhibition and Trade Fair 3(3-0-6)
+705445 MKTG 445 Business Marketing 3(3-0-6)
+705446 MKTG 446 Tourism Marketing 3(3-0-6)
+705461 MKTG 461 Retail Management 3(3-0-6)
+2) Smart Agriculture and Food
+2.2.1 Required Courses 38
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+and students us select either Startup Incubation group or Work Integrated Learning group
+Work Integrated Learning Group
+371490 SAFE 490 Work Integrated Learning 1 6
+371491 SAFE 491 Work Integrated Learning 2 6
+or Startup Incubation Group
+371492 SAFE 492 Startup Incubation 1 6(0-36-
+0)
+371493 SAFE 493 Startup Incubation 2 6(0-36-
+0)
+and Students must select to study either the Plant Science Group or Animal and Aquatic Science Group
+Plant Science Group
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+Animal and Aquatic Science Group
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356461 ANS 461 Good Agricultural Practices in Livestock and Aquaculture Farming 3(2-3-4)
+356487 ANS 487 Meat Management 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+and select 3 courses from the following courses
+602432 BIOT 432 Oriental Fermented Food 3(2-3-4)
+605332 PDT 332 Role of Consumer in Product Development System 3(3-0-6)
+605460 PDT 460 Flavor for Product Development 3(3-0-6)
+606464 MPT 464 Fish Mince Product Technology 3(2-3-4)
+2.2.2 Major Electives : a minimum of 12
+Select courses from Smart Automation or Smart Agri-business Management
+Smart Automation
+204320 CS 320 Database Management 3(2-2-5)
+204383 CS 383 Image Processing 3(3-0-6)
+204335 CS 335 Microcontroller and Internet of Things 3(2-2-5)
+260302 AE 302 Engineering Principles for Smart Agriculture and Food 3(3-0-6)
+260315 AE 315 Agriculture and Food Materials Handling System 3(3-0-6)
+260321 AE 321 Modern Drying Technology for Agriculture and Food 3(3-0-6)
+260322 AE 322 Cooling Technology for Agriculture and Food 3(3-0-6)
+260351 AE 351 Power Control System for Agriculture and Food Production 3(3-0-6)
+Or Smart Agri-business Management
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+703331 MGMT 331 Human Resource Management 3(3-0-6)
+954321 INX 321 Operations and Service for E-Service 3(3-0-6)
+954347 INX 347 E-Commerce 3(2-2-5)
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+368417 ABM 417 Innovation in Agricultural Logistics Management 3(3-0-6)
+368418 ABM 418 Strategic Planning and Management in Agribusiness 3(3-0-6)
+368421 ABM 421 Negotiation in Agri-Food Business 3(3-0-6)
+705439 MKTG 439 Business Exhibition and Trade Fair 3(3-0-6)
+705445 MKTG 445 Business Marketing 3(3-0-6)
+705446 MKTG 446 Tourism Marketing 3(3-0-6)
+705461 MKTG 461 Retail Management 3(3-0-6)
+3) Smart Agri-business Management
+2.2.1 Required Courses 38
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+703331 MGMT 331 Human Resource Management 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+954321 INX 321 Operations and Service for E-Service 3(3-0-6)
+954347 INX 347 E-Commerce 3(2-2-5)
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+and students us select either Startup Incubation group or Work Integrated Learning group
+Work Integrated Learning Group
+371490 SAFE 490 Work Integrated Learning 1 6
+371491 SAFE 491 Work Integrated Learning 2 6
+or Startup Incubation Group
+371492 SAFE 492 Startup Incubation 1 6(0-36-
+0)
+371493 SAFE 493 Startup Incubation 2 6(0-36-
+0)
+Select 2 courses from the following courses
+368317 ABM 317 Economics and Management of Agricultural Value Chain 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+368417 ABM 417 Innovation in Agricultural Logistics Management 3(3-0-6)
+368418 ABM 418 Strategic Planning and Management in Agribusiness 3(3-0-6)
+368421 ABM 421 Negotiation in Agri-Food Business 3(3-0-6)
+705439 MKTG 439 Business Exhibition and Trade Fair 3(3-0-6)
+705445 MKTG 445 Business Marketing 3(3-0-6)
+705446 MKTG 446 Tourism Marketing 3(3-0-6)
+705461 MKTG 461 Retail Management 3(3-0-6)
+2.2.2 Major Electives : a minimum of 12
+Select courses from Smart Automation or Smart Agriculture and Food
+and select major elective courses level 300 at least 4 credits and level 400 at least 3 credits
+Smart Automation
+204320 CS 320 Database Management 3(2-2-5)
+204383 CS 383 Image Processing 3(3-0-6)
+204335 CS 335 Microcontroller and Internet of Things 3(2-2-5)
+260302 AE 302 Engineering Principles for Smart Agriculture and Food 3(3-0-6)
+260315 AE 315 Agriculture and Food Materials Handling System 3(3-0-6)
+260321 AE 321 Modern Drying Technology for Agriculture and Food 3(3-0-6)
+260322 AE 322 Cooling Technology for Agriculture and Food 3(3-0-6)
+260351 AE 351 Power Control System for Agriculture and Food Production 3(3-0-6)
+Or Smart Agriculture and Food
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356461 ANS 461 Good Agricultural Practices in Livestock and Aquaculture Farming 3(2-3-4)
+356487 ANS 487 Meat Management 3(3-0-6)
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+602432 BIOT 432 Oriental Fermented Food 3(2-3-4)
+605332 PDT 332 Role of Consumer in Product Development System 3(3-0-6)
+605460 PDT 460 Flavor for Product Development 3(3-0-6)
+606464 MPT 464 Fish Mince Product Technology 3(2-3-4)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 131
+Study plan
+First Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+140104 PG 104 Citizenship 3(3-0-6)
+201120 SC 120 Science for Smart Agriculture and Food 3(3-0-6)
+356170 ANS 170 Animal Production by Smart Farm System 3(1-6-5)
+356171 ANS 171 Aquaculture by Smart Farm System 3(1-6-5)
+363212 PLS 212 Smart Plant Production 6(4-6-8)
+Total 21
+Second Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+Select English courses as required -
+356270 ANS 270 Pre and Post Handling Technology in Animal Production 3(1-6-5)
+363213 PLS 213 Postharvest Handling of Grains and Perishable Produces 3(2-3-4)
+605100 PDT 100 Basic Food Manufacturing 3(2-3-4)
+610201 AG 201 Introduction to Agro-Industrial Process 2(2-0-4)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+Total 17
+Second Year
+First Semester Credits
+Language Literacy 3
+For students who have not achieved a B1 level or equivalent on the e-Pro test -
+001225 ENGL 225 English in Science and Technology Context -(3-0-6)
+For students who have achieved a B1 level or equivalent on the e-Pro test -
+001225 ENGL 225 English in Science and Technology Context -(3-0-6)
+204101 CS 101 Introduction to Computer Science 3(2-2-5)
+260213 AE 213 Power and Machinery for Modern Agriculture and Food 3(3-0-6)
+260251 AE 251 Automation System in Agriculture and Food 3(3-0-6)
+601101 FST 101 Basic Food Quality Control and Quality Assurance 3(3-0-6)
+605101 PDT 101 Basic Food Product Development 3(3-0-6)
+Free Elective 3
+Total 21
+Second Semester Credits
+204217 CS 217 Computer Programming Languages 3(2-2-5)
+260261 AE 261 Modern Plant Watering Technology 3(3-0-6)
+368212 ABM 212 Introduction to Agri-Food Business Management 4(4-0-8)
+GE (Creativity and Innovation) 3
+GE (Entrepreneurial Skills) 3
+GE (Digital Literacy or Global Citizen or Artificial Intelligence) 3
+Total 19
+1) Smart Automation
+Third Year
+First Semester Credits
+204335 CS 335 Microcontroller and Internet of Things 3(2-2-5)
+260302 AE 302 Engineering Principles for Smart Agriculture and Food 3(3-0-6)
+260321 AE 321 Modern Drying Technology for Agriculture and Food 3(3-0-6)
+260322 AE 322 Cooling Technology for Agriculture and Food 3(3-0-6)
+Major Electives from Smart Agriculture and Food or Smart Agri-business Management 6
+Free Elective 3
+Total 21
+Second Semester Credits
+204202 CS 202 Information Technology and Web Development 3(2-2-5)
+204320 CS 320 Database Management 3(2-2-5)
+or 204383 CS 383 Image Processing 3(3-0-6)
+260315 AE 315 Agriculture and Food Materials Handling System 3(3-0-6)
+260351 AE 351 Power Control System for Agriculture and Food Production 3(3-0-6)
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+Major Electives from Smart Agriculture and Food or Smart Agri-business Management 6
+Total 20
+2) Smart Agriculture and Food : Plant Science Group
+Third Year
+First Semester Credits
+358301 EPP 301 Insect Pest and Plant Disease Managements 3(2-3-4)
+359467 HORT 467 Good Agricultural Practices for Food Crops 3(3-0-6)
+363401 PLS 401 Unmanned Aerial Vehicle Technology in Agriculture 3(2-3-4)
+363402 PLS 402 Greenhouse Technology 3(2-3-4)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+Major Electives from Smart Automation or Smart Agri-business Management 3
+Free Elective 3
+Total 21
+2) Smart Agriculture and Food : Animal and Aquatic Science Group
+Third Year
+First Semester Credits
+356336 ANS 336 Nutrition and Feed Technology of Aquatic Animals 3(2-3-6)
+356433 ANS 433 Animal Feed Manufacturing 3(3-0-6)
+356461 ANS 461 Good Agricultural Practices in Livestock and Aquaculture Farming 3(2-3-4)
+356487 ANS 487 Meat Management 3(3-0-6)
+368412 ABM 412 Agribusiness Marketing Analysis and Management 3(3-0-6)
+Major Electives from Smart Automation or Smart Agri-business Management 3
+Free Elective 3
+Total 21
+Second Semester Credits
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+and select 3 courses from the following courses 9
+602432 BIOT 432 Oriental Fermented Food -(2-3-4)
+606464 MPT 464 Fish Mince Product Technology -(2-3-4)
+605332 PDT 332 Role of Consumer in Product Development System -(3-0-6)
+605460 PDT 460 Flavor for Product Development -(3-0-6)
+Major Electives from Smart Automation or Smart Agri-business Management 9
+Total 20
+3) Smart Agri-business Management
+Third Year
+First Semester Credits
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+954321 INX 321 Operations and Service for E-Service 3(3-0-6)
+954347 INX 347 E-Commerce 3(2-2-5)
+Major Electives from Smart Automation or Smart Agriculture and Food 6
+Free Elective 3
+Total 21
+Second Semester Credits
+368392 ABM 392 Agribusiness Entrepreneurial Skills 3(2-3-4)
+371494 SAFE 494 Selected Topics in Smart Agriculture and Food Entrepreneur 1(1-0-2)
+371497 PHT 497 Seminar 1(1-0-2)
+703331 MGMT 331 Human Resource Management 3(3-0-6)
+Major Electives 6
+Major Electives from Smart Automation or Smart Agriculture and Food 6
+Total 20
+Fourth Year
+First Semester Credits
+371490 SAFE 490 Work Integrated Learning 1 6
+or 371492 SAFE 492 Startup Incubation 1 6(0-36-0)
+Total 6
+Second Semester Credits
+371491 SAFE 491 Work Integrated Learning 2 6
+or 371493 SAFE 493 Startup Incubation 2 6(0-36-0)
+Total 6

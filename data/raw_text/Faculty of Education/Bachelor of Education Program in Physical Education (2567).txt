@@ -1,0 +1,222 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25350041100249
+Bachelor of Education Program in Physical Education (2567)
+Name of the degree
+Full : Bachelor of Education (Physical Education)
+Abbreviation : B.Ed. (Physical Education)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+461100 PHPS 100 Herbs for Health and Beauty 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective Courses 3
+Choose one course from the followings :
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+109100 FAGE 100 Man and Art 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+951100 ANI 100 Modern Life and Animation 3(3-0-6)
+(2) Field of Specialization : a minimum of 108
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Electives Core Courses : a minimum of 2
+Choose one course from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 71
+A minimum of 36 credits in major courses at 300 level and among these must be a minimum of 18 credits in 400 level.
+2.2.1 Academic Content Courses : a minimum of 61
+1) Required Courses 36
+057140 EDPE 140 Sports Philosophy and Olympic Studies 2(2-0-4)
+057284 EDPE 284 Football Study 2(2-0-4)
+057285 EDPE 285 Swimming Study 2(2-0-4)
+057286 EDPE 286 Volleyball Study 2(2-0-4)
+057287 EDPE 287 Track and Field Study 2(2-0-4)
+057288 EDPE 288 Basketball Study 2(2-0-4)
+057294 EDPE 294 Table Tennis Study 2(2-0-4)
+057295 EDPE 295 Sword and Pole and Thai Fencing Studies 2(2-0-4)
+057297 EDPE 297 Sepak Takraw Study 2(2-0-4)
+057298 EDPE 298 Muaythai Study 2(2-0-4)
+057300 EDPE 300 Principles of Sports Science in Sports and Exercise 2(2-0-4)
+057301 EDPE 301 Principles of Movement in Exercise and Sports 2(2-0-4)
+057309 309
+057366 EDPE 366 Weight Training 2(2-0-4)
+057420 EDPE 420 Organizing Events 2(2-0-4)
+057428 EDPE 428 Scout 2(2-0-4)
+301361 ANAT 361 Anatomy for Educational Students 3(2-2-5)
+2) Electives Courses : a minimum of 25
+A minimum of 10 credits in major elective courses at 300 level and among these must be a minimum of 6 credits in 400
+level.
+057201 EDPE 201 Camp Administration and Management 2(2-0-4)
+057205 EDPE 205 Technique and Skill in Lead Up Games 1(1-0-2)
+057207 EDPE 207 Lifesaving 3(3-0-6)
+057208 EDPE 208 Physical Activity and Thai Traditional Plays 3(3-0-6)
+057215 EDPE 215 introduction to Recreation 2(2-0-4)
+057273 EDPE 273 Handball Study 1(1-0-2)
+057274 EDPE 274 Futsal Study 1(1-0-2)
+057276 EDPE 276 Taekwondo Study 1(1-0-2)
+057278 EDPE 278 Hockey Study 1(1-0-2)
+057279 EDPE 279 Judo Study 1(1-0-2)
+057280 EDPE 280 Boxing Study 1(1-0-2)
+057283 EDPE 283 Rhythmic Activity Study 1(1-0-2)
+057289 EDPE 289 Badminton Study 2(2-0-4)
+057290 EDPE 290 Tennis Study 2(2-0-4)
+057293 EDPE 293 Aerobic Exercise 2(2-0-4)
+057296 EDPE 296 Gymnastic Study 1(1-0-2)
+057302 EDPE 302 Body Conditioning 2(2-0-4)
+057305 EDPE 305 Children Activities 2(2-0-4)
+057324 EDPE 324 Knowledge Management for Physical Education and Sports 3(3-0-6)
+057325 EDPE 325 Physical Activity for the Disabled 2(2-0-4)
+057351 EDPE 351 Martial Arts Study 1(1-0-2)
+057403 EDPE 403 Instructional Design for Physical Activities 2(2-0-4)
+057404 EDPE 404 Fitness Assessment and Exercise Prescription 2(2-0-4)
+057410 EDPE 410 Sport and Exercise Psychology 3(3-0-6)
+057411 EDPE 411 Sport and Exercise Nutrition 2(2-0-4)
+057416 EDPE 416 Research in Physical Education and Sports Science 2(2-0-4)
+057419 EDPE 419 Sport and Exercise Management 2(2-0-4)
+057426 EDPE 426 Physical Education Administration 2(2-0-4)
+057450 EDPE 450 Sports Marketing 2(2-0-4)
+2.2.2 Educational Courses 10
+057316 EDPE 316 Principles of Physical Education 2(2-0-4)
+057401 EDPE 401 Test, Measurement and Evaluation in Physical Education 2(2-0-4)
+057402 EDPE 402 Innovation, Technology and Research in Physical Education and Sports Science 2(2-0-4)
+057407 EDPE 407 Curriculum and Learning Management in Physical Education 2(2-0-4)
+057453 EDPE 453 Multicultural Study and Physical Education Teaching and Learning 2(2-0-4)
+2.3 Minor (If any) : a minimum of 15
+According to the Chiang Mai University regulation on the Minor curriculum for the Chiang Mai University student, if
+students choose to have a minor degree in a curriculum at the Chiang Mai University, they can register those courses
+not less than 15 credits with the academic advisor’s approval. Hence, the total credits for the whole curriculum is
+increased at least 15 credits.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 144
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+057140 EDPE 140 Sports Philosophy and Olympic Studies 2(2-0-4)
+057284 EDPE 284 Football Study 2(2-0-4)
+057285 EDPE 285 Swimming Study 2(2-0-4)
+057288 EDPE 288 Basketball Study 2(2-0-4)
+057294 EDPE 294 Table Tennis Study 2(2-0-4)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+Academic Content Courses (Elective Courses) 2
+Total 19
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+057286 EDPE 286 Volleyball Study 2(2-0-4)
+057287 EDPE 287 Track and Field Study 2(2-0-4)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+Academic Content Courses (Elective Courses) 6
+Total 21
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+057298 EDPE 298 Muaythai Study 2(2-0-4)
+057316 EDPE 316 Principles of Physical Education 2(2-0-4)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+Academic Content Courses (Elective Courses) 6
+Total 21
+Second Semester Credits
+001202 ENGL 202 English in Professional Contexts 3(3-0-6)
+057295 EDPE 295 Sword and Pole and Thai Fencing Studies 2(2-0-4)
+057297 EDPE 297 Sepak Takraw Study 2(2-0-4)
+057407 EDPE 407 Curriculum and Learning Management in Physical Education 2(2-0-4)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+301361 ANAT 361 Anatomy for Educational Students 3(2-2-5)
+Elective Core Course 2
+Total 21
+Third Year
+First Semester Credits
+057300 EDPE 300 Principles of Sports Science in Sports and Exercise 2(2-0-4)
+057402 EDPE 402 Innovation, Technology and Research in Physical Education and Sports Science 2(2-0-4)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+057309 309 0
+GE : Learner Person (Elective Courses) 3
+Academic Content Courses (Elective Courses) 2
+Free Electives 3
+Total 17
+Second Semester Credits
+057301 EDPE 301 Principles of Movement in Exercise and Sports 2(2-0-4)
+057366 EDPE 366 Weight Training 2(2-0-4)
+057453 EDPE 453 Multicultural Study and Physical Education Teaching and Learning 2(2-0-4)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+GE : Active Citizen (Elective Courses) 3
+Academic Content Courses (Elective Courses) 3
+Total 18
+Fourth Year
+First Semester Credits
+057401 EDPE 401 Test, Measurement and Evaluation in Physical Education 2(2-0-4)
+057420 EDPE 420 Organizing Events 2(2-0-4)
+057428 EDPE 428 Scout 2(2-0-4)
+GE : Innovative Co-creator (Elective Courses) 3
+Academic Content Courses (Elective Courses) 6
+Free Electives 3
+Total 18
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6

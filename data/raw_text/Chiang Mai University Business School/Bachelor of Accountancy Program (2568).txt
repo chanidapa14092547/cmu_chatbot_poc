@@ -1,0 +1,192 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25490041103147
+Bachelor of Accountancy Program (2568)
+Name of the degree
+Full : Bachelor of Accountancy
+Abbreviation : B.Acc.
+Curriculum structure
+1. General Education 24
+1.1 Required Courses 21
+1.1.1 Language Literacy 9
+For students whose e-Pro score is below the B1 level or equivalent
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001228 ENGL 228 English for Business and Economics 3(3-0-6)
+For students whose e-Pro score is on the B1 level or higher or equivalent
+1) Required Courses 3
+001228 ENGL 228 English for Business and Economics 3(3-0-6)
+2) Elective Courses 6
+Select from the followings
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001233 ENGL 233 English for Standardized Tests 3(3-0-6)
+001241 ENGL 241 Oral Communication in English 3(3-0-6)
+001242 ENGL 242 Exploring Reading and Writing Skills 3(3-0-6)
+001243 ENGL 243 Basics of Effective Essay Writing 3(3-0-6)
+001244 ENGL 244 English Language, Culture, and Mind 3(3-0-6)
+001245 ENGL 245 Reading English in the Media 3(3-0-6)
+001246 ENGL 246 English Language in the Hotel Industry 3(3-0-6)
+001247 ENGL 247 English in the Tourism Industry 3(3-0-6)
+001248 ENGL 248 English in the Airline Industry 3(3-0-6)
+001249 ENGL 249 English for Travelling 3(3-0-6)
+1.1.2 Digital Literacy 3
+261111 CPE 111 Internet and Online Community in the Age of AI 3(3-0-6)
+1.1.3 Global Citizen 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.1.4 Creativity and Innovation 3
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+1.1.5 Entrepreneurial Skills 3
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.2 Elective Courses 3
+1.2.1 Digital Literacy or Global Citizen or Artificial Intelligence 3
+Digital Literacy
+Select from the followings
+009103 LS 103 Information Literacy and Information Presentation 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+Global Citizen
+Select from the followings
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+103271 DART 271 Music Appreciation 3(3-0-6)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+127100 GOV 100 Politics in Everyday Life 3(3-0-6)
+140103 PG 103 Anti-Corruption in Thailand 3(3-0-6)
+140106 PG 106 Sustainable Development Goals 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154142 GEO 142 Climate Change and Society 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159100 SA 100 Modern World in Everyday Life 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+365221 HANR 221 Principles of Conservation 3(3-0-6)
+515101 RT 101 Radiation in Everyday Life 3(3-0-6)
+851103 MC 103 Life and Society through Media 3(3-0-6)
+Artificial Intelligence
+Select from the followings
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+955113 ATGE 113 Generative Artificial Intelligence for Business Management 3(3-0-6)
+2. Field of Specialization : a minimum of 99
+2.1 Core Courses 36
+176220 LAGE 220 Fundamental Business Law 3(3-0-6)
+206171 MATH 171 General Mathematics 1 3(3-0-6)
+208270 STAT 270 Statistics in Social Sciences 3(3-0-6)
+701101 ACC 101 Elementary Accounting 3(3-0-6)
+702205 FINA 205 Foundations of Economics for Business Administration 3(3-0-6)
+702211 FINA 211 Business Finance 1 3(3-0-6)
+702312 FINA 312 Business Finance 2 3(3-0-6)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+2.2 Major : a minimum of 48
+Credits earned from required courses in 2.2.1 and 2.2.2 must contain at least 36 credits of 300 level courses and at least
+18 credits of 400 level courses
+2.2.1 Required Courses 45
+701201 ACC 201 Intermediate Accounting 1 3(3-0-6)
+701202 ACC 202 Intermediate Accounting 2 3(3-0-6)
+701211 ACC 211 Cost Accounting 3(3-0-6)
+701244 ACC 244 Taxation 1 3(3-0-6)
+701313 ACC 313 Managerial Accounting 3(3-0-6)
+701321 ACC 321 Auditing and Assurance Services 3(3-0-6)
+701322 ACC 322 Internal Control and Internal Auditing 3(3-0-6)
+701331 ACC 331 Accounting Information Systems 3(3-0-6)
+701335 ACC 335 Software for Accountancy 3(3-0-6)
+701342 ACC 342 Taxation 2 3(3-0-6)
+701401 ACC 401 Advanced Accounting 1 3(3-0-6)
+701402 ACC 402 Advanced Accounting 2 3(3-0-6)
+701403 ACC 403 Financial Report and Analysis 3(3-0-6)
+701413 ACC 413 Strategic Cost Management 3(3-0-6)
+701499 ACC 499 Seminar in Accounting 3(3-0-6)
+2.2.2 Major Electives 3
+701490 ACC 490 Professional Accounting Skills and Experience Internship 3(0-18-
+0)
+701411 ACC 411 Accounting Planning and Control 3(3-0-6)
+701421 ACC 421 Auditing Problems 3(3-0-6)
+701422 ACC 422 Internal Control and Internal Audit Problems 3(3-0-6)
+701425 ACC 425 Forensic Accounting 3(3-0-6)
+701436 ACC 436 Analysis and Design of Accounting Information System 3(3-0-6)
+701437 ACC 437 Information Technology Audit and Control 3(3-0-6)
+701450 ACC 450 Accounting for Climate Change and Sustainability 3(3-0-6)
+701451 ACC 451 Corporate Governance 3(3-0-6)
+701454 ACC 454 Research in Accounting 3(3-0-6)
+701455 ACC 455 International Accounting 3(3-0-6)
+701458 ACC 458 Selected Topics in Accounting 3(3-0-6)
+2.3 Minor : a minimum of 15
+Choosing to Minor in information technology or Minor in data science
+3. Free Electives : a minimum of 6
+Total : a minimum of 129
+Study plan
+First Year
+First Semester Credits
+GE (Language Literacy) 3
+• For students whose e-Pro score is below the B1 level or equivalent -
+001101 ENGL 101 Fundamental English 1 -(3-0-6)
+• For students whose e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+140104 PG 104 Citizenship 3(3-0-6)
+261111 CPE 111 Internet and Online Community in the Age of AI 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+176220 LAGE 220 Fundamental Business Law 3(3-0-6)
+702205 FINA 205 Foundations of Economics for Business Administration 3(3-0-6)
+Total 18
+Second Semester Credits
+GE (Language Literacy) 3
+• For students whose e-Pro score is below the B1 level or equivalent -
+001102 ENGL 102 Fundamental English 2 -(3-0-6)
+• For students whose e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+701101 ACC 101 Elementary Accounting 3(3-0-6)
+702211 FINA 211 Business Finance 1 3(3-0-6)
+703202 MGMT 202 Principles of Management and Organization 3(3-0-6)
+705211 MKTG 211 Marketing Principles 3(3-0-6)
+General Education Elective (Digital Literacy or Global Citizen or Aritficial Intelligence 3
+Total 18
+Second Year
+First Semester Credits
+General Education: Required Courses: Language Literacy 3
+• e-Pro score is below the B1 level or equivalent -
+001228 ENGL 228 English for Business and Economics -(3-0-6)
+• e-Pro score is on the B1 level or higher or equivalent -
+Select English courses as required -
+206171 MATH 171 General Mathematics 1 3(3-0-6)
+701201 ACC 201 Intermediate Accounting 1 3(3-0-6)
+701211 ACC 211 Cost Accounting 3(3-0-6)
+702312 FINA 312 Business Finance 2 3(3-0-6)
+Minor 3
+Total 18
+Second Semester Credits
+701202 ACC 202 Intermediate Accounting 2 3(3-0-6)
+701244 ACC 244 Taxation 1 3(3-0-6)
+208270 STAT 270 Statistics in Social Sciences 3(3-0-6)
+703322 MGMT 322 Communication for Business Results 3(3-0-6)
+Minor 3
+Total 15
+Third Year
+First Semester Credits
+701313 ACC 313 Managerial Accounting 3(3-0-6)
+701321 ACC 321 Auditing and Assurance Services 3(3-0-6)
+701331 ACC 331 Accounting Information Systems 3(3-0-6)
+701342 ACC 342 Taxation 2 3(3-0-6)
+703244 MGMT 244 Production and Operations Management 3(3-0-6)
+Minor 3
+Total 18
+Second Semester Credits
+701322 ACC 322 Internal Control and Internal Auditing 3(3-0-6)
+701335 ACC 335 Software for Accountancy 3(3-0-6)
+701401 ACC 401 Advanced Accounting 1 3(3-0-6)
+703309 MGMT 309 Strategic Management 3(3-0-6)
+701413 ACC 413 Strategic Cost Management 3(3-0-6)
+Minor 3
+Total 18
+Fourth Year
+First Semester Credits
+701402 ACC 402 Advanced Accounting 2 3(3-0-6)
+701403 ACC 403 Financial Report and Analysis 3(3-0-6)
+701499 ACC 499 Seminar in Accounting 3(3-0-6)
+Free Elective 3
+Minor 3
+Total 15
+Second Semester Credits
+706202 BA 202 Skills Development for the Future 3(3-0-6)
+Major Electives 3
+Free Elective 3
+Total 9

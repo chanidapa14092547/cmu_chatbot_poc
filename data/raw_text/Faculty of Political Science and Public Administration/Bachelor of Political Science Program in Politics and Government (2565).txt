@@ -1,0 +1,171 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25450041101038
+Bachelor of Political Science Program in Politics and Government
+(2565)
+Name of the degree
+Full : Bachelor of Political Science (Politics and Government)
+Abbreviation : B.Pol.Sci. (Politics and Government)
+Curriculum structure
+1. General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+1.1.2 GE Electives 3
+Select 1 course from the followings
+057131 EDPE 131 Exercise and Health 2(2-0-4)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+211100 BCT 100 Eating Well : Better Living and Disease Prevention 3(3-0-6)
+701181 ACC 181 Basic Accounting for Entrepreneurs 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+851100 MC 100 Introduction to Communication 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+208101 STAT 101 Statistics for Everyday Life and Work 3(2-2-5)
+1.2.2 GE Electives 3
+Select 1 course from the followings
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201116 SC 116 Science and Global Warming 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 GE Electives 3
+Select 1 course from the followings
+057139 EDPE 139 Sport and Adventure Tourism 3(3-0-6)
+109114 FAGE 114 Art in Everyday Life 3(3-0-6)
+154104 GEO 104 Environmental Conservation 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+2. Field of Specialization : a minimum of 92
+2.1 Core Courses 24
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+126101 IR 101 Introduction to International Relations 3(3-0-6)
+127101 GOV 101 Introduction to Political Science 3(3-0-6)
+128101 PA 101 Introduction to Public Administration 3(3-0-6)
+159101 SAGE 101 Introduction to Sociology 3(3-0-6)
+176101 LAGE 101 Introduction to Law 3(3-0-6)
+177341 LAW 341 Administrative Law 1 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+2.2 Major : a minimum of 68
+2.2.1 Major Requirements 56
+127202 GOV 202 Western Political Philosophy 3(3-0-6)
+127204 GOV 204 Concepts and Theories of Comparative Politics 3(3-0-6)
+127205 GOV 205 Politics and Local Government 3(3-0-6)
+127207 GOV 207 Reading and Writing in Political Science 2(2-0-4)
+127208 GOV 208 Social Enterprise 3(3-0-6)
+127303 GOV 303 Research Methodology in Political Science 3(3-0-6)
+127312 GOV 312 Modern Thai State and Political Dynamics 3(3-0-6)
+127314 GOV 314 Politics and Government in Upper Northern Thailand 3(3-0-6)
+127316 GOV 316 Politics and Government in Southeast Asia 3(3-0-6)
+127317 GOV 317 Comparative Constitution 3(3-0-6)
+127318 GOV 318 Social Movements and Politics of Contention 3(3-0-6)
+127319 GOV 319 Political Communication and Rhetoric 3(3-0-6)
+127359 GOV 359 Field Research in Political Science 3(1-6-2)
+127400 GOV 400 Independent Studies in Political Science 3(3-0-6)
+127411 GOV 411 Democratization 3(3-0-6)
+127416 GOV 416 Information Technology and Digital Communication for Political Scientists 3(3-0-6)
+127417 GOV 417 Politics and Government in Indo-Pacific 3(3-0-6)
+127459 GOV 459 Cooperative Education in Political Science 6
+2.2.2 Major Electives : a minimum of 12
+- Major Elective in 300 level : a minimum of 6
+Select 2 courses from the followings
+127320 GOV 320 Comparative Local Governments 3(3-0-6)
+127324 GOV 324 Politics and Government in South Asia 3(3-0-6)
+127327 GOV 327 Political and Economic Changes in the GMS Countries 3(3-0-6)
+127329 GOV 329 Politics and Government of the United States of America 3(3-0-6)
+127330 GOV 330 Political Psychology 3(3-0-6)
+127333 GOV 333 Politics in Public Policy Process 3(3-0-6)
+127334 GOV 334 Political Thought of Oversea Chinese in Southeast Asia 3(3-0-6)
+127336 GOV 336 Politics and Films 3(3-0-6)
+127337 GOV 337 Military and Politics 3(3-0-6)
+127338 GOV 338 Political Conflict and Violence 3(3-0-6)
+127339 GOV 339 Politics and Government in Post-Communist Countries 3(3-0-6)
+127340 GOV 340 Politics and Government in Latin America 3(3-0-6)
+127341 GOV 341 Data Analytics and Data Visualization for Political Science 3(3-0-6)
+- Major Elective in 400 level : a minimum of 6
+Select 2 courses from the followings
+127422 GOV 422 Globalization and Politics 3(3-0-6)
+127423 GOV 423 The Politics of Environmental and Natural Resources Management 3(3-0-6)
+127424 GOV 424 Political Party and Pressure Groups 3(3-0-6)
+127425 GOV 425 Critical Cultural Politics 3(3-0-6)
+127426 GOV 426 Politics of Development 3(3-0-6)
+127427 GOV 427 Business and Politics 3(3-0-6)
+127428 GOV 428 Youth Politics and Popular Culture 3(3-0-6)
+127429 GOV 429 Republicanism 3(3-0-6)
+127430 GOV 430 Health Politics 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 128
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+050100 HUGE 100 Usage of the Thai Language 3(3-0-6)
+126101 IR 101 Introduction to International Relations 3(3-0-6)
+127101 GOV 101 Introduction to Political Science 3(3-0-6)
+128101 PA 101 Introduction to Public Administration 3(3-0-6)
+953111 SE 111 Software for Everyday Life 3(3-0-6)
+Total 18
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+159101 SAGE 101 Introduction to Sociology 3(3-0-6)
+176101 LAGE 101 Introduction to Law 3(3-0-6)
+208101 STAT 101 Statistics for Everyday Life and Work 3(2-2-5)
+GE : Active Citizen Elective Course 3
+Total 18
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+127202 GOV 202 Western Political Philosophy 3(3-0-6)
+127204 GOV 204 Concepts and Theories of Comparative Politics 3(3-0-6)
+127207 GOV 207 Reading and Writing in Political Science 2(2-0-4)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+Free Elective 3
+Total 17
+Second Semester Credits
+001224 ENGL 224 English for Social Sciences 3(3-0-6)
+127205 GOV 205 Politics and Local Government 3(3-0-6)
+127208 GOV 208 Social Enterprise 3(3-0-6)
+177341 LAW 341 Administrative Law 1 3(3-0-6)
+Free Elective 3
+GE : Innovative Co-creator (Elective Course) 3
+Total 18
+Third Year
+First Semester Credits
+127303 GOV 303 Research Methodology in Political Science 3(3-0-6)
+127312 GOV 312 Modern Thai State and Political Dynamics 3(3-0-6)
+127316 GOV 316 Politics and Government in Southeast Asia 3(3-0-6)
+127317 GOV 317 Comparative Constitution 3(3-0-6)
+GE : Learner Person (Elective Course) 3
+Major Elective 300 level course 3
+Total 18
+Second Semester Credits
+127314 GOV 314 Politics and Government in Upper Northern Thailand 3(3-0-6)
+127318 GOV 318 Social Movements and Politics of Contention 3(3-0-6)
+127319 GOV 319 Political Communication and Rhetoric 3(3-0-6)
+127359 GOV 359 Field Research in Political Science 3(1-6-2)
+Major Elective 300 level course 3
+Major Elective 400 level course 3
+Total 18
+Fourth Year
+First Semester Credits
+127400 GOV 400 Independent Studies in Political Science 3(3-0-6)
+127411 GOV 411 Democratization 3(3-0-6)
+127416 GOV 416 Information Technology and Digital Communication for Political Scientists 3(3-0-6)
+127417 GOV 417 Politics and Government in Indo-Pacific 3(3-0-6)
+Major Elective 400 level course 3
+Total 15
+Second Semester Credits
+127459 GOV 459 Cooperative Education in Political Science 6
+Total 6

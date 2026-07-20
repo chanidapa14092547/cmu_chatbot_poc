@@ -1,0 +1,767 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25290041100017
+Bachelor of Science Program in Physics (2564)
+Name of the degree
+Full : Bachelor of Science (Physics)
+Abbreviation : B.S. (Physics)
+Curriculum structure
+Plan 1 : Physics
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+1.2.2 Innovative Co-creator
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+2. Field of Specialization : a minimum of 101
+2.1 Core Courses 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+2.2 Major : a minimum of 70
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the level 300 courses or
+upper, of which at least 18 credits must be from the 400 level courses.
+2.2.1 Requirements 55
+- Mathematics: 6
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+- Physics: 49
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+207439 PHYS 439 Independent Study 3
+2.2.2 Major Electives : a minimum of 15
+Choose at least 15 credits from the followings:
+207321 PHYS 321 Introduction to Atmospheric Physics 3(3-0-6)
+207323 PHYS 323 Air Pollution Meteorology 3(3-0-6)
+207348 PHYS 348 Spherical Astronomy and Solar System 3(3-0-6)
+207403 PHYS 403 Nuclear and Radiation Physics 3(3-0-6)
+207404 PHYS 404 Nuclear Physics and Applications 3(3-0-6)
+207405 PHYS 405 Nuclear Physics Laboratory 1(0-3-0)
+207411 PHYS 411 Electronics 1 4(3-3-6)
+207412 PHYS 412 Electronics 2 4(3-3-6)
+207413 PHYS 413 Methods of Theoretical Physics 3(3-0-6)
+207416 PHYS 416 Plasma Physics 3(3-0-6)
+207417 PHYS 417 Introduction to Observational Astronomy 1(0-3-0)
+207419 PHYS 419 Stellar Astrophysics 3(3-0-6)
+207422 PHYS 422 Solid State Physics 1 3(3-0-6)
+207426 PHYS 426 Introduction to Molecular Spectroscopy 3(3-0-6)
+207436 PHYS 436 Atomic Spectra 3(3-0-6)
+207437 PHYS 437 Job Training 2(0-12-
+0)
+207442 PHYS 442 The Physics of Energy 3(3-0-6)
+207443 PHYS 443 Applied Optics 3(2-3-4)
+207444 PHYS 444 Introduction to X-Ray Crystallography 3(3-0-6)
+207448 PHYS 448 Introduction to Astrophysics 3(3-0-6)
+207449 PHYS 449 Selected Topics in Physics 3(3-0-6)
+207455 PHYS 455 Physics and Technology of Particle Beam 3(3-0-6)
+207458 PHYS 458 Fluid Dynamics for Physicists 3(3-0-6)
+207467 PHYS 467 Fundamental Seismic Waves 4(3-3-6)
+207481 PHYS 481 Introduction to Quantum Field Theory 3(3-0-6)
+207496 PHYS 496 General Radio Astronomy 3(3-0-6)
+207497 PHYS 497 Cosmic Rays and Particle Physics 3(3-0-6)
+207498 PHYS 498 Optical Instrument Design 3(2-3-4)
+207499 PHYS 499 Selected Topics in Astrophysics 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 137
+Plan 2 : Physics with Minor
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+1.2.2 Innovative Co-creator
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+2. Field of Specialization : a minimum of 104
+2.1 Core Courses 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+2.2 Major : a minimum of 58
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the level 300 courses or
+upper, of which at least 18 credits must be from the 400 level courses.
+2.2.1 Requirements 49
+- Mathematics: 6
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+- Physics: 43
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+207439 PHYS 439 Independent Study 3
+2.2.2 Major Electives : a minimum of 9
+Choose at least 9 credits from the followings:
+207321 PHYS 321 Introduction to Atmospheric Physics 3(3-0-6)
+207323 PHYS 323 Air Pollution Meteorology 3(3-0-6)
+207348 PHYS 348 Spherical Astronomy and Solar System 3(3-0-6)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207403 PHYS 403 Nuclear and Radiation Physics 3(3-0-6)
+207404 PHYS 404 Nuclear Physics and Applications 3(3-0-6)
+207405 PHYS 405 Nuclear Physics Laboratory 1(0-3-0)
+207411 PHYS 411 Electronics 1 4(3-3-6)
+207412 PHYS 412 Electronics 2 4(3-3-6)
+207413 PHYS 413 Methods of Theoretical Physics 3(3-0-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+207416 PHYS 416 Plasma Physics 3(3-0-6)
+207417 PHYS 417 Introduction to Observational Astronomy 1(0-3-0)
+207419 PHYS 419 Stellar Astrophysics 3(3-0-6)
+207422 PHYS 422 Solid State Physics 1 3(3-0-6)
+207426 PHYS 426 Introduction to Molecular Spectroscopy 3(3-0-6)
+207436 PHYS 436 Atomic Spectra 3(3-0-6)
+207437 PHYS 437 Job Training 2(0-12-
+0)
+207442 PHYS 442 The Physics of Energy 3(3-0-6)
+207443 PHYS 443 Applied Optics 3(2-3-4)
+207444 PHYS 444 Introduction to X-Ray Crystallography 3(3-0-6)
+207448 PHYS 448 Introduction to Astrophysics 3(3-0-6)
+207449 PHYS 449 Selected Topics in Physics 3(3-0-6)
+207455 PHYS 455 Physics and Technology of Particle Beam 3(3-0-6)
+207458 PHYS 458 Fluid Dynamics for Physicists 3(3-0-6)
+207467 PHYS 467 Fundamental Seismic Waves 4(3-3-6)
+207481 PHYS 481 Introduction to Quantum Field Theory 3(3-0-6)
+207496 PHYS 496 General Radio Astronomy 3(3-0-6)
+207497 PHYS 497 Cosmic Rays and Particle Physics 3(3-0-6)
+207498 PHYS 498 Optical Instrument Design 3(2-3-4)
+207499 PHYS 499 Selected Topics in Astrophysics 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student must take courses corresponding to any minor subjects listed in Chiang Mai University announcement for at
+least 15 credits with approval of an academic advisor.
+3. Free Electives : a minimum of 6
+Total : a minimum of 140
+Plan 3 : Joint Physics and Materials Science
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 วิชาเลือก 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+1.2.2 Innovative Co-creator
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+2. Field of Specialization : a minimum of 104
+2.1 Core Courses 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+2.2 Major : a minimum of 73
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the level 300 courses or
+upper, of which at least 18 credits must be from the 400 level courses.
+2.2.1 Requirements 64
+- Mathematics: 6
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+- Physics: 38
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+207439 PHYS 439 Independent Study 3
+- Materials Science: 20
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+210202 MATS 202 Crystal Structure and Imperfections 3(3-0-6)
+210205 MATS 205 Materials Thermodynamics and Phase Equilibria 2(2-0-4)
+210221 MATS 221 Materials Processing 3(3-0-6)
+210251 MATS 251 Mechanical, Thermal and Optical Properties of Materials 3(3-0-6)
+and choose at least 6 credits from the followings:
+203475 CHEM 475 Properties, Processing and Applications of Polymers 3(3-0-6)
+210206 MATS 206 Phase Transformation and Phase Diagram 2(2-0-4)
+210315 MATS 315 Materials Characterization Techniques 3(3-0-6)
+210331 MATS 331 Composite Materials 3(3-0-6)
+210343 MATS 343 Ceramics and Glasses 3(3-0-6)
+210351 MATS 351 Electrical and Magnetic Properties of Materials 3(3-0-6)
+210355 MATS 355 Semiconductor Technology 3(3-0-6)
+210383 MATS 383 Metals and Alloys 3(3-0-6)
+210474 MATS 474 Workshop for Materials Science Students 1(0-3-0)
+2.2.2 Major Electives : a minimum of 9
+Choose at least 9 credits from the followings:
+- Physics:
+207321 PHYS 321 Introduction to Atmospheric Physics 3(3-0-6)
+207323 PHYS 323 Air Pollution Meteorology 3(3-0-6)
+207348 PHYS 348 Spherical Astronomy and Solar System 3(3-0-6)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207403 PHYS 403 Nuclear and Radiation Physics 3(3-0-6)
+207404 PHYS 404 Nuclear Physics and Applications 3(3-0-6)
+207405 PHYS 405 Nuclear Physics Laboratory 1(0-3-0)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207411 PHYS 411 Electronics 1 4(3-3-6)
+207412 PHYS 412 Electronics 2 4(3-3-6)
+207413 PHYS 413 Methods of Theoretical Physics 3(3-0-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+207416 PHYS 416 Plasma Physics 3(3-0-6)
+207417 PHYS 417 Introduction to Observational Astronomy 1(0-3-0)
+207419 PHYS 419 Stellar Astrophysics 3(3-0-6)
+207422 PHYS 422 Solid State Physics 1 3(3-0-6)
+207426 PHYS 426 Introduction to Molecular Spectroscopy 3(3-0-6)
+207436 PHYS 436 Atomic Spectra 3(3-0-6)
+207437 PHYS 437 Job Training 2(0-12-
+0)
+207442 PHYS 442 The Physics of Energy 3(3-0-6)
+207443 PHYS 443 Applied Optics 3(2-3-4)
+207444 PHYS 444 Introduction to X-Ray Crystallography 3(3-0-6)
+207448 PHYS 448 Introduction to Astrophysics 3(3-0-6)
+207449 PHYS 449 Selected Topics in Physics 3(3-0-6)
+207455 PHYS 455 Physics and Technology of Particle Beam 3(3-0-6)
+207458 PHYS 458 Fluid Dynamics for Physicists 3(3-0-6)
+207467 PHYS 467 Fundamental Seismic Waves 4(3-3-6)
+207481 PHYS 481 Introduction to Quantum Field Theory 3(3-0-6)
+207496 PHYS 496 General Radio Astronomy 3(3-0-6)
+207497 PHYS 497 Cosmic Rays and Particle Physics 3(3-0-6)
+207498 PHYS 498 Optical Instrument Design 3(2-3-4)
+207499 PHYS 499 Selected Topics in Astrophysics 3(3-0-6)
+- Materials Science:
+210408 MATS 408 Selected Topics in Materials Science 3(3-0-6)
+210424 MATS 424 Crystallization and Crystal Growth 3(3-0-6)
+210425 MATS 425 Advanced Materials Processing and Non-Destructive Testing 3(3-0-6)
+210432 MATS 432 Recycled Materials 3(3-0-6)
+210433 MATS 433 Cements and Concrete 3(3-0-6)
+210434 MATS 434 Nanomaterials 3(3-0-6)
+210435 MATS 435 Natural Fibers, Biopolymers and Biocomposites 3(3-0-6)
+210436 MATS 436 Biomaterials for Medical Applications 3(3-0-6)
+210445 MATS 445 Fabrication and Applications of Advanced Ceramic Materials 3(3-0-6)
+210448 MATS 448 Optical Materials 3(3-0-6)
+210453 MATS 453 Electrical and Magnetic Materials and Devices 3(3-0-6)
+210454 MATS 454 Materials for High Temperature Applications 3(3-0-6)
+210462 MATS 462 Materials Science of Thin Films 3(3-0-6)
+210463 MATS 463 Joining of Materials 3(3-0-6)
+210464 MATS 464 Advanced Surface Coating Technology 3(3-0-6)
+210465 MATS 465 Surface and Interface Science 3(3-0-6)
+210483 MATS 483 Physical Metallurgy 3(3-0-6)
+210485 MATS 485 Corrosion and Degradation of Materials 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 140
+Plan 4 : Physics and Applications
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+A student also chooses at least 6 credits from these 3 groups of GE courses.
+1.2.1 Learner Person
+074101 EDHL 101 Promoting of Health in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+705191 MKTG 191 Smart Consumer 1(1-0-2)
+888102 DIN 102 Big Data for Business 3(3-0-6)
+1.2.2 Innovative Co-creator
+176100 LAGE 100 Law and Modern World 3(3-0-6)
+201114 SC 114 Environmental Science in Today’s World 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+751100 ECON 100 Economics for Everyday Life 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+1.2.3 Active Citizen
+012200 RE 200 Mind Volunteer 3(2-2-5)
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+254182 ME 182 Introduction to Energy 3(3-0-6)
+2. Field of Specialization : a minimum of 101
+2.1 Core Courses 31
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+2.2 Major : a minimum of 70
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the level 300 courses or
+upper, of which at least 18 credits must be from the 400 level courses.
+2.2.1 Requirements 46
+- Mathematics: 6
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+- Physics: 40
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+207439 PHYS 439 Independent Study 3
+2.2.2 Major Electives : a minimum of 24
+Choose at least 24 credits from the followings:
+207321 PHYS 321 Introduction to Atmospheric Physics 3(3-0-6)
+207323 PHYS 323 Air Pollution Meteorology 3(3-0-6)
+207348 PHYS 348 Spherical Astronomy and Solar System 3(3-0-6)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207403 PHYS 403 Nuclear and Radiation Physics 3(3-0-6)
+207404 PHYS 404 Nuclear Physics and Applications 3(3-0-6)
+207405 PHYS 405 Nuclear Physics Laboratory 1(0-3-0)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207411 PHYS 411 Electronics 1 4(3-3-6)
+207412 PHYS 412 Electronics 2 4(3-3-6)
+207413 PHYS 413 Methods of Theoretical Physics 3(3-0-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+207416 PHYS 416 Plasma Physics 3(3-0-6)
+207417 PHYS 417 Introduction to Observational Astronomy 1(0-3-0)
+207419 PHYS 419 Stellar Astrophysics 3(3-0-6)
+207422 PHYS 422 Solid State Physics 1 3(3-0-6)
+207426 PHYS 426 Introduction to Molecular Spectroscopy 3(3-0-6)
+207436 PHYS 436 Atomic Spectra 3(3-0-6)
+207437 PHYS 437 Job Training 2(0-12-
+0)
+207442 PHYS 442 The Physics of Energy 3(3-0-6)
+207443 PHYS 443 Applied Optics 3(2-3-4)
+207444 PHYS 444 Introduction to X-Ray Crystallography 3(3-0-6)
+207448 PHYS 448 Introduction to Astrophysics 3(3-0-6)
+207449 PHYS 449 Selected Topics in Physics 3(3-0-6)
+207455 PHYS 455 Physics and Technology of Particle Beam 3(3-0-6)
+207458 PHYS 458 Fluid Dynamics for Physicists 3(3-0-6)
+207467 PHYS 467 Fundamental Seismic Waves 4(3-3-6)
+207481 PHYS 481 Introduction to Quantum Field Theory 3(3-0-6)
+207496 PHYS 496 General Radio Astronomy 3(3-0-6)
+207497 PHYS 497 Cosmic Rays and Particle Physics 3(3-0-6)
+207498 PHYS 498 Optical Instrument Design 3(2-3-4)
+207499 PHYS 499 Selected Topics in Astrophysics 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+Student who wishes to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor
+which lead to addition of at least 15 credits to total
+3. Free Electives : a minimum of 6
+Total : a minimum of 137
+Study plan
+Plan 1 : Physics
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+General Education Electives 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+Total 17
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+Total 17
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+Total 20
+Third Year
+First Semester Credits
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+Total 17
+Second Semester Credits
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+General Education Electives 3
+Total 18
+Fourth Year
+First Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+Major Electives 9
+Free Electives 3
+Total 16
+Second Semester Credits
+207439 PHYS 439 Independent Study 3
+Major Electives 6
+Free Electives 3
+Total 12
+Plan 2 : Physics with Minor
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+General Education Electives 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+Total 17
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+Minor 3
+Total 20
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+Minor 3
+Total 20
+Third Year
+First Semester Credits
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+Total 17
+Second Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+Major Electives 3
+400 Level Major Electives 3
+Total 18
+Fourth Year
+First Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+400 Level Major Electives 3
+Minor 3
+General Education Electives 3
+Free Electives 3
+Total 16
+Second Semester Credits
+207439 PHYS 439 Independent Study 3
+Minor 6
+Free Electives 3
+Total 12
+Plan 3 : Joint Physics and Materials Science
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+General Education Electives 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+Total 17
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+or 207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+210201 MATS 201 Introduction to Materials Science 3(3-0-6)
+210205 MATS 205 Materials Thermodynamics and Phase Equilibria 2(2-0-4)
+Total 19
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+210221 MATS 221 Materials Processing 3(3-0-6)
+Total 17
+Third Year
+First Semester Credits
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+or 207308 PHYS 308 Classical Mechanics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+210202 MATS 202 Crystal Structure and Imperfections 3(3-0-6)
+Total 20
+Second Semester Credits
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+210251 MATS 251 Mechanical, Thermal and Optical Properties of Materials 3(3-0-6)
+Supplementary Major Course in Materials Science 3
+400 Level Major Electives 3
+General Education Electives 3
+Total 19
+Fourth Year
+First Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+Supplementary Major Course in Materials Science 3
+400 Level Major Electives 3
+Free Electives 3
+Total 16
+Second Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+207439 PHYS 439 Independent Study 3
+400 Level Major Electives 3
+Free Electives 3
+Total 12
+Plan 4 : Physics and Applications
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+General Education Electives 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+Total 17
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207215 PHYS 215 Physics Laboratory and Scientific Method 1 2(0-4-2)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+Total 17
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+206368 MATH 368 Mathematical Methods 3 3(3-0-6)
+207216 PHYS 216 Physics Laboratory and Scientific Method 2 2(0-4-2)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+Total 17
+Third Year
+First Semester Credits
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207310 PHYS 310 Computational Physics 3(2-3-4)
+207315 PHYS 315 Physics Laboratory and Scientific Method 3 2(0-4-2)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+208263 STAT 263 Elementary Statistics 3(3-0-6)
+Total 17
+Second Semester Credits
+201111 SC 111 The World of Science 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207316 PHYS 316 Physics Laboratory and Scientific Method 4 2(0-4-2)
+Major Electives 9
+Total 18
+Fourth Year
+First Semester Credits
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+207438 PHYS 438 Seminar in Physics 1(1-0-2)
+Major Electives 6
+400 Level Major Electives 3
+Free Electives 3
+Total 16
+Second Semester Credits
+207439 PHYS 439 Independent Study 3
+400 Level Major Electives 6
+General Education Electives 3
+Free Electives 3
+Total 15

@@ -1,0 +1,187 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25440041100069
+Bachelor of Science Program in Microbiology (2564)
+Name of the degree
+Full : Bachelor of Science (Microbiology)
+Abbreviation : B.S. (Microbiology)
+Curriculum structure
+1. General Education 30
+1.1 Required Courses 24
+1.1.1 Learner Person 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Innovative Co-creator 3
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+1.1.3 Active Citizen 6
+140104 PG 104 Citizenship 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+1.2 GE Electives 6
+Select any courses from the followings
+1.2.1 Learner Person
+462130 PHPC 130 Medications in Everyday Life 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+1.2.2 Innovative Co-creator
+013110 PSY 110 Psychology and Daily Life 3(3-0-6)
+204123 CS 123 Introduction to Data Science 3(2-2-5)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+1.2.3 Active Citizen
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+2. Field of Specialization : a minimum of 105
+2.1 Core Courses 33
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+or 204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+206115 MATH 115 Calculus for Natural Sciences 1 3(2-2-5)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+2.2 Major : a minimum of 57
+Among the credits earned from the major courses taken, a minimum of 36 credits must be from the advanced level
+courses (300-400), of which at least 18 credits must be from the 400 level courses
+2.2.1 Requirements 48
+203236 CHEM 236 Quantitative Analysis 3(3-0-6)
+203239 CHEM 239 Quantitative Analysis Laboratory 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+215302 MICB 302 Microbiological Instrumentation 1(0-3-0)
+215303 MICB 303 Intellectual Property and Biological Innovations 1(1-0-2)
+215305 MICB 305 Microbiological Experimental Design 3(2-3-4)
+215312 MICB 312 Introductory Phycology and Protozoology 3(2-3-4)
+215313 MICB 313 Mycology 4(3-3-6)
+215314 MICB 314 Virology 4(3-3-6)
+215431 MICB 431 Microbial Genetics 3(2-3-4)
+215441 MICB 441 Bacterial Physiology 3(2-3-4)
+215462 MICB 462 Systematic Bacteriology 4(2-6-4)
+215471 MICB 471 Microbial Ecology 3(2-3-4)
+215491 MICB 491 Microbiology Seminar 1(1-0-2)
+215492 MICB 492 Microbiology Reports 1(1-0-2)
+215493 MICB 493 Special Project in Microbiology 3(0-9-0)
+215494 MICB 494 Training in Microbiology 3(0-18-
+0)
+506361 IMM 361 General Immunology 3(2-2-4)
+2.2.2 Major Electives : a minimum of 9
+Select any courses from the followings
+201301 SC 301 Biosafety and Biosecurity 2(2-0-4)
+202304 BIOL 304 Creative Media for Biology Information 2(1-2-4)
+202311 BIOL 311 Cell and Molecular Biology 4(3-3-6)
+202353 BIOL 353 Plant Morphology 3(2-3-4)
+202371 BIOL 371 Ecology 4(3-3-6)
+202432 BIOL 432 DNA Technology 3(3-0-6)
+202433 BIOL 433 DNA Barcoding and Applications 3(3-0-6)
+202438 BIOL 438 Human Evolution 3(3-0-6)
+202475 BIOL 475 Environmental Toxicology 3(3-0-6)
+214301 ZOOL 301 Vertebrate Zoology 3(2-3-4)
+214310 ZOOL 310 Invertebrate Zoology 3(2-3-4)
+214340 ZOOL 340 Laboratory Animals in Biology 2(2-0-4)
+214411 ZOOL 411 Parasitology 3(2-3-4)
+215301 MICB 301 Food and Microbiological Laboratory Quality Assurances 2(2-0-4)
+215304 MICB 304 New Product and Platform Development in Microbiology 1(1-0-2)
+215311 MICB 311 Introduction to Actinomycetes 3(2-3-4)
+215371 MICB 371 Aquatic Microbiology 3(2-3-4)
+215381 MICB 381 Normal Flora and Pathogenic Microorganisms in Human 3(2-3-4)
+215382 MICB 382 Introduction to Forensic Microbiology 2(2-0-4)
+215401 MICB 401 Microbial Food Safety 3(2-3-4)
+215411 MICB 411 Biology of Mushrooms 3(2-3-4)
+215412 MICB 412 Biology of Yeasts 3(2-3-4)
+215433 MICB 433 Microbial Genome Analysis and Bioinformatics 3(3-0-6)
+215437 MICB 437 Molecular Cloning of Genes 2(2-0-4)
+215438 MICB 438 Molecular Cloning of Genes Laboratory 1(0-3-0)
+215481 MICB 481 Industrial Microbiology 3(2-3-4)
+215482 MICB 482 Cosmetic Microbiology 1(1-0-2)
+215483 MICB 483 Microbes and Cultures 3(3-0-6)
+215495 MICB 495 Selected Topics in Microbiology 1 1(1-0-2)
+215496 MICB 496 Selected Topics in Microbiology 2 1(1-0-2)
+215497 MICB 497 Selected Topics in Microbiology 3 2(2-0-4)
+602301 BIOT 301 Introductory Biotechnology 3(3-0-6)
+2.3 Minor (if any) : a minimum of 15
+1) Students who wish to have minor may take courses corresponding to any minor listed in Chiang Mai University
+announcement about minors being offered for CMU students for at least 15 credits with approval of an academic advisor.
+2) Students who do not wish to have a minor must select at least 15 credits from 2.2.2.
+3. Free Electives : a minimum of 6
+Total : a minimum of 141
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+140104 PG 104 Citizenship 3(3-0-6)
+202101 BIOL 101 Basic Biology 1 3(3-0-6)
+202103 BIOL 103 Biology Laboratory 1 1(0-3-0)
+203111 CHEM 111 Chemistry 1 3(3-0-6)
+203115 CHEM 115 Chemistry Laboratory 1 1(0-3-0)
+206115 MATH 115 Calculus for Natural Sciences 1 3(2-2-5)
+Total 17
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+202102 BIOL 102 Basic Biology 2 3(3-0-6)
+202104 BIOL 104 Biology Laboratory 2 1(0-3-0)
+207117 PHYS 117 Physics Laboratory 1 1(0-3-0)
+207187 PHYS 187 Physics 1 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+201111 SC 111 The World of Science 3(3-0-6)
+Total 17
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+203206 CHEM 206 Organic Chemistry for Non-Chemistry Students 3(3-0-6)
+203209 CHEM 209 Organic Chemistry Laboratory for Non-Chemistry Students 1(0-3-0)
+215205 MICB 205 Microbiology 3(3-0-6)
+215206 MICB 206 Microbiology Laboratory 1(0-3-0)
+201190 SC 190 Critical Thinking, Problem Solving and Science Communication 3(3-0-6)
+204101 CS 101 Introduction to Computer 3(2-2-5)
+or 204102 CS 102 Intelligent Data Analysis: Survey of Techniques and Applications 3(2-2-5)
+General Education Electives 3
+Total 20
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+203236 CHEM 236 Quantitative Analysis 3(3-0-6)
+203239 CHEM 239 Quantitative Analysis Laboratory 1(0-3-0)
+208262 STAT 262 Elementary Statistics for Science and Technology 3(3-0-6)
+215312 MICB 312 Introductory Phycology and Protozoology 3(2-3-4)
+215313 MICB 313 Mycology 4(3-3-6)
+General Education Electives 3
+Total 20
+Third Year
+First Semester Credits
+211315 BCT 315 Introductory Biochemistry 3(3-0-6)
+211319 BCT 319 Introductory Biochemistry Laboratory 1(0-3-0)
+215302 MICB 302 Microbiological Instrumentation 1(0-3-0)
+215305 MICB 305 Microbiological Experimental Design 3(2-3-4)
+215431 MICB 431 Microbial Genetics 3(2-3-4)
+506361 IMM 361 General Immunology 3(2-2-4)
+Major Electives 6
+Total 20
+Second Semester Credits
+215314 MICB 314 Virology 4(3-3-6)
+215441 MICB 441 Bacterial Physiology 3(2-3-4)
+215462 MICB 462 Systematic Bacteriology 4(2-6-4)
+Major Elective Course or Minor 6
+Total 17
+Fourth Year
+First Semester Credits
+215303 MICB 303 Intellectual Property and Biological Innovations 1(1-0-2)
+215471 MICB 471 Microbial Ecology 3(2-3-4)
+215494 MICB 494 Training in Microbiology 3(0-18-0)
+Major Electives or Minor 6
+Free Elective 3
+Total 16
+Second Semester Credits
+215491 MICB 491 Microbiology Seminar 1(1-0-2)
+215492 MICB 492 Microbiology Reports 1(1-0-2)
+215493 MICB 493 Special Project in Microbiology 3(0-9-0)
+Major Electives 3
+Major Elective Course or Minor 3
+Free Elective 3
+Total 14

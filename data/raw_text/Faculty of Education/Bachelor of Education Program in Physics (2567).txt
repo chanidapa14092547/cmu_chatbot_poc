@@ -1,0 +1,218 @@
+Curriculum : หลักสูตร
+1/2568 Choose primary language : ENG
+Code : 25520041106076
+Bachelor of Education Program in Physics (2567)
+Name of the degree
+Full : Bachelor of Education (Physics)
+Abbreviation : B.Ed. (Physics)
+Curriculum structure
+(1) General Education 30
+1.1 Learner Person 18
+1.1.1 Required Courses 15
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+1.1.2 Elective Courses 3
+Choose one course from the followings :
+057131 EDPE 131 Exercise and Health 2(2-0-4)
+074100 EDHL 100 Nutrition for Promotion of Health 3(3-0-6)
+154130 GEO 130 Geo-Information in Daily Life 3(3-0-6)
+176104 LAGE 104 Rights and Duties of Citizen in Digital Age 3(3-0-6)
+359206 HORT 206 Landscape, Environment, Behaviors, and Minds 3(3-0-6)
+462131 PHPC 131 Health Media Literacy 3(3-0-6)
+571116 NGGE 116 Health and Working in the Digital Age 3(3-0-6)
+702101 FINA 101 Finance for Daily Life 3(3-0-6)
+888104 DIN 104 Introduction to Internet of Things 3(3-0-6)
+1.2 Innovative Co-creator 6
+1.2.1 Required Courses 3
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+1.2.2 Elective Courses 3
+Choose one course from the followings :
+204171 CS 171 Artificial Intelligence Among Us 3(3-0-6)
+208102 STAT 102 Statistical Reasoning and Thinking 3(3-0-6)
+703103 MGMT 103 Introduction to Entrepreneurship and Business 3(3-0-6)
+852100 DF 100 Introduction to Film 3(3-0-6)
+888107 DIN 107 Business Startup on Digital Platform 3(3-0-6)
+888108 DIN 108 Smart Society 3(3-0-6)
+1.3 Active Citizen 6
+1.3.1 Required Courses 3
+140104 PG 104 Citizenship 3(3-0-6)
+1.3.2 Elective Courses 3
+Choose one course from the followings :
+109115 FAGE 115 Life and Aesthetics 3(3-0-6)
+154153 GEO 153 Disaster in Modern World 3(3-0-6)
+159151 SA 151 Lanna Society and Culture 3(3-0-6)
+365222 HANR 222 Aesthetic Natural Areas and Ecotourism 3(3-0-6)
+801100 ARCT 100 Architecture in Everyday Life 3(3-0-6)
+(2) Field of Specialization : a minimum of 106
+2.1 Core Courses : a minimum of 37
+2.1.1 Required Core Courses 35
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-
+0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-
+0)
+2.1.2 Electives Core Courses : a minimum of 2
+Select from the followings:
+100214 EDPF 214 Active Learning Management 2(1-2-3)
+100215 EDPF 215 Teaching Styles for Professional Teachers 2(1-2-3)
+100216 EDPF 216 Differentiated Instruction 2(1-2-3)
+100217 EDPF 217 Information for Learning 2(1-2-3)
+100220 EDPF 220 Creative Art Integration in Education 2(1-2-3)
+100222 EDPF 222 Global Education for Lifelong Learning 2(2-0-4)
+100232 EDPF 232 Laws for Teaching Profession 2(2-0-4)
+100238 EDPF 238 Driving Change and Innovation by STEM Education 2(1-2-3)
+100239 EDPF 239 Career Progress Pathway of Teaching Profession 2(2-0-4)
+100240 EDPF 240 Mental Health in Children and Adolescents 2(1-2-3)
+100241 EDPF 241 Integrated Science-Mathematics for Society and Community 2(1-2-3)
+100242 EDPF 242 Learning Management of Basic Mechanic Working in Living 2(1-2-3)
+100243 EDPF 243 Basic Educational Statistics in Digital Age 2(1-2-3)
+100244 EDPF 244 The Use of Music in Life Skills and Communication Development for Teachers 2(1-2-3)
+100319 EDPF 319 Education Provision for Learners with Special Needs 2(1-2-3)
+2.2 Major : a minimum of 69
+A minimum of 36 credits of 300 level required and among these must be at least 18 credits of 400 level courses.
+2.2.1 Academic Content Courses : a minimum of 57
+1) Required Courses 45
+064291 EDSC 291 Concepts in Mechanics for Secondary Level Teachers 1 3(3-0-6)
+064292 EDSC 292 Concepts in Wave and Thermodynamics for Secondary Level Teachers 3(3-0-6)
+064391 EDSC 391 Concepts in Mechanics for Secondary Level Teachers 2 3(3-0-6)
+064392 EDSC 392 Concepts in Electricity and Magnetism for Secondary Level Teachers 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+2) Electives Courses : a minimum of 12
+Select from the followings: A minimum of 6 credits must be selected from 400 level courses
+064480 EDSC 480 Concepts in Earth Science and Astronomy for Secondary Level Teachers 3(3-0-6)
+064491 EDSC 491 Concepts in Atomic and Nuclear Physics for Secondary Level Teachers 3(3-0-6)
+064493 EDSC 493 Experimental Skills and Microcontroller for Secondary Level Teachers 3(2-2-5)
+206267 MATH 267 Mathematical Methods 1 3(3-0-6)
+206367 MATH 367 Mathematical Methods 2 3(3-0-6)
+207348 PHYS 348 Spherical Astronomy and Solar System 3(3-0-6)
+207401 PHYS 401 Quantum Mechanics 1 3(3-0-6)
+207402 PHYS 402 Quantum Mechanics 2 3(3-0-6)
+207403 PHYS 403 Nuclear and Radiation Physics 3(3-0-6)
+207405 PHYS 405 Nuclear Physics Laboratory 1(0-3-0)
+207406 PHYS 406 Optical Physics 3(3-0-6)
+207408 PHYS 408 Statistical Physics 3(3-0-6)
+207411 PHYS 411 Electronics 1 4(3-3-6)
+207412 PHYS 412 Electronics 2 4(3-3-6)
+207415 PHYS 415 Introduction to Electromagnetic Theory 2 3(3-0-6)
+207417 PHYS 417 Introduction to Observational Astronomy 1(0-3-0)
+207419 PHYS 419 Stellar Astrophysics 3(3-0-6)
+207422 PHYS 422 Solid State Physics 1 3(3-0-6)
+207426 PHYS 426 Introduction to Molecular Spectroscopy 3(3-0-6)
+207436 PHYS 436 Atomic Spectra 3(3-0-6)
+207442 PHYS 442 The Physics of Energy 3(3-0-6)
+207444 PHYS 444 Introduction to X-Ray Crystallography 3(3-0-6)
+207458 PHYS 458 Fluid Dynamics for Physicists 3(3-0-6)
+207481 PHYS 481 Introduction to Quantum Field Theory 3(3-0-6)
+2.2.2 Educational Courses : a minimum of 12
+1) Required Courses 6
+064430 EDSC 430 Principles and Teaching Methods in Science 3(3-0-6)
+064499 EDSC 499 Secondary Level Physics Teaching 3(2-3-4)
+2) Electives Courses : a minimum of 6
+Select from the followings:
+064429 EDSC 429 Independent Study in Science Education 3(3-0-6)
+064431 EDSC 431 General Science Instruction for Secondary Level Teachers 3(2-3-4)
+064485 EDSC 485 Earth Science and Astronomy Teaching for Secondary Level Teachers 3(2-3-4)
+064492 EDSC 492 Secondary Level Physics Laboratory Equipment and Innovation 3(2-3-4)
+2.3 Minor (If any) : a minimum of 15
+Student may choose to have academic minor offered and certified by Chiang Mai University. If so, at least 15 credits
+must be taken with the approval of the academic advisor and consequently at least 15 credits will be added to the total.
+(3) Free Electives : a minimum of 6
+Total : a minimum of 142
+Study plan
+First Year
+First Semester Credits
+001101 ENGL 101 Fundamental English 1 3(3-0-6)
+100113 EDPF 113 Teacher as a Transformative Leader 2(1-2-3)
+100115 EDPF 115 Curriculum Science and Learning Management in Modern Age 2(1-2-3)
+204100 CS 100 Information Technology and Modern Life 3(3-0-6)
+206111 MATH 111 Calculus 1 3(3-0-6)
+207103 PHYS 103 Physics for Science Students 1 3(3-0-6)
+207107 PHYS 107 Physics Laboratory for Science Students 1 1(0-3-0)
+GE : Innovative Co-creator (Elective Courses) 3
+Total 20
+Second Semester Credits
+001102 ENGL 102 Fundamental English 2 3(3-0-6)
+100114 EDPF 114 Education and Social Change in Contemporary Society 2(1-2-3)
+100116 EDPF 116 Psychology for Student Development in Modern Age 2(1-2-3)
+100192 EDPF 192 Teaching Profession Practicum in School 1 1(0-3-0)
+140104 PG 104 Citizenship 3(3-0-6)
+206112 MATH 112 Calculus 2 3(3-0-6)
+207104 PHYS 104 Physics for Science Students 2 3(3-0-6)
+207108 PHYS 108 Physics Laboratory for Science Students 2 1(0-3-0)
+GE : Learner Person (Elective Courses) 3
+Total 21
+Second Year
+First Semester Credits
+001201 ENGL 201 Critical Reading and Effective Writing 3(3-0-6)
+063201 EDCI 201 Learning through Social Phenomenon 3(3-0-6)
+064291 EDSC 291 Concepts in Mechanics for Secondary Level Teachers 1 3(3-0-6)
+100234 EDPF 234 Communicative Language for Teachers in Modern Era 2(1-2-3)
+100236 EDPF 236 Learning Measurement and Evaluation in Digital Era 2(1-2-3)
+100292 EDPF 292 Teaching Profession Practicum in School 2 1(0-3-0)
+207203 PHYS 203 Physics of Vibrations and Waves 3(3-0-6)
+207308 PHYS 308 Classical Mechanics 3(3-0-6)
+Elective Core Course 2
+Total 22
+Second Semester Credits
+001225 ENGL 225 English in Science and Technology Context 3(3-0-6)
+064292 EDSC 292 Concepts in Wave and Thermodynamics for Secondary Level Teachers 3(3-0-6)
+100235 EDPF 235 Innovation and Technology for Learning in Digital World 2(1-2-3)
+100237 EDPF 237 Educational Quality Assurance for Sustainability 2(1-2-3)
+207305 PHYS 305 Introduction to Electromagnetic Theory 1 3(3-0-6)
+207306 PHYS 306 Modern Physics 3(3-0-6)
+Academic Content Courses (Elective Courses) 3
+GE : Active Citizen (Elective Courses) 3
+Total 22
+Third Year
+First Semester Credits
+064391 EDSC 391 Concepts in Mechanics for Secondary Level Teachers 2 3(3-0-6)
+100318 EDPF 318 Multicultural Education for Teachers in Contemporary Society 2(1-2-3)
+100320 EDPF 320 Modern Microteaching Skills Practice 3(2-3-5)
+207208 PHYS 208 Thermodynamics 3(3-0-6)
+207302 PHYS 302 Fundamental Electronics 4(3-3-6)
+064430 EDSC 430 Principles and Teaching Methods in Science 3(3-0-6)
+Major Academic Content Courses (Elective Courses) 3
+Total 21
+Second Semester Credits
+064392 EDSC 392 Concepts in Electricity and Magnetism for Secondary Level Teachers 3(3-0-6)
+064499 EDSC 499 Secondary Level Physics Teaching 3(2-3-4)
+100392 EDPF 392 Teaching Profession Practicum in School 3 4(0-12-0)
+100405 EDPF 405 Research for Educational Innovation Development 2(1-2-3)
+Academic Content Courses (Elective Courses) 3
+Free Electives 3
+Total 18
+Fourth Year
+First Semester Credits
+Academic Content Courses (Elective Courses) 3
+Educational Courses (Elective Courses) 6
+Free Electives 3
+Total 12
+Second Semester Credits
+100492 EDPF 492 Teaching Profession Practicum in School 4 6(0-18-0)
+Total 6
