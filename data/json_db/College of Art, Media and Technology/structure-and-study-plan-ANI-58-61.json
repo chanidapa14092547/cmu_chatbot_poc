@@ -1,0 +1,1689 @@
+{
+  "program_name": "Bachelor of Science Program in Animation and Games",
+  "major_tracks": [
+    "Animation",
+    "Game"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ENGL 101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ENGL 102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ENGL 201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ENGL 229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "Psy 110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of The Thai Language",
+      "course_name_th": "การใช้ภาษาไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "HUGE 100",
+      "course_name_en": "Usage of The Thai Language",
+      "course_name_th": "การใช้ภาษาไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "HUGE 103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมไทย",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "ชีวิตกับสุนทรียะ",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "FAGE 115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "ชีวิตกับสุนทรียะ",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "LAGE 100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Enterpreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "MGMT 103",
+      "course_name_en": "Introduction to Enterpreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ECON 100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "MC 100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Humanities and Social Sciences",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics: The Science that Changed the World",
+      "course_name_th": "ฟิสิกส์ : ศาสตร์ที่เปลี่ยนโลก",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "PHYS 110",
+      "course_name_en": "Physics: The Science that Changed the World",
+      "course_name_th": "ฟิสิกส์ : ศาสตร์ที่เปลี่ยนโลก",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "สถิติสำหรับการดำรงชีวิตและการทำงาน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "STAT 101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "สถิติสำหรับการดำรงชีวิตและการทำงาน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "สถาปัตยกรรมในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ARCT 100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "สถาปัตยกรรมในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "SE 111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Science and Mathematics",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955100",
+      "course_name_en": "Learning through Activities 1",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 1",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ATGE 100",
+      "course_name_en": "Learning through Activities 1",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 1",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955101",
+      "course_name_en": "Learning through Activities 2",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 2",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ATGE 101",
+      "course_name_en": "Learning through Activities 2",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 2",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "ฟุตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "ฟุตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "ว่ายน้ำเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "ว่ายน้ำเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "กิจกรรมเข้าจังหวะเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "กิจกรรมเข้าจังหวะเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "บาสเก็ตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "บาสเก็ตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "แบดมินตันเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "แบดมินตันเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "เทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "เทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "เทเบิ้ลเทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "เทเบิ้ลเทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": "กอล์ฟเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": "กอล์ฟเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "การออกกำลังกายและสุขภาพ",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "การออกกำลังกายและสุขภาพ",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "นันทนาการเพื่อคุณภาพชีวิต",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "EDPE 133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "นันทนาการเพื่อคุณภาพชีวิต",
+      "credits": "1",
+      "category_or_track": "General Education / Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207117",
+      "course_name_en": "Physics Laboratory I",
+      "course_name_th": "ปฏิบัติการฟิสิกส์ 1",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "PHYS 117",
+      "course_name_en": "Physics Laboratory I",
+      "course_name_th": "ปฏิบัติการฟิสิกส์ 1",
+      "credits": "1",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207187",
+      "course_name_en": "Physics I",
+      "course_name_th": "ฟิสิกส์ 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "PHYS 187",
+      "course_name_en": "Physics I",
+      "course_name_th": "ฟิสิกส์ 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951101",
+      "course_name_en": "Art and Animation History",
+      "course_name_th": "ประวัติศาสตร์ศิลปกรรม และแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 101",
+      "course_name_en": "Art and Animation History",
+      "course_name_th": "ประวัติศาสตร์ศิลปกรรม และแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951102",
+      "course_name_en": "Introduction to Computer and Animation",
+      "course_name_th": "คอมพิวเตอร์และแอนนิเมชันเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 102",
+      "course_name_en": "Introduction to Computer and Animation",
+      "course_name_th": "คอมพิวเตอร์และแอนนิเมชันเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951103",
+      "course_name_en": "Sketch Drawing",
+      "course_name_th": "การร่างภาพ",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 103",
+      "course_name_en": "Sketch Drawing",
+      "course_name_th": "การร่างภาพ",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951104",
+      "course_name_en": "Sketch Drawing 2",
+      "course_name_th": "การร่างภาพ 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 104",
+      "course_name_en": "Sketch Drawing 2",
+      "course_name_th": "การร่างภาพ 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951106",
+      "course_name_en": "Screenwriting and Digital Storytelling",
+      "course_name_th": "การเขียนบทภาพยนตร์และการเล่าเรื่องในสื่อดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 106",
+      "course_name_en": "Screenwriting and Digital Storytelling",
+      "course_name_th": "การเขียนบทภาพยนตร์และการเล่าเรื่องในสื่อดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951111",
+      "course_name_en": "Two Dimensional Modeling and Animation Design",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 111",
+      "course_name_en": "Two Dimensional Modeling and Animation Design",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951124",
+      "course_name_en": "Computer and Programming for Animation and Game 1",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับแอนนิเมชันและเกม 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 124",
+      "course_name_en": "Computer and Programming for Animation and Game 1",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับแอนนิเมชันและเกม 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951125",
+      "course_name_en": "Computer and Programming for Animation and Game 2",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับแอนนิเมชันและเกม 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 125",
+      "course_name_en": "Computer and Programming for Animation and Game 2",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับแอนนิเมชันและเกม 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951201",
+      "course_name_en": "Computer Graphics Programming",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์กราฟิก",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 203",
+      "course_name_en": "Computer Graphics Programming",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์กราฟิก",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951211",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 1",
+      "course_name_th": "การขึ้นรูปสามมิติและการออกแบบแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 211",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 1",
+      "course_name_th": "การขึ้นรูปสามมิติและการออกแบบแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951212",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 2",
+      "course_name_th": "การขึ้นรูปสามมิติและการออกแบบแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 212",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 2",
+      "course_name_th": "การขึ้นรูปสามมิติและการออกแบบแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951214",
+      "course_name_en": "Two Dimensional Modeling and Animation and Game Design 2",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชันและเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 214",
+      "course_name_en": "Two Dimensional Modeling and Animation and Game Design 2",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชันและเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951216",
+      "course_name_en": "Digital Cinematography",
+      "course_name_th": "การกำกับภาพในภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 216",
+      "course_name_en": "Digital Cinematography",
+      "course_name_th": "การกำกับภาพในภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951312",
+      "course_name_en": "Computer Animation Production",
+      "course_name_th": "การผลิตคอมพิวเตอร์แอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 312",
+      "course_name_en": "Computer Animation Production",
+      "course_name_th": "การผลิตคอมพิวเตอร์แอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951341",
+      "course_name_en": "Art Concept and Digital Creative",
+      "course_name_th": "แนวคิดทางศิลปะและการสร้างสรรค์สื่อดิจิตอล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 341",
+      "course_name_en": "Art Concept and Digital Creative",
+      "course_name_th": "แนวคิดทางศิลปะและการสร้างสรรค์สื่อดิจิตอล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951342",
+      "course_name_en": "Digital Media Creation",
+      "course_name_th": "การสร้างสรรค์สื่อดิจิตอล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 342",
+      "course_name_en": "Digital Media Creation",
+      "course_name_th": "การสร้างสรรค์สื่อดิจิตอล",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951344",
+      "course_name_en": "Sound Design in Animation and Multimedia",
+      "course_name_th": "การออกแบบเสียงในงานแอนนิเมชันและมัลติมีเดีย",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 344",
+      "course_name_en": "Sound Design in Animation and Multimedia",
+      "course_name_th": "การออกแบบเสียงในงานแอนนิเมชันและมัลติมีเดีย",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951493",
+      "course_name_en": "Seminar",
+      "course_name_th": "สัมมนา",
+      "credits": "1",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 493",
+      "course_name_en": "Seminar",
+      "course_name_th": "สัมมนา",
+      "credits": "1",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951489",
+      "course_name_en": "Cooperative Education for Animation and Game",
+      "course_name_th": "สหกิจศึกษาสำหรับแอนนิเมชันและเกม",
+      "credits": "9",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 489",
+      "course_name_en": "Cooperative Education for Animation and Game",
+      "course_name_th": "สหกิจศึกษาสำหรับแอนนิเมชันและเกม",
+      "credits": "9",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951499",
+      "course_name_en": "Project",
+      "course_name_th": "โครงงาน",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 499",
+      "course_name_en": "Project",
+      "course_name_th": "โครงงาน",
+      "credits": "3",
+      "category_or_track": "Major Required / Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951202",
+      "course_name_en": "Mathematics for Computer Graphics and Game",
+      "course_name_th": "คณิตศาสตร์สำหรับคอมพิวเตอร์กราฟิกและเกม",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 202",
+      "course_name_en": "Mathematics for Computer Graphics and Game",
+      "course_name_th": "คณิตศาสตร์สำหรับคอมพิวเตอร์กราฟิกและเกม",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951231",
+      "course_name_en": "Networking Technology",
+      "course_name_th": "เทคโนโลยีการเชื่อมต่อเครือข่าย",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 231",
+      "course_name_en": "Networking Technology",
+      "course_name_th": "เทคโนโลยีการเชื่อมต่อเครือข่าย",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951302",
+      "course_name_en": "Physic in Game Development",
+      "course_name_th": "ฟิสิกส์ในการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 302",
+      "course_name_en": "Physic in Game Development",
+      "course_name_th": "ฟิสิกส์ในการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951321",
+      "course_name_en": "Game Programming 1",
+      "course_name_th": "การเขียนเกม 1",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 321",
+      "course_name_en": "Game Programming 1",
+      "course_name_th": "การเขียนเกม 1",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951323",
+      "course_name_en": "Game Programming 2",
+      "course_name_th": "การเขียนเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 323",
+      "course_name_en": "Game Programming 2",
+      "course_name_th": "การเขียนเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951421",
+      "course_name_en": "Advanced Game Design",
+      "course_name_th": "การออกแบบเกมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 421",
+      "course_name_en": "Advanced Game Design",
+      "course_name_th": "การออกแบบเกมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Required / Game Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951215",
+      "course_name_en": "Storyboarding",
+      "course_name_th": "การเล่าเรื่องด้วยภาพ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 215",
+      "course_name_en": "Storyboarding",
+      "course_name_th": "การเล่าเรื่องด้วยภาพ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951301",
+      "course_name_en": "Advanced Animation and Rendering Techniques",
+      "course_name_th": "เทคนิคการสร้างภาพแอนนิเมชันขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 301",
+      "course_name_en": "Advanced Animation and Rendering Techniques",
+      "course_name_th": "เทคนิคการสร้างภาพแอนนิเมชันขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951313",
+      "course_name_en": "Acting for Animation",
+      "course_name_th": "ศิลปะการแสดงเพื่อการสร้างสรรค์งานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 313",
+      "course_name_en": "Acting for Animation",
+      "course_name_th": "ศิลปะการแสดงเพื่อการสร้างสรรค์งานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951322",
+      "course_name_en": "Online Game Development",
+      "course_name_th": "การพัฒนาเกมออนไลน์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 322",
+      "course_name_en": "Online Game Development",
+      "course_name_th": "การพัฒนาเกมออนไลน์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951324",
+      "course_name_en": "Artificial Intelligent for Game Development",
+      "course_name_th": "ปัญญาประดิษฐ์สำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 324",
+      "course_name_en": "Artificial Intelligent for Game Development",
+      "course_name_th": "ปัญญาประดิษฐ์สำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951325",
+      "course_name_en": "Game Interaction Design",
+      "course_name_th": "การออกแบบปฏิสัมพันธ์สำหรับเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 325",
+      "course_name_en": "Game Interaction Design",
+      "course_name_th": "การออกแบบปฏิสัมพันธ์สำหรับเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951326",
+      "course_name_en": "Interactive Applications",
+      "course_name_th": "โปรแกรมประยุกต์เชิงโต้ตอบ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 326",
+      "course_name_en": "Interactive Applications",
+      "course_name_th": "โปรแกรมประยุกต์เชิงโต้ตอบ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951331",
+      "course_name_en": "Mobile Game Development",
+      "course_name_th": "การพัฒนาเกมบนอุปกรณ์เคลื่อนที่",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 331",
+      "course_name_en": "Mobile Game Development",
+      "course_name_th": "การพัฒนาเกมบนอุปกรณ์เคลื่อนที่",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951345",
+      "course_name_en": "Arts and New Media Exhibition",
+      "course_name_th": "การจัดนิทรรศการศิลปะและสื่อสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 345",
+      "course_name_en": "Arts and New Media Exhibition",
+      "course_name_th": "การจัดนิทรรศการศิลปะและสื่อสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951346",
+      "course_name_en": "Digital Movie for Entertainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงบันเทิง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 346",
+      "course_name_en": "Digital Movie for Entertainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงบันเทิง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951348",
+      "course_name_en": "Comics Design Process",
+      "course_name_th": "การออกแบบคอมมิค",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 348",
+      "course_name_en": "Comics Design Process",
+      "course_name_th": "การออกแบบคอมมิค",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951349",
+      "course_name_en": "Digital Movies Criticism and Analysis",
+      "course_name_th": "การวิเคราะห์และวิจารณ์ภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 349",
+      "course_name_en": "Digital Movies Criticism and Analysis",
+      "course_name_th": "การวิเคราะห์และวิจารณ์ภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951351",
+      "course_name_en": "Cosplay Design for Animation",
+      "course_name_th": "การออกแบบคอสเพลย์สำหรับงานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 351",
+      "course_name_en": "Cosplay Design for Animation",
+      "course_name_th": "การออกแบบคอสเพลย์สำหรับงานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951352",
+      "course_name_en": "Toy and Souvenir Product Design",
+      "course_name_th": "การออกแบบผลิตภัณฑ์ของเล่นและของที่ระลึก",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 352",
+      "course_name_en": "Toy and Souvenir Product Design",
+      "course_name_th": "การออกแบบผลิตภัณฑ์ของเล่นและของที่ระลึก",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951353",
+      "course_name_en": "Graphic Design for Communication",
+      "course_name_th": "การออกแบบกราฟิกเพื่อการสื่อสาร",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 353",
+      "course_name_en": "Graphic Design for Communication",
+      "course_name_th": "การออกแบบกราฟิกเพื่อการสื่อสาร",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951356",
+      "course_name_en": "Digital Movie for Commerce",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงพาณิชย์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 356",
+      "course_name_en": "Digital Movie for Commerce",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงพาณิชย์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951366",
+      "course_name_en": "Digital Movie for Edutainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเพื่อการศึกษาเชิงหรรษา",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 366",
+      "course_name_en": "Digital Movie for Edutainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเพื่อการศึกษาเชิงหรรษา",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951411",
+      "course_name_en": "Advanced Three Dimensional Character Design",
+      "course_name_th": "การออกแบบตัวละครสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 411",
+      "course_name_en": "Advanced Three Dimensional Character Design",
+      "course_name_th": "การออกแบบตัวละครสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951412",
+      "course_name_en": "Advanced Three Dimensional Scene Design",
+      "course_name_th": "การออกแบบทิวทัศน์สามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 412",
+      "course_name_en": "Advanced Three Dimensional Scene Design",
+      "course_name_th": "การออกแบบทิวทัศน์สามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951413",
+      "course_name_en": "Advanced Three Dimensional Animation Design",
+      "course_name_th": "การออกแบบแอนนิเมชันสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 413",
+      "course_name_en": "Advanced Three Dimensional Animation Design",
+      "course_name_th": "การออกแบบแอนนิเมชันสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951431",
+      "course_name_en": "Wireless Communication System and Application",
+      "course_name_th": "ระบบสื่อสารและโปรแกรมประยุกต์ไร้สาย",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 431",
+      "course_name_en": "Wireless Communication System and Application",
+      "course_name_th": "ระบบสื่อสารและโปรแกรมประยุกต์ไร้สาย",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951451",
+      "course_name_en": "Marketing For Design",
+      "course_name_th": "การตลาดสำหรับการออกแบบ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 451",
+      "course_name_en": "Marketing For Design",
+      "course_name_th": "การตลาดสำหรับการออกแบบ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951452",
+      "course_name_en": "Portfolio and Presentation",
+      "course_name_th": "ผลงานและการนำเสนอ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 452",
+      "course_name_en": "Portfolio and Presentation",
+      "course_name_th": "ผลงานและการนำเสนอ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951491",
+      "course_name_en": "Animation Job Training",
+      "course_name_th": "การฝึกงานสำหรับแอนนิเมชันและเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 491",
+      "course_name_en": "Animation Job Training",
+      "course_name_th": "การฝึกงานสำหรับแอนนิเมชันและเกม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951494",
+      "course_name_en": "Selected Topics in Animation 1",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 494",
+      "course_name_en": "Selected Topics in Animation 1",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951495",
+      "course_name_en": "Selected Topics in Animation 2",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 495",
+      "course_name_en": "Selected Topics in Animation 2",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951497",
+      "course_name_en": "Selected Topics in Game Development 1",
+      "course_name_th": "หัวข้อเลือกสรรทางการพัฒนาเกม 1",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 497",
+      "course_name_en": "Selected Topics in Game Development 1",
+      "course_name_th": "หัวข้อเลือกสรรทางการพัฒนาเกม 1",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951498",
+      "course_name_en": "Selected Topics in Game Development 2",
+      "course_name_th": "หัวข้อเลือกสรรทางการพัฒนาเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "ANI 498",
+      "course_name_en": "Selected Topics in Game Development 2",
+      "course_name_th": "หัวข้อเลือกสรรทางการพัฒนาเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

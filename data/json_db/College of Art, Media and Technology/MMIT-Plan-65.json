@@ -1,0 +1,962 @@
+{
+  "program_name": "Bachelor of Science Program in Modern Management and Information Technology",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "ENGL 101 (001101)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "ENGL 102 (001102)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "ENGL 102 (001102)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "เทคโนโลยีสารสนเทศและชีวิตสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011151",
+      "course_name_en": "Reasoning",
+      "course_name_th": "การใช้เหตุผล",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "โลกสมัยใหม่ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Innovative Co-creator",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "การเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Required courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "ว่ายน้ำเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Elective courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "แบดมินตันเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education / Elective courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "ปรัชญาเศรษฐกิจพอเพียง",
+      "credits": "3",
+      "category_or_or_track": "General Education / Elective courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "การเงินในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective courses / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมล้านนา",
+      "credits": "3",
+      "category_or_track": "General Education / Elective courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "การอนุรักษ์สิ่งแวดล้อม",
+      "credits": "3",
+      "category_or_track": "General Education / Elective courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201192",
+      "course_name_en": "Doi Suthep Study",
+      "course_name_th": "ดอยสุเทพศึกษา",
+      "credits": "1",
+      "category_or_track": "General Education / Elective courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "ชีวิตสมัยใหม่กับแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective courses / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208262",
+      "course_name_en": "Elementary Statistics for Science and Technology",
+      "course_name_th": "สถิติเบื้องต้นสำหรับวิทยาศาสตร์และเทคโนโลยี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954241",
+      "course_name_en": "Art of Computing",
+      "course_name_th": "คำนวณศิลป์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 140 (954140)"
+      ]
+    },
+    {
+      "course_code": "954100",
+      "course_name_en": "Information System for Organization Management",
+      "course_name_th": "ระบบสารสนเทศเพื่อการบริหารและจัดการองค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954140",
+      "course_name_en": "Information Technology Literacy",
+      "course_name_th": "พื้นฐานเทคโนโลยีสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954142",
+      "course_name_en": "Fundamental Computer Programming for Modern Management",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์พื้นฐานสำหรับ การบริหารจัดการสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954143",
+      "course_name_en": "Data Management",
+      "course_name_th": "การจัดการข้อมูล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 140 (954140)"
+      ]
+    },
+    {
+      "course_code": "954170",
+      "course_name_en": "Elementary Business Process Modeling",
+      "course_name_th": "พื้นฐานการสร้างแบบจำลองกระบวนการธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954230",
+      "course_name_en": "Financial Tracking in Digital Business",
+      "course_name_th": "การติดตามทางการเงินในธุรกิจดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954231",
+      "course_name_en": "Human Capital Management in Digital Business",
+      "course_name_th": "ระบบงานการจัดการทุนมนุษย์ในธุรกิจดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954244",
+      "course_name_en": "System Analysis and Design for Modern Management",
+      "course_name_th": "การออกแบบและวิเคราะห์ระบบสำหรับการ บริหารจัดการสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954246",
+      "course_name_en": "Advanced Computer Programming for Modern Management",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์ขั้นสูงสำหรับ การบริหารจัดการสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954248",
+      "course_name_en": "Information and Communication Technology",
+      "course_name_th": "เทคโนโลยีสารสนเทศและการสื่อสาร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core Courses",
+      "prerequisites": [
+        "INX 140 (954140)"
+      ]
+    },
+    {
+      "course_code": "954310",
+      "course_name_en": "Information Systems for Enterprise Resource Planning",
+      "course_name_th": "ระบบสารสนเทศเพื่อการวางแผนทรัพยากรองค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 170 (954170)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954340",
+      "course_name_en": "Enterprise Database Design and Applications",
+      "course_name_th": "การออกแบบฐานข้อมูลองค์กรและการประยุกต์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 143 (954143)",
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954346",
+      "course_name_en": "Application Development for Business Sector",
+      "course_name_th": "การพัฒนาโปรแกรมประยุกต์สำหรับงานภาคธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 143 (954143)",
+        "INX 170 (954170)",
+        "Consent of department"
+      ]
+    },
+    {
+      "course_code": "954365",
+      "course_name_en": "Knowledge Management System",
+      "course_name_th": "ระบบการจัดการความรู้",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 140 (954140)"
+      ]
+    },
+    {
+      "course_code": "954370",
+      "course_name_en": "Analysis and Design in Materials Management Module",
+      "course_name_th": "การวิเคราะห์และออกแบบระบบงานการจัดการวัสดุ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954374",
+      "course_name_en": "Sales and Distribution for Digital Market",
+      "course_name_th": "การขายและการจัดจำหน่ายสำหรับตลาดดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954381",
+      "course_name_en": "Preparation for Work Integrated Learning",
+      "course_name_th": "การเตรียมความพร้อมสำหรับการเรียนรู้ร่วมกับการทำงาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "Third year standing"
+      ]
+    },
+    {
+      "course_code": "954389",
+      "course_name_en": "Job Training",
+      "course_name_th": "การฝึกงาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "Third year standing"
+      ]
+    },
+    {
+      "course_code": "954416",
+      "course_name_en": "Information Systems for Supply Chain and Customer Relationship Management",
+      "course_name_th": "ระบบสารสนเทศเพื่อการจัดการห่วงโซ่อุปทานและลูกค้าสัมพันธ์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954490",
+      "course_name_en": "Informatics Research Methodology",
+      "course_name_th": "ระเบียบวิธีวิจัยสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "Third year standing"
+      ]
+    },
+    {
+      "course_code": "954484",
+      "course_name_en": "Work Integrated Learning 1",
+      "course_name_th": "การเรียนรู้ร่วมกับการทำงาน 1",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 381 (954381)"
+      ]
+    },
+    {
+      "course_code": "954485",
+      "course_name_en": "Work Integrated Learning 2",
+      "course_name_th": "การเรียนรู้ร่วมกับการทำงาน 2",
+      "credits": "6",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "INX 484 (954484)"
+      ]
+    },
+    {
+      "course_code": "954499",
+      "course_name_en": "Independent Study",
+      "course_name_th": "การค้นคว้าแบบอิสระ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Courses / Required Courses",
+      "prerequisites": [
+        "Fourth year standing"
+      ]
+    },
+    {
+      "course_code": "954240",
+      "course_name_en": "Web Programming",
+      "course_name_th": "การเขียนโปรแกรมเว็บ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954316",
+      "course_name_en": "Technology Application in Supply Chain",
+      "course_name_th": "เทคโนโลยีโปรแกรมประยุกต์ในห่วงโซ่อุปทาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954344",
+      "course_name_en": "Computer Networks and Database Security for Organization",
+      "course_name_th": "ความปลอดภัยสำหรับเครือข่ายคอมพิวเตอร์และฐานข้อมูลสำหรับองค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 248 (954248)"
+      ]
+    },
+    {
+      "course_code": "954347",
+      "course_name_en": "E-Commerce",
+      "course_name_th": "พาณิชย์อิเล็กทรอนิกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954440",
+      "course_name_en": "Enterprise Portal Application Development",
+      "course_name_th": "การพัฒนาโปรแกรมประยุกต์แบบเว็บศูนย์รวม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 240 (954240)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954442",
+      "course_name_en": "Cloud Computing",
+      "course_name_th": "การประมวลผลแบบกลุ่มเมฆ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 248 (954248)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954443",
+      "course_name_en": "Multimedia for Digital Business",
+      "course_name_th": "มัลติมีเดียสำหรับธุรกิจดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 240 (954240)",
+        "INX 374 (954374)"
+      ]
+    },
+    {
+      "course_code": "954444",
+      "course_name_en": "ERP Programming",
+      "course_name_th": "การเขียนโปรแกรมอีอาร์พี",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954445",
+      "course_name_en": "Healthcare Information Systems",
+      "course_name_th": "ระบบสารสนเทศสุขภาพ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954447",
+      "course_name_en": "Client -Side Scripting",
+      "course_name_th": "บทคำสั่งบนฝั่งลูกข่าย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 240 (954240)"
+      ]
+    },
+    {
+      "course_code": "954448",
+      "course_name_en": "Web Service for Enterprise Systems",
+      "course_name_th": "เว็บเซอร์วิสสำหรับระบบขององค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 240 (954240)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954449",
+      "course_name_en": "Rapid Application Development",
+      "course_name_th": "การพัฒนาโปรแกรมประยุกต์แบบเร่งด่วน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 142 (954142)"
+      ]
+    },
+    {
+      "course_code": "954471",
+      "course_name_en": "Business Data Mining",
+      "course_name_th": "การทำเหมืองข้อมูลธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 340 (954340)"
+      ]
+    },
+    {
+      "course_code": "954472",
+      "course_name_en": "Business Data Visualization",
+      "course_name_th": "การแสดงข้อมูลธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 340 (954340)"
+      ]
+    },
+    {
+      "course_code": "954473",
+      "course_name_en": "Enterprise Resource Planning Configuration",
+      "course_name_th": "การกำหนดค่าระบบจัดการและวางแผนการใช้ทรัพยากรขององค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 310 (954310)",
+        "INX 340 (954340)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954474",
+      "course_name_en": "Digital Data Gathering",
+      "course_name_th": "การรวบรวมข้อมูลดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Information Technology",
+      "prerequisites": [
+        "INX 142 (954142)",
+        "INX 248 (954248)",
+        "Consent of department"
+      ]
+    },
+    {
+      "course_code": "954321",
+      "course_name_en": "Operations and Service for E-Service",
+      "course_name_th": "การดำเนินงานและการบริการสำหรับ การบริการอิเล็กทรอนิกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954322",
+      "course_name_en": "Technology in Call Center Management",
+      "course_name_th": "เทคโนโลยีการบริหารศูนย์บริการขององค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954324",
+      "course_name_en": "Information and Communication Technology for E-Tourism",
+      "course_name_th": "เทคโนโลยีสารสนเทศและการสื่อสารสำหรับ ธุรกิจการท่องเที่ยวอิเล็กทรอนิกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954326",
+      "course_name_en": "Information Technology in Event Management",
+      "course_name_th": "เทคโนโลยีสารสนเทศสำหรับการจัดงานกิจกรรม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954371",
+      "course_name_en": "Analysis and Design in Production Planning Module",
+      "course_name_th": "การวิเคราะห์และออกแบบระบบงานการวางแผนการผลิต",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 310 (954310)"
+      ]
+    },
+    {
+      "course_code": "954375",
+      "course_name_en": "Analysis and Design in Enterprise Asset and Customer Service",
+      "course_name_th": "การวิเคราะห์และออกแบบระบบงานสินทรัพย์องค์กรและการบริการลูกค้า",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 310 (954310)"
+      ]
+    },
+    {
+      "course_code": "954410",
+      "course_name_en": "Information Technology Application in Lean Transformation",
+      "course_name_th": "การประยุกต์ใช้เทคโนโลยีสารสนเทศในการปฏิรูปแบบลีน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954411",
+      "course_name_en": "Using Information Technology to Develop Key Performance Indicators for Business",
+      "course_name_th": "การใช้เทคโนโลยีสารสนเทศในการพัฒนาตัวชี้วัดสำหรับธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954412",
+      "course_name_en": "Industrial Excellence Model",
+      "course_name_th": "แบบจำลององค์กรอุตสาหกรรมที่เป็นเลิศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954413",
+      "course_name_en": "Decision Making in Information Technology Investment and Organizational Management",
+      "course_name_th": "การตัดสินใจในการลงทุนเทคโนโลยีสารสนเทศและการจัดการองค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954414",
+      "course_name_en": "Preliminary Simulations on Logistics Activities",
+      "course_name_th": "การจำลองสถานการณ์เบื้องต้นในกิจกรรมโลจิสติกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954415",
+      "course_name_en": "Introduction to Quantitative Business Problems Analysis",
+      "course_name_th": "การวิเคราะห์เชิงปริมาณเพื่อการแก้ปัญหาทางธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954417",
+      "course_name_en": "Information System for Maintenance",
+      "course_name_th": "ระบบสารสนเทศสำหรับการบำรุงรักษา",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 100 (954100)"
+      ]
+    },
+    {
+      "course_code": "954421",
+      "course_name_en": "Mobile Device in Business Operation",
+      "course_name_th": "อุปกรณ์เคลื่อนที่ในการดำเนินธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954422",
+      "course_name_en": "Customer Relationship Management and Supplier Relationship Management in E-Tourism",
+      "course_name_th": "การบริหารลูกค้าสัมพันธ์และการบริหารผู้จัดหาปัจจัยการผลิตสัมพันธ์ในธุรกิจท่องเที่ยวอิเล็กทรอนิกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 424 (954424)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954423",
+      "course_name_en": "Service Innovation for Competitiveness",
+      "course_name_th": "นวัตกรรมบริการเพื่อเพิ่มความสามารถในการแข่งขัน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954424",
+      "course_name_en": "Introduction to E-Tourism business",
+      "course_name_th": "ธุรกิจการท่องเที่ยวอิเล็กทรอนิกส์พื้นฐาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954426",
+      "course_name_en": "Introduction to E-Service",
+      "course_name_th": "การบริการอิเล็กทรอนิกส์เบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 248 (954248)"
+      ]
+    },
+    {
+      "course_code": "954430",
+      "course_name_en": "Digital Business Ecosystem",
+      "course_name_th": "ระบบนิเวศธุรกิจดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)",
+        "INX 374 (954374)"
+      ]
+    },
+    {
+      "course_code": "954433",
+      "course_name_en": "Service and Operation in E-Tourism",
+      "course_name_th": "การบริการและการดำเนินงานในธุรกิจการท่องเที่ยวอิเล็กทรอนิกส์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954461",
+      "course_name_en": "Information Technology for Knowledge Creation",
+      "course_name_th": "เทคโนโลยีสารสนเทศสำหรับการสร้างสรรค์ความรู้",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 140 (954140)",
+        "INX 365 (954365)"
+      ]
+    },
+    {
+      "course_code": "954462",
+      "course_name_en": "Knowledge Engineering and Information Technology Application",
+      "course_name_th": "วิศวกรรมความรู้และการประยุกต์ใช้เทคโนโลยีสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 365 (954365)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954463",
+      "course_name_en": "Information Technology for Learning Organization",
+      "course_name_th": "เทคโนโลยีสารสนเทศสำหรับองค์การแห่งการเรียนรู้",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 140 (954140)",
+        "INX 365 (954365)"
+      ]
+    },
+    {
+      "course_code": "954464",
+      "course_name_en": "Information Technology for Knowledge Worker Management",
+      "course_name_th": "เทคโนโลยีสารสนเทศสำหรับการจัดการบุคลากรความรู้",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 140 (954140)",
+        "INX 231 (954231)"
+      ]
+    },
+    {
+      "course_code": "954466",
+      "course_name_en": "Online Business and Service Psychology",
+      "course_name_th": "จิตวิทยาธุรกิจและบริการออนไลน์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 170 (954170)"
+      ]
+    },
+    {
+      "course_code": "954467",
+      "course_name_en": "Research Development for Workforce in a Digital Age",
+      "course_name_th": "การพัฒนางานวิจัยสำหรับแรงงานในยุคดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 231 (954231)",
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954468",
+      "course_name_en": "Introduction to Intellectual Capital Management",
+      "course_name_th": "ความรู้เบื้องต้นในการจัดการทุนทางปัญญา",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 365 (954365)"
+      ]
+    },
+    {
+      "course_code": "954477",
+      "course_name_en": "Information Technology for Production System",
+      "course_name_th": "เทคโนโลยีสารสนเทศสำหรับระบบการผลิต",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "INX 310 (954310)"
+      ]
+    },
+    {
+      "course_code": "954491",
+      "course_name_en": "Selected Topics In Modern Management and Information Technology",
+      "course_name_th": "หัวข้อเลือกสรรในด้านการจัดการสมัยใหม่และเทคโนโลยีสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954494",
+      "course_name_en": "Selected Topics in Work Integrated Learning 1",
+      "course_name_th": "หัวข้อเลือกสรรในการเรียนรู้ร่วมกับการทำงาน 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954495",
+      "course_name_en": "Selected Topics in Work Integrated Learning 2",
+      "course_name_th": "หัวข้อเลือกสรรในการเรียนรู้ร่วมกับการทำงาน 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954496",
+      "course_name_en": "Selected Topics in Work Integrated Learning 3",
+      "course_name_th": "หัวข้อเลือกสรรในการเรียนรู้ร่วมกับการทำงาน 3",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    },
+    {
+      "course_code": "954497",
+      "course_name_en": "Selected Topics in Work Integrated Learning 4",
+      "course_name_th": "หัวข้อเลือกสรรในการเรียนรู้ร่วมกับการทำงาน 4",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Electives / Modern Management",
+      "prerequisites": [
+        "Consent of the department"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "program_name": "Bachelor of Arts Program in Animation and Visual Effects, Revised Curriculum B.E. 2562",
+  "major_tracks": [
+    "Animation",
+    "Visual Effects"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมไทย",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man And Art",
+      "course_name_th": "มนุษย์กับศิลปะ",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Sciences (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201117",
+      "course_name_en": "Mathematics and Science in Civilization",
+      "course_name_th": "คณิตศาสตร์และวิทยาศาสตร์กับอารยธรรม",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "เทคโนโลยีสารสนเทศและชีวิตสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "สถาปัตยกรรมในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954101",
+      "course_name_en": "Introduction to Modern Management and Information Technology",
+      "course_name_th": "การจัดการสมัยใหม่และเทคโนโลยีสารสนเทศเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955100",
+      "course_name_en": "Learning Through Activities 1",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 1",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955101",
+      "course_name_en": "Learning Through Activities 2",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 2",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "ฟุตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "ว่ายน้ำเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "กิจกรรมเข้าจังหวะเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "บาสเกตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "แบดมินตันเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "เทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "เทเบิลเทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": "กอล์ฟเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "การออกกำลังกายและสุขภาพ",
+      "credits": "2",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "นันทการเพื่อคุณภาพชีวิต",
+      "credits": "2",
+      "category_or_track": "General Education - Learning through Activities (Elective)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951102",
+      "course_name_en": "Introduction to Computer and Animation",
+      "course_name_th": "คอมพิวเตอร์และแอนนิเมชันเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951103",
+      "course_name_en": "Sketch Drawing",
+      "course_name_th": "การร่างภาพ",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951104",
+      "course_name_en": "Sketch Drawing 2",
+      "course_name_th": "การร่างภาพ 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951106",
+      "course_name_en": "Screenwriting and Digital Storytelling",
+      "course_name_th": "การเขียนบทภาพยนตร์และการเล่าเรื่องในสื่อดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951111",
+      "course_name_en": "Two Dimensional Modeling and Animation Design",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955102",
+      "course_name_en": "Digital Literacy",
+      "course_name_th": "การรู้ดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955103",
+      "course_name_en": "Programming Logical Thinking",
+      "course_name_th": "แนวคิดตรรกะการเขียนโปรแกรม",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955104",
+      "course_name_en": "Introduction to Digital Business",
+      "course_name_th": "ธุรกิจดิจิทัลเบื้องต้น",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955105",
+      "course_name_en": "Fundamental Design in Digital Arts",
+      "course_name_th": "พื้นฐานการออกแบบศิลปะดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957107",
+      "course_name_en": "Digital Color and Light",
+      "course_name_th": "สีและแสงระบบดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951211",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 1",
+      "course_name_th": "การขึ้นรูปสามมิติ และการออกแบบแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951312",
+      "course_name_en": "Computer Animation Production",
+      "course_name_th": "การผลิตคอมพิวเตอร์แอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951493",
+      "course_name_en": "Seminar",
+      "course_name_th": "สัมมนา",
+      "credits": "1",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951499",
+      "course_name_en": "Project",
+      "course_name_th": "โครงงาน",
+      "credits": "3",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957211",
+      "course_name_en": "Photoshop 1",
+      "course_name_th": "โฟโต้ชอป 1",
+      "credits": "3",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957213",
+      "course_name_en": "Composite 1",
+      "course_name_th": "การสร้างภาพผสม 1",
+      "credits": "3",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957488",
+      "course_name_en": "Work Integrated Learning 1",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงาน 1",
+      "credits": "6",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957489",
+      "course_name_en": "Work Integrated Learning 2",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงาน 2",
+      "credits": "9",
+      "category_or_track": "Major Required - Program",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951212",
+      "course_name_en": "Three Dimensional Modeling and Animation Design 2",
+      "course_name_th": "การขึ้นรูปสามมิติ และการออกแบบแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Required - Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951214",
+      "course_name_en": "Two Dimensional Modeling and Animation and Game Design 2",
+      "course_name_th": "การขึ้นรูปสองมิติและการออกแบบแอนนิเมชันและเกม 2",
+      "credits": "3",
+      "category_or_track": "Major Required - Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951216",
+      "course_name_en": "Digital Cinematography",
+      "course_name_th": "การกำกับภาพในภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Required - Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951341",
+      "course_name_en": "Art Concept and Digital Creativity",
+      "course_name_th": "แนวคิดทางศิลปะและการสร้างสรรค์เชิงดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Required - Animation Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957212",
+      "course_name_en": "Photoshop 2",
+      "course_name_th": "โฟโต้ชอป 2",
+      "credits": "3",
+      "category_or_track": "Major Required - Visual Effects Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957214",
+      "course_name_en": "Composite 2",
+      "course_name_th": "การสร้างภาพผสม 2",
+      "credits": "3",
+      "category_or_track": "Major Required - Visual Effects Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957323",
+      "course_name_en": "Rotoscope",
+      "course_name_th": "โรโตสโคป",
+      "credits": "3",
+      "category_or_track": "Major Required - Visual Effects Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957335",
+      "course_name_en": "Two Dimensional Motion Tracking",
+      "course_name_th": "การจับและติดตามภาพเคลื่อนไหวแบบสองมิติ",
+      "credits": "3",
+      "category_or_track": "Major Required - Visual Effects Track",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951215",
+      "course_name_en": "Storyboarding",
+      "course_name_th": "การเล่าเรื่องด้วยภาพ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951301",
+      "course_name_en": "Advanced Animation and Rendering Techniques",
+      "course_name_th": "เทคนิคการสร้างภาพแอนนิเมชันขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951313",
+      "course_name_en": "Acting for Animation",
+      "course_name_th": "ศิลปะการแสดงเพื่อการสร้างสรรค์งานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951342",
+      "course_name_en": "Digital Media Creation",
+      "course_name_th": "การสร้างสรรค์สื่อดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951345",
+      "course_name_en": "Arts and New Media Exhibition",
+      "course_name_th": "การจัดนิทรรศการศิลปะและสื่อสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951346",
+      "course_name_en": "Digital Movie for Entertainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงบันเทิง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951348",
+      "course_name_en": "Comics Design Process",
+      "course_name_th": "การออกแบบคอมมิค",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951349",
+      "course_name_en": "Digital Movies Criticism and Analysis",
+      "course_name_th": "การวิเคราะห์และวิจารณ์ภาพยนตร์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951351",
+      "course_name_en": "Cosplay Design for Animation",
+      "course_name_th": "การออกแบบคอสเพลย์สำหรับงานแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951352",
+      "course_name_en": "Toy and Souvenir Product Design",
+      "course_name_th": "การออกแบบผลิตภัณฑ์ของเล่นและของที่ระลึก",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951353",
+      "course_name_en": "Graphic Design for Communication",
+      "course_name_th": "การออกแบบกราฟิกเพื่อการสื่อสาร",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951356",
+      "course_name_en": "Digital Movie for Commerce",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเชิงพาณิชย์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951366",
+      "course_name_en": "Digital Movie for Edutainment",
+      "course_name_th": "ภาพยนตร์ดิจิทัลเพื่อการศึกษาเชิงหรรษา",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951411",
+      "course_name_en": "Advanced Three Dimensional Character Design",
+      "course_name_th": "การออกแบบตัวละครสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951412",
+      "course_name_en": "Advanced Three Dimensional Scene Design",
+      "course_name_th": "การออกแบบทิวทัศน์สามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951413",
+      "course_name_en": "Advanced Three Dimensional Animation Design",
+      "course_name_th": "การออกแบบแอนนิเมชันสามมิติขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951451",
+      "course_name_en": "Marketing for Design",
+      "course_name_th": "การตลาดสำหรับการออกแบบ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951452",
+      "course_name_en": "Portfolio and Presentation",
+      "course_name_th": "ผลงานและการนำเสนอ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951494",
+      "course_name_en": "Selected Topics in Animation 1",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 1",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951495",
+      "course_name_en": "Selected Topics in Animation 2",
+      "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 2",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957321",
+      "course_name_en": "Texture Design",
+      "course_name_th": "การออกแบบวัสดุและพื้นผิวขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957322",
+      "course_name_en": "Motion Capture",
+      "course_name_th": "โมชันแคปเจอร์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957324",
+      "course_name_en": "Stop Motion",
+      "course_name_th": "สตอปโมชัน",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957325",
+      "course_name_en": "Special Effects",
+      "course_name_th": "สเปเชียลเอฟเฟกต์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957331",
+      "course_name_en": "Color Grading",
+      "course_name_th": "การควบคุมโทนสีของภาพ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957332",
+      "course_name_en": "Matte Painting",
+      "course_name_th": "การสร้างฉากผสม",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957333",
+      "course_name_en": "Advanced Lighting and Rendering",
+      "course_name_th": "การจัดแสงและการประมวลผลภาพขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957336",
+      "course_name_en": "Three Dimensional Motion Tracking",
+      "course_name_th": "การจับและติดตามภาพเคลื่อนไหวแบบสามมิติ",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "957491",
+      "course_name_en": "Selected Topic in Visual Effects",
+      "course_name_th": "หัวข้อเลือกสรรทางวิชวลเอฟเฟกต์",
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

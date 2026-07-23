@@ -1,0 +1,568 @@
+{
+  "program_name": "Bachelor of Science Program in Digital Games",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education - Language and Communication",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050100",
+      "course_name_en": "Usage of The Thai Language",
+      "course_name_th": "การใช้ภาษาไทย",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050103",
+      "course_name_en": "Thai Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมไทย",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109115",
+      "course_name_en": "Life and Aesthetics",
+      "course_name_th": "ชีวิตกับสุนทรียะ",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Enterpreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education - Humanities and Social Science Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "207110",
+      "course_name_en": "Physics: The Science that Changed the World",
+      "course_name_th": "ฟิสิกส์ : ศาสตร์ที่เปลี่ยนโลก",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208101",
+      "course_name_en": "Statistics for Everyday Life and Work",
+      "course_name_th": "สถิติสำหรับการดำรงชีวิตและการทำงาน",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "สถาปัตยกรรมในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education - Science and Mathematics Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955100",
+      "course_name_en": "Learning through Activities 1",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 1",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955101",
+      "course_name_en": "Learning through Activities 2",
+      "course_name_th": "การเรียนรู้ผ่านกิจกรรม 2",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057121",
+      "course_name_en": "Football for Life and Exercise",
+      "course_name_th": "ฟุตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057122",
+      "course_name_en": "Swimming for Life and Exercise",
+      "course_name_th": "ว่ายน้ำเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057125",
+      "course_name_en": "Rhythmic Activities for Life and Exercise",
+      "course_name_th": "กิจกรรมเข้าจังหวะเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057126",
+      "course_name_en": "Basketball for Life and Exercise",
+      "course_name_th": "บาสเก็ตบอลเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057127",
+      "course_name_en": "Badminton for Life and Exercise",
+      "course_name_th": "แบดมินตันเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057128",
+      "course_name_en": "Tennis for Life and Exercise",
+      "course_name_th": "เทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057129",
+      "course_name_en": "Table Tennis for Life and Exercise",
+      "course_name_th": "เทเบิลเทนนิสเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057130",
+      "course_name_en": "Golf for Life and Exercise",
+      "course_name_th": "กอล์ฟเพื่อชีวิตและการออกกำลังกาย",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057131",
+      "course_name_en": "Exercise and Health",
+      "course_name_th": "การออกกำลังกายและสุขภาพ",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "นันทนาการเพื่อคุณภาพชีวิต",
+      "credits": "1",
+      "category_or_track": "General Education - Learning through Activities Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955102",
+      "course_name_en": "Digital Literacy",
+      "course_name_th": "การรู้ดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955103",
+      "course_name_en": "Programming Logical Thinking",
+      "course_name_th": "แนวคิดตรรกกะการเขียนโปรแกรม",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955104",
+      "course_name_en": "Introduction to Digital Business",
+      "course_name_th": "ธุรกิจดิจิทัลเบื้องต้น",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955105",
+      "course_name_en": "Fundamental Design in Digital Arts",
+      "course_name_th": "พื้นฐานการออกแบบศิลปะดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958111",
+      "course_name_en": "Computer and Programming for Game 1",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับเกม 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958112",
+      "course_name_en": "Computer and Programming for Game 2",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับเกม 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958201",
+      "course_name_en": "Mathematics for Computer Graphics and Game",
+      "course_name_th": "คณิตศาสตร์สำหรับคอมพิวเตอร์กราฟิกและเกม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958202",
+      "course_name_en": "Computer Graphic Programming",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์กราฟิก",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958221",
+      "course_name_en": "Game Development 1",
+      "course_name_th": "การพัฒนาเกม 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958222",
+      "course_name_en": "Game Development 2",
+      "course_name_th": "การพัฒนาเกม 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958225",
+      "course_name_en": "Digital Game Production",
+      "course_name_th": "การผลิตดิจิทัลเกม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958261",
+      "course_name_en": "Graphics Design for Two Dimensional Games",
+      "course_name_th": "การออกแบบกราฟิกสำหรับเกม 2 มิติ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958321",
+      "course_name_en": "Game Development 3",
+      "course_name_th": "การพัฒนาเกม 3",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958322",
+      "course_name_en": "Game Development 4",
+      "course_name_th": "การพัฒนาเกม 4",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958325",
+      "course_name_en": "Artificial Intelligence for Game Development",
+      "course_name_th": "ปัญญาประดิษฐ์สำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958331",
+      "course_name_en": "Database and Network for Game Development",
+      "course_name_th": "ฐานข้อมูลและระบบเครือข่ายสำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958421",
+      "course_name_en": "Advanced Game Design",
+      "course_name_th": "การออกแบบเกมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958453",
+      "course_name_en": "Digital Game Industry and Distribution",
+      "course_name_th": "อุตสาหกรรมดิจิทัลเกมและการกระจาย",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958491",
+      "course_name_en": "Work Integrated Learning for Digital Game 1",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงานสำหรับดิจิทัลเกม 1",
+      "credits": "9",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958492",
+      "course_name_en": "Work Integrated Learning for Digital Game 2",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงานสำหรับดิจิทัลเกม 2",
+      "credits": "9",
+      "category_or_track": "Field of Specialization - Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958332",
+      "course_name_en": "Mobile Game Development",
+      "course_name_th": "การพัฒนาเกมบนอุปกรณ์เคลื่อนที่",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958333",
+      "course_name_en": "Multiplayer Online Game Development",
+      "course_name_th": "การพัฒนาเกมออนไลน์สำหรับหลายผู้เล่น",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958341",
+      "course_name_en": "Realistic Game Development",
+      "course_name_th": "การพัฒนาเกมแบบสมจริง",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958361",
+      "course_name_en": "Advanced Modeling for Game",
+      "course_name_th": "การสร้างโมเดลสำหรับเกมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958371",
+      "course_name_en": "Interactive Applications",
+      "course_name_th": "โปรแกรมประยุกต์เชิงโต้ตอบ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958372",
+      "course_name_en": "Serious Games Design and Applications",
+      "course_name_th": "การออกแบบเกมคิดไตร่ตรองและการประยุกต์",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958373",
+      "course_name_en": "Gamification",
+      "course_name_th": "เกมมิฟิเคชัน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958441",
+      "course_name_en": "Motion Capture for Game Development",
+      "course_name_th": "โมชันแคปเจอร์สำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Field of Specialization - Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

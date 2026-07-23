@@ -1,0 +1,341 @@
+{
+  "program_name": "Bachelor of Science in Digital Innovation (International Program)",
+  "major_tracks": [
+    "Digital Innovation",
+    "Digital Innovation (Data Science specialization)",
+    "Digital Innovation (Entrepreneurship specialization)",
+    "Digital Innovation (International Economic and Trade specialization)"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204101",
+      "course_name_en": "Introduction to Computer",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206171",
+      "course_name_en": "General Mathematics 1",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206113",
+      "course_name_en": "Calculus for Software Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208150",
+      "course_name_en": "Probability and Statistics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888111",
+      "course_name_en": "Innovative Entrepreneurship Theory and Practice",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "GE_Elective_Innovative_Co_creator",
+      "course_name_en": "General Education Elective (Innovative Co-creator)",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204217",
+      "course_name_en": "Computer Programming Languages",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206255",
+      "course_name_en": "Mathematics for Software Technology",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206172",
+      "course_name_en": "General Mathematics 2",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888152",
+      "course_name_en": "Programming for Data Visualization in Business",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208250",
+      "course_name_en": "Statistical Methods for Data Science",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888121",
+      "course_name_en": "Digital Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888151",
+      "course_name_en": "Digital Innovation and Trends",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Active Citizen",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204251",
+      "course_name_en": "Data Structures",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206281",
+      "course_name_en": "Discrete Mathematics",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "208251",
+      "course_name_en": "Regression Analysis and Non-Parametric",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "GE_Electives",
+      "course_name_en": "General Education (Electives)",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001225",
+      "course_name_en": "English in Science and Technology Context",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "General Education",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888211",
+      "course_name_en": "Fundraising in Digital Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888231",
+      "course_name_en": "Ecosystem of E-Commerce in Innovative Economy",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888232",
+      "course_name_en": "Intellectual Property Management and Negotiation",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888311",
+      "course_name_en": "Digital Business Ecosystem",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "MAJOR_ELECTIVE",
+      "course_name_en": "Major Elective",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888399",
+      "course_name_en": "Technology Startup Project Survey",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "FREE_ELECTIVE",
+      "course_name_en": "Free Elective",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Free Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888498",
+      "course_name_en": "Technology Startup Pre-Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888499",
+      "course_name_en": "Technology Startup Project",
+      "course_name_th": null,
+      "credits": "3",
+      "category_or_track": "Major Core",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

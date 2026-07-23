@@ -1,0 +1,498 @@
+{
+  "program_name": "Bachelor of Science Program in Digital Industry Integration",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person (Alternative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955202",
+      "course_name_en": "Critical Reading and Effective Writing for Digital Workforce",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิภาพ สำหรับกำลังคน",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person (Alternative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person (Alternative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955203",
+      "course_name_en": "English for Digital Technology System Developer",
+      "course_name_th": "ภาษาอังกฤษสำหรับนักพัฒนาระบบเทคโนโลยีดิจิทัล",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person (Alternative)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953111",
+      "course_name_en": "Software for Everyday Life",
+      "course_name_th": "ซอฟต์แวร์สำหรับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "050104",
+      "course_name_en": "Man and the Modern World",
+      "course_name_th": "มนุษย์กับโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "ปัญญาประดิษฐ์ท่ามกลางพวกเรา",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851103",
+      "course_name_en": "Life and Society through Media",
+      "course_name_th": "ชีวิตและสังคมผ่านสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator (Choose 1)",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "การเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011269",
+      "course_name_en": "Philosophy of Sufficiency Economy",
+      "course_name_th": "ปรัชญาเศรษฐกิจพอเพียง",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057133",
+      "course_name_en": "Recreation for Quality of Life",
+      "course_name_th": "นันทนาการเพื่อคุณภาพชีวิต",
+      "credits": "2",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "571116",
+      "course_name_en": "Health and Working in the Digital Age",
+      "course_name_th": "สุขภาพกับการทำงานในยุคดิจิทัล",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "365222",
+      "course_name_en": "Aesthetic Natural Areas and Ecotourism",
+      "course_name_th": "พื้นที่สวยงามตามธรรมชาติและการท่องเที่ยวเชิงอนุรักษ์",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "ชีวิตสมัยใหม่กับแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954100",
+      "course_name_en": "Information System for Organization Management",
+      "course_name_th": "ระบบสารสนเทศเพื่อการบริหารและจัดการองค์กร",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960100",
+      "course_name_en": "Digital Literacy for Digital Industry Integration",
+      "course_name_th": "การรู้ดิจิทัลสำหรับการบูรณาการอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960101",
+      "course_name_en": "Basic Logic of Programming in Digital Industry",
+      "course_name_th": "ตรรกะพื้นฐานการเขียนโปรแกรมในอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960102",
+      "course_name_en": "User-Centered Interface and Experience Design For Digital Industry",
+      "course_name_th": "การออกแบบส่วนต่อประสานและประสบการณ์ โดยมีผู้ใช้เป็นศูนย์กลางสำหรับอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960121",
+      "course_name_en": "Digital Industry Process 1",
+      "course_name_th": "กระบวนการทางอุตสาหกรรมดิจิทัล 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960131",
+      "course_name_en": "Digital Industry Infrastructure 1",
+      "course_name_th": "โครงสร้างพื้นฐานทางอุตสาหกรรมดิจิทัล 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960141",
+      "course_name_en": "Digital Industry Solution 1",
+      "course_name_th": "การแก้ปัญหาทางอุตสาหกรรมดิจิทัล 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960200",
+      "course_name_en": "Project Management for Digital Industry",
+      "course_name_th": "การบริหารโครงการสำหรับอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Core",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "954170",
+      "course_name_en": "Elementary Business Process Modeling",
+      "course_name_th": "พื้นฐานการสร้างแบบจำลองกระบวนการธุรกิจ",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960212",
+      "course_name_en": "Product and Service in Digital Industry",
+      "course_name_th": "ผลิตภัณฑ์และการบริการในอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960213",
+      "course_name_en": "Professionalism in Digital Industry",
+      "course_name_th": "หลักปฏิบัติทางวิชาชีพในอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960231",
+      "course_name_en": "Digital Industry Infrastructure 2",
+      "course_name_th": "โครงสร้างพื้นฐานทางอุตสาหกรรมดิจิทัล 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960241",
+      "course_name_en": "Digital Industry Solution 2",
+      "course_name_th": "การแก้ปัญหาทางอุตสาหกรรมดิจิทัล 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960242",
+      "course_name_en": "Digital Industry Solution 3",
+      "course_name_th": "การแก้ปัญหาทางอุตสาหกรรมดิจิทัล 3",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960290",
+      "course_name_en": "Work Integrated Learning Preparation",
+      "course_name_th": "การเตรียมความพร้อมการจัดการศึกษา เชิงบูรณาการกับการทำงาน",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960312",
+      "course_name_en": "Digital Industry Solution 4",
+      "course_name_th": "การแก้ปัญหาอุตสาหกรรมดิจิทัล 4",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960391",
+      "course_name_en": "Work Integrated Learning 1",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงาน 1",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960491",
+      "course_name_en": "Work Integrated Learning 2",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงาน 2",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960492",
+      "course_name_en": "Work Integrated Learning 3",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงาน 3",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960311",
+      "course_name_en": "Advanced Topics in Digital Industry Business",
+      "course_name_th": "หัวข้อขั้นสูงในธุรกิจอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960321",
+      "course_name_en": "Advanced Topics in Digital Industry Process",
+      "course_name_th": "หัวข้อชั้นสูงที่เกี่ยวกับกระบวนการทางอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960331",
+      "course_name_en": "Advanced Topics in Digital Industry Infrastructure",
+      "course_name_th": "หัวข้อชั้นสูงที่เกี่ยวกับโครงสร้างพื้นฐานทาง อุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960341",
+      "course_name_en": "Advanced Topics in Digital Industry Solution",
+      "course_name_th": "หัวข้อชั้นสูงที่เกี่ยวกับการแก้ปัญหาทางอุตสาหกรรมดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960381",
+      "course_name_en": "Selected Topics in Digital Industry Integration 1",
+      "course_name_th": "หัวข้อเลือกสรรในการบูรณาการอุตสาหกรรมดิจิทัล 1",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960382",
+      "course_name_en": "Selected Topics in Digital Industry Integration 2",
+      "course_name_th": "หัวข้อเลือกสรรในการบูรณาการอุตสาหกรรมดิจิทัล 2",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960383",
+      "course_name_en": "Selected Topics in Digital Industry Integration 3",
+      "course_name_th": "หัวข้อเลือกสรรในการบูรณาการอุตสาหกรรมดิจิทัล 3",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960384",
+      "course_name_en": "Selected Topics in Digital Industry Integration 4",
+      "course_name_th": "หัวข้อเลือกสรรในการบูรณาการอุตสาหกรรมดิจิทัล 4",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960385",
+      "course_name_en": "Selected Topics in Digital Industry Integration 5",
+      "course_name_th": "หัวข้อเลือกสรรในการบูรณาการอุตสาหกรรมดิจิทัล 5",
+      "credits": "3",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "960392",
+      "course_name_en": "Work Integrated Learning for Digital Industry",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงานสำหรับ อุตสาหกรรมดิจิทัล",
+      "credits": "9",
+      "category_or_track": "Field of Specialization / Major Elective",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

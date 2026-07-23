@@ -1,0 +1,388 @@
+{
+  "program_name": "Bachelor of Science Program in Digital Game",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001201",
+      "course_name_en": "Critical Reading and Effective Writing",
+      "course_name_th": "การอ่านเชิงวิเคราะห์และการเขียนอย่างมีประสิทธิผล",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community",
+      "course_name_th": "อินเทอร์เน็ตและสังคมออนไลน์",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "206100",
+      "course_name_en": "Mathematics in Everyday Life",
+      "course_name_th": "คณิตศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "356102",
+      "course_name_en": "Ornamental Aquatic Animals",
+      "course_name_th": "สัตว์น้ำสวยงาม",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "852100",
+      "course_name_en": "Introduction to Film",
+      "course_name_th": "ความรู้เบื้องต้นเกี่ยวกับภาพยนตร์",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "การเริ่มต้นธุรกิจบนดิจิทัลแพลตฟอร์ม",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Innovative Co-creator Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "การเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Required / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "057137",
+      "course_name_en": "Sports for Health",
+      "course_name_th": "กีฬาเพื่อสุขภาพ",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011155",
+      "course_name_en": "Philosophy of Happiness",
+      "course_name_th": "ปรัชญาความสุข",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Learner Person Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "011100",
+      "course_name_en": "Man and Philosophy",
+      "course_name_th": "มนุษย์กับปรัชญา",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "012200",
+      "course_name_en": "Mind Volunteer",
+      "course_name_th": "จิตอาสา",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154100",
+      "course_name_en": "Introduction to Geography",
+      "course_name_th": "ภูมิศาสตร์เบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "259108",
+      "course_name_en": "Electricity in Everyday Life",
+      "course_name_th": "ไฟฟ้าในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "801100",
+      "course_name_en": "Architecture in Everyday Life",
+      "course_name_th": "สถาปัตยกรรมในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Elective / Active Citizen Group",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955103",
+      "course_name_en": "Programming Logical Thinking",
+      "course_name_th": "แนวคิดตรรกะการเขียนโปรแกรม",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958111",
+      "course_name_en": "Computer and Programming for Game 1",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับเกม 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955102",
+      "course_name_en": "Digital Literacy",
+      "course_name_th": "การรู้ดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958112",
+      "course_name_en": "Computer and Programming for Game 2",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับเกม 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955104",
+      "course_name_en": "Introduction to Digital Business",
+      "course_name_th": "ธุรกิจดิจิทัลเบื้องต้น",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958201",
+      "course_name_en": "Mathematics for Computer Graphics and Game",
+      "course_name_th": "คณิตศาสตร์สำหรับคอมพิวเตอร์กราฟิกและเกม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958221",
+      "course_name_en": "Game Development 1",
+      "course_name_th": "การพัฒนาเกม 1",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958225",
+      "course_name_en": "Digital Game Production",
+      "course_name_th": "การผลิตดิจิทัลเกม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958261",
+      "course_name_en": "Graphics Design for Two Dimensional Games",
+      "course_name_th": "การออกแบบกราฟิกสำหรับเกม 2 มิติ",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "955105",
+      "course_name_en": "Fundamental Design in Digital Arts",
+      "course_name_th": "พื้นฐานการออกแบบศิลปะดิจิทัล",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958202",
+      "course_name_en": "Computer Graphics Programming",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์กราฟิก",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958222",
+      "course_name_en": "Game Development 2",
+      "course_name_th": "การพัฒนาเกม 2",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958321",
+      "course_name_en": "Game Development 3",
+      "course_name_th": "การพัฒนาเกม 3",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958325",
+      "course_name_en": "Artificial Intelligence for Game Development",
+      "course_name_th": "ปัญญาประดิษฐ์สำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958331",
+      "course_name_en": "Database and Network for Game Development",
+      "course_name_th": "ฐานข้อมูลและระบบเครือข่ายสำหรับการพัฒนาเกม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958322",
+      "course_name_en": "Game Development 4",
+      "course_name_th": "การพัฒนาเกม 4",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958421",
+      "course_name_en": "Advanced Game Design",
+      "course_name_th": "การออกแบบเกมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958453",
+      "course_name_en": "Digital Game Industry and Distribution",
+      "course_name_th": "อุตสาหกรรมดิจิทัลเกมและการกระจาย",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958491",
+      "course_name_en": "Work Integrated Learning for Digital Game 1",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงานสำหรับดิจิทัลเกม 1",
+      "credits": "9",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "958492",
+      "course_name_en": "Work Integrated Learning for Digital Game 2",
+      "course_name_th": "การจัดการศึกษาเชิงบูรณาการกับการทำงานสำหรับดิจิทัลเกม 2",
+      "credits": "9",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,950 @@
+{
+  "program_name": "Bachelor of Science Program in Software Engineering (International Program)",
+  "major_tracks": [
+    "None"
+  ],
+  "courses": [
+    {
+      "course_code": "001101",
+      "course_name_en": "Fundamental English 1",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001102",
+      "course_name_en": "Fundamental English 2",
+      "course_name_th": "ภาษาอังกฤษพื้นฐาน 2",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001207",
+      "course_name_en": "English for Effective and Creative Communication 1",
+      "course_name_th": "ภาษาอังกฤษสำหรับการสื่อสารอย่างมีประสิทธิภาพและสร้างสรรค์ 1",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "001229",
+      "course_name_en": "English for Media Arts",
+      "course_name_th": "ภาษาอังกฤษสำหรับศิลปะสื่อ",
+      "credits": "3",
+      "category_or_track": "General Education / Language Literacy / Elective",
+      "prerequisites": [
+        "001101",
+        "001102"
+      ]
+    },
+    {
+      "course_code": "204100",
+      "course_name_en": "Information Technology and Modern Life",
+      "course_name_th": "เทคโนโลยีสารสนเทศและชีวิตสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "261111",
+      "course_name_en": "Internet and Online Community in the Age of AI",
+      "course_name_th": "อินเทอร์เน็ตและสังคมออนไลน์ในยุคปัญญาประดิษฐ์",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "140104",
+      "course_name_en": "Citizenship",
+      "course_name_th": "การเป็นพลเมือง",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Required",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271111",
+      "course_name_en": "Robotics Appreciation",
+      "course_name_th": "หุ่นยนต์วิจักษ์",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "271112",
+      "course_name_en": "Fundamentals of Rapid Prototyping for Robotics Engineering",
+      "course_name_th": "พื้นฐานการสร้างต้นแบบรวดเร็วสำหรับงานวิศวกรรมหุ่นยนต์",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "603200",
+      "course_name_en": "Packaging in Daily Life",
+      "course_name_th": "บรรจุภัณฑ์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "610112",
+      "course_name_en": "Food Product Innovation",
+      "course_name_th": "นวัตกรรมผลิตภัณฑ์อาหาร",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "951100",
+      "course_name_en": "Modern Life and Animation",
+      "course_name_th": "ชีวิตสมัยใหม่กับแอนนิเมชัน",
+      "credits": "3",
+      "category_or_track": "General Education / Creativity and Innovation / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "702101",
+      "course_name_en": "Finance for Daily Life",
+      "course_name_th": "การเงินในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "703103",
+      "course_name_en": "Introduction to Entrepreneurship and Business",
+      "course_name_th": "การเป็นผู้ประกอบการและธุรกิจเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "751100",
+      "course_name_en": "Economics for Everyday Life",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "851100",
+      "course_name_en": "Introduction to Communication",
+      "course_name_th": "การสื่อสารเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888107",
+      "course_name_en": "Business Startup on Digital Platform",
+      "course_name_th": "การเริ่มต้นธุรกิจบนดิจิทัลแพลตฟอร์ม",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888109",
+      "course_name_en": "Introduction to Emerging Rules of Disruptive Technology in Trade",
+      "course_name_th": "ความรู้เบื้องต้นกฎเกณฑ์ใหม่ว่าด้วยเทคโนโลยีเปลี่ยนโลกต่อการค้า",
+      "credits": "3",
+      "category_or_track": "General Education / Entrepreneurial Skills / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "009103",
+      "course_name_en": "Information Literacy and Information Presentation",
+      "course_name_th": "การรู้สารสนเทศและการนำเสนอสารสนเทศ",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888102",
+      "course_name_en": "Big Data for Business",
+      "course_name_th": "อภิมหาข้อมูลเพื่อธุรกิจ",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888103",
+      "course_name_en": "Internet Programming Language",
+      "course_name_th": "ภาษาโปรแกรมทางอินเทอร์เน็ต",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888104",
+      "course_name_en": "Introduction to Internet of Things",
+      "course_name_th": "ความรู้เบื้องต้นเรื่องอินเทอร์เน็ตของสรรพสิ่ง",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "888106",
+      "course_name_en": "Internet Data System",
+      "course_name_th": "ระบบข้อมูลอินเทอร์เน็ต",
+      "credits": "3",
+      "category_or_track": "General Education / Digital Literacy / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "013110",
+      "course_name_en": "Psychology and Daily Life",
+      "course_name_th": "จิตวิทยากับชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "103271",
+      "course_name_en": "Music Appreciation",
+      "course_name_th": "สังคีตวิจักษ์",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "109100",
+      "course_name_en": "Man and Art",
+      "course_name_th": "มนุษย์กับศิลปะ",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "152100",
+      "course_name_en": "Social Science Around Us",
+      "course_name_th": "สังคมศาสตร์รอบตัวเรา",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "154104",
+      "course_name_en": "Environmental Conservation",
+      "course_name_th": "การอนุรักษ์สิ่งแวดล้อม",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159100",
+      "course_name_en": "Modern World in Everyday Life",
+      "course_name_th": "โลกสมัยใหม่ในชีวิตประจำวัน",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "159151",
+      "course_name_en": "Lanna Society and Culture",
+      "course_name_th": "สังคมและวัฒนธรรมล้านนา",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "168100",
+      "course_name_en": "Gender Equality",
+      "course_name_th": "ความเสมอภาคทางเพศภาวะ",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "176100",
+      "course_name_en": "Law and Modern World",
+      "course_name_th": "กฎหมายและโลกสมัยใหม่",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "201111",
+      "course_name_en": "The World of Science",
+      "course_name_th": "โลกแห่งวิทยาศาสตร์",
+      "credits": "3",
+      "category_or_track": "General Education / Global Citizen / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "204171",
+      "course_name_en": "Artificial Intelligence Among Us",
+      "course_name_th": "ปัญญาประดิษฐ์ท่ามกลางพวกเรา",
+      "credits": "3",
+      "category_or_track": "General Education / Artificial Intelligence / Elective",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953101",
+      "course_name_en": "Computer and Programming",
+      "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953102",
+      "course_name_en": "Abstract Data Type and Problem Solving",
+      "course_name_th": "ชนิดข้อมูลนามธรรมและการแก้ปัญหา",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "953100",
+        "953101",
+        "953103",
+        "955103"
+      ]
+    },
+    {
+      "course_code": "953104",
+      "course_name_en": "Web User Interface Design and Development",
+      "course_name_th": "การออกแบบและพัฒนาส่วนประสานผู้ใช้บนเว็บ",
+      "credits": "2",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953105",
+      "course_name_en": "Digital Proficiency for Software Engineering",
+      "course_name_th": "ความเชี่ยวชาญทางด้านดิจิทัลสำหรับวิศวกรรมซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953201",
+      "course_name_en": "Algorithms Design and Analysis",
+      "course_name_th": "การออกแบบและวิเคราะห์อัลกอริทึม",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "953102"
+      ]
+    },
+    {
+      "course_code": "953202",
+      "course_name_en": "Introduction to Software Engineering",
+      "course_name_th": "วิศวกรรมซอฟต์แวร์เบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "953100",
+        "953101",
+        "953103",
+        "955103"
+      ]
+    },
+    {
+      "course_code": "953215",
+      "course_name_en": "Computational Foundations for Modern Software Development",
+      "course_name_th": "พื้นฐานการคำนวณสำหรับการพัฒนาซอฟต์แวร์สมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953216",
+      "course_name_en": "Computational Programming for Modern Software Development",
+      "course_name_th": "การโปรแกรมเชิงคำนวณสำหรับการพัฒนาซอฟต์แวร์สมัยใหม่",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953231",
+      "course_name_en": "Object Oriented Programming",
+      "course_name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+      "credits": "3",
+      "category_or_track": "Core Course",
+      "prerequisites": [
+        "953100",
+        "953101",
+        "953103",
+        "955103"
+      ]
+    },
+    {
+      "course_code": "953211",
+      "course_name_en": "Computer Organization",
+      "course_name_th": "องค์ประกอบคอมพิวเตอร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953212",
+      "course_name_en": "Database Systems and Database Systems Design",
+      "course_name_th": "ระบบฐานข้อมูลและการออกแบบระบบฐานข้อมูล",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953100",
+        "953101",
+        "953103",
+        "955103"
+      ]
+    },
+    {
+      "course_code": "953214",
+      "course_name_en": "Operating System and Computer Networks",
+      "course_name_th": "ระบบปฏิบัติการและเครือข่ายคอมพิวเตอร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953211"
+      ]
+    },
+    {
+      "course_code": "953232",
+      "course_name_en": "Object Oriented Analysis and Design",
+      "course_name_th": "การวิเคราะห์และออกแบบเชิงวัตถุ",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953202",
+        "953231"
+      ]
+    },
+    {
+      "course_code": "953233",
+      "course_name_en": "Advanced Programming",
+      "course_name_th": "การเขียนโปรแกรมขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953231"
+      ]
+    },
+    {
+      "course_code": "953234",
+      "course_name_en": "Basic Development and Operations",
+      "course_name_th": "การจัดเตรียมขั้นตอนการพัฒนาเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953104",
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953251",
+      "course_name_en": "Human Factors in Digital Interaction Design",
+      "course_name_th": "ปัจจัยมนุษย์ในการออกแบบปฏิสัมพันธ์ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953261",
+      "course_name_en": "Interactive Web Development",
+      "course_name_th": "การพัฒนาเว็บเชิงโต้ตอบ",
+      "credits": "2",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953321",
+      "course_name_en": "Software Requirement Analysis",
+      "course_name_th": "การวิเคราะห์ความต้องการทางซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953328",
+      "course_name_en": "Software Design, Architecture and Constructions",
+      "course_name_th": "การออกแบบ สถาปัตยกรรม และการสร้างซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953232",
+        "953233"
+      ]
+    },
+    {
+      "course_code": "953329",
+      "course_name_en": "Software Testing and Maintenance",
+      "course_name_th": "การทดสอบซอฟต์แวร์และการดูแลรักษาซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953232"
+      ]
+    },
+    {
+      "course_code": "953331",
+      "course_name_en": "Component-Based Software Development",
+      "course_name_th": "การพัฒนาซอฟต์แวร์ แบบเน้นองค์ประกอบโปรแกรม",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953232",
+        "953233"
+      ]
+    },
+    {
+      "course_code": "953392",
+      "course_name_en": "Software Engineering Preproject",
+      "course_name_th": "การเตรียมความพร้อมก่อนโครงงานสำหรับวิศวกรรมซอฟต์แวร์",
+      "credits": "1",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953411",
+      "course_name_en": "Artificial Intelligence for Software Engineering",
+      "course_name_th": "ปัญญาประดิษฐ์สำหรับวิศวกรรมซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953201",
+        "953215"
+      ]
+    },
+    {
+      "course_code": "953420",
+      "course_name_en": "Ethics and Professionalism for Software Engineers",
+      "course_name_th": "จริยธรรมและหลักปฏิบัติทางวิชาชีพวิศวกรซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953422",
+      "course_name_en": "Software Quality Assurance",
+      "course_name_th": "การประกันคุณภาพซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953491",
+      "course_name_en": "Cooperative Education",
+      "course_name_th": "สหกิจศึกษา",
+      "credits": "9",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953499",
+      "course_name_en": "Software Engineering Project",
+      "course_name_th": "โครงงานวิศวกรรมซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Required Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953324",
+      "course_name_en": "Software Project Management",
+      "course_name_th": "การจัดการโครงการซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953325",
+      "course_name_en": "Advanced Software Development Techniques",
+      "course_name_th": "เทคนิคพัฒนาซอฟต์แวร์ระดับสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953233"
+      ]
+    },
+    {
+      "course_code": "953327",
+      "course_name_en": "Software Metrics",
+      "course_name_th": "มาตรวัดซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953233"
+      ]
+    },
+    {
+      "course_code": "953351",
+      "course_name_en": "User Experience for Software Design",
+      "course_name_th": "การออกแบบประสบการณ์ผู้ใช้สำหรับซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953251"
+      ]
+    },
+    {
+      "course_code": "953352",
+      "course_name_en": "Advanced User Experience for Software Design",
+      "course_name_th": "การออกแบบประสบการณ์ผู้ใช้ขั้นสูงสำหรับซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953351"
+      ]
+    },
+    {
+      "course_code": "953362",
+      "course_name_en": "IoT and Embedded Programming for Software Engineering 1",
+      "course_name_th": "การเขียนโปรแกรมอินเทอร์เน็ตของสรรพสิ่งและระบบฝังตัวสำหรับวิศวกรรมซอฟต์แวร์ 1",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953363",
+      "course_name_en": "IoT and Embedded Programming for Software Engineering 2",
+      "course_name_th": "การเขียนโปรแกรมอินเทอร์เน็ตของสรรพสิ่งและระบบฝังตัวสำหรับวิศวกรรมซอฟต์แวร์ 2",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953362"
+      ]
+    },
+    {
+      "course_code": "953365",
+      "course_name_en": "Smart System and Embedded Programming",
+      "course_name_th": "ระบบอัจฉริยะและโปรแกรมสมองกลฝังตัว",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953412",
+      "course_name_en": "Advanced Databases Management",
+      "course_name_th": "การจัดการฐานข้อมูลขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953212"
+      ]
+    },
+    {
+      "course_code": "953423",
+      "course_name_en": "Software Process Improvement",
+      "course_name_th": "การปรับปรุงกระบวนการซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953323"
+      ]
+    },
+    {
+      "course_code": "953424",
+      "course_name_en": "Agile Software Development Tools",
+      "course_name_th": "เครื่องมือสนับสนุนการพัฒนาซอฟต์แวร์ตามแนวคิดแบบอไจล์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953234"
+      ]
+    },
+    {
+      "course_code": "953425",
+      "course_name_en": "Automated Software Testing",
+      "course_name_th": "การทดสอบซอฟต์แวร์อัตโนมัติ",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953323",
+        "953329"
+      ]
+    },
+    {
+      "course_code": "953441",
+      "course_name_en": "E-Business Strategy and Architecture",
+      "course_name_th": "กลยุทธ์ทางธุรกิจอิเล็กทรอนิกส์และสถาปัตยกรรม",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953442",
+      "course_name_en": "Collaborative E-Business",
+      "course_name_th": "ธุรกิจอิเล็กทรอนิกส์แบบมีส่วนร่วม",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953444",
+      "course_name_en": "Web Services and Microservices",
+      "course_name_th": "เว็บเซอร์วิสและไมโครเซอร์วิส",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953231",
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953445",
+      "course_name_en": "Introduction to Software Business",
+      "course_name_th": "ธุรกิจซอฟต์แวร์เบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953452",
+      "course_name_en": "Multimedia Software Design and Development",
+      "course_name_th": "การออกแบบและพัฒนาซอฟต์แวร์มัลติมีเดีย",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202"
+      ]
+    },
+    {
+      "course_code": "953453",
+      "course_name_en": "Visual Design for Digital User Interface",
+      "course_name_th": "การออกแบบการแสดงผลสำหรับส่วนติดต่อผู้ใช้ดิจิทัล",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953251"
+      ]
+    },
+    {
+      "course_code": "953462",
+      "course_name_en": "Computer Network and Security",
+      "course_name_th": "เครือข่ายคอมพิวเตอร์และความปลอดภัย",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953463",
+      "course_name_en": "Wireless Communication System",
+      "course_name_th": "ระบบการสื่อสารไร้สาย",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953464",
+      "course_name_en": "Mobile Application Development",
+      "course_name_th": "การพัฒนาโปรแกรมประยุกต์บนอุปกรณ์เคลื่อนที่",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202",
+        "953231"
+      ]
+    },
+    {
+      "course_code": "953465",
+      "course_name_en": "Wireless Application Technologies",
+      "course_name_th": "เทคโนโลยีโปรแกรมประยุกต์ระบบไร้สาย",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953202",
+        "953214"
+      ]
+    },
+    {
+      "course_code": "953466",
+      "course_name_en": "Advanced Mobile Application Development",
+      "course_name_th": "การพัฒนาโปรแกรมประยุกต์บนอุปกรณ์เคลื่อนที่ขั้นสูง",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953464"
+      ]
+    },
+    {
+      "course_code": "953471",
+      "course_name_en": "Data-Intensive Application Development",
+      "course_name_th": "การพัฒนาแอพลิเคชันที่ใช้ข้อมูลเข้มข้น",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953201"
+      ]
+    },
+    {
+      "course_code": "953472",
+      "course_name_en": "Artificial Intelligence – Enabled Systems",
+      "course_name_th": "ระบบที่ทำงานด้วยปัญญาประดิษฐ์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953411"
+      ]
+    },
+    {
+      "course_code": "953481",
+      "course_name_en": "Introduction to Information Retrieval",
+      "course_name_th": "การค้นคืนสารสนเทศเบื้องต้น",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953201"
+      ]
+    },
+    {
+      "course_code": "953482",
+      "course_name_en": "Natural Language Processing for Software Engineering",
+      "course_name_th": "การประมวลผลภาษาธรรมชาติสำหรับวิศวกรรมซอฟต์แวร์",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "953201"
+      ]
+    },
+    {
+      "course_code": "953492",
+      "course_name_en": "Special Topics in Cooperative Education 1",
+      "course_name_th": "หัวข้อพิเศษจากสหกิจศึกษา 1",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953493",
+      "course_name_en": "Special Topics in Cooperative Education 2",
+      "course_name_th": "หัวข้อพิเศษจากสหกิจศึกษา 2",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953494",
+      "course_name_en": "Special Topics in Software Engineering 1",
+      "course_name_th": "หัวข้อเลือกสรรทางวิศวกรรมซอฟต์แวร์ 1",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    },
+    {
+      "course_code": "953495",
+      "course_name_en": "Special Topics in Software Engineering 2",
+      "course_name_th": "หัวข้อเลือกสรรทางวิศวกรรมซอฟต์แวร์ 2",
+      "credits": "3",
+      "category_or_track": "Major Elective Course",
+      "prerequisites": [
+        "None"
+      ]
+    }
+  ]
+}
