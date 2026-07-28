@@ -1404,5 +1404,26 @@
         "None"
       ]
     }
-  ]
+  ],
+  "study_plan": {
+    "year_1_semester_1": [
+      "001101",
+      "025101",
+      "001207"
+    ],
+    "year_1_semester_2": [
+      "001102",
+      "025102",
+      "001208",
+      "049100"
+    ],
+    "year_2_semester_1": [],
+    "year_2_semester_2": [
+      "140104"
+    ],
+    "year_3_semester_1": [],
+    "year_3_semester_2": [],
+    "year_4_semester_1": [],
+    "year_4_semester_2": []
+  }
 }
