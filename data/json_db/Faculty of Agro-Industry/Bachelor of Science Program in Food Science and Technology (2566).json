@@ -571,7 +571,7 @@
       "course_name_en": "Work Training",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Required",
+      "category_or_track": "Major Required / Plan 1 Regular Plan, No Minor, Plan 2 Regular Plan, Selected Minor",
       "prerequisites": [
         "None"
       ]
@@ -581,7 +581,7 @@
       "course_name_en": "Pre-Cooperative Education",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Required (Plan 3)",
+      "category_or_track": "Major Required (Plan 3) / Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -591,7 +591,7 @@
       "course_name_en": "Cooperative Education",
       "course_name_th": "",
       "credits": "6",
-      "category_or_track": "Major Required (Plan 3)",
+      "category_or_track": "Major Required (Plan 3) / Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -601,7 +601,7 @@
       "course_name_en": "Meat Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -611,7 +611,7 @@
       "course_name_en": "Halal Food",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -621,7 +621,7 @@
       "course_name_en": "Food Sanitation",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -631,7 +631,7 @@
       "course_name_en": "Lipid Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -641,7 +641,7 @@
       "course_name_en": "Sugar Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -651,7 +651,7 @@
       "course_name_en": "Fruit and Vegetable Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -661,7 +661,7 @@
       "course_name_en": "Bakery Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -671,7 +671,7 @@
       "course_name_en": "Beverages",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -681,7 +681,7 @@
       "course_name_en": "Fishery Product Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -691,7 +691,7 @@
       "course_name_en": "Legume Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -701,7 +701,7 @@
       "course_name_en": "Dairy Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -711,7 +711,7 @@
       "course_name_en": "Cereal Products Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -721,7 +721,7 @@
       "course_name_en": "Food Microbial Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -731,7 +731,7 @@
       "course_name_en": "Food Toxicology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -741,7 +741,7 @@
       "course_name_en": "Dairy Microbiology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -751,7 +751,7 @@
       "course_name_en": "Industrial Fermentation",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -761,7 +761,7 @@
       "course_name_en": "Yeast Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -771,7 +771,7 @@
       "course_name_en": "Coffee Production Process and Quality Control",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -781,7 +781,7 @@
       "course_name_en": "Dried Food Production",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -791,7 +791,7 @@
       "course_name_en": "Food Packaging",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -801,7 +801,7 @@
       "course_name_en": "Freezing Preservation of Food",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -811,7 +811,7 @@
       "course_name_en": "Food Plant Layout Planning and Evaluation",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -821,7 +821,7 @@
       "course_name_en": "Selected Topics in Food Science and Technology 1",
       "course_name_th": "",
       "credits": "1",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -831,7 +831,7 @@
       "course_name_en": "Selected Topics in Food Science and Technology 2",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -841,7 +841,7 @@
       "course_name_en": "Selected Topics in Food Science and Technology 3",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -851,7 +851,7 @@
       "course_name_en": "Proteins in Foods",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -861,7 +861,7 @@
       "course_name_en": "Dairy Chemistry",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -871,7 +871,7 @@
       "course_name_en": "Lipids in Foods",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -881,7 +881,7 @@
       "course_name_en": "Carbohydrates in Foods",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 1)",
+      "category_or_track": "Major Elective (Group 1) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -891,7 +891,7 @@
       "course_name_en": "Functional Foods and Nutraceuticals",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -901,7 +901,7 @@
       "course_name_en": "Nutrition, Health and Prevention",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -911,7 +911,7 @@
       "course_name_en": "Nutrition for Food Manufacturer",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -921,7 +921,7 @@
       "course_name_en": "Food and Nutrition throughout Life Span",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -931,7 +931,7 @@
       "course_name_en": "Food and Nutrition for Alternative Group",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -941,7 +941,7 @@
       "course_name_en": "Nutritional Assessment",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -951,7 +951,7 @@
       "course_name_en": "Methods in Nutritional Sciences",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -961,7 +961,7 @@
       "course_name_en": "Nutrition and Obesity",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -971,7 +971,7 @@
       "course_name_en": "Food and Nutrition for Athletes",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -981,7 +981,7 @@
       "course_name_en": "Lipid Nutrition and Health",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 2)",
+      "category_or_track": "Major Elective (Group 2) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -991,7 +991,7 @@
       "course_name_en": "Industrial Organization and Management",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1001,7 +1001,7 @@
       "course_name_en": "Safety Engineering",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1011,7 +1011,7 @@
       "course_name_en": "Human Factors Engineering",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1021,7 +1021,7 @@
       "course_name_en": "Logistic Engineering and Management",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1031,7 +1031,7 @@
       "course_name_en": "Supply Chain Management in Food Industry",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1041,7 +1041,7 @@
       "course_name_en": "Productivity Improvement in Food Industry",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1051,7 +1051,7 @@
       "course_name_en": "Role of Consumer in Product Development System",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1061,7 +1061,7 @@
       "course_name_en": "Marketing for Agro-Industrial Product Development",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]
@@ -1071,7 +1071,7 @@
       "course_name_en": "Agro-Industrial Management",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Elective (Group 3)",
+      "category_or_track": "Major Elective (Group 3) / Plan 1 Regular Plan, No Minor, Plan 3 Cooperative Education",
       "prerequisites": [
         "None"
       ]

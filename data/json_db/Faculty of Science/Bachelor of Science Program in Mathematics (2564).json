@@ -484,7 +484,7 @@
       "course_name_en": "Discrete Mathematics",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 2 & Track 5)",
+      "category_or_track": "Track Requirement (Track 2 & Track 5) / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -504,7 +504,7 @@
       "course_name_en": "Probability 1",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 2, 3 & 4)",
+      "category_or_track": "Track Requirement (Track 2, 3 & 4) / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -514,7 +514,7 @@
       "course_name_en": "Classical Geometry",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 2)",
+      "category_or_track": "Track Requirement (Track 2) / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -524,7 +524,7 @@
       "course_name_en": "Mathematics of Finance and Insurance",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 3 & Track 4)",
+      "category_or_track": "Track Requirement (Track 3 & Track 4) / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -534,7 +534,7 @@
       "course_name_en": "Mathematics of Financial Derivatives",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 3)",
+      "category_or_track": "Track Requirement (Track 3) / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -544,7 +544,7 @@
       "course_name_en": "Introduction to Actuarial Mathematics",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 3)",
+      "category_or_track": "Track Requirement (Track 3) / Track 2 Teaching Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -554,7 +554,7 @@
       "course_name_en": "Deterministic Operations Research Models",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 4)",
+      "category_or_track": "Track Requirement (Track 4) / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -564,7 +564,7 @@
       "course_name_en": "Principles of Mathematical Modeling",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 4)",
+      "category_or_track": "Track Requirement (Track 4) / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -574,7 +574,7 @@
       "course_name_en": "Axiomatic Set Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 5)",
+      "category_or_track": "Track Requirement (Track 5) / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -584,7 +584,7 @@
       "course_name_en": "Introduction to Topology",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 5)",
+      "category_or_track": "Track Requirement (Track 5) / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -594,7 +594,7 @@
       "course_name_en": "Advanced Calculus 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 5 & Track 6)",
+      "category_or_track": "Track Requirement (Track 5 & Track 6) / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -604,7 +604,7 @@
       "course_name_en": "Mathematical Package",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 6)",
+      "category_or_track": "Track Requirement (Track 6) / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -614,7 +614,7 @@
       "course_name_en": "Partial Differential Equations",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Track Requirement (Track 6)",
+      "category_or_track": "Track Requirement (Track 6) / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -624,7 +624,7 @@
       "course_name_en": "Solid Analytic Geometry",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -634,7 +634,7 @@
       "course_name_en": "Introduction to Mathematical Logic",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -644,7 +644,7 @@
       "course_name_en": "Introduction to Foundation of Geometry",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -654,7 +654,7 @@
       "course_name_en": "Theory of Numbers 1",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -664,7 +664,7 @@
       "course_name_en": "Vector Analysis",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -674,7 +674,7 @@
       "course_name_en": "Scientific Computation",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -684,7 +684,7 @@
       "course_name_en": "Mathematics for Data Science",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -694,7 +694,7 @@
       "course_name_en": "Combinatorics",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -704,7 +704,7 @@
       "course_name_en": "Topology",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -714,7 +714,7 @@
       "course_name_en": "Introduction to Homotopy Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -724,7 +724,7 @@
       "course_name_en": "Abstract Algebra",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -734,7 +734,7 @@
       "course_name_en": "Wavelets",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -744,7 +744,7 @@
       "course_name_en": "Linear Algebra 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -754,7 +754,7 @@
       "course_name_en": "Theory of Numbers 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -764,7 +764,7 @@
       "course_name_en": "Coding Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -774,7 +774,7 @@
       "course_name_en": "Introduction to Functional Analysis",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -784,7 +784,7 @@
       "course_name_en": "Real Analysis 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -794,7 +794,7 @@
       "course_name_en": "Introduction to Calculus of Variations",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -804,7 +804,7 @@
       "course_name_en": "Fixed Point Theory and Applications",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -814,7 +814,7 @@
       "course_name_en": "Nonlinear Ordinary Differential Equations",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -824,7 +824,7 @@
       "course_name_en": "Differential Geometry",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 5 Pure Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -834,7 +834,7 @@
       "course_name_en": "Computational Optimization",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -844,7 +844,7 @@
       "course_name_en": "Numerical Analysis",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -854,7 +854,7 @@
       "course_name_en": "Numerical Method for Differential Equations",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -864,7 +864,7 @@
       "course_name_en": "Deterministic Optimization",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -874,7 +874,7 @@
       "course_name_en": "Introduction to Mathematical Control Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -884,7 +884,7 @@
       "course_name_en": "Neural Networks",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -894,7 +894,7 @@
       "course_name_en": "Probability 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -904,7 +904,7 @@
       "course_name_en": "Portfolio Optimization",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -914,7 +914,7 @@
       "course_name_en": "Stochastic Processes and Martingale Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -924,7 +924,7 @@
       "course_name_en": "Game theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -934,7 +934,7 @@
       "course_name_en": "Graph Theory",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 5 Pure Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]
@@ -944,7 +944,7 @@
       "course_name_en": "Combinatorial Optimization",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Track 1 General Mathematics / Track 2 Teaching Mathematics / Track 3 Financial and Insurance Mathematics / Track 4 Industrial Mathematics / Track 6 Applied Mathematics",
       "prerequisites": [
         "None"
       ]

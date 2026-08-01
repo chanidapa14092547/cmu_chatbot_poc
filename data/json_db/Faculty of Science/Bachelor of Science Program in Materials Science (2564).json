@@ -610,7 +610,7 @@
       "course_name_en": "Selected Topics in Materials Science",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -620,7 +620,7 @@
       "course_name_en": "Crystallization and Crystal Growth",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -630,7 +630,7 @@
       "course_name_en": "Advanced Materials Processing and Non-Destructive Testing",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -640,7 +640,7 @@
       "course_name_en": "Thermodynamics of Materials and Applications",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective (Plan 1)",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -650,7 +650,7 @@
       "course_name_en": "Recycled Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -660,7 +660,7 @@
       "course_name_en": "Cements and Concrete",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -670,7 +670,7 @@
       "course_name_en": "Nanomaterials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -680,7 +680,7 @@
       "course_name_en": "Natural Fibers, Biopolymers and Biocomposites",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -690,7 +690,7 @@
       "course_name_en": "Biomaterials for Medical Applications",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -700,7 +700,7 @@
       "course_name_en": "Fabrication and Applications of Advanced Ceramic Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -710,7 +710,7 @@
       "course_name_en": "Optical Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -720,7 +720,7 @@
       "course_name_en": "Electrical and Magnetic Materials and Devices",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -730,7 +730,7 @@
       "course_name_en": "Materials for High Temperature Applications",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -740,7 +740,7 @@
       "course_name_en": "Materials for Energy",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -750,7 +750,7 @@
       "course_name_en": "Materials Science of Thin Films",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -760,7 +760,7 @@
       "course_name_en": "Joining of Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -770,7 +770,7 @@
       "course_name_en": "Advanced Surface Coating Technology",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -780,7 +780,7 @@
       "course_name_en": "Surface and Interface Science",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -790,7 +790,7 @@
       "course_name_en": "Physical Metallurgy",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -800,7 +800,7 @@
       "course_name_en": "Corrosion and Degradation of Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective",
+      "category_or_track": "Specialization / Major Elective / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -810,7 +810,7 @@
       "course_name_en": "Engineering Drawing for Non-Engineering Majors",
       "course_name_th": null,
       "credits": "2",
-      "category_or_track": "Specialization / Major Elective (Plan 2)",
+      "category_or_track": "Specialization / Major Elective / Plan 2 (Emphasis on working after graduation)",
       "prerequisites": [
         "None"
       ]
@@ -820,7 +820,7 @@
       "course_name_en": "Introduction to Quality Assurance",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective (Plan 2)",
+      "category_or_track": "Specialization / Major Elective / Plan 2 (Emphasis on working after graduation)",
       "prerequisites": [
         "None"
       ]
@@ -830,7 +830,7 @@
       "course_name_en": "Advanced Computer Application for Industrial Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Specialization / Major Elective (Plan 2)",
+      "category_or_track": "Specialization / Major Elective / Plan 2 (Emphasis on working after graduation)",
       "prerequisites": [
         "None"
       ]

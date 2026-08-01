@@ -411,7 +411,7 @@
       "course_name_en": "Data Engineering",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -421,7 +421,7 @@
       "course_name_en": "Artificial Intelligence",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -431,7 +431,7 @@
       "course_name_en": "Mathematics of Finance and Insurance",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -441,7 +441,7 @@
       "course_name_en": "Differential Equations",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -451,7 +451,7 @@
       "course_name_en": "Mathematics for Data Science",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -461,7 +461,7 @@
       "course_name_en": "Principles of Mathematical Modeling",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using mathematical modeling",
       "prerequisites": [
         "None"
       ]
@@ -471,7 +471,7 @@
       "course_name_en": "Pattern Recognition",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
         "None"
       ]
@@ -481,7 +481,7 @@
       "course_name_en": "Applied Multivariate Statistics for Data Science",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
         "None"
       ]
@@ -491,7 +491,7 @@
       "course_name_en": "Time Series Analysis for Data Science",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
         "None"
       ]
@@ -501,7 +501,7 @@
       "course_name_en": "Optimization for Statistical Learning",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
         "None"
       ]
@@ -511,7 +511,7 @@
       "course_name_en": "Analytics for Observational Data",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
         "None"
       ]
@@ -521,7 +521,7 @@
       "course_name_en": "Data Warehousing",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling",
       "prerequisites": [
         "None"
       ]
@@ -531,7 +531,7 @@
       "course_name_en": "Image Processing",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling",
       "prerequisites": [
         "None"
       ]
@@ -541,7 +541,7 @@
       "course_name_en": "Natural Language Processing",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Field of Specialization / Major / Major Elective Courses",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling",
       "prerequisites": [
         "None"
       ]

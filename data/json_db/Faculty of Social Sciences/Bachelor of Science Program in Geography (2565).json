@@ -370,7 +370,7 @@
       "course_name_en": "Independent Study in Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Requirements / Independent Study Option",
+      "category_or_track": "Major Requirements / Independent Study in Geography",
       "prerequisites": [
         "None"
       ]
@@ -380,7 +380,7 @@
       "course_name_en": "Cooperative Education in Geography",
       "course_name_th": "None",
       "credits": "6",
-      "category_or_track": "Major Requirements / Cooperative Education Option",
+      "category_or_track": "Major Requirements / Cooperative Education in Geography",
       "prerequisites": [
         "None"
       ]
@@ -390,7 +390,7 @@
       "course_name_en": "Practicum in Geography",
       "course_name_th": "None",
       "credits": "2",
-      "category_or_track": "Major Requirements / Independent Study Option",
+      "category_or_track": "Major Requirements / Independent Study in Geography",
       "prerequisites": [
         "None"
       ]
@@ -400,7 +400,7 @@
       "course_name_en": "Introduction to Natural Disaster",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -410,7 +410,7 @@
       "course_name_en": "Climate Change: Science, Society and Policy",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -420,7 +420,7 @@
       "course_name_en": "Meteorology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -430,7 +430,7 @@
       "course_name_en": "Mountain Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -440,7 +440,7 @@
       "course_name_en": "Natural Disaster Assessment and Risk Assessment",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -450,7 +450,7 @@
       "course_name_en": "Mountain Meteorology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -460,7 +460,7 @@
       "course_name_en": "Geomorphology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -470,7 +470,7 @@
       "course_name_en": "Hydrology and Water Resources",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -480,7 +480,7 @@
       "course_name_en": "Biogeography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -490,7 +490,7 @@
       "course_name_en": "Agricultural Meteorology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -500,7 +500,7 @@
       "course_name_en": "Soil Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Physical Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -510,7 +510,7 @@
       "course_name_en": "Geography of Development",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -520,7 +520,7 @@
       "course_name_en": "Regional Dynamic of Southeast Asia",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -530,7 +530,7 @@
       "course_name_en": "Geography of Migration",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -540,7 +540,7 @@
       "course_name_en": "Energy, Environment and Society",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -550,7 +550,7 @@
       "course_name_en": "Human Ecology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -560,7 +560,7 @@
       "course_name_en": "Seminar and Workshop in Geography",
       "course_name_th": "None",
       "credits": "4",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -570,7 +570,7 @@
       "course_name_en": "Urban Ecology",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -580,7 +580,7 @@
       "course_name_en": "State, Space and Politics",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -590,7 +590,7 @@
       "course_name_en": "Space, Society and Development",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -600,7 +600,7 @@
       "course_name_en": "Space-Individual Interactions",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -610,7 +610,7 @@
       "course_name_en": "Geography of Settlement",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -620,7 +620,7 @@
       "course_name_en": "Geographies of Culture, Space and Society in the Modern World",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -630,7 +630,7 @@
       "course_name_en": "Geography of Northern Thailand",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -640,7 +640,7 @@
       "course_name_en": "Population Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -650,7 +650,7 @@
       "course_name_en": "Medical Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -660,7 +660,7 @@
       "course_name_en": "Location Theory",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -670,7 +670,7 @@
       "course_name_en": "Sustainable Environmental Management",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -680,7 +680,7 @@
       "course_name_en": "Geography of Tourism and Recreation",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -690,7 +690,7 @@
       "course_name_en": "Urban Planning Studies",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -700,7 +700,7 @@
       "course_name_en": "Urban Forms and Development",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -710,7 +710,7 @@
       "course_name_en": "Participatory Environmental Management",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -720,7 +720,7 @@
       "course_name_en": "Transportation Geography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -730,7 +730,7 @@
       "course_name_en": "Geography of Housing",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -740,7 +740,7 @@
       "course_name_en": "The Preparation of the Urban General Plan",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -750,7 +750,7 @@
       "course_name_en": "The Preparation of the Urban Specific Plan",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -760,7 +760,7 @@
       "course_name_en": "Environmental Policy and Analysis",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Human Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -770,7 +770,7 @@
       "course_name_en": "Fundamental Digital Photogrammetry",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -780,7 +780,7 @@
       "course_name_en": "Multimedia Cartography",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -790,7 +790,7 @@
       "course_name_en": "Geospatial Analysis and Applications",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -800,7 +800,7 @@
       "course_name_en": "Programming for Geoinformatics",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -810,7 +810,7 @@
       "course_name_en": "Geographic Information System Database Management System",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -820,7 +820,7 @@
       "course_name_en": "Spatial Data Science and Application",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -830,7 +830,7 @@
       "course_name_en": "Aerial Photograph Interpretation and Analysis from Unmanned Aerial Vehicle",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -840,7 +840,7 @@
       "course_name_en": "Digital Image Processing for Remote Sensing",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -850,7 +850,7 @@
       "course_name_en": "Microwave Remote Sensing",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -860,7 +860,7 @@
       "course_name_en": "Cartographic Design",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]
@@ -870,7 +870,7 @@
       "course_name_en": "Environmental Geospatial Innovation Development",
       "course_name_th": "None",
       "credits": "3",
-      "category_or_track": "Major Elective / Techniques in Geography",
+      "category_or_track": "Field of Specialization / Major / Major Elective Courses / All Tracks",
       "prerequisites": [
         "None"
       ]

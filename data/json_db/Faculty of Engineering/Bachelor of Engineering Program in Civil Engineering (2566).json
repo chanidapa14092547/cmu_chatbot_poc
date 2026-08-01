@@ -691,7 +691,7 @@
       "course_name_en": "Bridge Design",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -701,7 +701,7 @@
       "course_name_en": "Durability and Maintenance of Construction Materials",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -711,7 +711,7 @@
       "course_name_en": "Seismic Design of Reinforced Concrete Moment-Resisting Frame",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -721,7 +721,7 @@
       "course_name_en": "Strengthening of Concrete Structure Using Fiber Reinforced Polymers",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -731,7 +731,7 @@
       "course_name_en": "Prestressed Concrete Design",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -741,7 +741,7 @@
       "course_name_en": "Selected Topics in Structural Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Structural Engineering & Materials",
+      "category_or_track": "Major Elective / Structural Engineering & Materials / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -751,7 +751,7 @@
       "course_name_en": "Tunneling and Underground Construction",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -761,7 +761,7 @@
       "course_name_en": "Fundamentals of Geotechnical Earthquake Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -771,7 +771,7 @@
       "course_name_en": "Temporary Structures and Underground Work",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -781,7 +781,7 @@
       "course_name_en": "Road and Track Foundation Design",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -791,7 +791,7 @@
       "course_name_en": "Designing with Geosynthetics",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -801,7 +801,7 @@
       "course_name_en": "Fundamentals of Geoenvironmental Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -811,7 +811,7 @@
       "course_name_en": "Selected Topics in Geotechnical Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Geotechnical Engineering",
+      "category_or_track": "Major Elective / Geotechnical Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -821,7 +821,7 @@
       "course_name_en": "Irrigation",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "category_or_track": "Major Elective / Hydraulic Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -831,7 +831,7 @@
       "course_name_en": "Drainage",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "category_or_track": "Major Elective / Hydraulic Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -841,7 +841,7 @@
       "course_name_en": "Urban Storm Drainage System",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "category_or_track": "Major Elective / Hydraulic Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -851,7 +851,7 @@
       "course_name_en": "Selected Topics in Water Resources Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Hydraulic Engineering",
+      "category_or_track": "Major Elective / Hydraulic Engineering / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -861,7 +861,7 @@
       "course_name_en": "Freight Transport and Logistics Systems",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -871,7 +871,7 @@
       "course_name_en": "Fundamentals of Traffic Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -881,7 +881,7 @@
       "course_name_en": "Rail Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -891,7 +891,7 @@
       "course_name_en": "Selected Topics in Transportation Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -901,7 +901,7 @@
       "course_name_en": "Elementary Photogrammetry and Remote Sensing",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -911,7 +911,7 @@
       "course_name_en": "Photogrammetry",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -921,7 +921,7 @@
       "course_name_en": "Introductory Geospatial Technology for Civil Engineers",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -931,7 +931,7 @@
       "course_name_en": "Selected Topics in Survey Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Surveying and Transportation",
+      "category_or_track": "Major Elective / Surveying and Transportation / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -941,7 +941,7 @@
       "course_name_en": "Data Analysis Techniques for Civil Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "category_or_track": "Major Elective / Civil Engineering Applications / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -951,7 +951,7 @@
       "course_name_en": "Computer Programs for Civil Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "category_or_track": "Major Elective / Civil Engineering Applications / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -961,7 +961,7 @@
       "course_name_en": "Architecture and Engineering Systems for Buildings",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "category_or_track": "Major Elective / Civil Engineering Applications / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -971,7 +971,7 @@
       "course_name_en": "Natural Disasters",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "category_or_track": "Major Elective / Civil Engineering Applications / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -981,7 +981,7 @@
       "course_name_en": "Civil Engineering Project",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Applications",
+      "category_or_track": "Major Elective / Civil Engineering Applications / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -991,7 +991,7 @@
       "course_name_en": "Construction Cost Estimating and Cost Control",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Management",
+      "category_or_track": "Major Elective / Civil Engineering Management / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1001,7 +1001,7 @@
       "course_name_en": "Information Technology in Construction Engineering and Management",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Management",
+      "category_or_track": "Major Elective / Civil Engineering Management / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1011,7 +1011,7 @@
       "course_name_en": "Application of Building Information Modeling for Construction Management",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Management",
+      "category_or_track": "Major Elective / Civil Engineering Management / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1021,7 +1021,7 @@
       "course_name_en": "Selected Topics in Construction Management Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective / Civil Engineering Management",
+      "category_or_track": "Major Elective / Civil Engineering Management / Regular Plan, Cooperative Education Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1031,7 +1031,7 @@
       "course_name_en": "ADVANCED STRUCTURAL ANALYSIS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1041,7 +1041,7 @@
       "course_name_en": "THEORY OF STRUCTURAL STABILITY",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1051,7 +1051,7 @@
       "course_name_en": "Earthquake Engineering and Mitigation of Earthquake Threat",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1061,7 +1061,7 @@
       "course_name_en": "ADVANCED MECHANICS OF MATERIALS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1071,7 +1071,7 @@
       "course_name_en": "STRUCTURAL DYNAMICS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1081,7 +1081,7 @@
       "course_name_en": "FINITE ELEMENT METHOD IN STRUCTURAL MECHANICS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1091,7 +1091,7 @@
       "course_name_en": "Innovative Materials for Construction",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1101,7 +1101,7 @@
       "course_name_en": "Assessment and Strengthening of Concrete Structures Using Fiber Reinforced Polymers",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1111,7 +1111,7 @@
       "course_name_en": "ADVANCED REINFORCED CONCRETE DESIGN",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1121,7 +1121,7 @@
       "course_name_en": "ADVANCED PRESTRESSED CONCRETE DESIGN",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1131,7 +1131,7 @@
       "course_name_en": "ADVANCED CONCRETE TECHNOLOGY",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1141,7 +1141,7 @@
       "course_name_en": "Seismic Design of Reinforced Concrete Buildings",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1151,7 +1151,7 @@
       "course_name_en": "BEHAVIOR OF STEEL MEMBERS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1161,7 +1161,7 @@
       "course_name_en": "SELECTED TOPICS IN STRUCTURAL ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Structural Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1171,7 +1171,7 @@
       "course_name_en": "PHYSICAL AND GEOTECHNICAL PROPERTIES OF SOILS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1181,7 +1181,7 @@
       "course_name_en": "GEOTECHNICAL INVESTIGATIONS AND INSTRUMENTATIONS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1191,7 +1191,7 @@
       "course_name_en": "SOIL DYNAMICS AND GEOTECHNICAL EARTHQUAKE ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1201,7 +1201,7 @@
       "course_name_en": "ADVANCED SOIL MECHANICS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1211,7 +1211,7 @@
       "course_name_en": "ENGINEERING PRINCIPLES OF SOIL IMPROVEMENT",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1221,7 +1221,7 @@
       "course_name_en": "NUMERICAL METHODS IN GEOTECHNICAL ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1231,7 +1231,7 @@
       "course_name_en": "Fundamental in Geoenvironmental Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1241,7 +1241,7 @@
       "course_name_en": "EARTH STRUCTURES",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1251,7 +1251,7 @@
       "course_name_en": "Tunnelling and Underground Structure Design and Construction",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1261,7 +1261,7 @@
       "course_name_en": "ADVANCED FOUNDATION ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1271,7 +1271,7 @@
       "course_name_en": "Design and Practices in Geosynthetics",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1281,7 +1281,7 @@
       "course_name_en": "Advanced Geotechnical Engineering for the Design of Roads, Railways and Airfields",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1291,7 +1291,7 @@
       "course_name_en": "SELECTED TOPICS IN GEOTECHNICAL ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Geotechnical Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1301,7 +1301,7 @@
       "course_name_en": "Statistics Techniques for Transportation Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1311,7 +1311,7 @@
       "course_name_en": "Urban and Transport Infrastructure Impact Assessment",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1321,7 +1321,7 @@
       "course_name_en": "TRANSPORTATION PLANNING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1331,7 +1331,7 @@
       "course_name_en": "TRAFFIC ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1341,7 +1341,7 @@
       "course_name_en": "THEORY OF TRAFFIC FLOW",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1351,7 +1351,7 @@
       "course_name_en": "ADVANCED HIGHWAY DESIGN",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1361,7 +1361,7 @@
       "course_name_en": "Advanced Freight Transport and Logistics Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1371,7 +1371,7 @@
       "course_name_en": "PLANNING AND DESIGN OF AIRPORTS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1381,7 +1381,7 @@
       "course_name_en": "TRANSPORTATION SYSTEM ANALYSIS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1391,7 +1391,7 @@
       "course_name_en": "PUBLIC TRANSPORTATION",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1401,7 +1401,7 @@
       "course_name_en": "SELECTED TOPICS IN TRANSPORTATION ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1411,7 +1411,7 @@
       "course_name_en": "ROAD SAFETY ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1421,7 +1421,7 @@
       "course_name_en": "PAVEMENT ANALYSIS AND DESIGN",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1431,7 +1431,7 @@
       "course_name_en": "Operations Research in Transportation",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1441,7 +1441,7 @@
       "course_name_en": "TRANSPORT PROJECT EVALUATION",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1451,7 +1451,7 @@
       "course_name_en": "URBAN TRANSPORTATION AND LAND USE PLANNING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1461,7 +1461,7 @@
       "course_name_en": "TRANSPORTATION MODELING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Transportation Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1471,7 +1471,7 @@
       "course_name_en": "ADVANCED FLUID MECHANICS",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1481,7 +1481,7 @@
       "course_name_en": "HYDRAULIC DESIGN",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1491,7 +1491,7 @@
       "course_name_en": "HYDROPOWER ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1501,7 +1501,7 @@
       "course_name_en": "MODELING TECHNIQUES IN HYDRAULIC ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1511,7 +1511,7 @@
       "course_name_en": "OPEN CHANNEL FLOW",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1521,7 +1521,7 @@
       "course_name_en": "EROSION AND SEDIMENTATION",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1531,7 +1531,7 @@
       "course_name_en": "RIVER ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1541,7 +1541,7 @@
       "course_name_en": "GROUNDWATER ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1551,7 +1551,7 @@
       "course_name_en": "FLOW THROUGH POROUS MEDIA",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1561,7 +1561,7 @@
       "course_name_en": "Advanced Hydrology",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1571,7 +1571,7 @@
       "course_name_en": "WATER RESOURCES SYSTEMS ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1581,7 +1581,7 @@
       "course_name_en": "STOCHASTIC PROCESSES IN HYDROLOGY",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1591,7 +1591,7 @@
       "course_name_en": "Remote Sensing and GIS for Water Resources Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1601,7 +1601,7 @@
       "course_name_en": "Hydrology and Water Management for Agriculture",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1611,7 +1611,7 @@
       "course_name_en": "Sustainable Urban Drainage Systems",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1621,7 +1621,7 @@
       "course_name_en": "SELECTED TOPICS IN WATER RESOURCES ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Water Resources Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1631,7 +1631,7 @@
       "course_name_en": "GEODESY FOR CIVIL ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1641,7 +1641,7 @@
       "course_name_en": "ADJUSTMENT COMPUTATIONS IN SURVEY ENGINEERING 1",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1651,7 +1651,7 @@
       "course_name_en": "GEOSPATIAL SCIENCE AND TECHNOLOGY IN CIVIL ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1661,7 +1661,7 @@
       "course_name_en": "SURVEYING WITH SATELLITE",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1671,7 +1671,7 @@
       "course_name_en": "AERIAL PHOTOGRAMMETRY",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1681,7 +1681,7 @@
       "course_name_en": "APPLIED GEODETIC SURVEYING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1691,7 +1691,7 @@
       "course_name_en": "ADVANCED GEODESY FOR ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1701,7 +1701,7 @@
       "course_name_en": "SELECTED TOPICS IN SURVEY ENGINEERING",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1711,7 +1711,7 @@
       "course_name_en": "ADJUSTMENT COMPUTATIONS IN SURVEY ENGINEERING 2",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Survey Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1721,7 +1721,7 @@
       "course_name_en": "Railway Operation",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1731,7 +1731,7 @@
       "course_name_en": "Elements of Railway Systems",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1741,7 +1741,7 @@
       "course_name_en": "Selected Topics in Rail Infrastructure Systems Engineering",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group",
+      "category_or_track": "Major Elective (Master Level) / Rail Infrastructure Systems Engineering Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1751,7 +1751,7 @@
       "course_name_en": "PROJECT MANAGEMENT",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1761,7 +1761,7 @@
       "course_name_en": "Construction Planning and Project Control",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1771,7 +1771,7 @@
       "course_name_en": "Productivity Improvement and Quality Control in Construction",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]
@@ -1781,7 +1781,7 @@
       "course_name_en": "Construction Contracting",
       "course_name_th": null,
       "credits": "3",
-      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group",
+      "category_or_track": "Major Elective (Master Level) / Construction and Engineering Management Group / Advanced Study Plan",
       "prerequisites": [
         "None"
       ]

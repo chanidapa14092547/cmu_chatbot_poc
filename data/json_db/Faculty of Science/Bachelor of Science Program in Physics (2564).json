@@ -492,7 +492,7 @@
       "course_name_en": "Quantum Mechanics 2",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Requirements / Major Electives",
+      "category_or_track": "Field of Specialization / Major Requirements / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -512,7 +512,7 @@
       "course_name_en": "Statistical Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Requirements / Major Electives",
+      "category_or_track": "Field of Specialization / Major Requirements / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -522,7 +522,7 @@
       "course_name_en": "Introduction to Electromagnetic Theory 2",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Requirements / Major Electives",
+      "category_or_track": "Field of Specialization / Major Requirements / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -552,7 +552,7 @@
       "course_name_en": "Introduction to Atmospheric Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -562,7 +562,7 @@
       "course_name_en": "Air Pollution Meteorology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -572,7 +572,7 @@
       "course_name_en": "Spherical Astronomy and Solar System",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -582,7 +582,7 @@
       "course_name_en": "Nuclear and Radiation Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -592,7 +592,7 @@
       "course_name_en": "Nuclear Physics and Applications",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -602,7 +602,7 @@
       "course_name_en": "Nuclear Physics Laboratory",
       "course_name_th": "",
       "credits": "1",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -612,7 +612,7 @@
       "course_name_en": "Electronics 1",
       "course_name_th": "",
       "credits": "4",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -622,7 +622,7 @@
       "course_name_en": "Electronics 2",
       "course_name_th": "",
       "credits": "4",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -632,7 +632,7 @@
       "course_name_en": "Methods of Theoretical Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -642,7 +642,7 @@
       "course_name_en": "Plasma Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -652,7 +652,7 @@
       "course_name_en": "Introduction to Observational Astronomy",
       "course_name_th": "",
       "credits": "1",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -662,7 +662,7 @@
       "course_name_en": "Stellar Astrophysics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -672,7 +672,7 @@
       "course_name_en": "Solid State Physics 1",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -682,7 +682,7 @@
       "course_name_en": "Introduction to Molecular Spectroscopy",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -692,7 +692,7 @@
       "course_name_en": "Atomic Spectra",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -702,7 +702,7 @@
       "course_name_en": "Job Training",
       "course_name_th": "",
       "credits": "2",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -712,7 +712,7 @@
       "course_name_en": "The Physics of Energy",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -722,7 +722,7 @@
       "course_name_en": "Applied Optics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -732,7 +732,7 @@
       "course_name_en": "Introduction to X-Ray Crystallography",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -742,7 +742,7 @@
       "course_name_en": "Introduction to Astrophysics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -752,7 +752,7 @@
       "course_name_en": "Selected Topics in Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -762,7 +762,7 @@
       "course_name_en": "Physics and Technology of Particle Beam",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -772,7 +772,7 @@
       "course_name_en": "Fluid Dynamics for Physicists",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -782,7 +782,7 @@
       "course_name_en": "Fundamental Seismic Waves",
       "course_name_th": "",
       "credits": "4",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -792,7 +792,7 @@
       "course_name_en": "Introduction to Quantum Field Theory",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -802,7 +802,7 @@
       "course_name_en": "General Radio Astronomy",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -812,7 +812,7 @@
       "course_name_en": "Cosmic Rays and Particle Physics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -822,7 +822,7 @@
       "course_name_en": "Optical Instrument Design",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -832,7 +832,7 @@
       "course_name_en": "Selected Topics in Astrophysics",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Major Electives",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Physics",
       "prerequisites": [
         "None"
       ]
@@ -982,7 +982,7 @@
       "course_name_en": "Selected Topics in Materials Science",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -992,7 +992,7 @@
       "course_name_en": "Crystallization and Crystal Growth",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1002,7 +1002,7 @@
       "course_name_en": "Advanced Materials Processing and Non-Destructive Testing",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1012,7 +1012,7 @@
       "course_name_en": "Recycled Materials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1022,7 +1022,7 @@
       "course_name_en": "Cements and Concrete",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1032,7 +1032,7 @@
       "course_name_en": "Nanomaterials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1042,7 +1042,7 @@
       "course_name_en": "Natural Fibers, Biopolymers and Biocomposites",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1052,7 +1052,7 @@
       "course_name_en": "Biomaterials for Medical Applications",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1062,7 +1062,7 @@
       "course_name_en": "Fabrication and Applications of Advanced Ceramic Materials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1072,7 +1072,7 @@
       "course_name_en": "Optical Materials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1082,7 +1082,7 @@
       "course_name_en": "Electrical and Magnetic Materials and Devices",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1092,7 +1092,7 @@
       "course_name_en": "Materials for High Temperature Applications",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1102,7 +1102,7 @@
       "course_name_en": "Materials Science of Thin Films",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1112,7 +1112,7 @@
       "course_name_en": "Joining of Materials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1122,7 +1122,7 @@
       "course_name_en": "Advanced Surface Coating Technology",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1132,7 +1132,7 @@
       "course_name_en": "Surface and Interface Science",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1142,7 +1142,7 @@
       "course_name_en": "Physical Metallurgy",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]
@@ -1152,7 +1152,7 @@
       "course_name_en": "Corrosion and Degradation of Materials",
       "course_name_th": "",
       "credits": "3",
-      "category_or_track": "Plan 3 : Joint Physics and Materials Science (Major Electives)",
+      "category_or_track": "Field of Specialization / Major / Major Electives / Plan 3 : Joint Physics and Materials Science / Materials Science",
       "prerequisites": [
         "None"
       ]

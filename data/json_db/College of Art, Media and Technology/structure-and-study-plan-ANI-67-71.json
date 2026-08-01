@@ -489,7 +489,7 @@
       "course_name_en": "Sketch Drawing 2",
       "course_name_th": "การร่างภาพ 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -499,7 +499,7 @@
       "course_name_en": "Computer and Programming for Animation And Game 1",
       "course_name_th": "คอมพิวเตอร์และการเขียนโปรแกรมสำหรับแอนนิเมชันและเกม 1",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -509,7 +509,7 @@
       "course_name_en": "Three Dimensional Modeling and Animation Design 2",
       "course_name_th": "การขึ้นรูปสามมิติ และการออกแบบแอนนิเมชัน 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -519,7 +519,7 @@
       "course_name_en": "Two Dimensional Modeling and Animation and Game Design 2",
       "course_name_th": "การขึ้นรูปสองมิติ และการออกแบบแอนนิเมชันและเกม 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -529,7 +529,7 @@
       "course_name_en": "Advance Animation and Rendering Techniques",
       "course_name_th": "เทคนิคการสร้างภาพแอนนิเมชันชั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -539,7 +539,7 @@
       "course_name_en": "Acting for Animation",
       "course_name_th": "ศิลปะการแสดงเพื่อการสร้างสรรค์งานแอนนิเมชัน",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -549,7 +549,7 @@
       "course_name_en": "3D Character Animation Techniques",
       "course_name_th": "เทคนิคการสร้างภาพเคลื่อนไหวสำหรับตัวละครสามมิติ",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -559,7 +559,7 @@
       "course_name_en": "Character Effects Techniques",
       "course_name_th": "เทคนิคการสร้างเอฟเฟกต์ตัวละคร",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -569,7 +569,7 @@
       "course_name_en": "3D Character Rigging Techniques",
       "course_name_th": "เทคนิคการสร้างโครงสร้างและระบบควบคุมตัวละครสามมิติ",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -579,7 +579,7 @@
       "course_name_en": "Advanced 2D Animation",
       "course_name_th": "แอนนิเมชันสองมิติขั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -589,7 +589,7 @@
       "course_name_en": "Digital Painting",
       "course_name_th": "การวาดภาพศิลปะดิจิทัล",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -599,7 +599,7 @@
       "course_name_en": "Art Concept and Digital Creativity",
       "course_name_th": "แนวคิดทางศิลปะและการสร้างสรรค์เชิงดิจิทัล",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -609,7 +609,7 @@
       "course_name_en": "Digital Media Creation",
       "course_name_th": "การสร้างสรรค์สื่อดิจิทัล",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -619,7 +619,7 @@
       "course_name_en": "Arts and New Media Exhibition",
       "course_name_th": "การจัดนิทรรศการศิลปะและสื่อสมัยใหม่",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -629,7 +629,7 @@
       "course_name_en": "Digital Movie for Entainment",
       "course_name_th": "ภาพยนตร์ดิจิทัลเชิงบันเทิง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -639,7 +639,7 @@
       "course_name_en": "Comics Design Process",
       "course_name_th": "การออกแบบคอมมิค",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -649,7 +649,7 @@
       "course_name_en": "Digital Movies Criticism and Analysis",
       "course_name_th": "การวิเคราะห์และวิจารณ์ภาพยนตร์ดิจิทัล",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -659,7 +659,7 @@
       "course_name_en": "Cosplay Design for Animation",
       "course_name_th": "การออกแบบคอสเพลย์สำหรับงานแอนนิเมชัน",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -669,7 +669,7 @@
       "course_name_en": "Toy and Souvenir Product Design",
       "course_name_th": "การออกแบบผลิตภัณฑ์ของเล่นและของที่ระลึก",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -679,7 +679,7 @@
       "course_name_en": "Graphic Design for Communication",
       "course_name_th": "การออกแบบกราฟิกเพื่อการสื่อสาร",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -689,7 +689,7 @@
       "course_name_en": "Mascot Design",
       "course_name_th": "การออกแบบตัวละครสัญลักษณ์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -699,7 +699,7 @@
       "course_name_en": "Digital Movie for Commerce",
       "course_name_th": "ภาพยนตร์ดิจิทัลเชิงพาณิชย์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -709,7 +709,7 @@
       "course_name_en": "Digital Movie for Edutainment",
       "course_name_th": "ภาพยนตร์ดิจิทัลเพื่อการศึกษาเชิงหรรษา",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -719,7 +719,7 @@
       "course_name_en": "Advanced Three Dimensional Character Design",
       "course_name_th": "การออกแบบตัวละครสามมิติชั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -729,7 +729,7 @@
       "course_name_en": "Advanced Three Dimensional Scence Design",
       "course_name_th": "การออกแบบทิวทัศน์สามมิติชั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -739,7 +739,7 @@
       "course_name_en": "Advanced Three Dimensional Animation Design",
       "course_name_th": "การออกแบบแอนนิเมชันสามมิติชั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -749,7 +749,7 @@
       "course_name_en": "Selected Topics in Animation 1",
       "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 1",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -759,7 +759,7 @@
       "course_name_en": "Selected Topics in Animation 2",
       "course_name_th": "หัวข้อเลือกสรรทางแอนนิเมชัน 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -769,7 +769,7 @@
       "course_name_en": "Photoshop 2",
       "course_name_th": "โฟโต้ชอป 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -779,7 +779,7 @@
       "course_name_en": "Composite 2",
       "course_name_th": "การสร้างภาพผสม 2",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -789,7 +789,7 @@
       "course_name_en": "Visual Effects Production 1",
       "course_name_th": "กระบวนการผลิตวิชวลเอฟเฟกต์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -799,7 +799,7 @@
       "course_name_en": "Texture Design",
       "course_name_th": "การออกแบบวัสดุและพื้นผิวขั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -809,7 +809,7 @@
       "course_name_en": "Motion Capture",
       "course_name_th": "โมชันแคปเจอร์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -819,7 +819,7 @@
       "course_name_en": "Rotoscope",
       "course_name_th": "โรโตสโคป",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -829,7 +829,7 @@
       "course_name_en": "Stop Motion",
       "course_name_th": "สตอปโมชัน",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -839,7 +839,7 @@
       "course_name_en": "Special Effects",
       "course_name_th": "สเปเชียลเอฟเฟกต์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -849,7 +849,7 @@
       "course_name_en": "Matte Painting",
       "course_name_th": "การสร้างฉากผสม",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -859,7 +859,7 @@
       "course_name_en": "Advanced Lighing and Rendering",
       "course_name_th": "การจัดแสงและการประมวลผลภาพชั้นสูง",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -869,7 +869,7 @@
       "course_name_en": "Two Dimensional Motion Tracking",
       "course_name_th": "การจับและติดตามภาพเคลื่อนไหวแบบสองมิติ",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -879,7 +879,7 @@
       "course_name_en": "Three Dimensional Motion Tracking",
       "course_name_th": "การจับและติดตามภาพเคลื่อนไหวแบบสามมิติ",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]
@@ -889,7 +889,7 @@
       "course_name_en": "Selected Topic in Visual Effects",
       "course_name_th": "หัวข้อเลือกสรรทางวิชวลเอฟเฟกต์",
       "credits": "3",
-      "category_or_track": "Major Elective",
+      "category_or_track": "Major Elective / Animation and Visual Effects",
       "prerequisites": [
         "None"
       ]

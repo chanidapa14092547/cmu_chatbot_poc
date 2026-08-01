@@ -1,0 +1,41 @@
+{
+  "204426": {
+    "course_name": "Data Engineering",
+    "sections": [
+      {
+        "sec": "001",
+        "day": "M,Th",
+        "time_start": "09:30",
+        "time_end": "11:00"
+      },
+      {
+        "sec": "002",
+        "day": "Tu,F",
+        "time_start": "13:00",
+        "time_end": "14:30"
+      }
+    ]
+  },
+  "204471": {
+    "course_name": "Artificial Intelligence",
+    "sections": [
+      {
+        "sec": "001",
+        "day": "M,Th",
+        "time_start": "09:30",
+        "time_end": "11:00"
+      }
+    ]
+  },
+  "261441": {
+    "course_name": "Internet of Things and Big Data",
+    "sections": [
+      {
+        "sec": "001",
+        "day": "W",
+        "time_start": "09:00",
+        "time_end": "12:00"
+      }
+    ]
+  }
+}
