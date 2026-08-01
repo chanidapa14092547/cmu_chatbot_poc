@@ -1,0 +1,2 @@
+# ==Start of PDF==\'); print(repr(txt[start:start+1000]))\"","Cwd":"/Users/memee/.gemini/antigravity/scratch/cmu_chatbot_poc","WaitMsBeforeAsync":5000,"toolAction":"Debugging the rfind text extraction by printing the raw string representation","toolSummary":"Debug String Format"}}]}
+'
