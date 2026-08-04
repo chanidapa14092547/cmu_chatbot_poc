@@ -1,0 +1,1117 @@
+{
+  "Faculty of Veterinary Medicine": {
+    "Bachelor of Science Program in Veterinary Nursing (2566)": {
+      "program_name": "Bachelor of Science Program in Veterinary Nursing (2566)",
+      "json_path": "data/json_db/Faculty of Veterinary Medicine/Bachelor of Science Program in Veterinary Nursing (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Veterinary Nursing (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Doctor of Veterinary Medicine Program (2568)": {
+      "program_name": "Doctor of Veterinary Medicine Program (2568)",
+      "json_path": "data/json_db/Faculty of Veterinary Medicine/Doctor of Veterinary Medicine Program (2568).json",
+      "md_path": "data/conditions/Doctor of Veterinary Medicine Program (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Education": {
+    "Bachelor of Education Program in Physical Education (2567)": {
+      "program_name": "Bachelor of Education Program in Physical Education (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Physical Education (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Physical Education (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Elementary Education (2567)": {
+      "program_name": "Bachelor of Education Program in Elementary Education (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Elementary Education (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Elementary Education (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Biology (2567)": {
+      "program_name": "Bachelor of Education Program in Biology (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Biology (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Biology (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Art Education (2567)": {
+      "program_name": "Bachelor of Education Program in Art Education (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Art Education (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Art Education (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Thai (2567)": {
+      "program_name": "Bachelor of Education Program in Thai",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Thai (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Thai (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Mathematics (2567)": {
+      "program_name": "Bachelor of Education Program in Mathematics (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Mathematics (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Mathematics (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Physics (2567)": {
+      "program_name": "Bachelor of Education Program in Physics",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Physics (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Physics (2567).md",
+      "major_tracks": [
+        "Physics"
+      ]
+    },
+    "Bachelor of Education Program in Industry and Career (2568)": {
+      "program_name": "Bachelor of Education Program in Industry and Career (2568)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Industry and Career (2568).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Industry and Career (2568).md",
+      "major_tracks": [
+        "Industrial Major",
+        "Career Major"
+      ]
+    },
+    "Bachelor of Education Program in Chemistry (2567)": {
+      "program_name": "Bachelor of Education Program in Chemistry (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Chemistry (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Chemistry (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Education Program in Early Childhood Education-Special Education (2567)": {
+      "program_name": "Bachelor of Education Program in Early Childhood Education-Special Education (2567)",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Early Childhood Education-Special Education (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Early Childhood Education-Special Education (2567).md",
+      "major_tracks": [
+        "Early Childhood Education",
+        "Special Education"
+      ]
+    },
+    "Bachelor of Education Program in English (2567)": {
+      "program_name": "Bachelor of Education Program in English",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in English (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in English (2567).md",
+      "major_tracks": [
+        "English"
+      ]
+    },
+    "Bachelor of Education Program in Social Studies (2567)": {
+      "program_name": "Bachelor of Education Program in Social Studies",
+      "json_path": "data/json_db/Faculty of Education/Bachelor of Education Program in Social Studies (2567).json",
+      "md_path": "data/conditions/Bachelor of Education Program in Social Studies (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Social Sciences": {
+    "Bachelor of Arts Program in Sociology and Anthropology (2565)": {
+      "program_name": "Bachelor of Arts Program in Sociology and Anthropology (2565)",
+      "json_path": "data/json_db/Faculty of Social Sciences/Bachelor of Arts Program in Sociology and Anthropology (2565).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Sociology and Anthropology (2565).md",
+      "major_tracks": [
+        "Plan 1 Academic Discipline",
+        "Plan 2 Cooperative Education"
+      ]
+    },
+    "Bachelor of Arts Program in ASEAN Studies (2567)": {
+      "program_name": "Bachelor of Arts Program in ASEAN Studies",
+      "json_path": "data/json_db/Faculty of Social Sciences/Bachelor of Arts Program in ASEAN Studies (2567).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in ASEAN Studies (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Geography (2565)": {
+      "program_name": "Bachelor of Science Program in Geography (2565)",
+      "json_path": "data/json_db/Faculty of Social Sciences/Bachelor of Science Program in Geography (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Geography (2565).md",
+      "major_tracks": [
+        "Cooperative Education in Geography",
+        "Independent Study in Geography"
+      ]
+    },
+    "Bachelor of Arts Program in Social Science and Sustainable Development (International Program) (2565)": {
+      "program_name": "Bachelor of Arts Program in Social Science and Sustainable Development (International Program) (2565)",
+      "json_path": "data/json_db/Faculty of Social Sciences/Bachelor of Arts Program in Social Science and Sustainable Development (International Program) (2565).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Social Science and Sustainable Development (International Program) (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Humanities": {
+    "Bachelor of Arts Program in French (2566)": {
+      "program_name": "Bachelor of Arts Program in French (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in French (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in French (2566).md",
+      "major_tracks": [
+        "Independent Study",
+        "Cooperative Education"
+      ]
+    },
+    "Bachelor of Arts Program in Home and Community (2566)": {
+      "program_name": "Bachelor of Arts Program in Home and Community (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Home and Community (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Home and Community (2566).md",
+      "major_tracks": [
+        "Cooperative Education Plan",
+        "Independent Study Plan"
+      ]
+    },
+    "Bachelor of Arts Program in Tourism and Hotel (2566)": {
+      "program_name": "Bachelor of Arts Program in Tourism and Hotel (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Tourism and Hotel (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Tourism and Hotel (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Arts Program (2566)": {
+      "program_name": "Bachelor of Arts Program (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program (2566).md",
+      "major_tracks": [
+        "Indian Languages and Cultures Major",
+        "Korean Language and Culture Major",
+        "German Language and Culture Major",
+        "Thai Major",
+        "History Major",
+        "Philosophy Major",
+        "Chinese Major",
+        "Japanese Language and Culture Major"
+      ]
+    },
+    "Bachelor of Arts Program in Myanmar Language and Culture (2564)": {
+      "program_name": "Bachelor of Arts Program in Myanmar Language and Culture",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Myanmar Language and Culture (2564).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Myanmar Language and Culture (2564).md",
+      "major_tracks": [
+        "Myanmar Language and Culture",
+        "Cooperative Education"
+      ]
+    },
+    "Bachelor of Arts Program in Thai as a Foreign Language (International Program) (2567)": {
+      "program_name": "Bachelor of Arts Program in Thai as a Foreign Language (International Program) (2567)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Thai as a Foreign Language (International Program) (2567).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Thai as a Foreign Language (International Program) (2567).md",
+      "major_tracks": [
+        "Independent Study Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Science Program in Psychology (2566)": {
+      "program_name": "Bachelor of Science Program in Psychology (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Science Program in Psychology (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Psychology (2566).md",
+      "major_tracks": [
+        "Clinical Psychology",
+        "Industrial and Organizational Psychology"
+      ]
+    },
+    "Bachelor of Arts Program in Humanities and Sustainability (International Program) (2565)": {
+      "program_name": "Bachelor of Arts Program in Humanities and Sustainability (International Program) (2565)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Humanities and Sustainability (International Program) (2565).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Humanities and Sustainability (International Program) (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Arts Program in English (2566)": {
+      "program_name": "Bachelor of Arts Program in English (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in English (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in English (2566).md",
+      "major_tracks": [
+        "Independent Study Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Arts Program in Information Studies (2566)": {
+      "program_name": "Bachelor of Arts Program in Information Studies (2566)",
+      "json_path": "data/json_db/Faculty of Humanities/Bachelor of Arts Program in Information Studies (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Information Studies (2566).md",
+      "major_tracks": [
+        "Independent Study in Information Studies",
+        "Cooperative Education Group"
+      ]
+    }
+  },
+  "Mass Communication": {
+    "Bachelor of Arts Program in Mass Communication (2566)": {
+      "program_name": "Bachelor of Arts Program in Mass Communication (2566)",
+      "json_path": "data/json_db/Mass Communication/Bachelor of Arts Program in Mass Communication (2566).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Mass Communication (2566).md",
+      "major_tracks": [
+        "Creative Media Production",
+        "Marketing Communication (Public Relations)",
+        "Marketing Communication (Advertising)"
+      ]
+    },
+    "Bachelor of Arts Program in Digital Film (Bilingual Program) (2567)": {
+      "program_name": "Bachelor of Arts Program in Digital Film (Bilingual Program)",
+      "json_path": "data/json_db/Mass Communication/Bachelor of Arts Program in Digital Film (Bilingual Program) (2567).json",
+      "md_path": "data/conditions/Bachelor of Arts Program in Digital Film (Bilingual Program) (2567).md",
+      "major_tracks": [
+        "Film Studies",
+        "Film Administration",
+        "Visual Effects for Film"
+      ]
+    }
+  },
+  "International College of Digital Innovation": {
+    "DIN program on CMUIPAS": {
+      "program_name": "Bachelor of Science in Digital Innovation (International Program)",
+      "json_path": "data/json_db/International College of Digital Innovation/DIN program on CMUIPAS.json",
+      "md_path": "data/conditions/DIN program on CMUIPAS.md",
+      "major_tracks": [
+        "Digital Innovation",
+        "Digital Innovation (Data Science specialization)",
+        "Digital Innovation (Entrepreneurship specialization)",
+        "Digital Innovation (International Economic and Trade specialization)"
+      ]
+    }
+  },
+  "Faculty of Fine Arts": {
+    "Bachelor of Fine Arts Program in Thai Arts and Creative Cultures (2566)": {
+      "program_name": "Bachelor of Fine Arts Program in Thai Arts and Creative Cultures",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Thai Arts and Creative Cultures (2566).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Thai Arts and Creative Cultures (2566).md",
+      "major_tracks": [
+        "Cultural Arts Management",
+        "Arts History",
+        "Contemporary Thai Art"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Performing Arts (2567)": {
+      "program_name": "Bachelor of Fine Arts Program in Performing Arts (2567)",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Performing Arts (2567).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Performing Arts (2567).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Printmaking (2566)": {
+      "program_name": "Bachelor of Fine Arts Program in Printmaking",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Printmaking (2566).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Printmaking (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Sculpture (2566)": {
+      "program_name": "Bachelor of Fine Arts Program in Sculpture",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Sculpture (2566).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Sculpture (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Design (2566)": {
+      "program_name": "Bachelor of Fine Arts Program in Design",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Design (2566).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Design (2566).md",
+      "major_tracks": [
+        "Plan A. Internship",
+        "Plan B. Thesis"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Media Arts and Design (2564)": {
+      "program_name": "Bachelor of Fine Arts Program in Media Arts and Design",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Media Arts and Design (2564).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Media Arts and Design (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Multidisciplinary Art (2565)": {
+      "program_name": "Bachelor of Fine Arts Program in Multidisciplinary Art (2565)",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Multidisciplinary Art (2565).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Multidisciplinary Art (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Creative Photography (2566)": {
+      "program_name": "Bachelor of Fine Arts Program in Creative Photography",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Creative Photography (2566).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Creative Photography (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Fine Arts Program in Painting (2568)": {
+      "program_name": "Bachelor of Fine Arts Program in Painting",
+      "json_path": "data/json_db/Faculty of Fine Arts/Bachelor of Fine Arts Program in Painting (2568).json",
+      "md_path": "data/conditions/Bachelor of Fine Arts Program in Painting (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Agro-Industry": {
+    "Bachelor of Science Program in Packaging Technology (2565)": {
+      "program_name": "Bachelor of Science Program in Packaging Technology (2565)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Packaging Technology (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Packaging Technology (2565).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Science Program in Agro-Industrial Innovation and Entrepreneurship (2568)": {
+      "program_name": "Bachelor of Science Program in Agro-Industrial Innovation and Entrepreneurship (2568)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Agro-Industrial Innovation and Entrepreneurship (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Agro-Industrial Innovation and Entrepreneurship (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Product Development Technology (2565)": {
+      "program_name": "Bachelor of Science Program in Product Development Technology",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Product Development Technology (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Product Development Technology (2565).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Science Program in Agro-Industrial Biotechnology (2566)": {
+      "program_name": "Bachelor of Science Program in Agro-Industrial Biotechnology (2566)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Agro-Industrial Biotechnology (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Agro-Industrial Biotechnology (2566).md",
+      "major_tracks": [
+        "Plan 1 Regular",
+        "Plan 2 Cooperative Education"
+      ]
+    },
+    "Bachelor of Science Program in Food Science and Technology (2566)": {
+      "program_name": "Bachelor of Science Program in Food Science and Technology",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Food Science and Technology (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Food Science and Technology (2566).md",
+      "major_tracks": [
+        "Plan 1 Regular Plan, No Minor",
+        "Plan 2 Regular Plan, Selected Minor",
+        "Plan 3 Cooperative Education"
+      ]
+    },
+    "Bachelor of Science Program in Food Process Engineering (2565)": {
+      "program_name": "Bachelor of Science Program in Food Process Engineering (2565)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Food Process Engineering (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Food Process Engineering (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Food Science and Technology (International Program) (2565)": {
+      "program_name": "Bachelor of Science Program in Food Science and Technology (International Program) (2565)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Food Science and Technology (International Program) (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Food Science and Technology (International Program) (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Marine Food Product Technology and Innovation (2565)": {
+      "program_name": "Bachelor of Science Program in Marine Food Product Technology and Innovation (2565)",
+      "json_path": "data/json_db/Faculty of Agro-Industry/Bachelor of Science Program in Marine Food Product Technology and Innovation (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Marine Food Product Technology and Innovation (2565).md",
+      "major_tracks": [
+        "Plan 1: Cooperative Education Plan",
+        "Plan 2: Practice in Research Plan",
+        "Plan 3: Practice in Simulated Business Plan"
+      ]
+    }
+  },
+  "Faculty of Engineering": {
+    "Bachelor of Engineering Program in Environmental Engineering (2568)": {
+      "program_name": "Bachelor of Engineering Program in Environmental Engineering",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Environmental Engineering (2568).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Environmental Engineering (2568).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Electrical Engineering (2567)": {
+      "program_name": "Bachelor of Engineering Program in Electrical Engineering (2567)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Electrical Engineering (2567).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Electrical Engineering (2567).md",
+      "major_tracks": [
+        "Electrical Engineering (Power)",
+        "Electrical Engineering (Telecommunication)"
+      ]
+    },
+    "Bachelor of Engineering Program in Integrated Engineering (2565)": {
+      "program_name": "Bachelor of Engineering Program in Integrated Engineering (2565)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Integrated Engineering (2565).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Integrated Engineering (2565).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Civil Engineering (International Program) (2567)": {
+      "program_name": "Bachelor of Engineering Program in Civil Engineering (International Program) (2567)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Civil Engineering (International Program) (2567).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Civil Engineering (International Program) (2567).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Study Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Mechanical Engineering (2568)": {
+      "program_name": "Bachelor of Engineering Program in Mechanical Engineering (2568)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Mechanical Engineering (2568).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Mechanical Engineering (2568).md",
+      "major_tracks": [
+        "Plan 1 Regular",
+        "Plan 2 Co-operative Education"
+      ]
+    },
+    "Bachelor of Engineering Program in Information Systems and Network Engineering (International Program) (2566": {
+      "program_name": "Bachelor of Engineering Program in Information Systems and Network Engineering (International Program)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Information Systems and Network Engineering (International Program) (2566.json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Information Systems and Network Engineering (International Program) (2566.md",
+      "major_tracks": [
+        "Normal Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Electrical Engineering and Smart Grid Technology (International Program) (2567)": {
+      "program_name": "Bachelor of Engineering Program in Electrical Engineering and Smart Grid Technology (International Program) (2567)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Electrical Engineering and Smart Grid Technology (International Program) (2567).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Electrical Engineering and Smart Grid Technology (International Program) (2567).md",
+      "major_tracks": [
+        "Project Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Civil Engineering (2566)": {
+      "program_name": "Bachelor of Engineering Program in Civil Engineering (2566)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Civil Engineering (2566).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Civil Engineering (2566).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Study Plan",
+        "Advanced Study Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Industrial Engineering and Logistics Management (International Program) (2566)": {
+      "program_name": "Bachelor of Engineering Program in Industrial Engineering and Logistics Management (International Program) (2566)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Industrial Engineering and Logistics Management (International Program) (2566).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Industrial Engineering and Logistics Management (International Program) (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Engineering Program in Mining and Petroleum Engineering (2567)": {
+      "program_name": "Bachelor of Engineering Program in Mining and Petroleum Engineering",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Mining and Petroleum Engineering (2567).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Mining and Petroleum Engineering (2567).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Semiconductor Engineering": {
+      "program_name": "Bachelor of Engineering Program in Semiconductor Engineering",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Semiconductor Engineering.json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Semiconductor Engineering.md",
+      "major_tracks": [
+        "Integrated Circuit Design Field of Study",
+        "Semiconductor Assembly and Testing Field of Study",
+        "Semiconductor Fabrication Field of Study"
+      ]
+    },
+    "Bachelor of Engineering Program in Industrial Engineering (2568)": {
+      "program_name": "Bachelor of Engineering Program in Industrial Engineering",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Industrial Engineering (2568).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Industrial Engineering (2568).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Co-operative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Mechanical Engineering and Engineering Project Management (International Program) (2566)": {
+      "program_name": "Bachelor of Engineering Program in Mechanical Engineering and Engineering Project Management (International Program) (2566)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Mechanical Engineering and Engineering Project Management (International Program) (2566).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Mechanical Engineering and Engineering Project Management (International Program) (2566).md",
+      "major_tracks": [
+        "Plan 1 Regular",
+        "Plan 2 Co-operative Education"
+      ]
+    },
+    "Bachelor of Engineering Program in Robotics Engineering and Artificial Intelligence (2564)": {
+      "program_name": "Bachelor of Engineering Program in Robotics Engineering and Artificial Intelligence",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Robotics Engineering and Artificial Intelligence (2564).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Robotics Engineering and Artificial Intelligence (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Engineering Program in Computer Engineering (2568)": {
+      "program_name": "Bachelor of Engineering Program in Computer Engineering",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Computer Engineering (2568).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Computer Engineering (2568).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Engineering Program in Integrated and Multi-disciplinary Engineering (International Program) (2568)": {
+      "program_name": "Bachelor of Engineering Program in Integrated and Multi-disciplinary Engineering (International Program) (2568)",
+      "json_path": "data/json_db/Faculty of Engineering/Bachelor of Engineering Program in Integrated and Multi-disciplinary Engineering (International Program) (2568).json",
+      "md_path": "data/conditions/Bachelor of Engineering Program in Integrated and Multi-disciplinary Engineering (International Program) (2568).md",
+      "major_tracks": [
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Industrial Engineering",
+        "Computer Engineering"
+      ]
+    }
+  },
+  "Faculty of Pharmacy": {
+    "Doctor of Pharmacy Program (2563)": {
+      "program_name": "Doctor of Pharmacy Program (2563)",
+      "json_path": "data/json_db/Faculty of Pharmacy/Doctor of Pharmacy Program (2563).json",
+      "md_path": "data/conditions/Doctor of Pharmacy Program (2563).md",
+      "major_tracks": [
+        "Industrial Pharmacy (แผน 1 เภสัชกรรมอุตสาหการ)",
+        "Pharmaceutical Care (แผน 2 บริบาลทางเภสัชกรรม)"
+      ]
+    }
+  },
+  "Chiang Mai University Business School": {
+    "Bachelor of Business Administration Program (2568)": {
+      "program_name": "Bachelor of Business Administration Program",
+      "json_path": "data/json_db/Chiang Mai University Business School/Bachelor of Business Administration Program (2568).json",
+      "md_path": "data/conditions/Bachelor of Business Administration Program (2568).md",
+      "major_tracks": [
+        "Finance and Banking",
+        "Management and Entrepreneurship",
+        "Marketing"
+      ]
+    },
+    "Bachelor of Accountancy Program (International Program) (2566)": {
+      "program_name": "Bachelor of Accountancy Program (International Program)",
+      "json_path": "data/json_db/Chiang Mai University Business School/Bachelor of Accountancy Program (International Program) (2566).json",
+      "md_path": "data/conditions/Bachelor of Accountancy Program (International Program) (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Business Administration Program in Service Business Management (2564)": {
+      "program_name": "Bachelor of Business Administration Program in Service Business Management",
+      "json_path": "data/json_db/Chiang Mai University Business School/Bachelor of Business Administration Program in Service Business Management (2564).json",
+      "md_path": "data/conditions/Bachelor of Business Administration Program in Service Business Management (2564).md",
+      "major_tracks": [
+        "Wellness Management",
+        "Meeting, Incentive, Convention and Exhibition",
+        "Logistics Management"
+      ]
+    },
+    "Bachelor of Accountancy Program (2568)": {
+      "program_name": "Bachelor of Accountancy Program",
+      "json_path": "data/json_db/Chiang Mai University Business School/Bachelor of Accountancy Program (2568).json",
+      "md_path": "data/conditions/Bachelor of Accountancy Program (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Nursing": {
+    "Bachelor of Nursing Science Program (International Program) (2566)": {
+      "program_name": "Bachelor of Nursing Science Program (International Program)",
+      "json_path": "data/json_db/Faculty of Nursing/Bachelor of Nursing Science Program (International Program) (2566).json",
+      "md_path": "data/conditions/Bachelor of Nursing Science Program (International Program) (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Nursing Science Program (2566)": {
+      "program_name": "Bachelor of Nursing Science Program (2566)",
+      "json_path": "data/json_db/Faculty of Nursing/Bachelor of Nursing Science Program (2566).json",
+      "md_path": "data/conditions/Bachelor of Nursing Science Program (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Agriculture": {
+    "Bachelor of Science Program in Agriculture (2565)": {
+      "program_name": "Bachelor of Science Program in Agriculture (2565)",
+      "json_path": "data/json_db/Faculty of Agriculture/Bachelor of Science Program in Agriculture (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Agriculture (2565).md",
+      "major_tracks": [
+        "Agricultural Extension",
+        "Agronomy",
+        "Entomology"
+      ]
+    },
+    "Bachelor of Science Program in Smart Agriculture and Food Entrepreneur (Multidisciplinary) (2568)": {
+      "program_name": "Bachelor of Science Program in Smart Agriculture and Food Entrepreneur (Multidisciplinary)",
+      "json_path": "data/json_db/Faculty of Agriculture/Bachelor of Science Program in Smart Agriculture and Food Entrepreneur (Multidisciplinary) (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Smart Agriculture and Food Entrepreneur (Multidisciplinary) (2568).md",
+      "major_tracks": [
+        "Smart Automation",
+        "Smart Agriculture and Food",
+        "Smart Agri-business Management"
+      ]
+    },
+    "Bachelor of Science Program in Highland Agriculture and Forest Resources (2568)": {
+      "program_name": "Bachelor of Science Program in Highland Agriculture and Forest Resources",
+      "json_path": "data/json_db/Faculty of Agriculture/Bachelor of Science Program in Highland Agriculture and Forest Resources (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Highland Agriculture and Forest Resources (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Agricultural Economics and Agribusiness (2566)": {
+      "program_name": "Bachelor of Science Program in Agricultural Economics and Agribusiness",
+      "json_path": "data/json_db/Faculty of Agriculture/Bachelor of Science Program in Agricultural Economics and Agribusiness (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Agricultural Economics and Agribusiness (2566).md",
+      "major_tracks": [
+        "Agricultural Economics",
+        "Agricultural Business"
+      ]
+    },
+    "Bachelor of Science Program in Animal Science (2565)": {
+      "program_name": "Bachelor of Science Program in Animal Science",
+      "json_path": "data/json_db/Faculty of Agriculture/Bachelor of Science Program in Animal Science (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Animal Science (2565).md",
+      "major_tracks": [
+        "Animal Science",
+        "Fishery Science"
+      ]
+    }
+  },
+  "Faculty of Law": {
+    "Bachelor of Laws Program (2566)": {
+      "program_name": "Bachelor of Laws Program",
+      "json_path": "data/json_db/Faculty of Law/Bachelor of Laws Program (2566).json",
+      "md_path": "data/conditions/Bachelor of Laws Program (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Political Science and Public Administration": {
+    "Bachelor of Public Administration Program (2565) ver.3": {
+      "program_name": "Bachelor of Public Administration Program",
+      "json_path": "data/json_db/Faculty of Political Science and Public Administration/Bachelor of Public Administration Program (2565) ver.3.json",
+      "md_path": "data/conditions/Bachelor of Public Administration Program (2565) ver.3.md",
+      "major_tracks": [
+        "Government and State Enterprise Subjects Group",
+        "Human Capital Management and Organization Development Subjects Group",
+        "Social Enterprise Subjects Group",
+        "Cooperative Education Plan",
+        "Action Research Plan"
+      ]
+    },
+    "Bachelor of Political Science Program in Politics and Government (2565)": {
+      "program_name": "Bachelor of Political Science Program in Politics and Government",
+      "json_path": "data/json_db/Faculty of Political Science and Public Administration/Bachelor of Political Science Program in Politics and Government (2565).json",
+      "md_path": "data/conditions/Bachelor of Political Science Program in Politics and Government (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Political Science Program in International Affairs (2566)": {
+      "program_name": "Bachelor of Political Science Program in International Affairs",
+      "json_path": "data/json_db/Faculty of Political Science and Public Administration/Bachelor of Political Science Program in International Affairs (2566).json",
+      "md_path": "data/conditions/Bachelor of Political Science Program in International Affairs (2566).md",
+      "major_tracks": [
+        "Political Studies",
+        "Cooperative Education"
+      ]
+    },
+    "Bachelor of Science Program in Sustainability (International Program) (2568)": {
+      "program_name": "Bachelor of Science Program in Sustainability (International Program)",
+      "json_path": "data/json_db/Faculty of Political Science and Public Administration/Bachelor of Science Program in Sustainability (International Program) (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Sustainability (International Program) (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Associated Medical Sciences": {
+    "Bachelor of Science Program in Occupational Therapy (2564)": {
+      "program_name": "Bachelor of Science Program in Occupational Therapy (2564)",
+      "json_path": "data/json_db/Faculty of Associated Medical Sciences/Bachelor of Science Program in Occupational Therapy (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Occupational Therapy (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Radiologic Technology (2565)": {
+      "program_name": "Bachelor of Science Program in Radiologic Technology (2565)",
+      "json_path": "data/json_db/Faculty of Associated Medical Sciences/Bachelor of Science Program in Radiologic Technology (2565).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Radiologic Technology (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Physical Therapy (2568)": {
+      "program_name": "Bachelor of Science Program in Physical Therapy (2568)",
+      "json_path": "data/json_db/Faculty of Associated Medical Sciences/Bachelor of Science Program in Physical Therapy (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Physical Therapy (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Medical Technology Program (2568)": {
+      "program_name": "Bachelor of Medical Technology Program (2568)",
+      "json_path": "data/json_db/Faculty of Associated Medical Sciences/Bachelor of Medical Technology Program (2568).json",
+      "md_path": "data/conditions/Bachelor of Medical Technology Program (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Communication Sciences and Disorders (2568)": {
+      "program_name": "Bachelor of Science Program in Communication Sciences and Disorders (2568)",
+      "json_path": "data/json_db/Faculty of Associated Medical Sciences/Bachelor of Science Program in Communication Sciences and Disorders (2568).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Communication Sciences and Disorders (2568).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Architecture": {
+    "Bachelor of Architecture Program (2566)": {
+      "program_name": "Bachelor of Architecture Program (2566)",
+      "json_path": "data/json_db/Faculty of Architecture/Bachelor of Architecture Program (2566).json",
+      "md_path": "data/conditions/Bachelor of Architecture Program (2566).md",
+      "major_tracks": [
+        "Option 1 Cooperative Education",
+        "Option 2 Architectural Internship"
+      ]
+    },
+    "Bachelor of Science Program in Architecture (2564)": {
+      "program_name": "Bachelor of Science Program in Architecture (2564)",
+      "json_path": "data/json_db/Faculty of Architecture/Bachelor of Science Program in Architecture (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Architecture (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Integrated Design in Emerging Architecture (International Program) (2564)": {
+      "program_name": "Bachelor of Science Program in Integrated Design in Emerging Architecture (International Program) (2564)",
+      "json_path": "data/json_db/Faculty of Architecture/Bachelor of Science Program in Integrated Design in Emerging Architecture (International Program) (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Integrated Design in Emerging Architecture (International Program) (2564).md",
+      "major_tracks": [
+        "Option 1",
+        "Option 2"
+      ]
+    },
+    "Bachelor of Landscape Architecture Program (2563)": {
+      "program_name": "Bachelor of Landscape Architecture Program (2563)",
+      "json_path": "data/json_db/Faculty of Architecture/Bachelor of Landscape Architecture Program (2563).json",
+      "md_path": "data/conditions/Bachelor of Landscape Architecture Program (2563).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Industrial Design (2566)": {
+      "program_name": "Bachelor of Science Program in Industrial Design",
+      "json_path": "data/json_db/Faculty of Architecture/Bachelor of Science Program in Industrial Design (2566).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Industrial Design (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Dentistry": {
+    "Doctor of Dental Surgery Program (2565)": {
+      "program_name": "Doctor of Dental Surgery Program",
+      "json_path": "data/json_db/Faculty of Dentistry/Doctor of Dental Surgery Program (2565).json",
+      "md_path": "data/conditions/Doctor of Dental Surgery Program (2565).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "Faculty of Science": {
+    "Bachelor of Science Program in Industrial Chemistry (2564)": {
+      "program_name": "Bachelor of Science Program in Industrial Chemistry (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Industrial Chemistry (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Industrial Chemistry (2564).md",
+      "major_tracks": [
+        "Plan 1 General Industrial Chemistry",
+        "Plan 2 Silicate Science and Technology"
+      ]
+    },
+    "Bachelor of Science Program in Computer Science (2564)": {
+      "program_name": "Bachelor of Science Program in Computer Science",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Computer Science (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Computer Science (2564).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Co-operative Education Plan",
+        "Honors Plan"
+      ]
+    },
+    "Bachelor of Science Program in Materials Science (2564)": {
+      "program_name": "Bachelor of Science Program in Materials Science",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Materials Science (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Materials Science (2564).md",
+      "major_tracks": [
+        "Plan 1 (Emphasis on further study in graduate program)",
+        "Plan 2 (Emphasis on working after graduation)"
+      ]
+    },
+    "Bachelor of Science Program in Chemistry (2564)": {
+      "program_name": "Bachelor of Science Program in Chemistry",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Chemistry (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Chemistry (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Biochemistry and Biochemical Innovation (2564)": {
+      "program_name": "Bachelor of Science Program in Biochemistry and Biochemical Innovation (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Biochemistry and Biochemical Innovation (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Biochemistry and Biochemical Innovation (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Microbiology (2564)": {
+      "program_name": "Bachelor of Science Program in Microbiology (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Microbiology (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Microbiology (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Biology (2564)": {
+      "program_name": "Bachelor of Science Program in Biology (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Biology (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Biology (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Statistics (2564)": {
+      "program_name": "Bachelor of Science Program in Statistics",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Statistics (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Statistics (2564).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Science Program in Mathematics (2564)": {
+      "program_name": "Bachelor of Science Program in Mathematics (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Mathematics (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Mathematics (2564).md",
+      "major_tracks": [
+        "Track 1 General Mathematics",
+        "Track 2 Teaching Mathematics",
+        "Track 3 Financial and Insurance Mathematics",
+        "Track 4 Industrial Mathematics",
+        "Track 5 Pure Mathematics",
+        "Track 6 Applied Mathematics"
+      ]
+    },
+    "Bachelor of Science Program in Geology (2564)": {
+      "program_name": "Bachelor of Science Program in Geology (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Geology (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Geology (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Gemology (2564)": {
+      "program_name": "Bachelor of Science Program in Gemology",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Gemology (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Gemology (2564).md",
+      "major_tracks": [
+        "Regular Plan",
+        "Cooperative Education Plan"
+      ]
+    },
+    "Bachelor of Science Program in Zoology (2564)": {
+      "program_name": "Bachelor of Science Program in Zoology",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Zoology (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Zoology (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Physics (2564)": {
+      "program_name": "Bachelor of Science Program in Physics (2564)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Physics (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Physics (2564).md",
+      "major_tracks": [
+        "Plan 1 : Physics",
+        "Plan 2 : Physics with Minor",
+        "Plan 3 : Joint Physics and Materials Science",
+        "Plan 4 : Physics and Applications"
+      ]
+    },
+    "Bachelor of Science Program in Environmental Science (International Program) (2564)": {
+      "program_name": "Bachelor of Science Program in Environmental Science (International Program)",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Environmental Science (International Program) (2564).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Environmental Science (International Program) (2564).md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "Bachelor of Science Program in Data Science (2567)": {
+      "program_name": "Bachelor of Science Program in Data Science",
+      "json_path": "data/json_db/Faculty of Science/Bachelor of Science Program in Data Science (2567).json",
+      "md_path": "data/conditions/Bachelor of Science Program in Data Science (2567).md",
+      "major_tracks": [
+        "Data analytics using mathematical modeling",
+        "Statistical data analytics",
+        "Data analytics using computational modeling"
+      ]
+    }
+  },
+  "Faculty of Economics": {
+    "Bachelor of Economics Program (International Program) (2568)": {
+      "program_name": "Bachelor of Economics Program (International Program)",
+      "json_path": "data/json_db/Faculty of Economics/Bachelor of Economics Program (International Program) (2568).json",
+      "md_path": "data/conditions/Bachelor of Economics Program (International Program) (2568).md",
+      "major_tracks": [
+        "Plan 1 : Special Problem",
+        "Plan 2 : Cooperative Education"
+      ]
+    },
+    "Bachelor of Economics Program (2568)": {
+      "program_name": "Bachelor of Economics Program",
+      "json_path": "data/json_db/Faculty of Economics/Bachelor of Economics Program (2568).json",
+      "md_path": "data/conditions/Bachelor of Economics Program (2568).md",
+      "major_tracks": [
+        "Special Problem (Non-Minor)",
+        "Special Problem (with Minor)",
+        "Cooperative Education (Non-Minor)",
+        "Cooperative Education (with Minor)"
+      ]
+    }
+  },
+  "Faculty of Medicine": {
+    "Doctor of Medicine Program (2566)": {
+      "program_name": "Doctor of Medicine Program (2566)",
+      "json_path": "data/json_db/Faculty of Medicine/Doctor of Medicine Program (2566).json",
+      "md_path": "data/conditions/Doctor of Medicine Program (2566).md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  },
+  "College of Art, Media and Technology": {
+    "MMIT-Plan-65-inter": {
+      "program_name": "Bachelor of Science Program in Modern Management and Information Technology (International Program)",
+      "json_path": "data/json_db/College of Art, Media and Technology/MMIT-Plan-65-inter.json",
+      "md_path": "data/conditions/MMIT-Plan-65-inter.md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-DII-62-65": {
+      "program_name": "Bachelor of Science Program in Digital Industry Integration (Revised Curriculum B.E. 2562)",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-DII-62-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-DII-62-65.md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-ANI-62-65": {
+      "program_name": "Bachelor of Arts Program in Animation and Visual Effects, Revised Curriculum B.E. 2562",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-ANI-62-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-ANI-62-65.md",
+      "major_tracks": [
+        "Animation",
+        "Visual Effects"
+      ]
+    },
+    "structure-and-study-plan-GE-DG-63-65": {
+      "program_name": "Bachelor of Science Program in Digital Game",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-GE-DG-63-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-GE-DG-63-65.md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-ANI-67-71": {
+      "program_name": "Bachelor of Arts Program in Animation and Visual Effects",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-ANI-67-71.json",
+      "md_path": "data/conditions/structure-and-study-plan-ANI-67-71.md",
+      "major_tracks": [
+        "Animation and Visual Effects"
+      ]
+    },
+    "-DII": {
+      "program_name": "Bachelor of Science Program in Digital Industry Integration",
+      "json_path": "data/json_db/College of Art, Media and Technology/-DII.json",
+      "md_path": "data/conditions/-DII.md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "MMIT-Plan-65": {
+      "program_name": "Bachelor of Science Program in Modern Management and Information Technology",
+      "json_path": "data/json_db/College of Art, Media and Technology/MMIT-Plan-65.json",
+      "md_path": null,
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-ANI-58-61": {
+      "program_name": "Bachelor of Science Program in Animation and Games",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-ANI-58-61.json",
+      "md_path": "data/conditions/structure-and-study-plan-ANI-58-61.md",
+      "major_tracks": [
+        "Animation",
+        "Game"
+      ]
+    },
+    "structure-and-study-plan-GE-DII-63-65": {
+      "program_name": "Bachelor of Science Program in Digital Industry Integration",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-GE-DII-63-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-GE-DII-63-65.md",
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-GE-ANI_63-65": {
+      "program_name": "Bachelor of Arts Program in Animation and Visual Effects B.E. 2562",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-GE-ANI_63-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-GE-ANI_63-65.md",
+      "major_tracks": [
+        "Animation",
+        "Visual Effects"
+      ]
+    },
+    "structure-and-study-plan-SE-2568": {
+      "program_name": "Bachelor of Science Program in Software Engineering (International Program)",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-SE-2568.json",
+      "md_path": null,
+      "major_tracks": [
+        "None"
+      ]
+    },
+    "structure-and-study-plan-DG-62-65": {
+      "program_name": "Bachelor of Science Program in Digital Games",
+      "json_path": "data/json_db/College of Art, Media and Technology/structure-and-study-plan-DG-62-65.json",
+      "md_path": "data/conditions/structure-and-study-plan-DG-62-65.md",
+      "major_tracks": [
+        "None"
+      ]
+    }
+  }
+}

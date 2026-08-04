@@ -2,3 +2,7 @@ pdfplumber==0.11.4
 tqdm==4.66.5
 google-genai
 python-dotenv
+fastapi
+uvicorn
+line-bot-sdk
+streamlit

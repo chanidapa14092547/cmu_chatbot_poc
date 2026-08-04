@@ -1,41 +1,374 @@
 {
-  "204426": {
-    "course_name": "Data Engineering",
-    "sections": [
-      {
-        "sec": "001",
-        "day": "M,Th",
-        "time_start": "09:30",
-        "time_end": "11:00"
-      },
-      {
-        "sec": "002",
-        "day": "Tu,F",
-        "time_start": "13:00",
-        "time_end": "14:30"
-      }
-    ]
+  "1/2568": {
+    "201114": {
+      "sections": []
+    },
+    "176100": {
+      "sections": []
+    },
+    "851100": {
+      "sections": []
+    },
+    "951100": {
+      "sections": []
+    },
+    "206111": {
+      "sections": []
+    },
+    "204472": {
+      "sections": []
+    },
+    "001201": {
+      "sections": []
+    },
+    "703103": {
+      "sections": []
+    },
+    "204100": {
+      "sections": []
+    },
+    "229496": {
+      "sections": []
+    },
+    "851103": {
+      "sections": []
+    },
+    "207187": {
+      "sections": []
+    },
+    "204471": {
+      "sections": []
+    },
+    "057137": {
+      "sections": []
+    },
+    "229323": {
+      "sections": []
+    },
+    "204306": {
+      "sections": []
+    },
+    "229123": {
+      "sections": []
+    },
+    "229452": {
+      "sections": []
+    },
+    "206300": {
+      "sections": []
+    },
+    "140104": {
+      "sections": []
+    },
+    "206355": {
+      "sections": []
+    },
+    "202101": {
+      "sections": []
+    },
+    "229351": {
+      "sections": []
+    },
+    "229352": {
+      "sections": []
+    },
+    "204217": {
+      "sections": []
+    },
+    "001102": {
+      "sections": []
+    },
+    "201190": {
+      "sections": []
+    },
+    "206370": {
+      "sections": []
+    },
+    "203103": {
+      "sections": []
+    },
+    "001101": {
+      "sections": []
+    },
+    "204371": {
+      "sections": []
+    },
+    "201111": {
+      "sections": []
+    },
+    "702101": {
+      "sections": []
+    },
+    "261461": {
+      "sections": []
+    },
+    "229223": {
+      "sections": []
+    },
+    "204381": {
+      "sections": []
+    },
+    "204424": {
+      "sections": []
+    },
+    "204426": {
+      "sections": []
+    },
+    "204383": {
+      "sections": []
+    },
+    "206341": {
+      "sections": []
+    },
+    "204423": {
+      "sections": []
+    },
+    "206324": {
+      "sections": []
+    },
+    "208350": {
+      "sections": []
+    },
+    "701181": {
+      "sections": []
+    },
+    "206281": {
+      "sections": []
+    },
+    "204422": {
+      "sections": []
+    },
+    "208150": {
+      "sections": []
+    },
+    "261441": {
+      "sections": []
+    },
+    "204320": {
+      "sections": []
+    },
+    "206325": {
+      "sections": []
+    },
+    "208453": {
+      "sections": []
+    },
+    "204453": {
+      "sections": []
+    },
+    "206441": {
+      "sections": []
+    },
+    "204483": {
+      "sections": []
+    },
+    "954472": {
+      "sections": []
+    },
+    "001225": {
+      "sections": []
+    },
+    "204252": {
+      "sections": []
+    },
+    "204482": {
+      "sections": []
+    },
+    "208251": {
+      "sections": []
+    },
+    "954471": {
+      "sections": []
+    },
+    "204456": {
+      "sections": []
+    }
   },
-  "204471": {
-    "course_name": "Artificial Intelligence",
-    "sections": [
-      {
-        "sec": "001",
-        "day": "M,Th",
-        "time_start": "09:30",
-        "time_end": "11:00"
-      }
-    ]
+  "2/2568": {
+    "206111": {
+      "sections": []
+    },
+    "206112": {
+      "sections": []
+    },
+    "229352": {
+      "sections": []
+    },
+    "206441": {
+      "sections": []
+    },
+    "201114": {
+      "sections": []
+    },
+    "851100": {
+      "sections": []
+    },
+    "204381": {
+      "sections": []
+    },
+    "206470": {
+      "sections": []
+    },
+    "206471": {
+      "sections": []
+    },
+    "204320": {
+      "sections": []
+    },
+    "206355": {
+      "sections": []
+    },
+    "204453": {
+      "sections": []
+    },
+    "204383": {
+      "sections": []
+    },
+    "202101": {
+      "sections": []
+    },
+    "176100": {
+      "sections": []
+    },
+    "203103": {
+      "sections": []
+    },
+    "201190": {
+      "sections": []
+    },
+    "201111": {
+      "sections": []
+    },
+    "703103": {
+      "sections": []
+    },
+    "206370": {
+      "sections": []
+    },
+    "261461": {
+      "sections": []
+    },
+    "204100": {
+      "sections": []
+    },
+    "702101": {
+      "sections": []
+    },
+    "951100": {
+      "sections": []
+    },
+    "208424": {
+      "sections": []
+    },
+    "204371": {
+      "sections": []
+    },
+    "229452": {
+      "sections": []
+    },
+    "206341": {
+      "sections": []
+    },
+    "208354": {
+      "sections": []
+    },
+    "204426": {
+      "sections": []
+    },
+    "208350": {
+      "sections": []
+    },
+    "206281": {
+      "sections": []
+    },
+    "701181": {
+      "sections": []
+    },
+    "206324": {
+      "sections": []
+    },
+    "229223": {
+      "sections": []
+    },
+    "206300": {
+      "sections": []
+    },
+    "229496": {
+      "sections": []
+    },
+    "001101": {
+      "sections": []
+    },
+    "057137": {
+      "sections": []
+    },
+    "204217": {
+      "sections": []
+    },
+    "204252": {
+      "sections": []
+    },
+    "206457": {
+      "sections": []
+    },
+    "207187": {
+      "sections": []
+    },
+    "208451": {
+      "sections": []
+    },
+    "140104": {
+      "sections": []
+    },
+    "001201": {
+      "sections": []
+    },
+    "206325": {
+      "sections": []
+    },
+    "001102": {
+      "sections": []
+    },
+    "208150": {
+      "sections": []
+    },
+    "208250": {
+      "sections": []
+    }
   },
-  "261441": {
-    "course_name": "Internet of Things and Big Data",
-    "sections": [
-      {
-        "sec": "001",
-        "day": "W",
-        "time_start": "09:00",
-        "time_end": "12:00"
-      }
-    ]
-  }
+  "1/2569": {
+    "229352": {
+      "sections": []
+    },
+    "204320": {
+      "sections": []
+    },
+    "951100": {
+      "sections": []
+    },
+    "229452": {
+      "sections": []
+    },
+    "204252": {
+      "sections": []
+    }
+  },
+  "Summer": {
+    "057137": {
+      "sections": []
+    },
+    "001101": {
+      "sections": []
+    },
+    "140104": {
+      "sections": []
+    },
+    "001201": {
+      "sections": []
+    },
+    "001102": {
+      "sections": []
+    }
+  },
+  "Unknown": {}
 }
