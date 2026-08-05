@@ -12,9 +12,8 @@
       "course_name_th": "ภาษาอังกฤษพื้นฐาน 1",
       "credits": "3",
       "category_or_track": "General Education / Required Courses / Learner Person",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "001102",
@@ -22,9 +21,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / Required Courses / Learner Person",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "001201",
@@ -33,8 +31,10 @@
       "credits": "3",
       "category_or_track": "General Education / Required Courses / Learner Person",
       "prerequisites": [
-        "None"
-      ]
+        "001101",
+        "001102"
+      ],
+      "condition_raw": "001101 or 001102 or e-Pro score of no less than B1; or consent of the department"
     },
     {
       "course_code": "001225",
@@ -43,8 +43,10 @@
       "credits": "3",
       "category_or_track": "General Education / Required Courses / Learner Person",
       "prerequisites": [
-        "None"
-      ]
+        "001101",
+        "001102"
+      ],
+      "condition_raw": "001101 or 001102 or e-Pro score of no less than B1; or consent of the department"
     },
     {
       "course_code": "204100",
@@ -52,9 +54,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / Required Courses / Learner Person",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "201190",
@@ -92,9 +93,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / GE Electives / Learner Person",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "702101",
@@ -102,9 +102,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / GE Electives / Learner Person",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "Non – Finance and Banking majors"
     },
     {
       "course_code": "851100",
@@ -142,9 +141,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / GE Electives / Innovative Co-creator",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "851103",
@@ -152,9 +150,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / GE Electives / Innovative Co-creator",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "201111",
@@ -172,9 +169,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "General Education / GE Electives / Active Citizen",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "204252",
@@ -183,8 +179,13 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
       "prerequisites": [
-        "None"
-      ]
+        "204114",
+        "204215",
+        "204216",
+        "204217",
+        "204219"
+      ],
+      "condition_raw": "204114 or 204215 or 204216 or 204217 or 204219"
     },
     {
       "course_code": "206111",
@@ -222,9 +223,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "229123",
@@ -232,9 +232,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "229223",
@@ -242,9 +241,8 @@
       "course_name_th": "",
       "credits": "3",
       "category_or_track": "Field of Specialization / Core Courses / Basic Courses for Data Science",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "None"
     },
     {
       "course_code": "202101",
@@ -283,8 +281,11 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
       "prerequisites": [
-        "None"
-      ]
+        "204101",
+        "204111",
+        "229223"
+      ],
+      "condition_raw": "204101 or 204111 or 229223"
     },
     {
       "course_code": "204306",
@@ -292,9 +293,8 @@
       "course_name_th": "",
       "credits": "1",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "third year standing"
     },
     {
       "course_code": "204320",
@@ -333,8 +333,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
       "prerequisites": [
-        "None"
-      ]
+        "206111",
+        "206161"
+      ],
+      "condition_raw": "206111 or 206161 or consent of the department"
     },
     {
       "course_code": "206325",
@@ -343,8 +345,11 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
       "prerequisites": [
-        "None"
-      ]
+        "206112",
+        "206203",
+        "206261"
+      ],
+      "condition_raw": "206112 or 206203 or 206261"
     },
     {
       "course_code": "208250",
@@ -383,8 +388,9 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
       "prerequisites": [
-        "None"
-      ]
+        "229351"
+      ],
+      "condition_raw": "229351"
     },
     {
       "course_code": "229490",
@@ -402,9 +408,8 @@
       "course_name_th": "",
       "credits": "6",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
-      "prerequisites": [
-        "None"
-      ]
+      "prerequisites": [],
+      "condition_raw": "fourth year standing and consent of the department"
     },
     {
       "course_code": "204426",
@@ -443,8 +448,11 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using mathematical modeling",
       "prerequisites": [
-        "None"
-      ]
+        "206112",
+        "206116",
+        "206203"
+      ],
+      "condition_raw": "206112 or 206116 or 206203"
     },
     {
       "course_code": "206358",
@@ -473,8 +481,14 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
-        "None"
-      ]
+        "204251",
+        "204271",
+        "208150",
+        "208263",
+        "208264",
+        "208269"
+      ],
+      "condition_raw": "204251 or 204271; and 208150 or 208263 or 208264 or 208269"
     },
     {
       "course_code": "208350",
@@ -483,8 +497,12 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses / Statistical data analytics",
       "prerequisites": [
-        "None"
-      ]
+        "208250",
+        "208263",
+        "208270",
+        "208272"
+      ],
+      "condition_raw": "208250 or 208263 or 208270 or 208272"
     },
     {
       "course_code": "208354",
@@ -533,8 +551,16 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling",
       "prerequisites": [
-        "None"
-      ]
+        "204203",
+        "204212",
+        "204215",
+        "204216",
+        "204217",
+        "204219",
+        "229223",
+        "206111"
+      ],
+      "condition_raw": "204203 or 204212 or 204215 or 204216 or 204217 or 204219 or 229223; and 206111"
     },
     {
       "course_code": "204472",
@@ -543,8 +569,15 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses / Data analytics using computational modeling",
       "prerequisites": [
-        "None"
-      ]
+        "204251",
+        "204252",
+        "204271",
+        "208150",
+        "208263",
+        "208264",
+        "208269"
+      ],
+      "condition_raw": "204251 or 204252 or 204271; and 208150 or 208263 or 208264 or 208269"
     },
     {
       "course_code": "204423",
@@ -553,8 +586,15 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "204251",
+        "204252",
+        "204271",
+        "208150",
+        "208263",
+        "208264",
+        "208269"
+      ],
+      "condition_raw": "204251 or 204252 or 204271; and 208150 or 208263 or 208264 or 208269"
     },
     {
       "course_code": "204381",
@@ -593,8 +633,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "204382",
+        "204383"
+      ],
+      "condition_raw": "204382 or 204383"
     },
     {
       "course_code": "206355",
@@ -603,8 +645,12 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "206112",
+        "206116",
+        "206203",
+        "206261"
+      ],
+      "condition_raw": "206112 or 206116 or 206203 or 206261"
     },
     {
       "course_code": "206357",
@@ -623,8 +669,11 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "206111",
+        "206183",
+        "206112"
+      ],
+      "condition_raw": "206111 and 206183; or 206112"
     },
     {
       "course_code": "206441",
@@ -673,8 +722,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "206370",
+        "208323"
+      ],
+      "condition_raw": "206370 or 208323"
     },
     {
       "course_code": "208251",
@@ -683,8 +734,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "208250",
+        "206324"
+      ],
+      "condition_raw": "208250 or 206324"
     },
     {
       "course_code": "208451",
@@ -693,8 +746,9 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "208251"
+      ],
+      "condition_raw": "208251"
     },
     {
       "course_code": "208453",
@@ -753,8 +807,11 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "261102",
+        "269102",
+        "229223"
+      ],
+      "condition_raw": "261102 or 269102 or 229223"
     },
     {
       "course_code": "954471",
@@ -763,8 +820,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "954340",
+        "204320"
+      ],
+      "condition_raw": "954340 or 204320"
     },
     {
       "course_code": "954472",
@@ -773,8 +832,10 @@
       "credits": "3",
       "category_or_track": "Field of Specialization / Major / Major Elective Courses",
       "prerequisites": [
-        "None"
-      ]
+        "954340",
+        "204320"
+      ],
+      "condition_raw": "954340 or 204320"
     }
   ],
   "study_plan": {
