@@ -408,7 +408,9 @@
       "course_name_th": "",
       "credits": "6",
       "category_or_track": "Field of Specialization / Major / Compulsory Courses",
-      "prerequisites": [],
+      "prerequisites": [
+        "fourth year standing and consent of the department"
+      ],
       "condition_raw": "fourth year standing and consent of the department"
     },
     {
