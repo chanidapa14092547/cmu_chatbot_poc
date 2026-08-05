@@ -844,7 +844,12 @@
       "206111",
       "208150",
       "229123",
-      "229223"
+      "229223",
+      {
+        "category_placeholder": "Field of Specialization / Core Courses / Basic Science Courses",
+        "credits_required": 3,
+        "condition_raw": "Select from 202101, 203103, 207187"
+      }
     ],
     "year_1_semester_2": [
       "001102",
