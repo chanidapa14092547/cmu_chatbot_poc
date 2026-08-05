@@ -847,8 +847,7 @@
       "229223",
       {
         "category_placeholder": "Field of Specialization / Core Courses / Basic Science Courses",
-        "credits_required": 3,
-        "condition_raw": "Select from 202101, 203103, 207187"
+        "credits_required": 3
       }
     ],
     "year_1_semester_2": [
@@ -857,7 +856,11 @@
       "206112",
       "204100",
       "204217",
-      "208250"
+      "208250",
+      {
+        "category_placeholder": "Field of Specialization / Core Courses / Basic Science Courses",
+        "credits_required": 3
+      }
     ],
     "year_2_semester_1": [
       "001201",
@@ -865,27 +868,80 @@
       "204320",
       "206281",
       "229323",
-      "229351"
+      "229351",
+      {
+        "category_placeholder": "General Education / GE Electives",
+        "credits_required": 3
+      }
     ],
     "year_2_semester_2": [
       "001225",
       "204252",
-      "206324",
-      "206325",
-      "229352"
+      {
+        "course_options": [
+          "206324",
+          "206325"
+        ],
+        "credits_required": 3
+      },
+      "229352",
+      {
+        "category_placeholder": "Field of Specialization / Major / Major Elective Courses",
+        "credits_required": 3
+      },
+      {
+        "category_placeholder": "Minor or Major Electives",
+        "credits_required": 3
+      }
     ],
     "year_3_semester_1": [
-      "204371"
+      "204371",
+      {
+        "category_placeholder": "Field of Specialization / Major / Major Elective Courses",
+        "credits_required": 9
+      },
+      {
+        "category_placeholder": "Minor or Major Electives",
+        "credits_required": 3
+      },
+      {
+        "category_placeholder": "Free Electives",
+        "credits_required": 3
+      }
     ],
     "year_3_semester_2": [
       "204306",
-      "204456"
+      "204456",
+      {
+        "category_placeholder": "Field of Specialization / Major / Major Elective Courses",
+        "credits_required": 6
+      },
+      {
+        "category_placeholder": "Minor or Major Electives",
+        "credits_required": 6
+      },
+      {
+        "category_placeholder": "Free Electives",
+        "credits_required": 3
+      }
     ],
     "year_4_semester_1": [
       "229496"
     ],
     "year_4_semester_2": [
-      "229490"
+      "229490",
+      {
+        "category_placeholder": "General Education / GE Electives",
+        "credits_required": 6
+      },
+      {
+        "category_placeholder": "Field of Specialization / Major / Major Elective Courses",
+        "credits_required": 6
+      },
+      {
+        "category_placeholder": "Minor or Major Electives",
+        "credits_required": 3
+      }
     ]
   }
 }
