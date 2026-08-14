@@ -1,4 +1,4 @@
-# 🎓 CMU Smart Scheduler (AI-Powered Course Assistant)
+#  CMU Smart Scheduler (AI-Powered Course Assistant)
 
 **An Intelligent Course Planning and Scheduling System for Chiang Mai University**
 
@@ -6,7 +6,7 @@ This project is a Proof of Concept (PoC) demonstrating an automated curriculum e
 
 ---
 
-## 🛠️ System Architecture
+##  System Architecture
 
 The architecture relies on a **Zero-Shot RAG (Retrieval-Augmented Generation)** methodology to ensure the AI utilizes only official university data, eliminating hallucination in factual recommendations. The system is divided into three core microservices:
 
@@ -16,7 +16,7 @@ The architecture relies on a **Zero-Shot RAG (Retrieval-Augmented Generation)** 
 
 ---
 
-## 🧠 Core Technologies & Engineering Challenges
+##  Core Technologies & Engineering Challenges
 
 ### 1. Data Optimization (Token Limit Management)
 *   **Challenge:** Feeding the entire university schedule (initially in massive JSON formats) into the LLM exceeded context window limits (Token Resource Exhaustion).
@@ -28,7 +28,7 @@ The architecture relies on a **Zero-Shot RAG (Retrieval-Augmented Generation)** 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 *   `raw_data/`: Unprocessed curriculum PDFs, Excel schedules, and raw OCR text extractions.
 *   `data/json_db/`: The cleaned, optimized databases (JSON and CSV) serving as the RAG knowledge base.
@@ -39,7 +39,7 @@ The architecture relies on a **Zero-Shot RAG (Retrieval-Augmented Generation)** 
 
 ---
 
-## 🚀 Future Work (Deployment Roadmap)
+##  Future Work (Deployment Roadmap)
 
 To scale this Proof of Concept into a production-grade application for university-wide adoption:
 
@@ -49,7 +49,7 @@ To scale this Proof of Concept into a production-grade application for universit
 
 ---
 
-## 💻 Getting Started
+##  Getting Started
 
 To run the local prototype:
 1. Clone this repository.
