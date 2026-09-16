@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMU Smart Scheduler</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Markdown Parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header glass">
+            <h1>🎓 CMU Smart Scheduler</h1>
+            <p>AI-Powered Course Assistant for Data Science</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Left Panel: Scheduler Settings -->
+            <section class="config-panel glass">
+                <h2>🛠️ Quick Scheduler</h2>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="year-select">เลือกชั้นปี (Year)</label>
+                        <select id="year-select">
+                            <option value="1">ปี 1</option>
+                            <option value="2">ปี 2</option>
+                            <option value="3" selected>ปี 3</option>
+                            <option value="4">ปี 4</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="term-select">เลือกเทอม (Term)</label>
+                        <select id="term-select">
+                            <option value="1">เทอม 1</option>
+                            <option value="2" selected>เทอม 2</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group" id="major-track-container" style="display: none;">
+                    <label for="major-track">เลือกแขนงวิชาเอก (Major Track)</label>
+                    <select id="major-track">
+                        <option value="">ไม่ระบุ (แสดงทั้งหมด)</option>
+                    </select>
+                </div>
+
+                <div id="dynamic-requirements" class="dynamic-requirements">
+                    <!-- Dynamic form fields will be injected here -->
+                    <div class="loading">กำลังโหลดแผนการศึกษา...</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="time-constraints">เงื่อนไขเวลาพิเศษ (ถ้ามี)</label>
+                    <input type="text" id="time-constraints" placeholder="เช่น ไม่เรียน 8 โมงเช้า, ขอหยุดวันศุกร์">
+                </div>
+
+                <button id="generate-btn" class="primary-btn">✨ เริ่มจัดตารางเรียน</button>
+            </section>
+
+            <!-- Right Panel: Chat & Results -->
+            <section class="chat-panel glass">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding: 0 1rem;">
+                    <h3 style="margin:0; color:#e2e8f0;">ห้องแชทจัดตารางเรียน</h3>
+                </div>
+                <div id="chat-history" class="chat-history">
+                    <div class="message assistant">
+                        <div class="avatar">🤖</div>
+                        <div class="bubble">สวัสดีครับ! ผมคือผู้ช่วยจัดตารางเรียน AI สำหรับสาขา Data Science มช. เลือกวิชาทางซ้ายมือแล้วกดเริ่มจัดตารางได้เลยครับ!</div>
+                    </div>
+                </div>
+                
+                <div class="chat-input-area">
+                    <input type="text" id="chat-input" placeholder="พิมพ์คำถาม หรือส่งเงื่อนไขเพิ่มเติมที่นี่...">
+                    <button id="send-btn" class="icon-btn">➤</button>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+/Users/memee/.gemini/antigravity/scratch/cmu_chatbot_poc/venv/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/memee/.gemini/antigravity/scratch/cmu_chatbot_poc/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+/Users/memee/.gemini/antigravity/scratch/cmu_chatbot_poc/venv/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+INFO:     Started server process [34851]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58253 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET /api/major-tracks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58269 - "GET /api/minors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58270 - "GET /api/offered-courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58271 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58272 - "GET /api/courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET /api/study-plan/1/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET /api/study-plan/1/2 HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58268 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58276 - "GET /api/study-plan/2/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58276 - "GET /api/study-plan/2/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58278 - "GET /api/study-plan/2/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58278 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58278 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58283 - "GET /api/study-plan/3/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58283 - "GET /api/study-plan/2/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58283 - "GET /api/study-plan/2/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58283 - "GET /api/study-plan/2/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58288 - "GET /api/study-plan/2/2 HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58288 - "POST /api/chat HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58300 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58322 - "GET /api/major-tracks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58323 - "GET /api/minors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58324 - "GET /api/offered-courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58325 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58326 - "GET /api/courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58328 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58330 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+API key failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+INFO:     127.0.0.1:58330 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58337 - "OPTIONS /api/chat HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+API key failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+INFO:     127.0.0.1:58337 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58384 - "GET /api/major-tracks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58385 - "GET /api/minors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58386 - "GET /api/offered-courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58387 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58388 - "GET /api/courses HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58394 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58407 - "GET /api/study-plan/3/2 HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58407 - "POST /api/chat HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58411 - "POST /api/chat HTTP/1.1" 200 OK
+Warning: there are non-text parts in the response: ['thought_signature'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+INFO:     127.0.0.1:58417 - "POST /api/chat HTTP/1.1" 200 OK
