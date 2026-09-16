@@ -1,5 +1,4 @@
-// const API_BASE = 'https://your-backend-app-name.onrender.com/api'; // สำหรับตอนเอาขึ้นออนไลน์ (Production)
-const API_BASE = 'http://localhost:8000/api'; // สำหรับรันบนเครื่องตัวเอง (Local)
+const API_BASE = 'https://cmu-chatbot-poc.onrender.com/api';
 let globalMinors = [];
 let globalMinorCoursesMap = {};
 let globalOfferedCourses = {};
