@@ -528,28 +528,31 @@ init();
 
 // --- Tab Switching Logic ---
 function switchTab(tabId, element) {
-    // Prevent default anchor behavior
     if(event) event.preventDefault();
 
-    // Remove active class from all nav items
     document.querySelectorAll('.sidebar-nav .nav-item').forEach(el => {
         el.classList.remove('active');
     });
 
-    // Add active class to clicked element
     if (element) {
         element.classList.add('active');
+        const titleSpan = element.querySelector('span');
+        const headerTitle = document.getElementById('header-title');
+        if (titleSpan && headerTitle) {
+            headerTitle.innerText = titleSpan.innerText;
+        }
     }
 
-    // Hide all view sections
     document.querySelectorAll('.view-section').forEach(el => {
         el.style.display = 'none';
+        el.classList.remove('active');
     });
 
-    // Show the target section
     const target = document.getElementById('view-' + tabId);
     if (target) {
         target.style.display = 'block';
+        // brief timeout to allow display:block before adding opacity animation class
+        setTimeout(() => target.classList.add('active'), 10);
     }
 }
 
