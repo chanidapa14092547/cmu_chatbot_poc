@@ -525,3 +525,31 @@ generateBtn.addEventListener('click', async () => {
 
 // Start
 init();
+
+// --- Tab Switching Logic ---
+function switchTab(tabId, element) {
+    // Prevent default anchor behavior
+    if(event) event.preventDefault();
+
+    // Remove active class from all nav items
+    document.querySelectorAll('.sidebar-nav .nav-item').forEach(el => {
+        el.classList.remove('active');
+    });
+
+    // Add active class to clicked element
+    if (element) {
+        element.classList.add('active');
+    }
+
+    // Hide all view sections
+    document.querySelectorAll('.view-section').forEach(el => {
+        el.style.display = 'none';
+    });
+
+    // Show the target section
+    const target = document.getElementById('view-' + tabId);
+    if (target) {
+        target.style.display = 'block';
+    }
+}
+

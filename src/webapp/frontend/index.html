@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CMU Smart Scheduler</title>
+    <title>DS-APRS Dashboard</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -12,74 +12,176 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <div class="app-container">
-        <!-- Header -->
-        <header class="header glass">
-            <h1>🎓 CMU Smart Scheduler</h1>
-            <p>AI-Powered Course Assistant for Data Science</p>
-        </header>
+    <div class="dashboard-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <span class="logo-badge">DS-APRS v1.0</span>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item" onclick="switchTab('curriculum-progress', this)">
+                    <span class="nav-title">Dashboard</span>
+                    <span class="nav-subtitle">ภาพรวมการเรียน</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <span class="nav-title">Course History</span>
+                    <span class="nav-subtitle">ประวัติรายวิชา</span>
+                </a>
+                <a href="#" class="nav-item" onclick="switchTab('next-semester', this)">
+                    <span class="nav-title">Next Semester</span>
+                    <span class="nav-subtitle">วางแผนเทอมถัดไป</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <span class="nav-title">Projected Plan</span>
+                    <span class="nav-subtitle">แผนการเรียนคาดการณ์</span>
+                </a>
 
+                <div class="nav-section-title">ACADEMIC REVIEW</div>
+
+                <a href="#" class="nav-item active" onclick="switchTab('curriculum-progress', this)">
+                    <span class="nav-title">Curriculum Progress</span>
+                    <span class="nav-subtitle">ความก้าวหน้าตามหลักสูตร</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <span class="nav-title">Graduation Readiness</span>
+                    <span class="nav-subtitle">เช็คความพร้อมก่อนจบ</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <span class="nav-title">Major Track / Minor</span>
+                    <span class="nav-subtitle">กลุ่มวิชาและวิชาโท</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
         <main class="main-content">
-            <!-- Left Panel: Scheduler Settings -->
-            <section class="config-panel glass">
-                <h2>🛠️ Quick Scheduler</h2>
-                
-                <div class="form-row">
-                    <div class="form-group">
-                        <label for="year-select">เลือกชั้นปี (Year)</label>
-                        <select id="year-select">
-                            <option value="1">ปี 1</option>
-                            <option value="2">ปี 2</option>
-                            <option value="3" selected>ปี 3</option>
-                            <option value="4">ปี 4</option>
-                        </select>
+            
+            <!-- VIEW: Curriculum Progress (Mockup) -->
+            <section id="view-curriculum-progress" class="view-section active">
+                <header class="view-header">
+                    <div>
+                        <h1>Curriculum Progress</h1>
+                        <p class="view-subtitle">Actual earned-credit progress against the Data Science curriculum.</p>
+                        <p class="view-subtitle-thai">แสดงหน่วยกิตที่ได้จริงว่าเข้าสู่หมวดใดของหลักสูตร และยังขาดข้อกำหนดใดอยู่</p>
                     </div>
-                    <div class="form-group">
-                        <label for="term-select">เลือกเทอม (Term)</label>
-                        <select id="term-select">
-                            <option value="1">เทอม 1</option>
-                            <option value="2" selected>เทอม 2</option>
-                        </select>
+                    <button class="secondary-btn">Refresh</button>
+                </header>
+
+                <div class="dashboard-cards">
+                    <div class="info-card blue-tint">
+                        <div class="badge-icon">2</div>
+                        <div class="info-text">
+                            <strong>This page counts actual earned credits.</strong> Expected grades and future plans do not become earned credits here.<br>
+                            <span class="thai-text">หน้านี้นับเฉพาะหน่วยกิตที่ได้จริงจาก Course History ไม่ได้นำเกรดคาดการณ์หรือวิชาในอนาคตมานับเป็นหน่วยกิตจริง</span>
+                        </div>
+                    </div>
+
+                    <div class="info-card white-card with-border">
+                        <h3 class="card-inner-title">วิธีอ่าน Curriculum Progress</h3>
+                        <div class="card-grid-3">
+                            <div class="grid-col green-border">
+                                <strong>หน้านี้ใช้ทำอะไร</strong>
+                                <p>ดูว่าหน่วยกิตที่ได้จริงถูกนับเข้า GE, Core, Major, Minor/No Minor และ Free Elective เท่าใด</p>
+                            </div>
+                            <div class="grid-col purple-border">
+                                <strong>ควรดูอะไร</strong>
+                                <p>ดูหมวดที่ยังขาดหน่วยกิต รวมถึงเงื่อนไข Major ระดับ 300-400 และระดับ 400 ที่ต้องสะสมให้ครบ</p>
+                            </div>
+                            <div class="grid-col orange-border">
+                                <strong>ถ้าตัวเลขไม่ตรง</strong>
+                                <p>ให้กลับไปตรวจ Course History และ Count As ก่อน เพราะหน้านี้อาศัยข้อมูลจริงจาก Course History เป็นหลัก</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-content">
+                            <h2>Overall earned credits</h2>
+                            <p>Student self-check using actual earned credits. 6 earned record(s) are pending verification.</p>
+                            <div class="progress-bar-container">
+                                <div class="progress-bar" style="width: 13%;"></div>
+                            </div>
+                        </div>
+                        <div class="stat-number">
+                            18 / 137
+                        </div>
                     </div>
                 </div>
-
-                <div class="form-group" id="major-track-container" style="display: none;">
-                    <label for="major-track">เลือกแขนงวิชาเอก (Major Track)</label>
-                    <select id="major-track">
-                        <option value="">ไม่ระบุ (แสดงทั้งหมด)</option>
-                    </select>
-                </div>
-
-                <div id="dynamic-requirements" class="dynamic-requirements">
-                    <!-- Dynamic form fields will be injected here -->
-                    <div class="loading">กำลังโหลดแผนการศึกษา...</div>
-                </div>
-
-                <div class="form-group">
-                    <label for="time-constraints">เงื่อนไขเวลาพิเศษ (ถ้ามี)</label>
-                    <input type="text" id="time-constraints" placeholder="เช่น ไม่เรียน 8 โมงเช้า, ขอหยุดวันศุกร์">
-                </div>
-
-                <button id="generate-btn" class="primary-btn">✨ เริ่มจัดตารางเรียน</button>
             </section>
 
-            <!-- Right Panel: Chat & Results -->
-            <section class="chat-panel glass">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding: 0 1rem;">
-                    <h3 style="margin:0; color:#e2e8f0;">ห้องแชทจัดตารางเรียน</h3>
-                </div>
-                <div id="chat-history" class="chat-history">
-                    <div class="message assistant">
-                        <div class="avatar">🤖</div>
-                        <div class="bubble">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ (AI-Assisted Study Planner & Degree Audit) ประจำสาขา Data Science มช. 🎓<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
+            <!-- VIEW: Next Semester (Scheduler) -->
+            <section id="view-next-semester" class="view-section" style="display: none;">
+                <header class="view-header">
+                    <div>
+                        <h1>Next Semester Planning</h1>
+                        <p class="view-subtitle">AI-Powered Course Assistant for Data Science</p>
                     </div>
-                </div>
-                
-                <div class="chat-input-area">
-                    <input type="text" id="chat-input" placeholder="พิมพ์คำถาม หรือส่งเงื่อนไขเพิ่มเติมที่นี่...">
-                    <button id="send-btn" class="icon-btn">➤</button>
+                </header>
+
+                <div class="scheduler-layout">
+                    <!-- Left Panel: Scheduler Settings -->
+                    <section class="config-panel white-card">
+                        <h2>🛠️ Quick Scheduler</h2>
+                        
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="year-select">เลือกชั้นปี (Year)</label>
+                                <select id="year-select">
+                                    <option value="1">ปี 1</option>
+                                    <option value="2">ปี 2</option>
+                                    <option value="3" selected>ปี 3</option>
+                                    <option value="4">ปี 4</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="term-select">เลือกเทอม (Term)</label>
+                                <select id="term-select">
+                                    <option value="1">เทอม 1</option>
+                                    <option value="2" selected>เทอม 2</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group" id="major-track-container" style="display: none;">
+                            <label for="major-track">เลือกแขนงวิชาเอก (Major Track)</label>
+                            <select id="major-track">
+                                <option value="">ไม่ระบุ (แสดงทั้งหมด)</option>
+                            </select>
+                        </div>
+
+                        <div id="dynamic-requirements" class="dynamic-requirements">
+                            <div class="loading">กำลังโหลดแผนการศึกษา...</div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="time-constraints">เงื่อนไขเวลาพิเศษ (ถ้ามี)</label>
+                            <input type="text" id="time-constraints" placeholder="เช่น ไม่เรียน 8 โมงเช้า, ขอหยุดวันศุกร์">
+                        </div>
+
+                        <button id="generate-btn" class="primary-btn">✨ เริ่มจัดตารางเรียน</button>
+                    </section>
+
+                    <!-- Right Panel: Chat & Results -->
+                    <section class="chat-panel white-card">
+                        <div class="chat-header">
+                            <h3>ห้องแชทจัดตารางเรียน</h3>
+                        </div>
+                        <div id="chat-history" class="chat-history">
+                            <div class="message assistant">
+                                <div class="avatar">🎓</div>
+                                <div class="bubble">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ (AI-Assisted Study Planner & Degree Audit) ประจำสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-input-area">
+                            <input type="text" id="chat-input" placeholder="พิมพ์คำถาม หรือส่งเงื่อนไขเพิ่มเติมที่นี่...">
+                            <button id="send-btn" class="icon-btn">➤</button>
+                        </div>
+                    </section>
                 </div>
             </section>
+
         </main>
     </div>
     
