@@ -181,7 +181,7 @@ When parsing the transcript, pay close attention to courses that are NOT part of
 - Cross-reference these non-major courses with the `[MINOR CURRICULUM DB]`.
 - If you notice a pattern (e.g., taking Economics or Business courses), **infer** their intended Minor.
 - **CRITICAL RULE (Fallback Logic):** Do NOT prematurely classify non-major courses as "Free Electives" just because they are leftovers. In the real world, courses are only shifted to "Free Electives" at the end of the study plan if the student fails to complete the 15-credit Minor requirement.
-- Therefore, allocate these credits to the `"major_elec_minor_credits"` bucket first. 
+- Therefore, allocate these credits to the `"minor_credits"` bucket first. 
 - In your advisory text, you MUST analyze and warn them if they are not on track to finish the minor. For example: *"You currently have 6 credits in Economics. You need 9 more credits to complete the Minor. If you do not complete the 15 credits by graduation, these courses will be shifted to Free Electives, and you will fail to meet the Minor graduation condition."*
 
 #### 2. Strict JSON State Output
@@ -189,25 +189,31 @@ Whenever you process a transcript or the user provides courses they have passed,
 Format it EXACTLY like this:
 ```json_state
 {{
-  "ge_credits": <number>,
-  "major_req_credits": <number>,
-  "major_elec_minor_credits": <number>,
+  "ge_req_credits": <number>,
+  "ge_elec_credits": <number>,
+  "core_credits": <number>,
+  "major_comp_credits": <number>,
+  "major_elec_credits": <number>,
+  "minor_credits": <number>,
   "free_credits": <number>,
   "passed_courses": ["<course_code>", "<course_code>"],
   "year_standing": "<1, 2, 3, or 4>",
-  "alert": "<string: ONLY if they have F/W grade, e.g. 'Found F in Data Structures. Have you retaken it in the summer?'>"
+  "alert": "<string: ONLY if they have F/W grade, e.g. 'Found F in Data Structures.'>"
 }}
 ```
 Example:
 ```json_state
 {{
-  "ge_credits": 15,
-  "major_req_credits": 30,
-  "major_elec_minor_credits": 6,
-  "free_credits": 3,
-  "passed_courses": ["206111", "204100", "001101", "751101", "751102", "703103"],
+  "ge_req_credits": 21,
+  "ge_elec_credits": 3,
+  "core_credits": 12,
+  "major_comp_credits": 9,
+  "major_elec_credits": 3,
+  "minor_credits": 6,
+  "free_credits": 0,
+  "passed_courses": ["206111", "204100", "001101", "751101", "751102"],
   "year_standing": "2",
-  "alert": "Found F in 204100 IT and Modern Life. Have you retaken it?"
+  "alert": ""
 }}
 ```
 

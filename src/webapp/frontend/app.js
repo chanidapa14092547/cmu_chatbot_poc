@@ -516,60 +516,75 @@ function parseAIState(text) {
         try {
             const state = JSON.parse(match[1]);
             // Update Dashboard UI (Grouped List View)
-            if (state.ge_credits !== undefined) {
-                const percent = Math.min(100, Math.round((state.ge_credits / 30) * 100));
-                document.getElementById('ge-score').textContent = `${state.ge_credits} / 30`;
-                document.getElementById('ge-fill').style.width = `${percent}%`;
-                document.getElementById('ge-rem').textContent = `${Math.max(0, 30 - state.ge_credits)} credits remaining`;
+            // General Education (30 credits)
+            if (state.ge_req_credits !== undefined || state.ge_elec_credits !== undefined) {
+                const req = state.ge_req_credits || 0;
+                const elec = state.ge_elec_credits || 0;
+                const totalGe = req + elec;
                 
-                // Estimate sub-categories for visual completeness
-                const reqGe = Math.min(21, state.ge_credits);
-                const elecGe = Math.max(0, state.ge_credits - 21);
-                document.getElementById('ge-req-score').textContent = `${reqGe} / 21`;
-                document.getElementById('ge-req-fill').style.width = `${Math.round((reqGe/21)*100)}%`;
-                document.getElementById('ge-req-rem').textContent = `${21 - reqGe} credits remaining`;
-                document.getElementById('ge-elec-score').textContent = `${elecGe} / 9`;
-                document.getElementById('ge-elec-fill').style.width = `${Math.round((elecGe/9)*100)}%`;
-                document.getElementById('ge-elec-rem').textContent = `${9 - elecGe} credits remaining`;
+                document.getElementById('ge-score').textContent = `${totalGe} / 30`;
+                document.getElementById('ge-fill').style.width = `${Math.round((totalGe/30)*100)}%`;
+                document.getElementById('ge-rem').textContent = `${Math.max(0, 30 - totalGe)} credits remaining`;
+                
+                document.getElementById('ge-req-score').textContent = `${req} / 21`;
+                document.getElementById('ge-req-fill').style.width = `${Math.round((req/21)*100)}%`;
+                document.getElementById('ge-req-rem').textContent = `${Math.max(0, 21 - req)} credits remaining`;
+                
+                document.getElementById('ge-elec-score').textContent = `${elec} / 9`;
+                document.getElementById('ge-elec-fill').style.width = `${Math.round((elec/9)*100)}%`;
+                document.getElementById('ge-elec-rem').textContent = `${Math.max(0, 9 - elec)} credits remaining`;
             }
 
-            if (state.major_req_credits !== undefined) {
-                const percent = Math.min(100, Math.round((state.major_req_credits / 62) * 100)); // 27 core + 35 comp = 62
-                
-                // Core 27
-                const core = Math.min(27, state.major_req_credits);
+            // Core & Major Compulsory (62 credits)
+            if (state.core_credits !== undefined) {
+                const core = state.core_credits;
                 document.getElementById('core-score').textContent = `${core} / 27`;
                 document.getElementById('core-fill').style.width = `${Math.round((core/27)*100)}%`;
-                document.getElementById('core-rem').textContent = `${27 - core} credits remaining`;
-
-                // Major Comp 35
-                const comp = Math.max(0, state.major_req_credits - 27);
+                document.getElementById('core-rem').textContent = `${Math.max(0, 27 - core)} credits remaining`;
+            }
+            if (state.major_comp_credits !== undefined) {
+                const comp = state.major_comp_credits;
                 document.getElementById('major-comp-score').textContent = `${comp} / 35`;
                 document.getElementById('major-comp-fill').style.width = `${Math.round((comp/35)*100)}%`;
-                document.getElementById('major-comp-rem').textContent = `${35 - comp} credits remaining`;
+                document.getElementById('major-comp-rem').textContent = `${Math.max(0, 35 - comp)} credits remaining`;
             }
 
-            if (state.major_elec_minor_credits !== undefined) {
-                // Major Elective 24
-                const elec = Math.min(24, state.major_elec_minor_credits);
+            // Major Elective (24 credits)
+            if (state.major_elec_credits !== undefined) {
+                const elec = state.major_elec_credits;
                 document.getElementById('major-elec-score').textContent = `${elec} / 24`;
                 document.getElementById('major-elec-fill').style.width = `${Math.round((elec/24)*100)}%`;
-                document.getElementById('major-elec-rem').textContent = `${24 - elec} credits remaining`;
+                document.getElementById('major-elec-rem').textContent = `${Math.max(0, 24 - elec)} credits remaining`;
             }
 
+            // Minor (15 credits)
+            if (state.minor_credits !== undefined) {
+                const minor = state.minor_credits;
+                document.getElementById('minor-score').textContent = `${minor} / 15`;
+                document.getElementById('minor-fill').style.width = `${Math.round((minor/15)*100)}%`;
+                document.getElementById('minor-rem').textContent = `${Math.max(0, 15 - minor)} credits remaining`;
+            }
+
+            // Free Elective (6 credits)
             if (state.free_credits !== undefined) {
-                const percent = Math.min(100, Math.round((state.free_credits / 6) * 100));
-                document.getElementById('free-score').textContent = `${state.free_credits} / 6`;
+                const free = state.free_credits;
+                const percent = Math.min(100, Math.round((free / 6) * 100));
+                document.getElementById('free-score').textContent = `${free} / 6`;
                 document.getElementById('free-fill').style.width = `${percent}%`;
-                document.getElementById('free-rem').textContent = `${Math.max(0, 6 - state.free_credits)} credits remaining`;
+                document.getElementById('free-rem').textContent = `${Math.max(0, 6 - free)} credits remaining`;
             }
 
             // Calculate Total Credits
-            const ge = state.ge_credits || 0;
-            const req = state.major_req_credits || 0;
-            const elecMinor = state.major_elec_minor_credits || 0;
+            // Calculate Total Credits
+            const req = state.ge_req_credits || 0;
+            const elec = state.ge_elec_credits || 0;
+            const core = state.core_credits || 0;
+            const majorComp = state.major_comp_credits || 0;
+            const majorElec = state.major_elec_credits || 0;
+            const minor = state.minor_credits || 0;
             const free = state.free_credits || 0;
-            const total = ge + req + elecMinor + free;
+
+            const total = req + elec + core + majorComp + majorElec + minor + free;
             
             const totalPercent = Math.min(100, Math.round((total / 137) * 100));
             document.getElementById('total-score').textContent = `${total} / 137`;
@@ -611,9 +626,9 @@ function parseAIState(text) {
             };
 
             updateChecklist('check-total', total, 137);
-            updateChecklist('check-core', req, 62);
-            updateChecklist('check-ge', ge, 30);
-            updateChecklist('check-minor', elecMinor, 15); // Requires at least 15 for minor
+            updateChecklist('check-core', core + majorComp, 62);
+            updateChecklist('check-ge', req + elec, 30);
+            updateChecklist('check-minor', majorElec + minor, 15); // Requires at least 15 for minor
             
             lucide.createIcons(); // Refresh icons
 
