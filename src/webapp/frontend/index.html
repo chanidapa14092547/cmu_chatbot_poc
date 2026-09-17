@@ -43,10 +43,6 @@
                     <i data-lucide="pie-chart"></i>
                     <span>Curriculum Progress</span>
                 </a>
-                <a href="#" class="nav-item" onclick="switchTab('graduation', this)">
-                    <i data-lucide="award"></i>
-                    <span>Graduation Readiness</span>
-                </a>
             </nav>
 
             <div class="sidebar-footer">
@@ -64,7 +60,7 @@
             <header class="top-header">
                 <div class="header-title" id="header-title">Next Semester</div>
                 <div class="header-actions">
-                    <i data-lucide="bell" style="width:18px; color:var(--zinc-500);"></i>
+                    <!-- Notifications removed to avoid confusion -->
                 </div>
             </header>
 
@@ -319,77 +315,7 @@
                     <p style="color: var(--text-muted); max-width: 400px; margin: 0 auto;">(Phase 2 Feature) This page will generate a full 4-year roadmap based on your current standing and chosen major track.</p>
                 </section>
 
-                <section id="view-graduation" class="view-section" style="display:none;">
-                    <div style="margin-bottom: 2rem;">
-                        <h1 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 4px;">Graduation Readiness</h1>
-                        <p style="color: var(--text-secondary); font-size: 0.85rem;">Final audit checklist for degree clearance. Status is automatically updated based on your transcript data.</p>
-                    </div>
-                    
-                    <div class="panel-card" style="max-width: 800px; margin: 0 auto;">
-                        <div class="panel-header" style="border-bottom: 1px solid var(--border-color); padding-bottom: 1rem; margin-bottom: 1rem;">
-                            <h3 style="font-size: 1.1rem;">Degree Audit Checklist</h3>
-                        </div>
-                        <div class="panel-body" style="display: flex; flex-direction: column; gap: 1rem;">
-                            
-                            <!-- Checklist Items -->
-                            <div class="checklist-item" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-surface); border-radius: 8px; border: 1px solid var(--border-color);">
-                                <div style="display: flex; align-items: center; gap: 12px;">
-                                    <div id="check-total-icon" style="color: var(--zinc-400);"><i data-lucide="circle-dashed" style="width:20px;"></i></div>
-                                    <div>
-                                        <div style="font-weight: 600; font-size: 0.95rem;">137 Credits Completed</div>
-                                        <div style="font-size: 0.8rem; color: var(--text-muted);">Must earn at least 137 credits in total.</div>
-                                    </div>
-                                </div>
-                                <div id="check-total-status" class="item-status incomplete">INCOMPLETE</div>
-                            </div>
 
-                            <div class="checklist-item" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-surface); border-radius: 8px; border: 1px solid var(--border-color);">
-                                <div style="display: flex; align-items: center; gap: 12px;">
-                                    <div id="check-core-icon" style="color: var(--zinc-400);"><i data-lucide="circle-dashed" style="width:20px;"></i></div>
-                                    <div>
-                                        <div style="font-weight: 600; font-size: 0.95rem;">Major Core Requirements</div>
-                                        <div style="font-size: 0.8rem; color: var(--text-muted);">Must complete all 62 credits of Core & Compulsory Data Science courses.</div>
-                                    </div>
-                                </div>
-                                <div id="check-core-status" class="item-status incomplete">INCOMPLETE</div>
-                            </div>
-
-                            <div class="checklist-item" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-surface); border-radius: 8px; border: 1px solid var(--border-color);">
-                                <div style="display: flex; align-items: center; gap: 12px;">
-                                    <div id="check-ge-icon" style="color: var(--zinc-400);"><i data-lucide="circle-dashed" style="width:20px;"></i></div>
-                                    <div>
-                                        <div style="font-weight: 600; font-size: 0.95rem;">General Education Requirements</div>
-                                        <div style="font-size: 0.8rem; color: var(--text-muted);">Must complete all 30 credits of GE courses.</div>
-                                    </div>
-                                </div>
-                                <div id="check-ge-status" class="item-status incomplete">INCOMPLETE</div>
-                            </div>
-
-                            <div class="checklist-item" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-surface); border-radius: 8px; border: 1px solid var(--border-color);">
-                                <div style="display: flex; align-items: center; gap: 12px;">
-                                    <div id="check-minor-icon" style="color: var(--zinc-400);"><i data-lucide="circle-dashed" style="width:20px;"></i></div>
-                                    <div>
-                                        <div style="font-weight: 600; font-size: 0.95rem;">Minor / Major Electives</div>
-                                        <div style="font-size: 0.8rem; color: var(--text-muted);">Must complete an approved 15-credit minor or 24-credit major electives.</div>
-                                    </div>
-                                </div>
-                                <div id="check-minor-status" class="item-status option">PENDING</div>
-                            </div>
-
-                            <div class="checklist-item" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem; background: var(--bg-surface); border-radius: 8px; border: 1px solid var(--border-color); opacity: 0.7;">
-                                <div style="display: flex; align-items: center; gap: 12px;">
-                                    <div style="color: var(--zinc-400);"><i data-lucide="circle-dashed" style="width:20px;"></i></div>
-                                    <div>
-                                        <div style="font-weight: 600; font-size: 0.95rem;">English Exit Exam</div>
-                                        <div style="font-size: 0.8rem; color: var(--text-muted);">Must pass CMU-eTEGS or equivalent (Data Not Available).</div>
-                                    </div>
-                                </div>
-                                <div class="item-status" style="background:#f3f4f6; color:#6b7280;">N/A</div>
-                            </div>
-
-                        </div>
-                    </div>
-                </section>
 
             </div>
         </div>
