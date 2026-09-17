@@ -197,6 +197,7 @@ Format it EXACTLY like this:
   "minor_credits": <number>,
   "free_credits": <number>,
   "passed_courses": ["<course_code>", "<course_code>"],
+  "inferred_minor": "<string: name of the minor if inferred from transcript, else 'none'>",
   "year_standing": "<1, 2, 3, or 4>",
   "alert": "<string: ONLY if they have F/W grade, e.g. 'Found F in Data Structures.'>"
 }}
@@ -212,6 +213,7 @@ Example:
   "minor_credits": 6,
   "free_credits": 0,
   "passed_courses": ["206111", "204100", "001101", "751101", "751102"],
+  "inferred_minor": "Economics",
   "year_standing": "2",
   "alert": ""
 }}

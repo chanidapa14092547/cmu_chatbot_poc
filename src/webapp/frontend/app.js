@@ -5,6 +5,9 @@ let globalOfferedCourses = {};
 let globalCourses = [];
 let majorTracksList = [];
 let currentRequiredPlaceholders = [];
+let globalPassedCourses = [];
+let globalInferredMinor = "none";
+let currentPlanData = null;
 
 // DOM Elements
 const yearSelect = document.getElementById('year-select');
@@ -48,6 +51,7 @@ async function init() {
         }
 
         // Render dynamic plan
+        currentPlanData = planRes.plan;
         renderStudyPlan(planRes.plan);
 
     } catch (error) {
@@ -60,6 +64,7 @@ async function handlePlanChange() {
     dynamicReqsContainer.innerHTML = '<div class="loading">กำลังโหลดแผนการศึกษา...</div>';
     try {
         const planRes = await fetch(`${API_BASE}/study-plan/${yearSelect.value}/${termSelect.value}`).then(r => r.json());
+        currentPlanData = planRes.plan;
         renderStudyPlan(planRes.plan);
     } catch (e) {
         console.error(e);
@@ -128,7 +133,7 @@ function renderStudyPlan(planItems) {
         groupDiv.className = 'form-group';
         groupDiv.style.marginTop = '15px';
         groupDiv.style.padding = '15px';
-        groupDiv.style.background = 'rgba(0,0,0,0.2)';
+        groupDiv.style.border = '1px solid var(--border-color)';
         groupDiv.style.borderRadius = '8px';
 
         if (ph.includes("Minor") || ph.includes("Major Electives")) {
@@ -150,6 +155,11 @@ function renderStudyPlan(planItems) {
                 opt.textContent = `วิชาโท: ${m}`;
                 minorSelect.appendChild(opt);
             });
+            
+            // Pre-select if AI inferred a minor
+            if (globalInferredMinor !== "none" && globalMinors.includes(globalInferredMinor)) {
+                minorSelect.value = globalInferredMinor;
+            }
 
             groupDiv.appendChild(minorSelect);
 
@@ -191,8 +201,18 @@ function renderStudyPlan(planItems) {
                             cb.type = 'checkbox';
                             cb.value = c.course_code;
                             cb.className = `maj_fallback_cb_${i}`;
-                            lbl.appendChild(cb);
-                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                            
+                            const isPassed = globalPassedCourses.includes(c.course_code);
+                            if (isPassed) {
+                                cb.disabled = true;
+                                lbl.style.opacity = '0.5';
+                                lbl.appendChild(cb);
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                            } else {
+                                lbl.appendChild(cb);
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                            }
+                            
                             cbList.appendChild(lbl);
                         });
                         coursesContainer.appendChild(cbList);
@@ -220,8 +240,18 @@ function renderStudyPlan(planItems) {
                             cb.type = 'checkbox';
                             cb.value = c.course_code;
                             cb.className = `minor_crs_cb_${i}`;
-                            lbl.appendChild(cb);
-                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                            
+                            const isPassed = globalPassedCourses.includes(c.course_code);
+                            if (isPassed) {
+                                cb.disabled = true;
+                                lbl.style.opacity = '0.5';
+                                lbl.appendChild(cb);
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                            } else {
+                                lbl.appendChild(cb);
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                            }
+                            
                             cbList.appendChild(lbl);
                         });
                         coursesContainer.appendChild(cbList);
@@ -261,8 +291,18 @@ function renderStudyPlan(planItems) {
                     cb.type = 'checkbox';
                     cb.value = c.course_code;
                     cb.className = `maj_elec_cb_${i}`;
-                    lbl.appendChild(cb);
-                    lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                    
+                    const isPassed = globalPassedCourses.includes(c.course_code);
+                    if (isPassed) {
+                        cb.disabled = true;
+                        lbl.style.opacity = '0.5';
+                        lbl.appendChild(cb);
+                        lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                    } else {
+                        lbl.appendChild(cb);
+                        lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                    }
+                    
                     cbList.appendChild(lbl);
                 });
                 groupDiv.appendChild(cbList);
@@ -325,8 +365,18 @@ function renderStudyPlan(planItems) {
                         cb.type = 'checkbox';
                         cb.value = c.course_code;
                         cb.className = `gen_elec_cb_${i}`;
-                        lbl.appendChild(cb);
-                        lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                        
+                        const isPassed = globalPassedCourses.includes(c.course_code);
+                        if (isPassed) {
+                            cb.disabled = true;
+                            lbl.style.opacity = '0.5';
+                            lbl.appendChild(cb);
+                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                        } else {
+                            lbl.appendChild(cb);
+                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                        }
+                        
                         cbList.appendChild(lbl);
                     });
                     groupDiv.appendChild(cbList);
@@ -590,6 +640,19 @@ function parseAIState(text) {
             document.getElementById('total-score').textContent = `${total} / 137`;
             document.getElementById('total-fill').style.width = `${totalPercent}%`;
             document.getElementById('total-rem').textContent = `${Math.max(0, 137 - total)} credits remaining`;
+            
+            // Extract Passed Courses and Inferred Minor for UI disabling
+            if (state.passed_courses) {
+                globalPassedCourses = state.passed_courses;
+            }
+            if (state.inferred_minor) {
+                globalInferredMinor = state.inferred_minor;
+            }
+            if (currentPlanData) {
+                // Re-render the study plan so that checkboxes are disabled based on passed courses
+                // and the inferred minor is selected automatically
+                renderStudyPlan(currentPlanData);
+            }
             
             // Check statuses for Curriculum Progress
             document.querySelectorAll('.item-score').forEach(el => {
