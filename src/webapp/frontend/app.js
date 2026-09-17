@@ -410,9 +410,21 @@ function exportTableToCSV(table, filename) {
     document.body.removeChild(downloadLink);
 }
 
-// --- File Upload UI Mocking ---
-let selectedChatFiles = [];
+// --- Global State ---
+let globalPassedCourses = [];
 
+// --- File Handling Helpers ---
+function getBase64(file) {
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.readAsDataURL(file);
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = error => reject(error);
+    });
+}
+
+// --- Chat File Upload ---
+let selectedChatFiles = [];
 const chatAttachmentInput = document.getElementById('chat-attachment');
 const chatFilePreview = document.getElementById('chat-file-preview');
 
@@ -429,20 +441,16 @@ function renderChatFilePreview() {
     selectedChatFiles.forEach((file, index) => {
         const badge = document.createElement('div');
         badge.style.cssText = 'background: #e0e7ff; color: #4338ca; font-size: 0.75rem; padding: 4px 8px; border-radius: 4px; display: flex; align-items: center; gap: 4px;';
-        
         const nameSpan = document.createElement('span');
         nameSpan.textContent = file.name;
-        
         const closeBtn = document.createElement('i');
         closeBtn.setAttribute('data-lucide', 'x');
         closeBtn.style.cssText = 'width: 12px; height: 12px; cursor: pointer;';
         closeBtn.onclick = () => {
             selectedChatFiles.splice(index, 1);
-            // Reset input so the same file can be re-selected if needed
             if (selectedChatFiles.length === 0 && chatAttachmentInput) chatAttachmentInput.value = '';
             renderChatFilePreview();
         };
-        
         badge.appendChild(nameSpan);
         badge.appendChild(closeBtn);
         chatFilePreview.appendChild(badge);
@@ -450,18 +458,18 @@ function renderChatFilePreview() {
     lucide.createIcons();
 }
 
+// --- Transcript File Upload (Dashboard) ---
 const transcriptUploadInput = document.getElementById('transcript-upload');
 if (transcriptUploadInput) {
-    transcriptUploadInput.addEventListener('change', (e) => {
-        const files = e.target.files;
+    transcriptUploadInput.addEventListener('change', async (e) => {
+        const files = Array.from(e.target.files);
         if (files && files.length > 0) {
             const uploadZone = document.getElementById('upload-zone');
             if (uploadZone) {
                 const originalHTML = uploadZone.innerHTML;
-                uploadZone.innerHTML = `<div style="color: #4338ca; display: flex; flex-direction: column; align-items: center;"><i data-lucide="loader" style="width: 32px; height: 32px; animation: spin 2s linear infinite;"></i><p style="margin-top: 10px; font-weight: 500;">AI กำลังประมวลผล Transcript ${files.length} ไฟล์...</p></div>`;
+                uploadZone.innerHTML = `<div style="color: #4338ca; display: flex; flex-direction: column; align-items: center;"><i data-lucide="loader" style="width: 32px; height: 32px; animation: spin 2s linear infinite;"></i><p style="margin-top: 10px; font-weight: 500;">AI กำลังอ่าน Transcript และวิเคราะห์โครงสร้างหลักสูตร...</p></div>`;
                 lucide.createIcons();
                 
-                // Add a spin animation if not exists
                 if (!document.getElementById('spin-keyframes')) {
                     const style = document.createElement('style');
                     style.id = 'spin-keyframes';
@@ -469,63 +477,121 @@ if (transcriptUploadInput) {
                     document.head.appendChild(style);
                 }
 
-                // Simulate processing delay
-                setTimeout(() => {
-                    uploadZone.innerHTML = `<div style="color: #10b981; display: flex; flex-direction: column; align-items: center;"><i data-lucide="check-circle" style="width: 32px; height: 32px;"></i><p style="margin-top: 10px; font-weight: 500;">อัปเดตข้อมูลเข้าระบบเรียบร้อยแล้ว!</p></div>`;
-                    lucide.createIcons();
-                    setTimeout(() => {
-                        uploadZone.innerHTML = originalHTML;
+                try {
+                    const base64Files = await Promise.all(files.map(f => getBase64(f)));
+                    
+                    const response = await fetch(`${API_BASE}/chat`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            message: "Here is my transcript. Please analyze it, update my passed courses, and provide the JSON state.",
+                            history: [],
+                            images: base64Files
+                        })
+                    });
+                    
+                    const data = await response.json();
+                    if (response.ok && data.response) {
+                        parseAIState(data.response);
+                        uploadZone.innerHTML = `<div style="color: #10b981; display: flex; flex-direction: column; align-items: center;"><i data-lucide="check-circle" style="width: 32px; height: 32px;"></i><p style="margin-top: 10px; font-weight: 500;">อัปเดตข้อมูลเข้าระบบเรียบร้อยแล้ว!</p></div>`;
                         lucide.createIcons();
-                    }, 3000);
-                }, 2000);
+                        setTimeout(() => { uploadZone.innerHTML = originalHTML; lucide.createIcons(); }, 3000);
+                    } else {
+                        throw new Error("Failed to process transcript");
+                    }
+                } catch (err) {
+                    uploadZone.innerHTML = `<div style="color: #ef4444; display: flex; flex-direction: column; align-items: center;"><i data-lucide="alert-triangle" style="width: 32px; height: 32px;"></i><p style="margin-top: 10px; font-weight: 500;">ประมวลผลล้มเหลว กรุณาลองใหม่</p></div>`;
+                    lucide.createIcons();
+                    setTimeout(() => { uploadZone.innerHTML = originalHTML; lucide.createIcons(); }, 3000);
+                }
             }
         }
     });
 }
 
+function parseAIState(text) {
+    // Extract ```json_state block
+    const match = text.match(/```json_state\n([\s\S]*?)\n```/);
+    if (match && match[1]) {
+        try {
+            const state = JSON.parse(match[1]);
+            // Update Dashboard UI
+            if (state.major_credits !== undefined) {
+                const majorCard = document.querySelectorAll('.kpi-card')[0];
+                if (majorCard) {
+                    majorCard.querySelector('.kpi-value').textContent = `${state.major_credits} / 72`;
+                    const percent = Math.min(100, Math.round((state.major_credits / 72) * 100));
+                    majorCard.querySelector('.progress-fill').style.width = `${percent}%`;
+                }
+            }
+            if (state.minor_free_credits !== undefined) {
+                const minorCard = document.querySelectorAll('.kpi-card')[1];
+                if (minorCard) {
+                    minorCard.querySelector('.kpi-value').textContent = `${state.minor_free_credits} / 30`;
+                    const percent = Math.min(100, Math.round((state.minor_free_credits / 30) * 100));
+                    minorCard.querySelector('.progress-fill').style.width = `${percent}%`;
+                }
+            }
+            if (state.passed_courses) {
+                globalPassedCourses = state.passed_courses;
+            }
+            if (state.year_standing !== undefined) {
+                const ysEl = document.getElementById('year-select');
+                if(ysEl) ysEl.value = state.year_standing;
+            }
+        } catch (e) {
+            console.error("Error parsing JSON state:", e);
+        }
+    }
+}
+
 async function sendChat(messageText) {
     let finalMessage = messageText;
+    let base64Images = [];
     
-    // Append attached file info visually and to the prompt
     if (selectedChatFiles.length > 0) {
         const fileNames = selectedChatFiles.map(f => f.name).join(", ");
-        finalMessage += `\n[Attached Files: ${fileNames}]`;
+        base64Images = await Promise.all(selectedChatFiles.map(f => getBase64(f)));
         selectedChatFiles = [];
         renderChatFilePreview();
         if (chatAttachmentInput) chatAttachmentInput.value = '';
     }
 
-    if (!finalMessage.trim()) return;
+    if (!finalMessage.trim() && base64Images.length === 0) return;
     
-    appendMessage('user', finalMessage);
+    appendMessage('user', finalMessage || "[Sent Images]");
     chatInput.value = '';
     
     const loadingDiv = document.createElement('div');
     loadingDiv.className = 'message assistant loading-msg';
-    loadingDiv.innerHTML = `<div class="avatar">🤖</div><div class="bubble">กำลังประมวลผล (Chain of Thought)...</div>`;
+    loadingDiv.innerHTML = `<div class="avatar">🤖</div><div class="bubble">กำลังประมวลผล...</div>`;
     chatHistory.appendChild(loadingDiv);
     chatHistory.scrollTop = chatHistory.scrollHeight;
     
     try {
+        const payload = {
+            message: finalMessage,
+            history: chatMessages.slice(0, -1),
+            images: base64Images
+        };
+        
         const response = await fetch(`${API_BASE}/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                message: finalMessage,
-                history: chatMessages.slice(0, -1) // Exclude the message we just added
-            })
+            body: JSON.stringify(payload)
         });
         
         const data = await response.json();
         chatHistory.removeChild(loadingDiv);
         
         if (response.ok && data.response) {
-            appendMessage('assistant', data.response);
+            parseAIState(data.response);
+            
+            // Clean the json_state block from the text shown to the user
+            let cleanResponse = data.response.replace(/```json_state\n[\s\S]*?\n```/, '').trim();
+            appendMessage('assistant', cleanResponse);
         } else {
             let errorMsg = data.detail || "เกิดข้อผิดพลาดในการตอบกลับ";
-            if (errorMsg.includes("RESOURCE_EXHAUSTED") || errorMsg.includes("429")) {
-                errorMsg = "⚠️ ระบบ AI ทำงานหนักเกินโควต้า (Rate Limit Exceeded) กรุณารอประมาณ 1 นาทีแล้วลองใหม่อีกครั้งครับ";
-            }
             appendMessage('assistant', errorMsg);
         }
     } catch (e) {
@@ -542,6 +608,11 @@ chatInput.addEventListener('keypress', (e) => {
 generateBtn.addEventListener('click', async () => {
     let promptText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
     
+    // Add Passed courses to prompt to exclude them
+    if (globalPassedCourses && globalPassedCourses.length > 0) {
+        promptText += `\n\n(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})`;
+    }
+
     // Add Fixed courses to prompt
     const planRes = await fetch(`${API_BASE}/study-plan/${yearSelect.value}/${termSelect.value}`).then(r => r.json());
     const fixedCourses = (planRes.plan || []).filter(item => typeof item === 'string');

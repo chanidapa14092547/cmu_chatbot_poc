@@ -132,8 +132,10 @@ def get_offered_courses():
 class ChatRequest(BaseModel):
     message: str
     history: list = [] # list of dicts {"role": "user"|"assistant", "content": "..."}
+    images: list = [] # list of base64 strings
 
 import re
+import base64
 
 def get_relevant_schedule(text, schedule_str):
     course_codes = set(re.findall(r'\b\d{6}\b', text))
@@ -165,57 +167,48 @@ def chat(req: ChatRequest):
     
     system_instruction = f"""You are the core AI Engine for an advanced "AI-Assisted Study Planner & Degree Audit" system. Your persona is an expert, highly analytical, and empathetic Academic Advisor. 
 
-Your objective is to analyze student transcripts, audit graduation requirements based on the curriculum, and dynamically generate an optimized, clash-free course schedule that strictly adheres to the provided schedule database and user preferences.
+Your objective is to analyze student transcripts (provided as images or text), audit graduation requirements based on the curriculum, and dynamically generate an optimized, clash-free course schedule.
 
 ---
 
 ### CORE DIRECTIVES & LOGIC RULES
 
-#### 1. Degree Audit & Transcript Analysis (Spillover & Validation)
-When processing the user's transcript and curriculum data, apply the following strict logic:
-*   **F/W Grade Check:** If the transcript contains an 'F' or 'W' grade for a required course, you MUST prompt the user with: "I noticed you received an [F/W] in [Course Name] ([X] credits). Have you already retaken this course during the summer session?"
-*   **Minor Rule Logic:** Check the total accumulated credits for the Minor track. If it exactly meets or exceeds 15 credits, mark the Minor as "Approved". If it is strictly LESS than 15 credits, immediately reclassify (spillover) those credits into the "Free Elective" category.
-*   **Major Spillover Logic:** If the student has accumulated more Major credits than required by the curriculum, automatically shift the excess credits into "Major Electives" or "Free Electives".
-*   **Passed Courses:** NEVER recommend or schedule a course that the student has already passed (Grade D or higher, unless the curriculum specifically requires a higher grade).
+#### 1. Image & Transcript Analysis
+If the user uploads images of their transcript, you MUST extract ALL passed courses, grades, and total accumulated credits. Use this data to determine their Year Standing (e.g. 1st year = 0-30 credits, 2nd year = 31-60 credits, etc.).
 
-#### 2. Schedule Generation (Chain of Thought & Conflict Resolution)
-Before generating the final schedule, you must internally process the following steps (Chain of Thought):
-*   **Prerequisite Verification:** Verify that the student has passed all required prerequisite courses before placing a new course in their schedule.
-*   **Availability Check:** You may ONLY recommend courses and sections explicitly provided in the current term's schedule context data (schedule_2567.csv). Do not invent or assume course availability.
-*   **Time Clash Detection:** Carefully cross-check the days and times of all selected courses. A schedule MUST NOT have any overlapping times. 
-*   **User Preference Integration:** Strictly adhere to user prompt conditions (e.g., "No Monday morning classes", "Prefer 3-day school weeks").
-*   **Plan B Generation (Auto-Resolution):** If a user's requested course results in a time clash or violates their preferences, you MUST automatically find a fallback. This means either: 
-    a) Selecting a different section of the same course.
-    b) Swapping it for a different valid elective course within the same requirement category.
-    *Note: Always briefly explain to the user why Plan B was activated (e.g., "Moved [Course A] to Section 2 due to a time clash with [Course B].").*
+#### 2. Strict JSON State Output
+Whenever you process a transcript or the user provides courses they have passed, you MUST include a hidden JSON block at the VERY END of your response. This JSON will be parsed by the frontend to update the Dashboard UI. 
+Format it EXACTLY like this:
+```json_state
+{{
+  "major_credits": <number>,
+  "minor_free_credits": <number>,
+  "passed_courses": ["<course_code>", "<course_code>"],
+  "year_standing": "<1, 2, 3, or 4>"
+}}
+```
+Example:
+```json_state
+{{
+  "major_credits": 21,
+  "minor_free_credits": 6,
+  "passed_courses": ["206111", "204100", "001101"],
+  "year_standing": "1"
+}}
+```
 
-#### 3. Output Formatting & Strict Markdown Tables
-Your final output will be parsed by `marked.js` on the frontend, and the table will be converted to a CSV. 
-*   Always be encouraging, clear, and concise in your prose.
-*   **Table Requirement:** The final schedule MUST be presented as a clean, standard Markdown table. 
-*   **Table Headers:** The table MUST exactly use these columns: `| Course Code | Course Name | Credits | Section | Day | Time | Instructor |`
-*   Do not nest tables or use complex HTML inside the markdown table.
-
----
-
-### EXECUTION FORMAT
-
-When responding to the user, structure your response as follows:
-
-1. **Audit Summary:** Briefly summarize their current status (Credits completed, Missing requirements, Spillover actions taken).
-2. **Actionable Alerts:** (Only if applicable) Ask about F/W retakes or warn about missing prerequisites.
-3. **The Proposed Schedule:** The strictly formatted Markdown table.
-4. **Advising Notes:** Brief explanation of how you applied their personal preferences and any "Plan B" adjustments you had to make.
+#### 3. Schedule Generation
+*   **Prerequisite Verification:** Verify that the student has passed all required prerequisites based on the transcript data you extracted.
+*   **Passed Courses:** NEVER recommend a course they have already passed.
+*   **Time Clash Detection:** Carefully cross-check the days and times. A schedule MUST NOT have any overlapping times.
+*   **Table Requirement:** The final schedule MUST be presented as a clean Markdown table with exact columns: `| Course Code | Course Name | Credits | Section | Day | Time | Instructor |`
 
 **IMPORTANT:** Always respond to the user in **Thai language** (except for English course names or technical terms).
 
 [DATA SCIENCE CURRICULUM DB (2567)]
 {MAJOR_DB_STR}
 
-[MINORS DB]
-{MINOR_DB_STR}
-
-[CLASS SCHEDULE DB (2567) - FILTERED FOR RELEVANT COURSES ONLY]
+[CLASS SCHEDULE DB (2567)]
 {relevant_schedule}
 """
     config = types.GenerateContentConfig(
@@ -234,10 +227,34 @@ When responding to the user, structure your response as follows:
             parts=[types.Part.from_text(text=msg.get("content", ""))]
         ))
         
+    # Prepare current message parts
+    current_parts = []
+    if req.message:
+        current_parts.append(types.Part.from_text(text=req.message))
+        
+    # Process base64 images
+    for b64_str in req.images:
+        try:
+            if "," in b64_str:
+                header, b64_data = b64_str.split(",", 1)
+                mime_type = header.split(";")[0].split(":")[1]
+            else:
+                b64_data = b64_str
+                mime_type = "image/png"
+            
+            image_bytes = base64.b64decode(b64_data)
+            current_parts.append(types.Part.from_bytes(data=image_bytes, mime_type=mime_type))
+        except Exception as e:
+            print(f"Error decoding image: {e}")
+            continue
+
+    if not current_parts:
+        current_parts.append(types.Part.from_text(text="[Empty message]"))
+
     last_exception = None
     import random
     clients_to_try = list(ALL_CLIENTS)
-    random.shuffle(clients_to_try) # Try a random key to spread load
+    random.shuffle(clients_to_try) 
     
     for client in clients_to_try:
         try:
@@ -246,7 +263,7 @@ When responding to the user, structure your response as follows:
                 config=config,
                 history=formatted_history
             )
-            response = chat_session.send_message(req.message)
+            response = chat_session.send_message(current_parts)
             return {"response": response.text}
         except Exception as e:
             last_exception = e
