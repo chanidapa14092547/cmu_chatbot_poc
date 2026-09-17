@@ -576,15 +576,15 @@ function parseAIState(text) {
             document.getElementById('total-fill').style.width = `${totalPercent}%`;
             document.getElementById('total-rem').textContent = `${Math.max(0, 137 - total)} credits remaining`;
             
-            // Check statuses
+            // Check statuses for Curriculum Progress
             document.querySelectorAll('.item-score').forEach(el => {
                 const [val, max] = el.textContent.split(' / ').map(Number);
                 const statusEl = el.closest('.progress-item').querySelector('.item-status');
-                if (statusEl) {
+                if (statusEl && !statusEl.id.startsWith('check-') && !statusEl.id.startsWith('total-status')) { // Skip checklist items and total status
                     if (val >= max) {
                         statusEl.textContent = 'COMPLETE';
                         statusEl.className = 'item-status complete';
-                    } else if (statusEl.textContent === 'OPTION REQUIRED') {
+                    } else if (statusEl.textContent === 'OPTION REQUIRED' || statusEl.textContent === 'PENDING') {
                         // keep option required
                     } else {
                         statusEl.textContent = 'INCOMPLETE';
@@ -592,6 +592,31 @@ function parseAIState(text) {
                     }
                 }
             });
+
+            // Update Graduation Readiness Checklist
+            const updateChecklist = (idPrefix, val, target) => {
+                const statusEl = document.getElementById(`${idPrefix}-status`);
+                const iconEl = document.getElementById(`${idPrefix}-icon`);
+                if (!statusEl || !iconEl) return;
+                
+                if (val >= target) {
+                    statusEl.textContent = 'COMPLETE';
+                    statusEl.className = 'item-status complete';
+                    iconEl.innerHTML = '<i data-lucide="check-circle-2" style="width:20px; color:#10b981;"></i>';
+                } else {
+                    statusEl.textContent = 'INCOMPLETE';
+                    statusEl.className = 'item-status incomplete';
+                    iconEl.innerHTML = '<i data-lucide="circle-dashed" style="width:20px; color:#9ca3af;"></i>';
+                }
+            };
+
+            updateChecklist('check-total', total, 137);
+            updateChecklist('check-core', req, 62);
+            updateChecklist('check-ge', ge, 30);
+            updateChecklist('check-minor', elecMinor, 15); // Requires at least 15 for minor
+            
+            lucide.createIcons(); // Refresh icons
+
             if (state.passed_courses) {
                 globalPassedCourses = state.passed_courses;
             }
