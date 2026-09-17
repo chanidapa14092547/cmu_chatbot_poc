@@ -102,26 +102,29 @@
                             </div>
                             <div class="panel-body">
                                 <div class="form-group">
-                                    <label for="year-select">Year (ชั้นปี)</label>
+                                    <label for="year-select">Academic Year</label>
                                     <select id="year-select">
-                                        <option value="1">ปี 1</option>
-                                        <option value="2">ปี 2</option>
-                                        <option value="3" selected>ปี 3</option>
-                                        <option value="4">ปี 4</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3" selected>3</option>
+                                        <option value="4">4</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
-                                    <label for="term-select">Term (เทอม)</label>
+                                    <label for="term-select">Term</label>
                                     <select id="term-select">
-                                        <option value="1">เทอม 1</option>
-                                        <option value="2" selected>เทอม 2</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="Summer">Summer</option>
                                     </select>
                                 </div>
 
-                                <div class="form-group" id="major-track-container" style="display: none;">
+                                <div class="form-group" id="major-track-container">
                                     <label for="major-track">Major Track</label>
                                     <select id="major-track">
-                                        <option value="">ไม่ระบุ</option>
+                                        <option value="Data Science">Data Science</option>
+                                        <option value="Data Analyst">Data Analyst</option>
+                                        <option value="Data Engineer">Data Engineer</option>
                                     </select>
                                 </div>
 
@@ -151,13 +154,67 @@
                                     <div class="msg-avatar"><i data-lucide="bot" style="width:16px;"></i></div>
                                     <div class="bubble">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
                                 </div>
+                                <div class="message user">
+                                    <div class="msg-avatar">U</div>
+                                    <div class="bubble">จัดตารางเรียนเทอมนี้ให้หน่อย ขอไม่เรียนเช้าวันจันทร์</div>
+                                </div>
+                                <div class="message assistant">
+                                    <div class="msg-avatar"><i data-lucide="bot" style="width:16px;"></i></div>
+                                    <div class="bubble">
+                                        นี่คือตารางเรียนที่จัดมาให้ตามเงื่อนไขของคุณครับ:
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th>Course Code</th>
+                                                    <th>Course Name</th>
+                                                    <th>Credits</th>
+                                                    <th>Section</th>
+                                                    <th>Day</th>
+                                                    <th>Time</th>
+                                                    <th>Instructor</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>261453</td>
+                                                    <td>Machine Learning</td>
+                                                    <td>3</td>
+                                                    <td>001</td>
+                                                    <td>Tue, Thu</td>
+                                                    <td>13:00 - 14:30</td>
+                                                    <td>Dr. S</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>261342</td>
+                                                    <td>Database Systems</td>
+                                                    <td>3</td>
+                                                    <td>002</td>
+                                                    <td>Wed, Fri</td>
+                                                    <td>09:30 - 11:00</td>
+                                                    <td>Assoc. Prof. N</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>261491</td>
+                                                    <td>Data Visualization</td>
+                                                    <td>3</td>
+                                                    <td>001</td>
+                                                    <td>Wed</td>
+                                                    <td>13:00 - 16:00</td>
+                                                    <td>Dr. P</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <br>
+                                        <strong>Advising Note:</strong> เนื่องจากคุณขอไม่เรียนเช้าวันจันทร์ ผมจึงเลือกวิชา Database Systems ใน Section 002 (เรียนพุธและศุกร์) แทน Section 001 (ที่เรียนวันจันทร์เช้า) ให้ครับ
+                                    </div>
+                                </div>
                             </div>
                             <div class="chat-input-area">
                                 <label for="chat-attachment" class="icon-btn" style="background: var(--zinc-100); color: var(--zinc-600); cursor: pointer;">
                                     <i data-lucide="paperclip" style="width:16px;"></i>
                                 </label>
                                 <input type="file" id="chat-attachment" accept="image/*,.pdf" style="display: none;">
-                                <input type="text" id="chat-input" placeholder="Type your message or constraints here...">
+                                <input type="text" id="chat-input" placeholder="e.g., No Monday morning classes, prefer free Friday...">
                                 <button id="send-btn" class="icon-btn"><i data-lucide="send" style="width:16px;"></i></button>
                             </div>
                         </div>
@@ -189,22 +246,30 @@
                         <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">Supports PDF, PNG, JPG for AI Processing</p>
                     </div>
 
+                    <div class="badge-alert" style="margin-bottom: 1.5rem; padding: 1rem; font-size: 0.9rem; align-items: flex-start;">
+                        <i data-lucide="alert-triangle" style="width:20px; height: 20px; flex-shrink:0;"></i>
+                        <div>
+                            <strong>Action Required</strong><br>
+                            ⚠️ Found 'F' in <strong>Data Structures</strong>. Have you retaken it in the summer?
+                        </div>
+                    </div>
+
                     <div class="kpi-grid">
                         <div class="kpi-card">
                             <div class="kpi-header">
-                                <span class="kpi-title">Core Courses</span>
+                                <span class="kpi-title">Major Courses (วิชาเอก)</span>
                                 <div class="kpi-icon blue"><i data-lucide="book-open"></i></div>
                             </div>
-                            <div class="kpi-value">48 / 60</div>
-                            <div class="progress-track"><div class="progress-fill" style="background:#3b82f6; width: 80%;"></div></div>
+                            <div class="kpi-value">60 / 72</div>
+                            <div class="progress-track"><div class="progress-fill" style="background:#3b82f6; width: 83%;"></div></div>
                         </div>
                         <div class="kpi-card">
                             <div class="kpi-header">
-                                <span class="kpi-title">Major Electives</span>
+                                <span class="kpi-title">Minor/Free Electives (วิชาโท/เลือกเสรี)</span>
                                 <div class="kpi-icon purple"><i data-lucide="layers"></i></div>
                             </div>
-                            <div class="kpi-value">9 / 15</div>
-                            <div class="progress-track"><div class="progress-fill" style="background:#8b5cf6; width: 60%;"></div></div>
+                            <div class="kpi-value">15 / 30</div>
+                            <div class="progress-track"><div class="progress-fill" style="background:#8b5cf6; width: 50%;"></div></div>
                         </div>
                         <div class="kpi-card">
                             <div class="kpi-header">
