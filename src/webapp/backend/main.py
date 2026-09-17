@@ -67,6 +67,24 @@ def init_gemini_and_model():
 
 MODEL_NAME = init_gemini_and_model()
 
+ALL_MINORS = []
+MINOR_COURSES_MAP = {}
+if MINOR_JSON:
+    for fac in MINOR_JSON:
+        for prog in fac.get("programs", []):
+            for m in prog.get("minors", []):
+                m_name = m.get("minor_name", "")
+                if m_name not in MINOR_COURSES_MAP:
+                    ALL_MINORS.append(m_name)
+                    MINOR_COURSES_MAP[m_name] = []
+                for g in m.get("courses_list", []):
+                    for c in g.get("courses", []):
+                        if str(c).isdigit() and len(str(c)) == 6:
+                            MINOR_COURSES_MAP[m_name].append(str(c))
+    # Remove duplicates from lists
+    for m in MINOR_COURSES_MAP:
+        MINOR_COURSES_MAP[m] = list(set(MINOR_COURSES_MAP[m]))
+
 # --- Endpoints ---
 @app.get("/api/ping")
 def ping():
@@ -88,25 +106,7 @@ def get_courses():
 def get_minors():
     if not MINOR_JSON:
         raise HTTPException(status_code=500, detail="Data not loaded")
-    all_minors = []
-    minor_courses_map = {}
-    for fac in MINOR_JSON:
-        for prog in fac.get("programs", []):
-            for m in prog.get("minors", []):
-                m_name = m.get("minor_name", "")
-                if m_name not in minor_courses_map:
-                    all_minors.append(m_name)
-                    minor_courses_map[m_name] = []
-                for g in m.get("courses_list", []):
-                    for c in g.get("courses", []):
-                        if str(c).isdigit() and len(str(c)) == 6:
-                            minor_courses_map[m_name].append(str(c))
-    
-    # Remove duplicates from lists
-    for m in minor_courses_map:
-        minor_courses_map[m] = list(set(minor_courses_map[m]))
-        
-    return {"minors": all_minors, "minor_courses_map": minor_courses_map}
+    return {"minors": ALL_MINORS, "minor_courses_map": MINOR_COURSES_MAP}
 
 @app.get("/api/study-plan/{year}/{term}")
 def get_study_plan(year: int, term: int):
@@ -176,6 +176,13 @@ Your objective is to analyze student transcripts (provided as images or text), a
 #### 1. Image & Transcript Analysis
 If the user uploads images of their transcript, you MUST extract ALL passed courses, grades, and total accumulated credits. Use this data to determine their Year Standing (e.g. 1st year = 0-30 credits, 2nd year = 31-60 credits, etc.).
 
+**Minor & Free Elective Inference Logic:**
+When parsing the transcript, pay close attention to courses that are NOT part of the core Data Science major curriculum. 
+- Cross-reference these non-major courses with the `[MINOR CURRICULUM DB]` below.
+- If you notice a pattern (e.g., the student has taken multiple Economics courses like 751101, 751102, or Business courses like 703103), you MUST **infer** that the student is pursuing that Minor.
+- Allocate the credits from these inferred minor courses into the `"major_elec_minor_credits"` bucket (up to 15 credits, as Minor usually requires 15 credits).
+- If there are remaining non-major courses that don't fit into the inferred minor, allocate those credits to the `"free_credits"` bucket.
+
 #### 2. Strict JSON State Output
 Whenever you process a transcript or the user provides courses they have passed, you MUST include a hidden JSON block at the VERY END of your response. This JSON will be parsed by the frontend to update the Dashboard UI. 
 Format it EXACTLY like this:
@@ -195,9 +202,9 @@ Example:
 {{
   "ge_credits": 15,
   "major_req_credits": 30,
-  "major_elec_minor_credits": 0,
+  "major_elec_minor_credits": 6,
   "free_credits": 3,
-  "passed_courses": ["206111", "204100", "001101"],
+  "passed_courses": ["206111", "204100", "001101", "751101", "751102", "703103"],
   "year_standing": "2",
   "alert": "Found F in 204100 IT and Modern Life. Have you retaken it?"
 }}
@@ -214,12 +221,16 @@ When summarizing a student's transcript and recommending courses, adopt a friend
 1. **Warm Greeting & Status:** Summarize their current status (e.g., "ยินดีด้วยครับ! จากการตรวจสอบผลการเรียน คุณผ่านไปแล้ว X หน่วยกิต เรดเฉลี่ยสะสม Y.YY และกำลังจะขึ้นชั้นปีที่ Z").
 2. **Category Breakdown:** Group recommendations by category (e.g., Major Compulsory, Major Electives, Free Electives). For each recommended course, explicitly state the prerequisite condition they have met (e.g., "เงื่อนไข: ผ่าน 204252 แล้ว").
 3. **Credit Summary:** Summarize the total recommended credits.
-4. **Schedule Table:** Finally, output the Markdown schedule table.
+4. **Minor Suggestions:** If you inferred a potential Minor from their past courses, explicitly suggest continuing that Minor and recommend the next logical courses for it!
+5. **Schedule Table:** Finally, output the Markdown schedule table.
 
 **IMPORTANT:** Always respond to the user in **Thai language** (except for English course names or technical terms).
 
 [DATA SCIENCE CURRICULUM DB (2567)]
 {MAJOR_DB_STR}
+
+[MINOR CURRICULUM DB (Available Minors & Courses)]
+{MINOR_COURSES_MAP}
 
 [CLASS SCHEDULE DB (2567)]
 {relevant_schedule}
