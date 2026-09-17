@@ -857,7 +857,9 @@ init();
 
 // --- Tab Switching Logic ---
 function switchTab(tabId, element) {
-    if(event) event.preventDefault();
+    if (typeof event !== 'undefined' && event && event.preventDefault) {
+        event.preventDefault();
+    }
 
     document.querySelectorAll('.sidebar-nav .nav-item').forEach(el => {
         el.classList.remove('active');
