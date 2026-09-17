@@ -181,8 +181,10 @@ Whenever you process a transcript or the user provides courses they have passed,
 Format it EXACTLY like this:
 ```json_state
 {{
-  "major_credits": <number>,
-  "minor_free_credits": <number>,
+  "ge_credits": <number>,
+  "major_req_credits": <number>,
+  "major_elec_minor_credits": <number>,
+  "free_credits": <number>,
   "passed_courses": ["<course_code>", "<course_code>"],
   "year_standing": "<1, 2, 3, or 4>",
   "alert": "<string: ONLY if they have F/W grade, e.g. 'Found F in Data Structures. Have you retaken it in the summer?'>"
@@ -191,10 +193,12 @@ Format it EXACTLY like this:
 Example:
 ```json_state
 {{
-  "major_credits": 21,
-  "minor_free_credits": 6,
+  "ge_credits": 15,
+  "major_req_credits": 30,
+  "major_elec_minor_credits": 0,
+  "free_credits": 3,
   "passed_courses": ["206111", "204100", "001101"],
-  "year_standing": "1",
+  "year_standing": "2",
   "alert": "Found F in 204100 IT and Modern Life. Have you retaken it?"
 }}
 ```

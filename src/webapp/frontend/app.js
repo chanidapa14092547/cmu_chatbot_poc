@@ -515,21 +515,37 @@ function parseAIState(text) {
     if (match && match[1]) {
         try {
             const state = JSON.parse(match[1]);
-            // Update Dashboard UI
-            if (state.major_credits !== undefined) {
-                const majorCard = document.querySelectorAll('.kpi-card')[0];
-                if (majorCard) {
-                    majorCard.querySelector('.kpi-value').textContent = `${state.major_credits} / 72`;
-                    const percent = Math.min(100, Math.round((state.major_credits / 72) * 100));
-                    majorCard.querySelector('.progress-fill').style.width = `${percent}%`;
+            // Update Dashboard UI (4 Categories)
+            if (state.ge_credits !== undefined) {
+                const card = document.querySelectorAll('.kpi-card')[0];
+                if (card) {
+                    card.querySelector('.kpi-value').textContent = `${state.ge_credits} / 30`;
+                    const percent = Math.min(100, Math.round((state.ge_credits / 30) * 100));
+                    card.querySelector('.progress-fill').style.width = `${percent}%`;
                 }
             }
-            if (state.minor_free_credits !== undefined) {
-                const minorCard = document.querySelectorAll('.kpi-card')[1];
-                if (minorCard) {
-                    minorCard.querySelector('.kpi-value').textContent = `${state.minor_free_credits} / 30`;
-                    const percent = Math.min(100, Math.round((state.minor_free_credits / 30) * 100));
-                    minorCard.querySelector('.progress-fill').style.width = `${percent}%`;
+            if (state.major_req_credits !== undefined) {
+                const card = document.querySelectorAll('.kpi-card')[1];
+                if (card) {
+                    card.querySelector('.kpi-value').textContent = `${state.major_req_credits} / 66`;
+                    const percent = Math.min(100, Math.round((state.major_req_credits / 66) * 100));
+                    card.querySelector('.progress-fill').style.width = `${percent}%`;
+                }
+            }
+            if (state.major_elec_minor_credits !== undefined) {
+                const card = document.querySelectorAll('.kpi-card')[2];
+                if (card) {
+                    card.querySelector('.kpi-value').textContent = `${state.major_elec_minor_credits} / 18`;
+                    const percent = Math.min(100, Math.round((state.major_elec_minor_credits / 18) * 100));
+                    card.querySelector('.progress-fill').style.width = `${percent}%`;
+                }
+            }
+            if (state.free_credits !== undefined) {
+                const card = document.querySelectorAll('.kpi-card')[3];
+                if (card) {
+                    card.querySelector('.kpi-value').textContent = `${state.free_credits} / 6`;
+                    const percent = Math.min(100, Math.round((state.free_credits / 6) * 100));
+                    card.querySelector('.progress-fill').style.width = `${percent}%`;
                 }
             }
             if (state.passed_courses) {
