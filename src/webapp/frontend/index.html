@@ -155,13 +155,16 @@
                                     <div class="bubble">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
                                 </div>
                             </div>
-                            <div class="chat-input-area">
-                                <label for="chat-attachment" class="icon-btn" style="background: var(--zinc-100); color: var(--zinc-600); cursor: pointer;">
-                                    <i data-lucide="paperclip" style="width:16px;"></i>
-                                </label>
-                                <input type="file" id="chat-attachment" accept="image/*,.pdf" style="display: none;">
-                                <input type="text" id="chat-input" placeholder="e.g., No Monday morning classes, prefer free Friday...">
-                                <button id="send-btn" class="icon-btn"><i data-lucide="send" style="width:16px;"></i></button>
+                            <div style="border-top: 1px solid var(--border-color);">
+                                <div id="chat-file-preview" style="display: flex; gap: 5px; padding: 0.5rem 1rem 0; flex-wrap: wrap;"></div>
+                                <div class="chat-input-area" style="border-top: none;">
+                                    <label for="chat-attachment" class="icon-btn" style="background: var(--zinc-100); color: var(--zinc-600); cursor: pointer;">
+                                        <i data-lucide="paperclip" style="width:16px;"></i>
+                                    </label>
+                                    <input type="file" id="chat-attachment" accept="image/*,.pdf" multiple style="display: none;">
+                                    <input type="text" id="chat-input" placeholder="e.g., No Monday morning classes, prefer free Friday...">
+                                    <button id="send-btn" class="icon-btn"><i data-lucide="send" style="width:16px;"></i></button>
+                                </div>
                             </div>
                         </div>
 
@@ -181,7 +184,7 @@
                             <label for="transcript-upload" class="primary-btn" style="margin-top: 0; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;">
                                 <i data-lucide="upload-cloud" style="width:16px;"></i> Upload Transcript
                             </label>
-                            <input type="file" id="transcript-upload" accept="image/*,.pdf" style="display: none;">
+                            <input type="file" id="transcript-upload" accept="image/*,.pdf" multiple style="display: none;">
                         </div>
                     </div>
 

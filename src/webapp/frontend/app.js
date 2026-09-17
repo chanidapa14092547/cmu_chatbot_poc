@@ -410,10 +410,94 @@ function exportTableToCSV(table, filename) {
     document.body.removeChild(downloadLink);
 }
 
+// --- File Upload UI Mocking ---
+let selectedChatFiles = [];
+
+const chatAttachmentInput = document.getElementById('chat-attachment');
+const chatFilePreview = document.getElementById('chat-file-preview');
+
+if(chatAttachmentInput) {
+    chatAttachmentInput.addEventListener('change', (e) => {
+        selectedChatFiles = Array.from(e.target.files);
+        renderChatFilePreview();
+    });
+}
+
+function renderChatFilePreview() {
+    if (!chatFilePreview) return;
+    chatFilePreview.innerHTML = '';
+    selectedChatFiles.forEach((file, index) => {
+        const badge = document.createElement('div');
+        badge.style.cssText = 'background: #e0e7ff; color: #4338ca; font-size: 0.75rem; padding: 4px 8px; border-radius: 4px; display: flex; align-items: center; gap: 4px;';
+        
+        const nameSpan = document.createElement('span');
+        nameSpan.textContent = file.name;
+        
+        const closeBtn = document.createElement('i');
+        closeBtn.setAttribute('data-lucide', 'x');
+        closeBtn.style.cssText = 'width: 12px; height: 12px; cursor: pointer;';
+        closeBtn.onclick = () => {
+            selectedChatFiles.splice(index, 1);
+            // Reset input so the same file can be re-selected if needed
+            if (selectedChatFiles.length === 0 && chatAttachmentInput) chatAttachmentInput.value = '';
+            renderChatFilePreview();
+        };
+        
+        badge.appendChild(nameSpan);
+        badge.appendChild(closeBtn);
+        chatFilePreview.appendChild(badge);
+    });
+    lucide.createIcons();
+}
+
+const transcriptUploadInput = document.getElementById('transcript-upload');
+if (transcriptUploadInput) {
+    transcriptUploadInput.addEventListener('change', (e) => {
+        const files = e.target.files;
+        if (files && files.length > 0) {
+            const uploadZone = document.getElementById('upload-zone');
+            if (uploadZone) {
+                const originalHTML = uploadZone.innerHTML;
+                uploadZone.innerHTML = `<div style="color: #4338ca; display: flex; flex-direction: column; align-items: center;"><i data-lucide="loader" style="width: 32px; height: 32px; animation: spin 2s linear infinite;"></i><p style="margin-top: 10px; font-weight: 500;">AI กำลังประมวลผล Transcript ${files.length} ไฟล์...</p></div>`;
+                lucide.createIcons();
+                
+                // Add a spin animation if not exists
+                if (!document.getElementById('spin-keyframes')) {
+                    const style = document.createElement('style');
+                    style.id = 'spin-keyframes';
+                    style.innerHTML = `@keyframes spin { 100% { transform: rotate(360deg); } }`;
+                    document.head.appendChild(style);
+                }
+
+                // Simulate processing delay
+                setTimeout(() => {
+                    uploadZone.innerHTML = `<div style="color: #10b981; display: flex; flex-direction: column; align-items: center;"><i data-lucide="check-circle" style="width: 32px; height: 32px;"></i><p style="margin-top: 10px; font-weight: 500;">อัปเดตข้อมูลเข้าระบบเรียบร้อยแล้ว!</p></div>`;
+                    lucide.createIcons();
+                    setTimeout(() => {
+                        uploadZone.innerHTML = originalHTML;
+                        lucide.createIcons();
+                    }, 3000);
+                }, 2000);
+            }
+        }
+    });
+}
+
 async function sendChat(messageText) {
-    if (!messageText.trim()) return;
+    let finalMessage = messageText;
     
-    appendMessage('user', messageText);
+    // Append attached file info visually and to the prompt
+    if (selectedChatFiles.length > 0) {
+        const fileNames = selectedChatFiles.map(f => f.name).join(", ");
+        finalMessage += `\n[Attached Files: ${fileNames}]`;
+        selectedChatFiles = [];
+        renderChatFilePreview();
+        if (chatAttachmentInput) chatAttachmentInput.value = '';
+    }
+
+    if (!finalMessage.trim()) return;
+    
+    appendMessage('user', finalMessage);
     chatInput.value = '';
     
     const loadingDiv = document.createElement('div');
@@ -427,7 +511,7 @@ async function sendChat(messageText) {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                message: messageText,
+                message: finalMessage,
                 history: chatMessages.slice(0, -1) // Exclude the message we just added
             })
         });
