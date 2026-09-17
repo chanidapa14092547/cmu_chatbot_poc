@@ -460,9 +460,6 @@ function exportTableToCSV(table, filename) {
     document.body.removeChild(downloadLink);
 }
 
-// --- Global State ---
-let globalPassedCourses = [];
-
 // --- File Handling Helpers ---
 function getBase64(file) {
     return new Promise((resolve, reject) => {
