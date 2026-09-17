@@ -515,39 +515,83 @@ function parseAIState(text) {
     if (match && match[1]) {
         try {
             const state = JSON.parse(match[1]);
-            // Update Dashboard UI (4 Categories)
+            // Update Dashboard UI (Grouped List View)
             if (state.ge_credits !== undefined) {
-                const card = document.querySelectorAll('.kpi-card')[0];
-                if (card) {
-                    card.querySelector('.kpi-value').textContent = `${state.ge_credits} / 30`;
-                    const percent = Math.min(100, Math.round((state.ge_credits / 30) * 100));
-                    card.querySelector('.progress-fill').style.width = `${percent}%`;
-                }
+                const percent = Math.min(100, Math.round((state.ge_credits / 30) * 100));
+                document.getElementById('ge-score').textContent = `${state.ge_credits} / 30`;
+                document.getElementById('ge-fill').style.width = `${percent}%`;
+                document.getElementById('ge-rem').textContent = `${Math.max(0, 30 - state.ge_credits)} credits remaining`;
+                
+                // Estimate sub-categories for visual completeness
+                const reqGe = Math.min(21, state.ge_credits);
+                const elecGe = Math.max(0, state.ge_credits - 21);
+                document.getElementById('ge-req-score').textContent = `${reqGe} / 21`;
+                document.getElementById('ge-req-fill').style.width = `${Math.round((reqGe/21)*100)}%`;
+                document.getElementById('ge-req-rem').textContent = `${21 - reqGe} credits remaining`;
+                document.getElementById('ge-elec-score').textContent = `${elecGe} / 9`;
+                document.getElementById('ge-elec-fill').style.width = `${Math.round((elecGe/9)*100)}%`;
+                document.getElementById('ge-elec-rem').textContent = `${9 - elecGe} credits remaining`;
             }
+
             if (state.major_req_credits !== undefined) {
-                const card = document.querySelectorAll('.kpi-card')[1];
-                if (card) {
-                    card.querySelector('.kpi-value').textContent = `${state.major_req_credits} / 66`;
-                    const percent = Math.min(100, Math.round((state.major_req_credits / 66) * 100));
-                    card.querySelector('.progress-fill').style.width = `${percent}%`;
-                }
+                const percent = Math.min(100, Math.round((state.major_req_credits / 62) * 100)); // 27 core + 35 comp = 62
+                
+                // Core 27
+                const core = Math.min(27, state.major_req_credits);
+                document.getElementById('core-score').textContent = `${core} / 27`;
+                document.getElementById('core-fill').style.width = `${Math.round((core/27)*100)}%`;
+                document.getElementById('core-rem').textContent = `${27 - core} credits remaining`;
+
+                // Major Comp 35
+                const comp = Math.max(0, state.major_req_credits - 27);
+                document.getElementById('major-comp-score').textContent = `${comp} / 35`;
+                document.getElementById('major-comp-fill').style.width = `${Math.round((comp/35)*100)}%`;
+                document.getElementById('major-comp-rem').textContent = `${35 - comp} credits remaining`;
             }
+
             if (state.major_elec_minor_credits !== undefined) {
-                const card = document.querySelectorAll('.kpi-card')[2];
-                if (card) {
-                    card.querySelector('.kpi-value').textContent = `${state.major_elec_minor_credits} / 18`;
-                    const percent = Math.min(100, Math.round((state.major_elec_minor_credits / 18) * 100));
-                    card.querySelector('.progress-fill').style.width = `${percent}%`;
-                }
+                // Major Elective 24
+                const elec = Math.min(24, state.major_elec_minor_credits);
+                document.getElementById('major-elec-score').textContent = `${elec} / 24`;
+                document.getElementById('major-elec-fill').style.width = `${Math.round((elec/24)*100)}%`;
+                document.getElementById('major-elec-rem').textContent = `${24 - elec} credits remaining`;
             }
+
             if (state.free_credits !== undefined) {
-                const card = document.querySelectorAll('.kpi-card')[3];
-                if (card) {
-                    card.querySelector('.kpi-value').textContent = `${state.free_credits} / 6`;
-                    const percent = Math.min(100, Math.round((state.free_credits / 6) * 100));
-                    card.querySelector('.progress-fill').style.width = `${percent}%`;
-                }
+                const percent = Math.min(100, Math.round((state.free_credits / 6) * 100));
+                document.getElementById('free-score').textContent = `${state.free_credits} / 6`;
+                document.getElementById('free-fill').style.width = `${percent}%`;
+                document.getElementById('free-rem').textContent = `${Math.max(0, 6 - state.free_credits)} credits remaining`;
             }
+
+            // Calculate Total Credits
+            const ge = state.ge_credits || 0;
+            const req = state.major_req_credits || 0;
+            const elecMinor = state.major_elec_minor_credits || 0;
+            const free = state.free_credits || 0;
+            const total = ge + req + elecMinor + free;
+            
+            const totalPercent = Math.min(100, Math.round((total / 137) * 100));
+            document.getElementById('total-score').textContent = `${total} / 137`;
+            document.getElementById('total-fill').style.width = `${totalPercent}%`;
+            document.getElementById('total-rem').textContent = `${Math.max(0, 137 - total)} credits remaining`;
+            
+            // Check statuses
+            document.querySelectorAll('.item-score').forEach(el => {
+                const [val, max] = el.textContent.split(' / ').map(Number);
+                const statusEl = el.closest('.progress-item').querySelector('.item-status');
+                if (statusEl) {
+                    if (val >= max) {
+                        statusEl.textContent = 'COMPLETE';
+                        statusEl.className = 'item-status complete';
+                    } else if (statusEl.textContent === 'OPTION REQUIRED') {
+                        // keep option required
+                    } else {
+                        statusEl.textContent = 'INCOMPLETE';
+                        statusEl.className = 'item-status incomplete';
+                    }
+                }
+            });
             if (state.passed_courses) {
                 globalPassedCourses = state.passed_courses;
             }

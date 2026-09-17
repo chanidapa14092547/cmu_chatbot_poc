@@ -486,3 +486,96 @@ th {
     background: var(--zinc-100);
     font-weight: 600;
 }
+
+/* Progress Groups UI (Matches Screenshots) */
+.progress-groups-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+.progress-group-card {
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
+}
+.group-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 1.5rem;
+    margin-top: 0;
+}
+.progress-item {
+    margin-bottom: 1.25rem;
+}
+.progress-item:last-child {
+    margin-bottom: 0;
+}
+.progress-item.sub-item {
+    padding-left: 1.25rem;
+    position: relative;
+    margin-top: -0.25rem;
+}
+.progress-item.sub-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: -10px;
+    bottom: 0;
+    width: 2px;
+    background: #e5e7eb;
+    border-radius: 2px;
+}
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.35rem;
+}
+.item-name {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #111827;
+}
+.item-status {
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+.item-status.incomplete {
+    background: #fef2f2;
+    color: #ef4444;
+}
+.item-status.option {
+    background: #eff6ff;
+    color: #3b82f6;
+}
+.item-status.complete {
+    background: #f0fdf4;
+    color: #10b981;
+}
+.item-details {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin-bottom: 0.5rem;
+}
+.progress-track {
+    height: 6px;
+    background: #f3f4f6;
+    border-radius: 3px;
+    overflow: hidden;
+}
+.progress-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: #374151; /* Dark Gray for the fill */
+    transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
