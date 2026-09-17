@@ -184,7 +184,8 @@ Format it EXACTLY like this:
   "major_credits": <number>,
   "minor_free_credits": <number>,
   "passed_courses": ["<course_code>", "<course_code>"],
-  "year_standing": "<1, 2, 3, or 4>"
+  "year_standing": "<1, 2, 3, or 4>",
+  "alert": "<string: ONLY if they have F/W grade, e.g. 'Found F in Data Structures. Have you retaken it in the summer?'>"
 }}
 ```
 Example:
@@ -193,7 +194,8 @@ Example:
   "major_credits": 21,
   "minor_free_credits": 6,
   "passed_courses": ["206111", "204100", "001101"],
-  "year_standing": "1"
+  "year_standing": "1",
+  "alert": "Found F in 204100 IT and Modern Life. Have you retaken it?"
 }}
 ```
 

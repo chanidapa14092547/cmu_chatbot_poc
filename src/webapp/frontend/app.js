@@ -539,6 +539,17 @@ function parseAIState(text) {
                 const ysEl = document.getElementById('year-select');
                 if(ysEl) ysEl.value = state.year_standing;
             }
+            if (state.alert) {
+                const alertBox = document.getElementById('curriculum-alert');
+                const alertText = document.getElementById('curriculum-alert-text');
+                if (alertBox && alertText) {
+                    alertText.innerHTML = `<strong>Action Required</strong><br>⚠️ ${state.alert}`;
+                    alertBox.style.display = 'flex';
+                }
+            } else {
+                const alertBox = document.getElementById('curriculum-alert');
+                if (alertBox) alertBox.style.display = 'none';
+            }
         } catch (e) {
             console.error("Error parsing JSON state:", e);
         }
