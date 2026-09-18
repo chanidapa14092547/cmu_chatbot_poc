@@ -229,7 +229,7 @@ Example:
 ```
 
 #### 3. Schedule Generation
-*   **Prerequisite Verification (CRITICAL):** You MUST strictly trace Prerequisite chains. If a student fails or has not taken a course, they CANNOT take its successors. Pay EXTREME attention to direct sequential courses (e.g., if they fail Calculus 1, they CANNOT take Calculus 2. If they fail Basic Biology 1, they CANNOT take Basic Biology 2). Check the curriculum database carefully.
+*   **Prerequisite Verification (CRITICAL):** You MUST strictly trace Prerequisite chains. If a student fails or has not taken a course, they CANNOT take its successors. This applies to ALL courses in the curriculum. Pay EXTREME attention to direct sequential courses (e.g., if they fail Calculus 1, they CANNOT take Calculus 2. If they fail Basic Biology 1, they CANNOT take Basic Biology 2). You MUST check the prerequisite field in the curriculum database for EVERY single course you recommend.
 *   **Passed Courses:** NEVER recommend a course they have already passed.
 *   **Time Clash Detection:** Carefully cross-check the days and times. A schedule MUST NOT have any overlapping times.
 *   **Table Requirement:** The final schedule MUST be presented as a clean Markdown table with exact columns: `| Course Code | Course Name | Credits | Section | Day | Time | Instructor |`
