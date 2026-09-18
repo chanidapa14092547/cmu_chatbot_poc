@@ -139,7 +139,7 @@ function renderStudyPlan(planItems) {
         if (ph.includes("Minor") || ph.includes("Major Electives")) {
             // Minor or Major Elective Selection Logic
             const label = document.createElement('label');
-            label.textContent = `หมวด ${short_name} ${req_text}: เลือกแขนงวิชาโท หรือ เอกเลือก:`;
+            label.textContent = window.t("minor-label", {name: short_name, req: req_text});
             groupDiv.appendChild(label);
 
             const minorSelect = document.createElement('select');

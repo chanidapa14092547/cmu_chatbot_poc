@@ -79,11 +79,11 @@
                         <!-- Left Panel: Scheduler Settings -->
                         <div class="panel-card">
                             <div class="panel-header">
-                                <h2>🛠️ Quick Scheduler</h2>
+                                <h2 data-i18n="quick-sched">🛠️ Quick Scheduler</h2>
                             </div>
                             <div class="panel-body">
                                 <div class="form-group">
-                                    <label for="year-select">Academic Year</label>
+                                    <label for="year-select" data-i18n="lbl-year">Academic Year</label>
                                     <select id="year-select">
                                         <option value="1">1</option>
                                         <option value="2">2</option>
@@ -92,7 +92,7 @@
                                     </select>
                                 </div>
                                 <div class="form-group">
-                                    <label for="term-select">Term</label>
+                                    <label for="term-select" data-i18n="lbl-term">Term</label>
                                     <select id="term-select">
                                         <option value="1">1</option>
                                         <option value="2">2</option>
@@ -101,7 +101,7 @@
                                 </div>
 
                                 <div class="form-group" id="major-track-container">
-                                    <label for="major-track">Focus Area (กลุ่มวิชาเอก)</label>
+                                    <label for="major-track" data-i18n="lbl-track">Focus Area (กลุ่มวิชาเอก)</label>
                                     <select id="major-track">
                                         <option value="Mathematics">Mathematics (คณิตศาสตร์)</option>
                                         <option value="Statistics">Statistics (สถิติ)</option>
@@ -114,8 +114,8 @@
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="time-constraints">Time Constraints</label>
-                                    <input type="text" id="time-constraints" placeholder="e.g. No Monday morning">
+                                    <label for="time-constraints" data-i18n="lbl-time">Time Constraints</label>
+                                    <input type="text" id="time-constraints" data-i18n="plh-time" placeholder="e.g. No Monday morning">
                                 </div>
 
                                 <button id="generate-btn" class="primary-btn">
@@ -329,7 +329,7 @@
     <script>
         lucide.createIcons(); // Initialize icons
     </script>
-    <script src="i18n.js?v=3"></script>
-    <script src="app.js?v=2"></script>
+    <script src="i18n.js?v=4"></script>
+    <script src="app.js?v=3"></script>
 </body>
 </html>

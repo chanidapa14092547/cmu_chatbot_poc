@@ -5,6 +5,15 @@ const i18n = {
         "header-title-next": "Next Semester",
         "header-title-curr": "Curriculum Progress",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
+        "quick-sched": "🛠️ Quick Scheduler",
+        "lbl-year": "Academic Year",
+        "lbl-term": "Term",
+        "lbl-track": "Focus Area (Track)",
+        "lbl-time": "Time Constraints",
+        "plh-time": "e.g., No Monday morning",
+        "minor-label": "{name} category ({req}): Select Minor or Major Elective:",
+        "minor-none": "Major Electives (No Minor)",
+
         
         "chat-title": "AI Advisor Chat",
         "chat-greeting": "Hello! I am your AI Academic Advisor for the Data Science track at CMU.<br><br>I'm here to provide guidance, recommend courses, check graduation requirements, and help you plan your schedule! Select your courses on the left or type your questions below.",
@@ -60,6 +69,15 @@ const i18n = {
         "header-title-next": "จัดตารางเรียนเทอมถัดไป",
         "header-title-curr": "ความคืบหน้าหลักสูตร",
         "btn-lang": "🇬🇧 Switch to English",
+        "quick-sched": "🛠️ จัดตารางแบบด่วน",
+        "lbl-year": "ชั้นปีที่",
+        "lbl-term": "เทอม",
+        "lbl-track": "แขนงวิชาเอก (Track)",
+        "lbl-time": "เงื่อนไขเวลา",
+        "plh-time": "เช่น ไม่เรียนเช้าวันจันทร์",
+        "minor-label": "หมวด {name} ({req}): เลือกแขนงวิชาโท หรือ เอกเลือก:",
+        "minor-none": "เลือกเป็นเอกเลือก (ไม่ลงโท)",
+
         
         "chat-title": "ผู้ช่วย AI จัดตารางเรียน",
         "chat-greeting": "สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ",
