@@ -146,10 +146,20 @@ function updateLanguage() {
     document.querySelectorAll('[data-i18n]').forEach(el => {
         const key = el.getAttribute('data-i18n');
         if (i18n[currentLang][key]) {
-            if (el.tagName === 'INPUT' && el.type === 'text') {
-                el.placeholder = i18n[currentLang][key];
+            let text = i18n[currentLang][key];
+            const args = el.getAttribute('data-i18n-args');
+            if (args) {
+                try {
+                    const parsedArgs = JSON.parse(args.replace(/&quot;/g, '"'));
+                    for (const [k, v] of Object.entries(parsedArgs)) {
+                        text = text.replace(`{${k}}`, v);
+                    }
+                } catch(e) {}
+            }
+            if (el.tagName.toLowerCase() === 'input' && el.type === 'text') {
+                el.placeholder = text;
             } else {
-                el.innerHTML = i18n[currentLang][key];
+                el.innerHTML = text;
             }
         }
     });

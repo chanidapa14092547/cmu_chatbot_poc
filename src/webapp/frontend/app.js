@@ -118,6 +118,7 @@ function renderStudyPlan(planItems) {
 
     const title = document.createElement('h3');
     title.textContent = window.t("courses-to-select");
+    title.setAttribute('data-i18n', 'courses-to-select');
     title.style.fontSize = '0.95rem';
     title.style.marginTop = '10px';
     title.style.color = 'var(--brand-600)';
@@ -140,6 +141,8 @@ function renderStudyPlan(planItems) {
             // Minor or Major Elective Selection Logic
             const label = document.createElement('label');
             label.textContent = window.t("minor-label", {name: short_name, req: req_text});
+            label.setAttribute('data-i18n', 'minor-label');
+            label.setAttribute('data-i18n-args', JSON.stringify({name: short_name, req: req_text}));
             groupDiv.appendChild(label);
 
             const minorSelect = document.createElement('select');
@@ -181,6 +184,8 @@ function renderStudyPlan(planItems) {
                     const summary = document.createElement('summary');
                     summary.className = 'category-summary';
                     summary.textContent = window.t("major-elec-offered", {req: req_text});
+                    summary.setAttribute('data-i18n', 'major-elec-offered');
+                    summary.setAttribute('data-i18n-args', JSON.stringify({req: req_text}));
                     details.appendChild(summary);
                     coursesContainer.appendChild(details);
                     
@@ -236,6 +241,8 @@ function renderStudyPlan(planItems) {
                         const summaryMinor = document.createElement('summary');
                         summaryMinor.className = 'category-summary';
                         summaryMinor.textContent = window.t("minor-offered", {minor: selectedMinor, req: req_text});
+                        summaryMinor.setAttribute('data-i18n', 'minor-offered');
+                        summaryMinor.setAttribute('data-i18n-args', JSON.stringify({minor: selectedMinor, req: req_text}));
                         detailsMinor.appendChild(summaryMinor);
                         coursesContainer.appendChild(detailsMinor);
                         
@@ -279,6 +286,8 @@ function renderStudyPlan(planItems) {
             const summaryStandalone = document.createElement('summary');
             summaryStandalone.className = 'category-summary';
             summaryStandalone.textContent = window.t("cat-req", {name: short_name, req: req_text});
+            summaryStandalone.setAttribute('data-i18n', 'cat-req');
+            summaryStandalone.setAttribute('data-i18n-args', JSON.stringify({name: short_name, req: req_text}));
             detailsStandalone.appendChild(summaryStandalone);
             groupDiv.appendChild(detailsStandalone);
             
@@ -325,12 +334,15 @@ function renderStudyPlan(planItems) {
             // Free Elective (Text input)
             const label = document.createElement('label');
             label.textContent = window.t("cat-req", {name: short_name, req: req_text});
+            label.setAttribute('data-i18n', 'cat-req');
+            label.setAttribute('data-i18n-args', JSON.stringify({name: short_name, req: req_text}));
             groupDiv.appendChild(label);
 
             const input = document.createElement('input');
             input.type = 'text';
             input.id = `reg_txt_${i}`;
             input.placeholder = window.t("free-elec-placeholder");
+            input.setAttribute('data-i18n', 'free-elec-placeholder');
             groupDiv.appendChild(input);
         } else {
             // General Education or other categories with specific course lists
@@ -339,6 +351,8 @@ function renderStudyPlan(planItems) {
             const summaryGe = document.createElement('summary');
             summaryGe.className = 'category-summary';
             summaryGe.textContent = window.t("cat-req", {name: short_name, req: req_text});
+            summaryGe.setAttribute('data-i18n', 'cat-req');
+            summaryGe.setAttribute('data-i18n-args', JSON.stringify({name: short_name, req: req_text}));
             detailsGe.appendChild(summaryGe);
             groupDiv.appendChild(detailsGe);
             
@@ -369,6 +383,8 @@ function renderStudyPlan(planItems) {
                         // Extract the sub-category name
                         const subName = cat.replace(ph, '').replace(/^\s*\/\s*/, '') || cat;
                         subLabel.textContent = window.t("group-name", {name: subName});
+                        subLabel.setAttribute('data-i18n', 'group-name');
+                        subLabel.setAttribute('data-i18n-args', JSON.stringify({name: subName}));
                         detailsGe.appendChild(subLabel);
                     }
 
@@ -403,6 +419,7 @@ function renderStudyPlan(planItems) {
                 input.type = 'text';
                 input.id = `reg_txt_${i}`;
                 input.placeholder = window.t("free-elec-placeholder2");
+                input.setAttribute('data-i18n', 'free-elec-placeholder2');
                 groupDiv.appendChild(input);
             }
         }
