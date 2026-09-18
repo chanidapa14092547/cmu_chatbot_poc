@@ -117,7 +117,7 @@ function renderStudyPlan(planItems) {
     }
 
     const title = document.createElement('h3');
-    title.textContent = "วิชาที่ต้องเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):";
+    title.textContent = window.t("courses-to-select");
     title.style.fontSize = '0.95rem';
     title.style.marginTop = '10px';
     title.style.color = 'var(--brand-600)';
@@ -402,7 +402,7 @@ function renderStudyPlan(planItems) {
                 const input = document.createElement('input');
                 input.type = 'text';
                 input.id = `reg_txt_${i}`;
-                input.placeholder = "พิมพ์รหัส/ชื่อวิชา หรือเว้นว่างให้ AI แนะนำ";
+                input.placeholder = window.t("free-elec-placeholder2");
                 groupDiv.appendChild(input);
             }
         }

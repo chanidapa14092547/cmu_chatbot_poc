@@ -35,14 +35,17 @@ const i18n = {
         "status-option": "OPTION REQUIRED",
         "credits-remaining": "credits remaining",
         
-        "courses-to-select": "Courses to select this semester",
+        "courses-to-select": "Courses to select this semester (Offered only):",
         "major-elec-offered": "Major Electives offered ({req}):",
         "minor-offered": "Minor {minor} courses offered ({req}):",
-        "cat-req": "{name} category ({req}):",
+        "cat-req": "{name} category {req}:",
         "warn-no-major": "⚠️ No major electives offered this term or none matching your track.",
         "warn-no-minor": "⚠️ No {minor} minor courses offered this term.",
         "warn-no-course": "⚠️ No courses offered",
+        
         "free-elec-placeholder": "Type course code/name (any course)",
+        "free-elec-placeholder2": "Type course code/name, or leave blank for AI to suggest",
+
         "group-name": "▶ Group {name}",
         "passed": "(Passed)",
         "no-core-left": "(No core courses left to take)",
@@ -99,14 +102,17 @@ const i18n = {
         "status-option": "ต้องเลือก",
         "credits-remaining": "หน่วยกิตที่ขาด",
         
-        "courses-to-select": "วิชาที่ต้องเลือกสำหรับเทอมนี้",
+        "courses-to-select": "วิชาที่ต้องเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):",
         "major-elec-offered": "วิชาเอกเลือก (Major Electives) ที่เปิดสอน ({req}):",
         "minor-offered": "รายวิชาโท {minor} ที่เปิดสอนเทอมนี้ ({req}):",
-        "cat-req": "หมวด {name} ({req}):",
+        "cat-req": "หมวด {name} {req}:",
         "warn-no-major": "⚠️ ไม่มีวิชาเอกเลือกเปิดสอนในเทอมนี้ หรือไม่ตรงกับแขนงที่เลือก",
         "warn-no-minor": "⚠️ วิชาโท {minor} ไม่มีวิชาเปิดสอนเทอมนี้เลย",
         "warn-no-course": "⚠️ ไม่มีวิชาเปิดสอน",
+        
         "free-elec-placeholder": "พิมพ์รหัส/ชื่อวิชา (วิชาใดก็ได้)",
+        "free-elec-placeholder2": "พิมพ์รหัส/ชื่อวิชา หรือเว้นว่างให้ AI แนะนำ",
+
         "group-name": "▶ กลุ่ม {name}",
         "passed": "(ผ่านแล้ว)",
         "no-core-left": "(ไม่มีวิชาแกนที่เปิดสอนและยังไม่ผ่าน)",
