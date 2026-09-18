@@ -676,3 +676,39 @@ th {
         display: none;
     }
 }
+
+/* Collapsible Categories */
+details summary.category-summary {
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.4rem;
+    list-style: none; /* Hide default arrow in some browsers to replace it */
+    position: relative;
+    padding-left: 1.2rem;
+    user-select: none;
+}
+details summary.category-summary::-webkit-details-marker {
+    display: none;
+}
+details summary.category-summary::before {
+    content: "▶";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.65rem;
+    color: var(--text-secondary);
+    transition: transform 0.2s ease;
+}
+details[open] summary.category-summary::before {
+    transform: translateY(-50%) rotate(90deg);
+}
+details[open] > .checkbox-list {
+    animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}

@@ -176,9 +176,13 @@ function renderStudyPlan(planItems) {
 
                 if (selectedMinor === "none") {
                     // Show Major Electives as checkboxes based on track
-                    const label2 = document.createElement('label');
-                    label2.textContent = `วิชาเอกเลือก (Major Electives) ที่เปิดสอน ${req_text}:`;
-                    coursesContainer.appendChild(label2);
+                    const details = document.createElement('details');
+                    details.open = true;
+                    const summary = document.createElement('summary');
+                    summary.className = 'category-summary';
+                    summary.textContent = `วิชาเอกเลือก (Major Electives) ที่เปิดสอน ${req_text}:`;
+                    details.appendChild(summary);
+                    coursesContainer.appendChild(details);
                     
                     let filteredMajors = globalCourses.filter(c => {
                         const cat = c.category_or_track || "";
@@ -215,7 +219,7 @@ function renderStudyPlan(planItems) {
                             
                             cbList.appendChild(lbl);
                         });
-                        coursesContainer.appendChild(cbList);
+                        details.appendChild(cbList);
                     } else {
                         coursesContainer.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ ไม่มีวิชาเอกเลือกเปิดสอนในเทอมนี้ หรือไม่ตรงกับแขนงที่เลือก</div>`;
                     }
@@ -227,9 +231,13 @@ function renderStudyPlan(planItems) {
                         .map(c => ({ course_code: c, course_name_en: globalOfferedCourses[c] }));
 
                     if (offeredMinorCourses.length > 0) {
-                        const label2 = document.createElement('label');
-                        label2.textContent = `รายวิชาโท ${selectedMinor} ที่เปิดสอนเทอมนี้ ${req_text}:`;
-                        coursesContainer.appendChild(label2);
+                        const detailsMinor = document.createElement('details');
+                        detailsMinor.open = true;
+                        const summaryMinor = document.createElement('summary');
+                        summaryMinor.className = 'category-summary';
+                        summaryMinor.textContent = `รายวิชาโท ${selectedMinor} ที่เปิดสอนเทอมนี้ ${req_text}:`;
+                        detailsMinor.appendChild(summaryMinor);
+                        coursesContainer.appendChild(detailsMinor);
                         
                         const cbList = document.createElement('div');
                         cbList.className = 'checkbox-list';
@@ -254,7 +262,7 @@ function renderStudyPlan(planItems) {
                             
                             cbList.appendChild(lbl);
                         });
-                        coursesContainer.appendChild(cbList);
+                        detailsMinor.appendChild(cbList);
                     } else {
                         coursesContainer.innerHTML = `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ วิชาโท ${selectedMinor} ไม่มีวิชาเปิดสอนเทอมนี้เลย</div>`;
                     }
@@ -266,9 +274,13 @@ function renderStudyPlan(planItems) {
 
         } else if (ph.includes("Major Elective")) {
             // Standalone Major Elective
-            const label = document.createElement('label');
-            label.textContent = `หมวด ${short_name} ${req_text}:`;
-            groupDiv.appendChild(label);
+            const detailsStandalone = document.createElement('details');
+            detailsStandalone.open = true;
+            const summaryStandalone = document.createElement('summary');
+            summaryStandalone.className = 'category-summary';
+            summaryStandalone.textContent = `หมวด ${short_name} ${req_text}:`;
+            detailsStandalone.appendChild(summaryStandalone);
+            groupDiv.appendChild(detailsStandalone);
             
             const selectedTrack = majorTrackSelect.value;
             let filteredMajors = globalCourses.filter(c => {
@@ -305,7 +317,7 @@ function renderStudyPlan(planItems) {
                     
                     cbList.appendChild(lbl);
                 });
-                groupDiv.appendChild(cbList);
+                detailsStandalone.appendChild(cbList);
             } else {
                 groupDiv.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ ไม่มีวิชาเปิดสอน</div>`;
             }
@@ -322,9 +334,13 @@ function renderStudyPlan(planItems) {
             groupDiv.appendChild(input);
         } else {
             // General Education or other categories with specific course lists
-            const label = document.createElement('label');
-            label.textContent = `หมวด ${short_name} ${req_text}:`;
-            groupDiv.appendChild(label);
+            const detailsGe = document.createElement('details');
+            detailsGe.open = true;
+            const summaryGe = document.createElement('summary');
+            summaryGe.className = 'category-summary';
+            summaryGe.textContent = `หมวด ${short_name} ${req_text}:`;
+            detailsGe.appendChild(summaryGe);
+            groupDiv.appendChild(detailsGe);
             
             let filteredCourses = globalCourses.filter(c => {
                 const cat = c.category_or_track || "";
@@ -353,7 +369,7 @@ function renderStudyPlan(planItems) {
                         // Extract the sub-category name
                         const subName = cat.replace(ph, '').replace(/^\s*\/\s*/, '') || cat;
                         subLabel.textContent = `▶ กลุ่ม ${subName}`;
-                        groupDiv.appendChild(subLabel);
+                        detailsGe.appendChild(subLabel);
                     }
 
                     const cbList = document.createElement('div');
@@ -379,7 +395,7 @@ function renderStudyPlan(planItems) {
                         
                         cbList.appendChild(lbl);
                     });
-                    groupDiv.appendChild(cbList);
+                    detailsGe.appendChild(cbList);
                 });
             } else {
                 // Fallback to text input if no courses found
@@ -736,6 +752,10 @@ async function sendChat(messageText) {
     const loadingDiv = document.createElement('div');
     loadingDiv.className = 'message assistant loading-msg';
     loadingDiv.innerHTML = `<div class="avatar">🤖</div><div class="bubble">กำลังประมวลผล...</div>`;
+    // Auto-switch to chat on mobile
+    if (window.innerWidth <= 768) {
+        switchMobileTab('chat');
+    }
     chatHistory.appendChild(loadingDiv);
     chatHistory.scrollTop = chatHistory.scrollHeight;
     
