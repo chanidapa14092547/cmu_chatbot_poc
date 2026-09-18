@@ -645,3 +645,34 @@ th {
         overflow: auto;
     }
 }
+
+/* Additional Mobile Tabs Styles */
+@media (max-width: 768px) {
+    .mobile-tabs {
+        display: flex !important;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+    }
+    .mobile-tab-btn {
+        flex: 1;
+        padding: 0.75rem;
+        border: none;
+        background: var(--bg-surface);
+        border-radius: var(--radius-md);
+        font-weight: 600;
+        color: var(--text-secondary);
+        border: 1px solid var(--border-color);
+        cursor: pointer;
+    }
+    .mobile-tab-btn.active {
+        background: var(--brand-50);
+        color: var(--brand-600);
+        border-color: var(--brand-200);
+    }
+    .panel-grid.show-chat .panel-card:first-child {
+        display: none;
+    }
+    .panel-grid.show-scheduler .panel-card:last-child {
+        display: none;
+    }
+}

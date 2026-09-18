@@ -884,3 +884,27 @@ function switchTab(tabId, element) {
     }
 }
 
+
+// Mobile Tab Switcher
+function switchMobileTab(tab) {
+    const grid = document.querySelector('.panel-grid');
+    const btns = document.querySelectorAll('.mobile-tab-btn');
+    if (!grid || btns.length < 2) return;
+    
+    if (tab === 'chat') {
+        grid.classList.remove('show-scheduler');
+        grid.classList.add('show-chat');
+        btns[0].classList.remove('active');
+        btns[1].classList.add('active');
+    } else {
+        grid.classList.remove('show-chat');
+        grid.classList.add('show-scheduler');
+        btns[1].classList.remove('active');
+        btns[0].classList.add('active');
+    }
+}
+// Default to showing scheduler on mobile
+document.addEventListener("DOMContentLoaded", () => {
+    const grid = document.querySelector('.panel-grid');
+    if (grid) grid.classList.add('show-scheduler');
+});
