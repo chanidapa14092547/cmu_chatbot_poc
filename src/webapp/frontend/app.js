@@ -571,15 +571,15 @@ function parseAIState(text) {
                 
                 document.getElementById('ge-score').textContent = `${totalGe} / 30`;
                 document.getElementById('ge-fill').style.width = `${Math.round((totalGe/30)*100)}%`;
-                document.getElementById('ge-rem').textContent = `${Math.max(0, 30 - totalGe)} credits remaining`;
+                document.getElementById('ge-rem').textContent = `${Math.max(0, 30 - totalGe)} ${i18n[currentLang]["cat-rem"]}`;
                 
                 document.getElementById('ge-req-score').textContent = `${req} / 21`;
                 document.getElementById('ge-req-fill').style.width = `${Math.round((req/21)*100)}%`;
-                document.getElementById('ge-req-rem').textContent = `${Math.max(0, 21 - req)} credits remaining`;
+                document.getElementById('ge-req-rem').textContent = `${Math.max(0, 21 - req)} ${i18n[currentLang]["cat-rem"]}`;
                 
                 document.getElementById('ge-elec-score').textContent = `${elec} / 9`;
                 document.getElementById('ge-elec-fill').style.width = `${Math.round((elec/9)*100)}%`;
-                document.getElementById('ge-elec-rem').textContent = `${Math.max(0, 9 - elec)} credits remaining`;
+                document.getElementById('ge-elec-rem').textContent = `${Math.max(0, 9 - elec)} ${i18n[currentLang]["cat-rem"]}`;
             }
 
             // Core & Major Compulsory (62 credits)
@@ -587,13 +587,13 @@ function parseAIState(text) {
                 const core = state.core_credits;
                 document.getElementById('core-score').textContent = `${core} / 27`;
                 document.getElementById('core-fill').style.width = `${Math.round((core/27)*100)}%`;
-                document.getElementById('core-rem').textContent = `${Math.max(0, 27 - core)} credits remaining`;
+                document.getElementById('core-rem').textContent = `${Math.max(0, 27 - core)} ${i18n[currentLang]["cat-rem"]}`;
             }
             if (state.major_comp_credits !== undefined) {
                 const comp = state.major_comp_credits;
                 document.getElementById('major-comp-score').textContent = `${comp} / 35`;
                 document.getElementById('major-comp-fill').style.width = `${Math.round((comp/35)*100)}%`;
-                document.getElementById('major-comp-rem').textContent = `${Math.max(0, 35 - comp)} credits remaining`;
+                document.getElementById('major-comp-rem').textContent = `${Math.max(0, 35 - comp)} ${i18n[currentLang]["cat-rem"]}`;
             }
 
             // Major Elective (24 credits)
@@ -601,7 +601,7 @@ function parseAIState(text) {
                 const elec = state.major_elec_credits;
                 document.getElementById('major-elec-score').textContent = `${elec} / 24`;
                 document.getElementById('major-elec-fill').style.width = `${Math.round((elec/24)*100)}%`;
-                document.getElementById('major-elec-rem').textContent = `${Math.max(0, 24 - elec)} credits remaining`;
+                document.getElementById('major-elec-rem').textContent = `${Math.max(0, 24 - elec)} ${i18n[currentLang]["cat-rem"]}`;
             }
 
             // Minor (15 credits)
@@ -609,7 +609,7 @@ function parseAIState(text) {
                 const minor = state.minor_credits;
                 document.getElementById('minor-score').textContent = `${minor} / 15`;
                 document.getElementById('minor-fill').style.width = `${Math.round((minor/15)*100)}%`;
-                document.getElementById('minor-rem').textContent = `${Math.max(0, 15 - minor)} credits remaining`;
+                document.getElementById('minor-rem').textContent = `${Math.max(0, 15 - minor)} ${i18n[currentLang]["cat-rem"]}`;
             }
 
             // Free Elective (6 credits)
@@ -618,7 +618,7 @@ function parseAIState(text) {
                 const percent = Math.min(100, Math.round((free / 6) * 100));
                 document.getElementById('free-score').textContent = `${free} / 6`;
                 document.getElementById('free-fill').style.width = `${percent}%`;
-                document.getElementById('free-rem').textContent = `${Math.max(0, 6 - free)} credits remaining`;
+                document.getElementById('free-rem').textContent = `${Math.max(0, 6 - free)} ${i18n[currentLang]["cat-rem"]}`;
             }
 
             // Calculate Total Credits
@@ -636,7 +636,7 @@ function parseAIState(text) {
             const totalPercent = Math.min(100, Math.round((total / 137) * 100));
             document.getElementById('total-score').textContent = `${total} / 137`;
             document.getElementById('total-fill').style.width = `${totalPercent}%`;
-            document.getElementById('total-rem').textContent = `${Math.max(0, 137 - total)} credits remaining`;
+            document.getElementById('total-rem').textContent = `${Math.max(0, 137 - total)} ${i18n[currentLang]["cat-rem"]}`;
             
             // Extract Passed Courses and Inferred Minor for UI disabling
             if (state.passed_courses) {

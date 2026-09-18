@@ -34,14 +34,14 @@
             <nav class="sidebar-nav">
                 <a href="#" class="nav-item active" onclick="switchTab('next-semester', this)">
                     <i data-lucide="calendar-plus"></i>
-                    <span>Next Semester</span>
+                    <span data-i18n="nav-next-sem">Next Semester</span>
                 </a>
 
                 <div class="nav-section">ACADEMIC REVIEW</div>
 
                 <a href="#" class="nav-item" onclick="switchTab('curriculum-progress', this)">
                     <i data-lucide="pie-chart"></i>
-                    <span>Curriculum Progress</span>
+                    <span data-i18n="nav-curr-prog">Curriculum Progress</span>
                 </a>
             </nav>
 
@@ -60,7 +60,7 @@
             <header class="top-header">
                 <div class="header-title" id="header-title">Next Semester</div>
                 <div class="header-actions">
-                    <!-- Notifications removed to avoid confusion -->
+                    <button id="lang-btn" onclick="toggleLanguage()" class="btn" style="background: var(--bg-surface); border: 1px solid var(--border-color); padding: 4px 10px; font-size: 0.8rem; cursor: pointer; border-radius: 6px;">🇹🇭 เปลี่ยนเป็นภาษาไทย</button>
                 </div>
             </header>
 
@@ -185,7 +185,7 @@
                             <h3 class="group-title">General Education</h3>
                             <div class="progress-item">
                                 <div class="item-header">
-                                    <span class="item-name">General Education</span>
+                                    <span class="item-name" data-i18n="cat-ge">General Education</span>
                                     <span class="item-status incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
@@ -196,7 +196,7 @@
                             </div>
                             <div class="progress-item sub-item">
                                 <div class="item-header">
-                                    <span class="item-name">Required General Education</span>
+                                    <span class="item-name" data-i18n="cat-ge-req">Required General Education</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="ge-req-rem">21 credits remaining</span>
@@ -206,7 +206,7 @@
                             </div>
                             <div class="progress-item sub-item">
                                 <div class="item-header">
-                                    <span class="item-name">GE Electives</span>
+                                    <span class="item-name" data-i18n="cat-ge-elec">GE Electives</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="ge-elec-rem">9 credits remaining</span>
@@ -221,7 +221,7 @@
                             <h3 class="group-title">Core & Major Courses</h3>
                             <div class="progress-item">
                                 <div class="item-header">
-                                    <span class="item-name">Core Courses</span>
+                                    <span class="item-name" data-i18n="cat-core">Core Courses</span>
                                     <span class="item-status incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
@@ -232,7 +232,7 @@
                             </div>
                             <div class="progress-item">
                                 <div class="item-header">
-                                    <span class="item-name">Major Compulsory</span>
+                                    <span class="item-name" data-i18n="cat-major-comp">Major Compulsory</span>
                                     <span class="item-status incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
@@ -243,7 +243,7 @@
                             </div>
                             <div class="progress-item">
                                 <div class="item-header">
-                                    <span class="item-name">Major Elective</span>
+                                    <span class="item-name" data-i18n="cat-major-elec">Major Elective</span>
                                     <span class="item-status option">OPTION REQUIRED</span>
                                 </div>
                                 <div class="item-details">
@@ -260,7 +260,7 @@
                             <div class="requirements-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
                                 <div class="progress-item">
                                     <div class="item-header">
-                                        <span class="item-name">Minor / No Minor</span>
+                                        <span class="item-name" data-i18n="cat-minor">Minor / No Minor</span>
                                         <span class="item-status option">OPTION REQUIRED</span>
                                     </div>
                                     <div class="item-details">
@@ -271,7 +271,7 @@
                                 </div>
                                 <div class="progress-item">
                                     <div class="item-header">
-                                        <span class="item-name">Free Elective</span>
+                                        <span class="item-name" data-i18n="cat-free">Free Elective</span>
                                         <span class="item-status incomplete">INCOMPLETE</span>
                                     </div>
                                     <div class="item-details">
@@ -282,7 +282,7 @@
                                 </div>
                                 <div class="progress-item">
                                     <div class="item-header">
-                                        <span class="item-name" style="font-weight: 700;">Total Credits</span>
+                                        <span class="item-name" style="font-weight: 700;" data-i18n="cat-total">Total Credits</span>
                                         <span class="item-status incomplete" id="total-status">INCOMPLETE</span>
                                     </div>
                                     <div class="item-details">
@@ -324,6 +324,7 @@
     <script>
         lucide.createIcons(); // Initialize icons
     </script>
+    <script src="i18n.js"></script>
     <script src="app.js"></script>
 </body>
 </html>
