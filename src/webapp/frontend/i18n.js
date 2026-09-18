@@ -216,10 +216,25 @@ function updateLanguage() {
     // Also update dynamic remaining text if possible, but for now we just change static
     const langBtn = document.getElementById('lang-btn');
     if (langBtn) langBtn.innerHTML = i18n[currentLang]["btn-lang"];
+
+    // Update minor options manually
+    document.querySelectorAll('.minor-select option').forEach(opt => {
+        if (opt.value !== 'none') {
+            opt.textContent = window.formatMinorOption(opt.value, currentLang);
+        }
+    });
+
     window.dispatchEvent(new Event('languageChanged'));
 }
 
 document.addEventListener('DOMContentLoaded', updateLanguage);
+
+window.formatMinorOption = function(m, lang) {
+    const match = m.match(/^(.*?)(?:\s*\((.*?)\))?(?:\s*\[(.*?)\])?$/);
+    let th = match ? match[1].trim() : m;
+    let en = match && match[2] ? match[2].trim() : th;
+    return lang === 'en' ? `Minor: ${en}` : `วิชาโท: ${th}`;
+};
 
 window.t = function(key, replacements = {}) {
     let text = i18n[currentLang][key] || key;

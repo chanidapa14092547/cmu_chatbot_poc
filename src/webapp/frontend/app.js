@@ -148,7 +148,7 @@ function renderStudyPlan(planItems) {
             globalMinors.forEach(m => {
                 const opt = document.createElement('option');
                 opt.value = m;
-                opt.textContent = `วิชาโท: ${m}`;
+                opt.textContent = window.formatMinorOption(m, currentLang);
                 minorSelect.appendChild(opt);
             });
             
