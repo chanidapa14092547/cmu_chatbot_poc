@@ -48,7 +48,7 @@ async function init() {
 
     } catch (error) {
         console.error("Error initializing app:", error);
-        dynamicReqsContainer.innerHTML = `<div class="loading" style="color: red;">Failed to load data from backend. Ensure FastAPI is running on port 8000.</div>`;
+        dynamicReqsContainer.innerHTML = `<div class="loading" style="color: red;">Failed to load data from backend: ${error.message}</div>`;
     }
 }
 
