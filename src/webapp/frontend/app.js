@@ -135,7 +135,7 @@ function renderStudyPlan(planItems) {
             const label = document.createElement('label');
             label.textContent = window.t(req_courses > 0 ? "minor-label-with-num" : "minor-label", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
             label.setAttribute('data-i18n', req_courses > 0 ? "minor-label-with-num" : "minor-label");
-            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name, num: req_courses} : {name: short_name}));
             groupDiv.appendChild(label);
 
             const minorSelect = document.createElement('select');
@@ -280,7 +280,7 @@ function renderStudyPlan(planItems) {
             summaryStandalone.className = 'category-summary';
             summaryStandalone.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
             summaryStandalone.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            summaryStandalone.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            summaryStandalone.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name, num: req_courses} : {name: short_name}));
             detailsStandalone.appendChild(summaryStandalone);
             groupDiv.appendChild(detailsStandalone);
             
@@ -328,7 +328,7 @@ function renderStudyPlan(planItems) {
             const label = document.createElement('label');
             label.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
             label.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name, num: req_courses} : {name: short_name}));
             groupDiv.appendChild(label);
 
             const input = document.createElement('input');
@@ -345,7 +345,7 @@ function renderStudyPlan(planItems) {
             summaryGe.className = 'category-summary';
             summaryGe.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
             summaryGe.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            summaryGe.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            summaryGe.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name, num: req_courses} : {name: short_name}));
             detailsGe.appendChild(summaryGe);
             groupDiv.appendChild(detailsGe);
             
@@ -808,17 +808,36 @@ chatInput.addEventListener('keypress', (e) => {
 
 generateBtn.addEventListener('click', async () => {
     let promptText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+    if (currentLang === 'en') {
+        promptText = `Please generate a study schedule for ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+    }
     
     // Add Passed courses to prompt to exclude them
     if (globalPassedCourses && globalPassedCourses.length > 0) {
-        promptText += `\n\n(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})`;
+        if (currentLang === 'en') {
+            promptText += `
+
+(Courses already passed, do NOT recommend: ${globalPassedCourses.join(', ')})`;
+        } else {
+            promptText += `
+
+(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})`;
+        }
     }
 
     // Add Fixed courses to prompt
     const planRes = await fetch(`${API_BASE}/study-plan/${yearSelect.value}/${termSelect.value}`).then(r => r.json());
     const fixedCourses = (planRes.plan || []).filter(item => typeof item === 'string');
     if (fixedCourses.length > 0) {
-        promptText += `\n\n(วิชาบังคับที่จัดไว้ในหลักสูตรแล้วคือ: ${fixedCourses.join(', ')})`;
+        if (currentLang === 'en') {
+            promptText += `
+
+(Compulsory courses already planned in the curriculum: ${fixedCourses.join(', ')})`;
+        } else {
+            promptText += `
+
+(วิชาบังคับที่จัดไว้ในหลักสูตรแล้วคือ: ${fixedCourses.join(', ')})`;
+        }
     }
     
     // Gather form data

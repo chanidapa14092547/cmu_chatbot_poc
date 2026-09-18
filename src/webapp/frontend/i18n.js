@@ -17,6 +17,10 @@ const i18n = {
         "user-name": "Student Account",
         "user-role": "Undergraduate",
         "btn-generate": "Generate Schedule",
+        "track-math": "Mathematics",
+        "track-stats": "Statistics",
+        "track-cs": "Computer Science",
+,
         "Free Electives": "Free Electives",
         "Free Elective": "Free Elective",
         "Major Elective": "Major Elective",
@@ -82,7 +86,11 @@ const i18n = {
         
         "upload-btn": "Upload Transcript Images",
         "upload-desc": "Supported formats: JPG, PNG",
-        "btn-generate": "Generate Schedule"
+        "btn-generate": "Generate Schedule",
+        "track-math": "Mathematics",
+        "track-stats": "Statistics",
+        "track-cs": "Computer Science",
+
 
     },
     "th": {
@@ -103,6 +111,10 @@ const i18n = {
         "user-name": "บัญชีนักศึกษา",
         "user-role": "ปริญญาตรี",
         "btn-generate": "จัดตารางเรียน",
+        "track-math": "กลุ่มวิชาคณิตศาสตร์ (Mathematics)",
+        "track-stats": "กลุ่มวิชาสถิติ (Statistics)",
+        "track-cs": "กลุ่มวิชาวิทยาการคอมพิวเตอร์ (Computer Science)",
+,
         "Free Electives": "เลือกเสรี",
         "Free Elective": "เลือกเสรี",
         "Major Elective": "เอกเลือก",
@@ -190,7 +202,8 @@ function updateLanguage() {
                 try {
                     const parsedArgs = JSON.parse(args.replace(/&quot;/g, '"'));
                     for (const [k, v] of Object.entries(parsedArgs)) {
-                        text = text.replace(`{${k}}`, v);
+                        let translatedV = i18n[currentLang][v] || v;
+                        text = text.replace(`{${k}}`, translatedV);
                     }
                 } catch(e) {}
             }
