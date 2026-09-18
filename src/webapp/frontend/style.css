@@ -579,3 +579,26 @@ th {
     background: #374151; /* Dark Gray for the fill */
     transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+/* Checkbox Styles */
+.checkbox-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-top: 6px;
+}
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: var(--text-primary);
+    cursor: pointer;
+}
+.checkbox-item input {
+    margin: 0;
+    cursor: inherit;
+}
+.checkbox-item input:disabled {
+    cursor: not-allowed;
+}
