@@ -26,7 +26,7 @@
                     </div>
                     <div>
                         <div class="logo-text">CMU Scheduler</div>
-                        <div class="logo-sub">Data Science Track</div>
+                        <div class="logo-sub" data-i18n="logo-sub">Data Science Track</div>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                     <span data-i18n="nav-next-sem">Next Semester</span>
                 </a>
 
-                <div class="nav-section">ACADEMIC REVIEW</div>
+                <div class="nav-section" data-i18n="nav-review">ACADEMIC REVIEW</div>
 
                 <a href="#" class="nav-item" onclick="switchTab('curriculum-progress', this)">
                     <i data-lucide="pie-chart"></i>
@@ -48,8 +48,8 @@
             <div class="sidebar-footer">
                 <div class="user-avatar">DS</div>
                 <div class="user-info">
-                    <div class="user-name">Student Account</div>
-                    <div class="user-role">Undergraduate</div>
+                    <div class="user-name" data-i18n="user-name">Student Account</div>
+                    <div class="user-role" data-i18n="user-role">Undergraduate</div>
                 </div>
             </div>
         </aside>
@@ -58,7 +58,7 @@
         <div class="main-area">
             <!-- Top Header -->
             <header class="top-header">
-                <div class="header-title" id="header-title">Next Semester</div>
+                <div class="header-title" id="header-title" data-i18n="header-title-next">Next Semester</div>
                 <div class="header-actions">
                     <button id="lang-btn" onclick="toggleLanguage()" class="btn" style="background: var(--bg-surface); border: 1px solid var(--border-color); padding: 4px 10px; font-size: 0.8rem; cursor: pointer; border-radius: 6px;">🇹🇭 เปลี่ยนเป็นภาษาไทย</button>
                 </div>
@@ -329,7 +329,7 @@
     <script>
         lucide.createIcons(); // Initialize icons
     </script>
-    <script src="i18n.js?v=8"></script>
-    <script src="app.js?v=6"></script>
+    <script src="i18n.js?v=9"></script>
+    <script src="app.js?v=7"></script>
 </body>
 </html>
