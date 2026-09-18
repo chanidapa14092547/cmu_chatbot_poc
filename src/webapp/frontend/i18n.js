@@ -49,7 +49,7 @@ const i18n = {
     }
 };
 
-let currentLang = "en";
+let currentLang = "th";
 
 function toggleLanguage() {
     currentLang = currentLang === "en" ? "th" : "en";
@@ -69,5 +69,8 @@ function updateLanguage() {
     });
     
     // Also update dynamic remaining text if possible, but for now we just change static
-    document.getElementById('lang-btn').innerHTML = i18n[currentLang]["btn-lang"];
+    const langBtn = document.getElementById('lang-btn');
+    if (langBtn) langBtn.innerHTML = i18n[currentLang]["btn-lang"];
 }
+
+document.addEventListener('DOMContentLoaded', updateLanguage);
