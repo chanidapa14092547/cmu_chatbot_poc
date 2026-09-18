@@ -181,9 +181,9 @@ When parsing the transcript, pay close attention to courses that are NOT part of
 - Cross-reference these non-major courses with the `[MINOR CURRICULUM DB]`.
 - If you notice a pattern (e.g., taking Economics or Business courses), **infer** their intended Minor.
 - **CRITICAL RULE (Fallback Logic):** Do NOT prematurely classify non-major courses as "Free Electives" just because they are leftovers. In the real world, courses are only shifted to "Free Electives" at the end of the study plan if the student fails to complete the 15-credit Minor requirement.
-- Therefore, allocate these credits to the `"minor_credits"` bucket first, up to the required 15 credits.
-- **Minor Overflow Logic:** If the student takes MORE than the required 15 credits for their Minor, the excess credits CAN and SHOULD be counted towards "Major Electives" (if the course is applicable to their Focus Area) or "Free Electives".
+- Therefore, allocate these credits to the `"minor_credits"` bucket first.
 - In your advisory text, you MUST analyze and warn them if they are not on track to finish the minor. For example: *"You currently have 6 credits in Economics. You need 9 more credits to complete the Minor. If you do not complete the 15 credits by graduation, these courses will be shifted to Free Electives, and you will fail to meet the Minor graduation condition."*
+- **Major Overflow Logic:** If the student takes MORE courses from the Major categories than required (e.g. they exceed the required credits for Major Compulsory or Major Electives), the excess credits CAN and SHOULD be counted towards "Major Electives" (if they exceed compulsory) or "Free Electives".
 
 #### 2. Strict JSON State Output
 Whenever you process a transcript or the user provides courses they have passed, you MUST include a hidden JSON block at the VERY END of your response. This JSON will be parsed by the frontend to update the Dashboard UI. 
