@@ -180,7 +180,7 @@ function renderStudyPlan(planItems) {
                     details.open = true;
                     const summary = document.createElement('summary');
                     summary.className = 'category-summary';
-                    summary.textContent = `วิชาเอกเลือก (Major Electives) ที่เปิดสอน ${req_text}:`;
+                    summary.textContent = window.t("major-elec-offered", {req: req_text});
                     details.appendChild(summary);
                     coursesContainer.appendChild(details);
                     
@@ -211,7 +211,7 @@ function renderStudyPlan(planItems) {
                                 cb.disabled = true;
                                 lbl.style.opacity = '0.5';
                                 lbl.appendChild(cb);
-                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
                             } else {
                                 lbl.appendChild(cb);
                                 lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
@@ -221,7 +221,7 @@ function renderStudyPlan(planItems) {
                         });
                         details.appendChild(cbList);
                     } else {
-                        coursesContainer.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ ไม่มีวิชาเอกเลือกเปิดสอนในเทอมนี้ หรือไม่ตรงกับแขนงที่เลือก</div>`;
+                        coursesContainer.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-major")}</div>`;
                     }
                 } else {
                     // Show minor courses
@@ -235,7 +235,7 @@ function renderStudyPlan(planItems) {
                         detailsMinor.open = true;
                         const summaryMinor = document.createElement('summary');
                         summaryMinor.className = 'category-summary';
-                        summaryMinor.textContent = `รายวิชาโท ${selectedMinor} ที่เปิดสอนเทอมนี้ ${req_text}:`;
+                        summaryMinor.textContent = window.t("minor-offered", {minor: selectedMinor, req: req_text});
                         detailsMinor.appendChild(summaryMinor);
                         coursesContainer.appendChild(detailsMinor);
                         
@@ -254,7 +254,7 @@ function renderStudyPlan(planItems) {
                                 cb.disabled = true;
                                 lbl.style.opacity = '0.5';
                                 lbl.appendChild(cb);
-                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
                             } else {
                                 lbl.appendChild(cb);
                                 lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
@@ -264,7 +264,7 @@ function renderStudyPlan(planItems) {
                         });
                         detailsMinor.appendChild(cbList);
                     } else {
-                        coursesContainer.innerHTML = `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ วิชาโท ${selectedMinor} ไม่มีวิชาเปิดสอนเทอมนี้เลย</div>`;
+                        coursesContainer.innerHTML = `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-minor", {minor: selectedMinor})}</div>`;
                     }
                 }
             };
@@ -278,7 +278,7 @@ function renderStudyPlan(planItems) {
             detailsStandalone.open = true;
             const summaryStandalone = document.createElement('summary');
             summaryStandalone.className = 'category-summary';
-            summaryStandalone.textContent = `หมวด ${short_name} ${req_text}:`;
+            summaryStandalone.textContent = window.t("cat-req", {name: short_name, req: req_text});
             detailsStandalone.appendChild(summaryStandalone);
             groupDiv.appendChild(detailsStandalone);
             
@@ -309,7 +309,7 @@ function renderStudyPlan(planItems) {
                         cb.disabled = true;
                         lbl.style.opacity = '0.5';
                         lbl.appendChild(cb);
-                        lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                        lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
                     } else {
                         lbl.appendChild(cb);
                         lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
@@ -319,18 +319,18 @@ function renderStudyPlan(planItems) {
                 });
                 detailsStandalone.appendChild(cbList);
             } else {
-                groupDiv.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">⚠️ ไม่มีวิชาเปิดสอน</div>`;
+                groupDiv.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-course")}</div>`;
             }
         } else if (ph.includes("Free Elective")) {
             // Free Elective (Text input)
             const label = document.createElement('label');
-            label.textContent = `หมวด ${short_name} ${req_text}:`;
+            label.textContent = window.t("cat-req", {name: short_name, req: req_text});
             groupDiv.appendChild(label);
 
             const input = document.createElement('input');
             input.type = 'text';
             input.id = `reg_txt_${i}`;
-            input.placeholder = "พิมพ์รหัส/ชื่อวิชา (วิชาใดก็ได้)";
+            input.placeholder = window.t("free-elec-placeholder");
             groupDiv.appendChild(input);
         } else {
             // General Education or other categories with specific course lists
@@ -338,7 +338,7 @@ function renderStudyPlan(planItems) {
             detailsGe.open = true;
             const summaryGe = document.createElement('summary');
             summaryGe.className = 'category-summary';
-            summaryGe.textContent = `หมวด ${short_name} ${req_text}:`;
+            summaryGe.textContent = window.t("cat-req", {name: short_name, req: req_text});
             detailsGe.appendChild(summaryGe);
             groupDiv.appendChild(detailsGe);
             
@@ -368,7 +368,7 @@ function renderStudyPlan(planItems) {
                         subLabel.style.marginBottom = '5px';
                         // Extract the sub-category name
                         const subName = cat.replace(ph, '').replace(/^\s*\/\s*/, '') || cat;
-                        subLabel.textContent = `▶ กลุ่ม ${subName}`;
+                        subLabel.textContent = window.t("group-name", {name: subName});
                         detailsGe.appendChild(subLabel);
                     }
 
@@ -387,7 +387,7 @@ function renderStudyPlan(planItems) {
                             cb.disabled = true;
                             lbl.style.opacity = '0.5';
                             lbl.appendChild(cb);
-                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} (ผ่านแล้ว)`));
+                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
                         } else {
                             lbl.appendChild(cb);
                             lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
@@ -927,4 +927,12 @@ function switchMobileTab(tab) {
 document.addEventListener("DOMContentLoaded", () => {
     const grid = document.querySelector('.panel-grid');
     if (grid) grid.classList.add('show-scheduler');
+});
+
+window.addEventListener('languageChanged', () => {
+    // Re-render courses if they are showing
+    if (typeof updateCoursesUI === 'function') {
+        try { document.getElementById('minor-select').dispatchEvent(new Event('change')); } catch(e){}
+    }
+    // Also we might want to re-render progress bars, but for simplicity we will just let the user re-upload or rely on static HTML translation.
 });

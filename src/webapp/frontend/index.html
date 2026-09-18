@@ -128,12 +128,12 @@
                         <!-- Right Panel: Chat & Results -->
                         <div class="panel-card">
                             <div class="panel-header">
-                                <h3>AI Advisor Chat</h3>
+                                <h3 data-i18n="chat-title">AI Advisor Chat</h3>
                             </div>
                             <div class="panel-body chat-history" id="chat-history">
                                 <div class="message assistant">
                                     <div class="msg-avatar"><i data-lucide="bot" style="width:16px;"></i></div>
-                                    <div class="bubble">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
+                                    <div class="bubble" data-i18n="chat-greeting">สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ</div>
                                 </div>
                             </div>
                             <div style="border-top: 1px solid var(--border-color);">
@@ -143,7 +143,7 @@
                                         <i data-lucide="paperclip" style="width:16px;"></i>
                                     </label>
                                     <input type="file" id="chat-attachment" accept="image/*,.pdf" multiple style="display: none;">
-                                    <input type="text" id="chat-input" placeholder="e.g., No Monday morning classes, prefer free Friday...">
+                                    <input type="text" id="chat-input" data-i18n="chat-placeholder" placeholder="e.g., No Monday morning classes, prefer free Friday...">
                                     <button id="send-btn" class="icon-btn"><i data-lucide="send" style="width:16px;"></i></button>
                                 </div>
                             </div>
@@ -156,14 +156,14 @@
                 <section id="view-curriculum-progress" class="view-section">
                     <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2rem;">
                         <div>
-                            <h1 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 4px;">Curriculum Progress</h1>
-                            <p style="color: var(--text-secondary); font-size: 0.85rem;">Actual earned-credit progress against the Data Science curriculum.</p>
+                            <h1 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 4px;" data-i18n="prog-title">Curriculum Progress</h1>
+                            <p style="color: var(--text-secondary); font-size: 0.85rem;" data-i18n="prog-desc">Actual earned-credit progress against the Data Science curriculum.</p>
                         </div>
                         
-                        <!-- Upload Transcript Button -->
+                        <!-- <span data-i18n="upload-btn2">Upload Transcript</span> Button -->
                         <div style="display: flex; gap: 10px;">
                             <label for="transcript-upload" class="primary-btn" style="margin-top: 0; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;">
-                                <i data-lucide="upload-cloud" style="width:16px;"></i> Upload Transcript
+                                <i data-lucide="upload-cloud" style="width:16px;"></i> <span data-i18n="upload-btn2">Upload Transcript</span>
                             </label>
                             <input type="file" id="transcript-upload" accept="image/*,.pdf" multiple style="display: none;">
                         </div>
@@ -172,14 +172,14 @@
                     <!-- Upload Zone (Hidden by default, can be shown on click) -->
                     <div id="upload-zone" style="border: 2px dashed var(--border-color); border-radius: var(--radius-lg); padding: 2rem; text-align: center; margin-bottom: 2rem; background: var(--bg-surface); cursor: pointer;" onclick="document.getElementById('transcript-upload').click()">
                         <i data-lucide="file-up" style="width: 32px; height: 32px; color: var(--brand-500); margin-bottom: 10px;"></i>
-                        <p style="font-weight: 500; font-size: 0.9rem;">Drop your transcript here, or click to browse</p>
-                        <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">Supports PDF, PNG, JPG for AI Processing</p>
+                        <p style="font-weight: 500; font-size: 0.9rem;" data-i18n="upload-drop">Drop your transcript here, or click to browse</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;" data-i18n="upload-supports">Supports PDF, PNG, JPG for AI Processing</p>
                     </div>
 
                     <div id="curriculum-alert" class="badge-alert" style="margin-bottom: 1.5rem; padding: 1rem; font-size: 0.9rem; align-items: flex-start; display: none;">
                         <i data-lucide="alert-triangle" style="width:20px; height: 20px; flex-shrink:0;"></i>
                         <div id="curriculum-alert-text">
-                            <strong>Action Required</strong><br>
+                            <strong data-i18n="action-required">Action Required</strong><br>
                             ⚠️ Found an issue in your transcript.
                         </div>
                     </div>
@@ -187,11 +187,11 @@
                     <div class="progress-groups-grid">
                         <!-- Group 1: General Education -->
                         <div class="progress-group-card">
-                            <h3 class="group-title">General Education</h3>
+                            <h3 class="group-title" data-i18n="group-ge">General Education</h3>
                             <div class="progress-item">
                                 <div class="item-header">
                                     <span class="item-name" data-i18n="cat-ge">General Education</span>
-                                    <span class="item-status incomplete">INCOMPLETE</span>
+                                    <span class="item-status incomplete" data-i18n="status-incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="ge-rem">30 credits remaining</span>
@@ -223,11 +223,11 @@
 
                         <!-- Group 2: Core & Major -->
                         <div class="progress-group-card">
-                            <h3 class="group-title">Core & Major Courses</h3>
+                            <h3 class="group-title" data-i18n="group-core">Core & Major Courses</h3>
                             <div class="progress-item">
                                 <div class="item-header">
                                     <span class="item-name" data-i18n="cat-core">Core Courses</span>
-                                    <span class="item-status incomplete">INCOMPLETE</span>
+                                    <span class="item-status incomplete" data-i18n="status-incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="core-rem">27 credits remaining</span>
@@ -238,7 +238,7 @@
                             <div class="progress-item">
                                 <div class="item-header">
                                     <span class="item-name" data-i18n="cat-major-comp">Major Compulsory</span>
-                                    <span class="item-status incomplete">INCOMPLETE</span>
+                                    <span class="item-status incomplete" data-i18n="status-incomplete">INCOMPLETE</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="major-comp-rem">35 credits remaining</span>
@@ -249,7 +249,7 @@
                             <div class="progress-item">
                                 <div class="item-header">
                                     <span class="item-name" data-i18n="cat-major-elec">Major Elective</span>
-                                    <span class="item-status option">OPTION REQUIRED</span>
+                                    <span class="item-status option" data-i18n="status-option">OPTION REQUIRED</span>
                                 </div>
                                 <div class="item-details">
                                     <span class="item-remaining" id="major-elec-rem">24 credits remaining</span>
@@ -261,12 +261,12 @@
 
                         <!-- Group 3: Other Requirements -->
                         <div class="progress-group-card" style="grid-column: 1 / -1;">
-                            <h3 class="group-title">Other Requirements</h3>
+                            <h3 class="group-title" data-i18n="group-other">Other Requirements</h3>
                             <div class="requirements-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
                                 <div class="progress-item">
                                     <div class="item-header">
                                         <span class="item-name" data-i18n="cat-minor">Minor / No Minor</span>
-                                        <span class="item-status option">OPTION REQUIRED</span>
+                                        <span class="item-status option" data-i18n="status-option">OPTION REQUIRED</span>
                                     </div>
                                     <div class="item-details">
                                         <span class="item-remaining" id="minor-rem">15 credits remaining</span>
@@ -277,7 +277,7 @@
                                 <div class="progress-item">
                                     <div class="item-header">
                                         <span class="item-name" data-i18n="cat-free">Free Elective</span>
-                                        <span class="item-status incomplete">INCOMPLETE</span>
+                                        <span class="item-status incomplete" data-i18n="status-incomplete">INCOMPLETE</span>
                                     </div>
                                     <div class="item-details">
                                         <span class="item-remaining" id="free-rem">6 credits remaining</span>
@@ -329,7 +329,7 @@
     <script>
         lucide.createIcons(); // Initialize icons
     </script>
-    <script src="i18n.js?v=2"></script>
-    <script src="app.js"></script>
+    <script src="i18n.js?v=3"></script>
+    <script src="app.js?v=2"></script>
 </body>
 </html>
