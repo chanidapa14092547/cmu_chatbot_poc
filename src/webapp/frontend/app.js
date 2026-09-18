@@ -120,7 +120,7 @@ function renderStudyPlan(planItems) {
     title.textContent = "วิชาที่ต้องเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):";
     title.style.fontSize = '0.95rem';
     title.style.marginTop = '10px';
-    title.style.color = '#c4b5fd';
+    title.style.color = 'var(--brand-600)';
     dynamicReqsContainer.appendChild(title);
 
     currentRequiredPlaceholders.forEach((ph_dict, i) => {
