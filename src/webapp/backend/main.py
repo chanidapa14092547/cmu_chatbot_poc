@@ -295,24 +295,32 @@ When summarizing a student's transcript and recommending courses, adopt a friend
 
     last_exception = None
     import random
+    import time
     clients_to_try = list(ALL_CLIENTS)
     random.shuffle(clients_to_try) 
     
     for client in clients_to_try:
-        try:
-            chat_session = client.chats.create(
-                model=MODEL_NAME, 
-                config=config,
-                history=formatted_history
-            )
-            response = chat_session.send_message(current_parts)
-            return {"response": response.text}
-        except Exception as e:
-            last_exception = e
-            print(f"API key failed: {e}")
-            continue
+        for attempt in range(3): # Retry up to 3 times per key
+            try:
+                chat_session = client.chats.create(
+                    model=MODEL_NAME, 
+                    config=config,
+                    history=formatted_history
+                )
+                response = chat_session.send_message(current_parts)
+                return {"response": response.text}
+            except Exception as e:
+                last_exception = e
+                error_msg = str(e).lower()
+                print(f"API key failed (attempt {attempt+1}): {e}")
+                if "503" in error_msg or "429" in error_msg or "quota" in error_msg or "unavailable" in error_msg:
+                    time.sleep(2 ** attempt) # Exponential backoff: 1s, 2s, 4s
+                    continue
+                else:
+                    break # Not a transient error, try next key immediately
             
-    raise HTTPException(status_code=500, detail=f"All API keys failed. Last error: {str(last_exception)}")
+    polite_error = "ขออภัยครับ ตอนนี้ AI มีผู้ใช้งานพร้อมกันจำนวนมาก ทำให้เซิร์ฟเวอร์ประมวลผลไม่ทันชั่วคราว (Server Overloaded) รบกวนรอสัก 5-10 วินาทีแล้วกดส่งใหม่อีกครั้งนะครับ 🙏"
+    raise HTTPException(status_code=500, detail=polite_error)
 
 if __name__ == "__main__":
     import uvicorn
