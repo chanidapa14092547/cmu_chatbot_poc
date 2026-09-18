@@ -134,8 +134,8 @@ function renderStudyPlan(planItems) {
             // Minor or Major Elective Selection Logic
             const label = document.createElement('label');
             label.textContent = window.t(req_courses > 0 ? "minor-label-with-num" : "minor-label", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
-            label.setAttribute(\'data-i18n\', req_courses > 0 ? "minor-label-with-num" : "minor-label");
-            label.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            label.setAttribute('data-i18n', req_courses > 0 ? "minor-label-with-num" : "minor-label");
+            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
             groupDiv.appendChild(label);
 
             const minorSelect = document.createElement('select');
@@ -177,8 +177,8 @@ function renderStudyPlan(planItems) {
                     const summary = document.createElement('summary');
                     summary.className = 'category-summary';
                     summary.textContent = window.t(req_courses > 0 ? "major-elec-offered-with-num" : "major-elec-offered", req_courses > 0 ? {num: req_courses} : {});
-                    summary.setAttribute(\'data-i18n\', req_courses > 0 ? "major-elec-offered-with-num" : "major-elec-offered");
-                    summary.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {num: req_courses} : {}));
+                    summary.setAttribute('data-i18n', req_courses > 0 ? "major-elec-offered-with-num" : "major-elec-offered");
+                    summary.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {num: req_courses} : {}));
                     details.appendChild(summary);
                     coursesContainer.appendChild(details);
                     
@@ -234,8 +234,8 @@ function renderStudyPlan(planItems) {
                         const summaryMinor = document.createElement('summary');
                         summaryMinor.className = 'category-summary';
                         summaryMinor.textContent = window.t(req_courses > 0 ? "minor-offered-with-num" : "minor-offered", req_courses > 0 ? {minor: selectedMinor, num: req_courses} : {minor: selectedMinor});
-                        summaryMinor.setAttribute(\'data-i18n\', req_courses > 0 ? "minor-offered-with-num" : "minor-offered");
-                        summaryMinor.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {minor: selectedMinor, num: req_courses} : {minor: selectedMinor}));
+                        summaryMinor.setAttribute('data-i18n', req_courses > 0 ? "minor-offered-with-num" : "minor-offered");
+                        summaryMinor.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {minor: selectedMinor, num: req_courses} : {minor: selectedMinor}));
                         detailsMinor.appendChild(summaryMinor);
                         coursesContainer.appendChild(detailsMinor);
                         
@@ -279,8 +279,8 @@ function renderStudyPlan(planItems) {
             const summaryStandalone = document.createElement('summary');
             summaryStandalone.className = 'category-summary';
             summaryStandalone.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
-            summaryStandalone.setAttribute(\'data-i18n\', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            summaryStandalone.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            summaryStandalone.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
+            summaryStandalone.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
             detailsStandalone.appendChild(summaryStandalone);
             groupDiv.appendChild(detailsStandalone);
             
@@ -327,8 +327,8 @@ function renderStudyPlan(planItems) {
             // Free Elective (Text input)
             const label = document.createElement('label');
             label.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
-            label.setAttribute(\'data-i18n\', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            label.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            label.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
+            label.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
             groupDiv.appendChild(label);
 
             const input = document.createElement('input');
@@ -344,8 +344,8 @@ function renderStudyPlan(planItems) {
             const summaryGe = document.createElement('summary');
             summaryGe.className = 'category-summary';
             summaryGe.textContent = window.t(req_courses > 0 ? "cat-req-with-num" : "cat-req", req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t});
-            summaryGe.setAttribute(\'data-i18n\', req_courses > 0 ? "cat-req-with-num" : "cat-req");
-            summaryGe.setAttribute(\'data-i18n-args\', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
+            summaryGe.setAttribute('data-i18n', req_courses > 0 ? "cat-req-with-num" : "cat-req");
+            summaryGe.setAttribute('data-i18n-args', JSON.stringify(req_courses > 0 ? {name: short_name_t, num: req_courses} : {name: short_name_t}));
             detailsGe.appendChild(summaryGe);
             groupDiv.appendChild(detailsGe);
             
