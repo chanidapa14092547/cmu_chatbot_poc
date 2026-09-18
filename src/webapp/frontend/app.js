@@ -40,15 +40,7 @@ async function init() {
         globalOfferedCourses = coursesRes.courses;
         globalCourses = allCoursesRes.courses;
 
-        // Populate Major Tracks if available
-        if (majorTracksList && majorTracksList.length > 0) {
-            majorTracksList.forEach(track => {
-                const opt = document.createElement('option');
-                opt.value = track;
-                opt.textContent = track;
-                majorTrackSelect.appendChild(opt);
-            });
-        }
+        // Populate Major Tracks (Skipped to avoid duplication, using hardcoded options in index.html)
 
         // Render dynamic plan
         currentPlanData = planRes.plan;
@@ -127,7 +119,7 @@ function renderStudyPlan(planItems) {
     currentRequiredPlaceholders.forEach((ph_dict, i) => {
         const ph = ph_dict.placeholder;
         const req_courses = Math.floor(ph_dict.credits / 3);
-        const req_text = req_courses > 0 ? `(ต้องเลือก ${req_courses} วิชา)` : "";
+        const req_text = req_courses > 0 ? window.t("req-courses", {num: req_courses}) : "";
         const short_name = ph.split('/').pop().trim();
 
         const groupDiv = document.createElement('div');

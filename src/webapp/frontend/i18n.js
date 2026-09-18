@@ -6,13 +6,15 @@ const i18n = {
         "header-title-curr": "Curriculum Progress",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
         "quick-sched": "🛠️ Quick Scheduler",
+        "req-courses": "(must choose {num} course(s))",
+
         "lbl-year": "Academic Year",
         "lbl-term": "Term",
         "lbl-track": "Focus Area (Track)",
         "lbl-time": "Time Constraints",
         "plh-time": "e.g., No Monday morning",
-        "minor-label": "{name} category ({req}): Select Minor or Major Elective:",
-        "minor-none": "Major Electives (No Minor)",
+        "minor-label": "{name} category {req}: Select Minor or Major Elective:",
+        "minor-none": "Major Elective",
 
         
         "chat-title": "AI Advisor Chat",
@@ -73,13 +75,15 @@ const i18n = {
         "header-title-curr": "ความคืบหน้าหลักสูตร",
         "btn-lang": "🇬🇧 Switch to English",
         "quick-sched": "🛠️ จัดตารางแบบด่วน",
+        "req-courses": "(ต้องเลือก {num} วิชา)",
+
         "lbl-year": "ชั้นปีที่",
         "lbl-term": "เทอม",
         "lbl-track": "แขนงวิชาเอก (Track)",
         "lbl-time": "เงื่อนไขเวลา",
         "plh-time": "เช่น ไม่เรียนเช้าวันจันทร์",
-        "minor-label": "หมวด {name} ({req}): เลือกแขนงวิชาโท หรือ เอกเลือก:",
-        "minor-none": "เลือกเป็นเอกเลือก (ไม่ลงโท)",
+        "minor-label": "หมวด {name} {req}: เลือกแขนงวิชาโท หรือ เอกเลือก:",
+        "minor-none": "เลือกลงเป็นวิชาเอกเลือก (Major Elective)",
 
         
         "chat-title": "ผู้ช่วย AI จัดตารางเรียน",
