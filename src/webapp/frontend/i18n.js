@@ -256,6 +256,10 @@ window.formatMinorOption = function(m, lang) {
         return trail ? `Minor: ${en} ${trail}` : `Minor: ${en}`;
     } else {
         // For Thai, keep the full original string to preserve all remarks
+        // Strip duplicate prefix if m already starts with "วิชาโท"
+        if (m.startsWith("วิชาโท")) {
+            return m;
+        }
         return `วิชาโท: ${m}`;
     }
 };

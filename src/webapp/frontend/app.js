@@ -684,12 +684,12 @@ function parseAIState(text) {
                 const statusEl = el.closest('.progress-item').querySelector('.item-status');
                 if (statusEl && !statusEl.id.startsWith('check-') && !statusEl.id.startsWith('total-status')) { // Skip checklist items and total status
                     if (val >= max) {
-                        statusEl.textContent = 'COMPLETE';
+                        statusEl.textContent = window.t('status-complete');
                         statusEl.className = 'item-status complete';
-                    } else if (statusEl.textContent === 'OPTION REQUIRED' || statusEl.textContent === 'PENDING') {
+                    } else if (statusEl.classList.contains('option')) {
                         // keep option required
                     } else {
-                        statusEl.textContent = 'INCOMPLETE';
+                        statusEl.textContent = window.t('status-incomplete');
                         statusEl.className = 'item-status incomplete';
                     }
                 }
@@ -702,11 +702,11 @@ function parseAIState(text) {
                 if (!statusEl || !iconEl) return;
                 
                 if (val >= target) {
-                    statusEl.textContent = 'COMPLETE';
+                    statusEl.textContent = window.t('status-complete');
                     statusEl.className = 'item-status complete';
                     iconEl.innerHTML = '<i data-lucide="check-circle-2" style="width:20px; color:#10b981;"></i>';
                 } else {
-                    statusEl.textContent = 'INCOMPLETE';
+                    statusEl.textContent = window.t('status-incomplete');
                     statusEl.className = 'item-status incomplete';
                     iconEl.innerHTML = '<i data-lucide="circle-dashed" style="width:20px; color:#9ca3af;"></i>';
                 }
@@ -784,7 +784,7 @@ async function sendChat(messageText) {
         });
         
         const data = await response.json();
-        chatHistory.removeChild(loadingDiv);
+        if (loadingDiv.parentNode) loadingDiv.remove();
         
         if (response.ok && data.response) {
             parseAIState(data.response);
@@ -797,7 +797,7 @@ async function sendChat(messageText) {
             appendMessage('assistant', errorMsg);
         }
     } catch (e) {
-        chatHistory.removeChild(loadingDiv);
+        if (loadingDiv.parentNode) loadingDiv.remove();
         appendMessage('assistant', `Error: ${e.message}`);
     }
 }
