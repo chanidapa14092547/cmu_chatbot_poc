@@ -238,6 +238,9 @@ window.formatMinorOption = function(m, lang) {
     if (m === "none" || m === "") {
         return lang === 'en' ? "Major Elective (No Minor)" : "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
     }
+    // Clean up internal PDF page references like [ฉบับหน้า 5]
+    m = m.replace(/\s*\[ฉบับหน้า\s*\d+\]/g, '');
+    
     const match = m.match(/^([^(]+)(?:\s*\(([^)]+)\))?(.*)/);
     let th = match ? match[1].trim() : m;
     let en = match && match[2] ? match[2].trim() : th;
