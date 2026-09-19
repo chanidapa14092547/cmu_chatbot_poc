@@ -238,7 +238,7 @@ window.formatMinorOption = function(m, lang) {
     if (m === "none" || m === "") {
         return lang === 'en' ? "Major Elective (No Minor)" : "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
     }
-    const match = m.match(/^(.*?)(?:\s*\((.*?)\))?(?:\s*\[(.*?)\])?$/);
+    const match = m.match(/^([^(]+)(?:\s*\(([^)]+)\))?/);
     let th = match ? match[1].trim() : m;
     let en = match && match[2] ? match[2].trim() : th;
     return lang === 'en' ? `Minor: ${en}` : `วิชาโท: ${th}`;
