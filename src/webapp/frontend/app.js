@@ -140,6 +140,7 @@ function renderStudyPlan(planItems) {
 
             const minorSelect = document.createElement('select');
             minorSelect.id = `minor_sel_${i}`;
+            minorSelect.classList.add('minor-select');
             const defaultOpt = document.createElement('option');
             defaultOpt.value = "none";
             defaultOpt.textContent = window.formatMinorOption("none", currentLang);
