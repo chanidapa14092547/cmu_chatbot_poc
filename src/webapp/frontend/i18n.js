@@ -90,7 +90,10 @@ const i18n = {
         "track-stats": "Statistical data analytics",
         "track-cs": "Data analytics using computational modeling",
 
-
+        "btn-add-free-elec": "+ Add Free Elective",
+        "btn-remove": "Remove",
+        "tab-scheduler": "Schedule",
+        "tab-chat": "Chat with AI"
     },
     "th": {
         "nav-next-sem": "จัดตารางเรียน",
@@ -178,8 +181,12 @@ const i18n = {
         
         "upload-btn": "อัปโหลดรูปภาพ Transcript",
         "upload-desc": "รองรับไฟล์: JPG, PNG",
-        "btn-generate": "สร้างตารางเรียน"
+        "btn-generate": "สร้างตารางเรียน",
 
+        "btn-add-free-elec": "+ เพิ่มวิชาเลือกเสรี",
+        "btn-remove": "ลบ",
+        "tab-scheduler": "จัดตารางเรียน",
+        "tab-chat": "คุยกับ AI"
     }
 };
 
@@ -219,9 +226,7 @@ function updateLanguage() {
 
     // Update minor options manually
     document.querySelectorAll('.minor-select option').forEach(opt => {
-        if (opt.value !== 'none') {
-            opt.textContent = window.formatMinorOption(opt.value, currentLang);
-        }
+        opt.textContent = window.formatMinorOption(opt.value, currentLang);
     });
 
     window.dispatchEvent(new Event('languageChanged'));
@@ -230,6 +235,9 @@ function updateLanguage() {
 document.addEventListener('DOMContentLoaded', updateLanguage);
 
 window.formatMinorOption = function(m, lang) {
+    if (m === "none" || m === "") {
+        return lang === 'en' ? "Major Elective (No Minor)" : "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
+    }
     const match = m.match(/^(.*?)(?:\s*\((.*?)\))?(?:\s*\[(.*?)\])?$/);
     let th = match ? match[1].trim() : m;
     let en = match && match[2] ? match[2].trim() : th;

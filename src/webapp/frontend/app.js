@@ -142,7 +142,7 @@ function renderStudyPlan(planItems) {
             minorSelect.id = `minor_sel_${i}`;
             const defaultOpt = document.createElement('option');
             defaultOpt.value = "none";
-            defaultOpt.textContent = "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
+            defaultOpt.textContent = window.formatMinorOption("none", currentLang);
             minorSelect.appendChild(defaultOpt);
 
             globalMinors.forEach(m => {
