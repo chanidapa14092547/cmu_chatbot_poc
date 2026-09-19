@@ -238,10 +238,23 @@ window.formatMinorOption = function(m, lang) {
     if (m === "none" || m === "") {
         return lang === 'en' ? "Major Elective (No Minor)" : "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
     }
-    const match = m.match(/^([^(]+)(?:\s*\(([^)]+)\))?/);
+    const match = m.match(/^([^(]+)(?:\s*\(([^)]+)\))?(.*)/);
     let th = match ? match[1].trim() : m;
     let en = match && match[2] ? match[2].trim() : th;
-    return lang === 'en' ? `Minor: ${en}` : `วิชาโท: ${th}`;
+    let trail = match && match[3] ? match[3].trim() : "";
+    
+    if (lang === 'en') {
+        if (trail) {
+            trail = trail.replace(/\(ยกเว้น\s*นักศึกษารหัสบริหารธุรกิจรหัส\s*68\s*เป็นต้นไป\)/, "(except Business Admin ID 68+)");
+            trail = trail.replace(/\(\*ยกเว้นนักศึกษาสาขาวิชาวิศวกรรมอุตสาหการ\)/, "(*except Industrial Eng.)");
+            trail = trail.replace(/\[ปิดสอน ตั้งแต่ 1\/2567 เป็นต้นไป\]/, "[Closed from 1/2567 onwards]");
+            trail = trail.replace(/ยกเว้น/g, "except");
+        }
+        return trail ? `Minor: ${en} ${trail}` : `Minor: ${en}`;
+    } else {
+        // For Thai, keep the full original string to preserve all remarks
+        return `วิชาโท: ${m}`;
+    }
 };
 
 window.t = function(key, replacements = {}) {
