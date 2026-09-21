@@ -366,6 +366,7 @@ function renderStudyPlan(planItems) {
                 if (compGroup.length > 0) {
                     const subLabel = document.createElement('div');
                     subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
+                    subLabel.setAttribute('data-i18n', 'lbl-track-comp');
                     subLabel.textContent = currentLang === 'en' ? 'Track Compulsory Courses' : 'วิชาบังคับในกลุ่มแขนงวิชา';
                     cbList.appendChild(subLabel);
                     compGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
@@ -374,6 +375,7 @@ function renderStudyPlan(planItems) {
                 if (choiceGroup.length > 0) {
                     const subLabel = document.createElement('div');
                     subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
+                    subLabel.setAttribute('data-i18n', 'lbl-track-choice');
                     subLabel.textContent = currentLang === 'en' ? 'Select 3 credits from the following' : 'เลือกเรียน 3 หน่วยกิตจากกระบวนวิชาต่อไปนี้';
                     cbList.appendChild(subLabel);
                     choiceGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
@@ -382,7 +384,8 @@ function renderStudyPlan(planItems) {
                 if (otherGroup.length > 0) {
                     const subLabel = document.createElement('div');
                     subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
-                    subLabel.textContent = currentLang === 'en' ? 'Other Major Electives (Shared Pool)' : 'และเลือกวิชาอื่นๆ อีก (Shared Pool)';
+                    subLabel.setAttribute('data-i18n', 'lbl-track-other');
+                    subLabel.textContent = currentLang === 'en' ? 'Other Major Elective Courses' : 'วิชาเอกเลือกอื่นๆ (เลือกให้ครบหน่วยกิตที่เหลือ)';
                     cbList.appendChild(subLabel);
                     otherGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
                 }

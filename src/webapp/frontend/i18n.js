@@ -8,6 +8,10 @@ const i18n = {
         "quick-sched": "🛠️ Quick Scheduler",
         "req-courses": "(must choose {num} course(s))",
 
+        "lbl-track-comp": "Track Compulsory Courses",
+        "lbl-track-choice": "Select 3 credits from the following",
+        "lbl-track-other": "Other Major Elective Courses",
+
         "lbl-year": "Academic Year",
         "lbl-term": "Term",
         "lbl-track": "Focus Area (Track)",
@@ -103,6 +107,10 @@ const i18n = {
         "btn-lang": "🇬🇧 Switch to English",
         "quick-sched": "🛠️ จัดตารางแบบด่วน",
         "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
+
+        "lbl-track-comp": "วิชาบังคับในกลุ่มแขนงวิชา",
+        "lbl-track-choice": "เลือกเรียน 3 หน่วยกิตจากกระบวนวิชาต่อไปนี้",
+        "lbl-track-other": "วิชาเอกเลือกอื่นๆ (เลือกให้ครบหน่วยกิตที่เหลือ)",
 
         "lbl-year": "ชั้นปีที่",
         "lbl-term": "เทอม",
