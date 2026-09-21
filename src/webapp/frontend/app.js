@@ -296,20 +296,6 @@ function renderStudyPlan(planItems) {
             groupDiv.appendChild(detailsStandalone);
             
             const selectedTrack = majorTrackSelect.value;
-            let filteredMajors = globalCourses.filter(c => {
-                const cat = c.category_or_track || "";
-                if (!cat.includes("Major Elective")) return false;
-                if (!globalOfferedCourses[c.course_code]) return false; // Must be offered
-                if (selectedTrack && cat !== "Field of Specialization / Major / Major Elective Courses") {
-                    return cat.includes(selectedTrack);
-                }
-                return true;
-            });
-            
-            if (filteredMajors.length > 0) {
-                const cbList = document.createElement('div');
-                cbList.className = 'checkbox-list';
-                
                 // Grouping logic for Major Electives
                 let compCodes = [];
                 let choiceCodes = [];
@@ -323,6 +309,28 @@ function renderStudyPlan(planItems) {
                     compCodes = ['204383', '204422', '204426', '204471', '204472'];
                     choiceCodes = ['204423', '204453'];
                 }
+
+                let filteredMajors = globalCourses.filter(c => {
+                    const cat = c.category_or_track || "";
+                    if (!cat.includes("Major Elective")) return false;
+                    if (!globalOfferedCourses[c.course_code]) return false; // Must be offered
+                    
+                    // Always include if it is explicitly part of the track's comp/choice lists
+                    if (compCodes.includes(c.course_code) || choiceCodes.includes(c.course_code)) {
+                        return true;
+                    }
+                    
+                    if (selectedTrack && cat !== "Field of Specialization / Major / Major Elective Courses") {
+                        return cat.includes(selectedTrack);
+                    }
+                    return true;
+                });
+            
+            if (filteredMajors.length > 0) {
+                const cbList = document.createElement('div');
+                cbList.className = 'checkbox-list';
+                
+
 
                 const compGroup = [];
                 const choiceGroup = [];
