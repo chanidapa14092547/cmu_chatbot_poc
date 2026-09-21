@@ -433,6 +433,15 @@ function renderStudyPlan(planItems) {
 
                     const cbList = document.createElement('div');
                     cbList.className = 'checkbox-list';
+                    
+                    // Check if group is already fulfilled (e.g., Basic Science requires max 2 courses)
+                    const passedInGroup = grouped[cat].filter(c => globalPassedCourses.includes(c.course_code)).length;
+                    let groupMax = Infinity;
+                    if (cat.includes("Basic Science Courses")) {
+                        groupMax = 2;
+                    }
+                    const groupFull = passedInGroup >= groupMax;
+
                     grouped[cat].forEach(c => {
                         const lbl = document.createElement('label');
                         lbl.className = 'checkbox-item';
@@ -447,6 +456,12 @@ function renderStudyPlan(planItems) {
                             lbl.style.opacity = '0.5';
                             lbl.appendChild(cb);
                             lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
+                        } else if (groupFull) {
+                            cb.disabled = true;
+                            lbl.style.opacity = '0.5';
+                            lbl.appendChild(cb);
+                            const t_complete = currentLang === 'en' ? '(Completed)' : '(ครบหมวดแล้ว)';
+                            lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${t_complete}`));
                         } else {
                             lbl.appendChild(cb);
                             lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
