@@ -743,7 +743,7 @@ function parseAIState(text) {
     }
 }
 
-async function sendChat(messageText) {
+async function sendChat(messageText, hiddenContext = "") {
     let finalMessage = messageText;
     let base64Images = [];
     
@@ -771,8 +771,13 @@ async function sendChat(messageText) {
     chatHistory.scrollTop = chatHistory.scrollHeight;
     
     try {
+        let fullMessage = finalMessage;
+        if (hiddenContext.trim()) {
+            fullMessage += `\n\n${hiddenContext}`;
+        }
+        
         const payload = {
-            message: finalMessage,
+            message: fullMessage,
             history: chatMessages.slice(0, -1),
             images: base64Images
         };
@@ -808,21 +813,19 @@ chatInput.addEventListener('keypress', (e) => {
 });
 
 generateBtn.addEventListener('click', async () => {
-    let promptText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+    let visibleText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
     if (currentLang === 'en') {
-        promptText = `Please generate a study schedule for ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+        visibleText = `Please generate a study schedule for ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
     }
+    
+    let hiddenContext = "";
     
     // Add Passed courses to prompt to exclude them
     if (globalPassedCourses && globalPassedCourses.length > 0) {
         if (currentLang === 'en') {
-            promptText += `
-
-(Courses already passed, do NOT recommend: ${globalPassedCourses.join(', ')})`;
+            hiddenContext += `(Courses already passed, do NOT recommend: ${globalPassedCourses.join(', ')})\n`;
         } else {
-            promptText += `
-
-(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})`;
+            hiddenContext += `(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})\n`;
         }
     }
 
@@ -831,13 +834,9 @@ generateBtn.addEventListener('click', async () => {
     const fixedCourses = (planRes.plan || []).filter(item => typeof item === 'string');
     if (fixedCourses.length > 0) {
         if (currentLang === 'en') {
-            promptText += `
-
-(Compulsory courses already planned in the curriculum: ${fixedCourses.join(', ')})`;
+            hiddenContext += `(Compulsory courses already planned in the curriculum: ${fixedCourses.join(', ')})\n`;
         } else {
-            promptText += `
-
-(วิชาบังคับที่จัดไว้ในหลักสูตรแล้วคือ: ${fixedCourses.join(', ')})`;
+            hiddenContext += `(วิชาบังคับที่จัดไว้ในหลักสูตรแล้วคือ: ${fixedCourses.join(', ')})\n`;
         }
     }
     
