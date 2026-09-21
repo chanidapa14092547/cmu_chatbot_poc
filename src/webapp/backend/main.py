@@ -86,6 +86,11 @@ if MINOR_JSON:
         MINOR_COURSES_MAP[m] = list(set(MINOR_COURSES_MAP[m]))
 
 # --- Endpoints ---
+@app.get("/")
+@app.head("/")
+def health_check():
+    return {"status": "ok"}
+
 @app.get("/api/ping")
 def ping():
     return {"status": "ok"}
