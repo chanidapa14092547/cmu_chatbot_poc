@@ -746,11 +746,8 @@ function parseAIState(text) {
             if (state.inferred_minor) {
                 globalInferredMinor = state.inferred_minor;
             }
-            if (currentPlanData) {
-                // Re-render the study plan so that checkboxes are disabled based on passed courses
-                // and the inferred minor is selected automatically
-                renderStudyPlan(currentPlanData);
-            }
+            // Delay rendering until we know if we need to fetch a new plan
+            let shouldRenderLater = true;
             
             // Check statuses for Curriculum Progress
             document.querySelectorAll('.item-score').forEach(el => {
@@ -796,9 +793,13 @@ function parseAIState(text) {
             if (state.passed_courses) {
                 globalPassedCourses = state.passed_courses;
             }
+            let yearChanged = false;
             if (state.year_standing !== undefined) {
                 const ysEl = document.getElementById('year-select');
-                if(ysEl) ysEl.value = state.year_standing;
+                if(ysEl && ysEl.value != state.year_standing) {
+                    ysEl.value = state.year_standing;
+                    yearChanged = true;
+                }
             }
             if (state.alert) {
                 const alertBox = document.getElementById('curriculum-alert');
@@ -810,6 +811,14 @@ function parseAIState(text) {
             } else {
                 const alertBox = document.getElementById('curriculum-alert');
                 if (alertBox) alertBox.style.display = 'none';
+            }
+
+            if (yearChanged) {
+                handlePlanChange();
+            } else if (currentPlanData) {
+                // Re-render the study plan so that checkboxes are disabled based on passed courses
+                // and the inferred minor is selected automatically
+                renderStudyPlan(currentPlanData);
             }
         } catch (e) {
             console.error("Error parsing JSON state:", e);
