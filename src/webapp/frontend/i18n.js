@@ -102,7 +102,7 @@ const i18n = {
         "header-title-curr": "ความคืบหน้าหลักสูตร",
         "btn-lang": "🇬🇧 Switch to English",
         "quick-sched": "🛠️ จัดตารางแบบด่วน",
-        "req-courses": "(ต้องเลือก {num} วิชา)",
+        "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
 
         "lbl-year": "ชั้นปีที่",
         "lbl-term": "เทอม",
@@ -145,17 +145,17 @@ const i18n = {
         
         "status-incomplete": "ยังไม่ครบ",
         "status-complete": "ครบแล้ว",
-        "status-option": "ต้องเลือก",
+        "status-option": "ตามแผนควรเลือก",
         "credits-remaining": "หน่วยกิตที่ขาด",
         
-        "courses-to-select": "วิชาที่ต้องเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):",
+        "courses-to-select": "วิชาที่ตามแผนควรเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):",
         "major-elec-offered": "วิชาเอกเลือก (Major Electives) ที่เปิดสอน ({req}):",
         "minor-offered": "รายวิชาโท {minor} ที่เปิดสอนเทอมนี้ ({req}):",
         "cat-req": "หมวด {name}:",
-        "cat-req-with-num": "หมวด {name} (ต้องเลือก {num} วิชา):",
-        "minor-label-with-num": "หมวด {name} (ต้องเลือก {num} วิชา): เลือกแขนงวิชาโท หรือ เอกเลือก:",
-        "major-elec-offered-with-num": "วิชาเอกเลือกที่เปิดสอน (ต้องเลือก {num} วิชา):",
-        "minor-offered-with-num": "วิชาโท {minor} ที่เปิดสอน (ต้องเลือก {num} วิชา):",
+        "cat-req-with-num": "หมวด {name} (ตามแผนควรเลือก {num} วิชา):",
+        "minor-label-with-num": "หมวด {name} (ตามแผนควรเลือก {num} วิชา): เลือกแขนงวิชาโท หรือ เอกเลือก:",
+        "major-elec-offered-with-num": "วิชาเอกเลือกที่เปิดสอน (ตามแผนควรเลือก {num} วิชา):",
+        "minor-offered-with-num": "วิชาโท {minor} ที่เปิดสอน (ตามแผนควรเลือก {num} วิชา):",
 
         "warn-no-major": "⚠️ ไม่มีวิชาเอกเลือกเปิดสอนในเทอมนี้ หรือไม่ตรงกับแขนงที่เลือก",
         "warn-no-minor": "⚠️ วิชาโท {minor} ไม่มีวิชาเปิดสอนเทอมนี้เลย",
@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', updateLanguage);
 
 window.formatMinorOption = function(m, lang) {
     if (m === "none" || m === "") {
-        return lang === 'en' ? "Major Elective (No Minor)" : "เลือกลงเป็นวิชาเอกเลือก (Major Elective)";
+        return lang === 'en' ? "Major Elective / Advanced Courses (300-400)" : "เรียนวิชาระดับ 300-400 แทน 15 หน่วยกิต (Major Electives)";
     }
     // Clean up internal PDF page references like [ฉบับหน้า 5]
     m = m.replace(/\s*\[ฉบับหน้า\s*\d+\]/g, '');
