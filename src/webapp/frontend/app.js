@@ -195,79 +195,40 @@ function renderStudyPlan(planItems) {
                     });
                     
                     if (filteredMajors.length > 0) {
-                        const cbList = document.createElement('div');
-                        cbList.className = 'checkbox-list';
-                        
-                        // Grouping logic for Major Electives when no minor is selected
-                        let compCodes = [];
-                        let choiceCodes = [];
-                        
-                        if (selectedTrack === "Data analytics using mathematical modeling") {
-                            compCodes = ['204426', '204471', '206300', '206341', '206358', '206465'];
-                        } else if (selectedTrack === "Statistical data analytics") {
-                            compCodes = ['204453', '208350', '208354', '208424', '208450'];
-                            choiceCodes = ['204422', '204471'];
-                        } else if (selectedTrack === "Data analytics using computational modeling") {
-                            compCodes = ['204383', '204422', '204426', '204471', '204472'];
-                            choiceCodes = ['204423', '204453'];
-                        }
-
-                        const compGroup = [];
-                        const choiceGroup = [];
-                        const otherGroup = [];
-
-                        filteredMajors.forEach(c => {
-                            if (compCodes.includes(c.course_code)) compGroup.push(c);
-                            else if (choiceCodes.includes(c.course_code)) choiceGroup.push(c);
-                            else otherGroup.push(c);
+                        // Filter for 300 or 400 level courses
+                        const levelFilteredMajors = filteredMajors.filter(c => {
+                            const levelDigit = c.course_code.charAt(3);
+                            return levelDigit === '3' || levelDigit === '4';
                         });
 
-                        const createCourseLabel = (c) => {
-                            const lbl = document.createElement('label');
-                            lbl.className = 'checkbox-item';
-                            const cb = document.createElement('input');
-                            cb.type = 'checkbox';
-                            cb.value = c.course_code;
-                            cb.className = `maj_fallback_cb_${i}`;
+                        if (levelFilteredMajors.length > 0) {
+                            const cbList = document.createElement('div');
+                            cbList.className = 'checkbox-list';
                             
-                            const isPassed = globalPassedCourses.includes(c.course_code);
-                            if (isPassed) {
-                                cb.disabled = true;
-                                lbl.style.opacity = '0.5';
-                                lbl.appendChild(cb);
-                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
-                            } else {
-                                lbl.appendChild(cb);
-                                lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
-                            }
-                            return lbl;
-                        };
-
-                        if (compGroup.length > 0) {
-                            const subLabel = document.createElement('div');
-                            subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
-                            subLabel.textContent = currentLang === 'en' ? 'Track Compulsory Courses' : 'วิชาบังคับในกลุ่มแขนงวิชา';
-                            cbList.appendChild(subLabel);
-                            compGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
+                            levelFilteredMajors.forEach(c => {
+                                const lbl = document.createElement('label');
+                                lbl.className = 'checkbox-item';
+                                const cb = document.createElement('input');
+                                cb.type = 'checkbox';
+                                cb.value = c.course_code;
+                                cb.className = `maj_fallback_cb_${i}`;
+                                
+                                const isPassed = globalPassedCourses.includes(c.course_code);
+                                if (isPassed) {
+                                    cb.disabled = true;
+                                    lbl.style.opacity = '0.5';
+                                    lbl.appendChild(cb);
+                                    lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en} ${window.t("passed")}`));
+                                } else {
+                                    lbl.appendChild(cb);
+                                    lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
+                                }
+                                cbList.appendChild(lbl);
+                            });
+                            details.appendChild(cbList);
+                        } else {
+                            coursesContainer.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-course")}</div>`;
                         }
-                        
-                        if (choiceGroup.length > 0) {
-                            const subLabel = document.createElement('div');
-                            subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
-                            subLabel.textContent = currentLang === 'en' ? 'Select 3 credits from the following' : 'เลือกเรียน 3 หน่วยกิตจากกระบวนวิชาต่อไปนี้';
-                            cbList.appendChild(subLabel);
-                            choiceGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
-                        }
-
-                        if (otherGroup.length > 0) {
-                            const subLabel = document.createElement('div');
-                            subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
-                            subLabel.textContent = currentLang === 'en' ? 'Other Major Electives (Shared Pool)' : 'และเลือกวิชาอื่นๆ อีก (Shared Pool)';
-                            cbList.appendChild(subLabel);
-                            otherGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
-                        }
-                        
-                        details.appendChild(cbList);
                     } else {
                         coursesContainer.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-major")}</div>`;
                     }
@@ -348,7 +309,32 @@ function renderStudyPlan(planItems) {
             if (filteredMajors.length > 0) {
                 const cbList = document.createElement('div');
                 cbList.className = 'checkbox-list';
+                
+                // Grouping logic for Major Electives
+                let compCodes = [];
+                let choiceCodes = [];
+                
+                if (selectedTrack === "Data analytics using mathematical modeling") {
+                    compCodes = ['204426', '204471', '206300', '206341', '206358', '206465'];
+                } else if (selectedTrack === "Statistical data analytics") {
+                    compCodes = ['204453', '208350', '208354', '208424', '208450'];
+                    choiceCodes = ['204422', '204471'];
+                } else if (selectedTrack === "Data analytics using computational modeling") {
+                    compCodes = ['204383', '204422', '204426', '204471', '204472'];
+                    choiceCodes = ['204423', '204453'];
+                }
+
+                const compGroup = [];
+                const choiceGroup = [];
+                const otherGroup = [];
+
                 filteredMajors.forEach(c => {
+                    if (compCodes.includes(c.course_code)) compGroup.push(c);
+                    else if (choiceCodes.includes(c.course_code)) choiceGroup.push(c);
+                    else otherGroup.push(c);
+                });
+
+                const createCourseLabel = (c) => {
                     const lbl = document.createElement('label');
                     lbl.className = 'checkbox-item';
                     const cb = document.createElement('input');
@@ -366,9 +352,33 @@ function renderStudyPlan(planItems) {
                         lbl.appendChild(cb);
                         lbl.appendChild(document.createTextNode(`${c.course_code} ${c.course_name_en}`));
                     }
-                    
-                    cbList.appendChild(lbl);
-                });
+                    return lbl;
+                };
+
+                if (compGroup.length > 0) {
+                    const subLabel = document.createElement('div');
+                    subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
+                    subLabel.textContent = currentLang === 'en' ? 'Track Compulsory Courses' : 'วิชาบังคับในกลุ่มแขนงวิชา';
+                    cbList.appendChild(subLabel);
+                    compGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
+                }
+                
+                if (choiceGroup.length > 0) {
+                    const subLabel = document.createElement('div');
+                    subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
+                    subLabel.textContent = currentLang === 'en' ? 'Select 3 credits from the following' : 'เลือกเรียน 3 หน่วยกิตจากกระบวนวิชาต่อไปนี้';
+                    cbList.appendChild(subLabel);
+                    choiceGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
+                }
+
+                if (otherGroup.length > 0) {
+                    const subLabel = document.createElement('div');
+                    subLabel.style.cssText = 'font-weight: 600; margin-top: 10px; margin-bottom: 5px; color: #3b82f6; font-size: 0.9rem;';
+                    subLabel.textContent = currentLang === 'en' ? 'Other Major Electives (Shared Pool)' : 'และเลือกวิชาอื่นๆ อีก (Shared Pool)';
+                    cbList.appendChild(subLabel);
+                    otherGroup.forEach(c => cbList.appendChild(createCourseLabel(c)));
+                }
+                
                 detailsStandalone.appendChild(cbList);
             } else {
                 groupDiv.innerHTML += `<div style="color: #fbbf24; font-size: 0.85rem;">${window.t("warn-no-course")}</div>`;
