@@ -5,7 +5,7 @@ const i18n = {
         "header-title-next": "Next Semester",
         "header-title-curr": "Curriculum Progress",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
-        "quick-sched": "🛠️ Quick Scheduler",
+        "quick-sched": "🛠️ Recommended Courses",
         "req-courses": "(must choose {num} course(s))",
 
         "lbl-track-comp": "Track Compulsory Courses",
@@ -105,7 +105,7 @@ const i18n = {
         "header-title-next": "จัดตารางเรียนเทอมถัดไป",
         "header-title-curr": "ความคืบหน้าหลักสูตร",
         "btn-lang": "🇬🇧 Switch to English",
-        "quick-sched": "🛠️ จัดตารางแบบด่วน",
+        "quick-sched": "🛠️ ตามแผนควรเลือก...วิชา",
         "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
 
         "lbl-track-comp": "วิชาบังคับในกลุ่มแขนงวิชา",
