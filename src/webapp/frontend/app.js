@@ -923,7 +923,7 @@ generateBtn.addEventListener('click', async () => {
     }
     
     let hiddenContext = "";
-    
+    let promptText = visibleText;
 
 
     // Add Fixed courses to prompt
@@ -992,7 +992,7 @@ generateBtn.addEventListener('click', async () => {
         promptText += `\n- เงื่อนไขเพิ่มเติม: ${tc}`;
     }
     
-    sendChat(promptText);
+    sendChat(promptText, hiddenContext);
 });
 
 // Start
