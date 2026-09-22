@@ -798,6 +798,18 @@ function parseAIState(text) {
             updateChecklist('check-core', core + majorComp, 62);
             updateChecklist('check-ge', req + elec, 30);
             updateChecklist('check-minor', majorElec + minor, 15); // Requires at least 15 for minor
+
+            // Also update total-status directly (HTML uses 'total-status' not 'check-total-status')
+            const totalStatusEl = document.getElementById('total-status');
+            if (totalStatusEl) {
+                if (total >= 137) {
+                    totalStatusEl.textContent = window.t('status-complete');
+                    totalStatusEl.className = 'item-status complete';
+                } else {
+                    totalStatusEl.textContent = window.t('status-incomplete');
+                    totalStatusEl.className = 'item-status incomplete';
+                }
+            }
             
             lucide.createIcons(); // Refresh icons
 

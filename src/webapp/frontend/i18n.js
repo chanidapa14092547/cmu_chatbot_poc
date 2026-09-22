@@ -6,7 +6,7 @@ const i18n = {
         "header-title-curr": "Curriculum Progress",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
         "quick-sched": "🛠️ Recommended Courses",
-        "req-courses": "(must choose {num} course(s))",
+        "req-courses": "(recommended: {num} course(s))",
 
         "lbl-track-comp": "Track Compulsory Courses",
         "lbl-track-choice": "Select 3 credits from the following",
@@ -53,17 +53,17 @@ const i18n = {
         
         "status-incomplete": "INCOMPLETE",
         "status-complete": "COMPLETE",
-        "status-option": "OPTION REQUIRED",
+        "status-option": "RECOMMENDED",
         "credits-remaining": "credits remaining",
         
         "courses-to-select": "Courses to select this semester (Offered only):",
         "major-elec-offered": "Major Electives offered ({req}):",
         "minor-offered": "Minor {minor} courses offered ({req}):",
         "cat-req": "{name} category:",
-        "cat-req-with-num": "{name} category (must choose {num} course(s)):",
-        "minor-label-with-num": "{name} category (must choose {num} course(s)): Select Minor or Major Elective:",
-        "major-elec-offered-with-num": "Major Electives offered (must choose {num} course(s)):",
-        "minor-offered-with-num": "{minor} Minor courses offered (must choose {num} course(s)):",
+        "cat-req-with-num": "{name} category (recommended: {num} course(s)):",
+        "minor-label-with-num": "{name} category (recommended: {num} course(s)): Select Minor or Major Elective:",
+        "major-elec-offered-with-num": "Major Electives offered (recommended: {num} course(s)):",
+        "minor-offered-with-num": "{minor} Minor courses offered (recommended: {num} course(s)):",
 
         "warn-no-major": "⚠️ No major electives offered this term or none matching your track.",
         "warn-no-minor": "⚠️ No {minor} minor courses offered this term.",
