@@ -876,7 +876,7 @@ async function sendChat(messageText, hiddenContext = "") {
             stateContext += `- Current Target Term for Planning: Year ${yearSelect.value} Semester ${termSelect.value}\n`;
         }
         if (globalPassedCourses && globalPassedCourses.length > 0) {
-            stateContext += `- Passed Courses (DO NOT RECOMMEND THESE): ${globalPassedCourses.join(', ')}\n`;
+            stateContext += `- Passed Courses (Do not schedule these as they are already completed): ${globalPassedCourses.join(', ')}\n`;
         }
         fullMessage += stateContext;
         
