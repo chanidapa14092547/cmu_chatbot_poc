@@ -870,6 +870,16 @@ async function sendChat(messageText, hiddenContext = "") {
             fullMessage += `\n\n${hiddenContext}`;
         }
         
+        // Inject current academic state to ensure AI remembers context across manual messages
+        let stateContext = "\n\n[SYSTEM STATE REMINDER]\n";
+        if (yearSelect && termSelect) {
+            stateContext += `- Current Target Term for Planning: Year ${yearSelect.value} Semester ${termSelect.value}\n`;
+        }
+        if (globalPassedCourses && globalPassedCourses.length > 0) {
+            stateContext += `- Passed Courses (DO NOT RECOMMEND THESE): ${globalPassedCourses.join(', ')}\n`;
+        }
+        fullMessage += stateContext;
+        
         const payload = {
             message: fullMessage,
             history: chatMessages.slice(0, -1),
@@ -914,14 +924,7 @@ generateBtn.addEventListener('click', async () => {
     
     let hiddenContext = "";
     
-    // Add Passed courses to prompt to exclude them
-    if (globalPassedCourses && globalPassedCourses.length > 0) {
-        if (currentLang === 'en') {
-            hiddenContext += `(Courses already passed, do NOT recommend: ${globalPassedCourses.join(', ')})\n`;
-        } else {
-            hiddenContext += `(วิชาที่สอบผ่านแล้ว ห้ามแนะนำเด็ดขาด: ${globalPassedCourses.join(', ')})\n`;
-        }
-    }
+
 
     // Add Fixed courses to prompt
     const planRes = await fetch(`${API_BASE}/study-plan/${yearSelect.value}/${termSelect.value}`).then(r => r.json());
