@@ -929,9 +929,9 @@ chatInput.addEventListener('keypress', (e) => {
 });
 
 generateBtn.addEventListener('click', async () => {
-    let visibleText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+    let visibleText = `ช่วยจัดตารางเรียนให้หน่อย สำหรับ ปี ${yearSelect.options[yearSelect.selectedIndex].text} เทอม ${termSelect.options[termSelect.selectedIndex].text}`;
     if (currentLang === 'en') {
-        visibleText = `Please generate a study schedule for ${yearSelect.options[yearSelect.selectedIndex].text} ${termSelect.options[termSelect.selectedIndex].text}`;
+        visibleText = `Please generate a study schedule for Year ${yearSelect.options[yearSelect.selectedIndex].text} Semester ${termSelect.options[termSelect.selectedIndex].text}`;
     }
     
     let hiddenContext = "";
