@@ -1,9 +1,9 @@
 const i18n = {
     "en": {
         "nav-next-sem": "Next Semester",
-        "nav-curr-prog": "Curriculum Progress",
+        "nav-curr-prog": "Graduation Audit",
         "header-title-next": "Next Semester",
-        "header-title-curr": "Curriculum Progress",
+        "header-title-curr": "Graduation Audit",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
         "quick-sched": "🛠️ Recommended Courses",
         "req-courses": "(recommended: {num} course(s))",
@@ -40,7 +40,7 @@ const i18n = {
         "chat-greeting": "Hello! I am your AI Academic Advisor for the Data Science track at CMU.<br><br>I'm here to provide guidance, recommend courses, check graduation requirements, and help you plan your schedule! Select your courses on the left or type your questions below.",
         "chat-placeholder": "Ask something (e.g., Can you arrange my schedule?)",
         
-        "prog-title": "Curriculum Progress",
+        "prog-title": "Graduation Audit & Requirements",
         "prog-desc": "Actual earned-credit progress against the Data Science curriculum.",
         "upload-btn2": "Upload Transcript",
         "upload-drop": "Drop your transcript here, or click to browse",
@@ -101,9 +101,9 @@ const i18n = {
     },
     "th": {
         "nav-next-sem": "จัดตารางเรียน",
-        "nav-curr-prog": "ความคืบหน้าหลักสูตร",
+        "nav-curr-prog": "ตรวจสอบจบ (Graduation Audit)",
         "header-title-next": "จัดตารางเรียนเทอมถัดไป",
-        "header-title-curr": "ความคืบหน้าหลักสูตร",
+        "header-title-curr": "ตรวจสอบจบ (Graduation Audit)",
         "btn-lang": "🇬🇧 Switch to English",
         "quick-sched": "🛠️ ตามแผนควรเลือก...วิชา",
         "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
@@ -140,7 +140,7 @@ const i18n = {
         "chat-greeting": "สวัสดีครับ! ผมคือ Academic Advisor อัจฉริยะ สำหรับสาขา Data Science มช.<br><br>ผมพร้อมให้คำปรึกษา แนะนำการลงทะเบียน ตรวจสอบเงื่อนไขการจบการศึกษา และช่วยจัดตารางเรียนให้คุณแล้วครับ! ลองเลือกวิชาทางซ้ายมือ หรือพิมพ์คำถามมาได้เลยครับ",
         "chat-placeholder": "พิมพ์คำถาม (เช่น ช่วยจัดตารางเรียนให้หน่อย)",
         
-        "prog-title": "ความคืบหน้าหลักสูตร",
+        "prog-title": "ตรวจสอบเงื่อนไขการสำเร็จการศึกษา",
         "prog-desc": "ตรวจสอบหน่วยกิตที่เก็บได้เทียบกับโครงสร้างหลักสูตรวิทยาการข้อมูล",
         "upload-btn2": "อัปโหลดทรานสคริปต์",
         "upload-drop": "ลากไฟล์ทรานสคริปต์มาวางที่นี่ หรือคลิกเพื่อเลือกไฟล์",
