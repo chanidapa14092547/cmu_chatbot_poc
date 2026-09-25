@@ -5,7 +5,7 @@ const i18n = {
         "header-title-next": "Next Semester",
         "header-title-curr": "Graduation Audit",
         "btn-lang": "🇹🇭 เปลี่ยนเป็นภาษาไทย",
-        "quick-sched": "🛠️ Recommended Courses",
+        "quick-sched": "Recommended Courses",
         "req-courses": "(recommended: {num} course(s))",
 
         "lbl-track-comp": "Track Compulsory Courses",
@@ -105,7 +105,7 @@ const i18n = {
         "header-title-next": "จัดตารางเรียนเทอมถัดไป",
         "header-title-curr": "ตรวจสอบเงื่อนไขสำเร็จการศึกษา",
         "btn-lang": "🇬🇧 Switch to English",
-        "quick-sched": "🛠️ ตามแผนควรเลือก...วิชา",
+        "quick-sched": "ตามแผนควรเลือก...วิชา",
         "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
 
         "lbl-track-comp": "วิชาบังคับในกลุ่มแขนงวิชา",
