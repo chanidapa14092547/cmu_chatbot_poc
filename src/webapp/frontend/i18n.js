@@ -101,9 +101,9 @@ const i18n = {
     },
     "th": {
         "nav-next-sem": "จัดตารางเรียน",
-        "nav-curr-prog": "ตรวจสอบจบ (Graduation Audit)",
+        "nav-curr-prog": "ตรวจสอบเงื่อนไขสำเร็จการศึกษา (Graduation Audit)",
         "header-title-next": "จัดตารางเรียนเทอมถัดไป",
-        "header-title-curr": "ตรวจสอบจบ (Graduation Audit)",
+        "header-title-curr": "ตรวจสอบเงื่อนไขสำเร็จการศึกษา (Graduation Audit)",
         "btn-lang": "🇬🇧 Switch to English",
         "quick-sched": "🛠️ ตามแผนควรเลือก...วิชา",
         "req-courses": "(ตามแผนควรเลือก {num} วิชา)",
