@@ -114,7 +114,7 @@ const i18n = {
 
         "lbl-year": "ชั้นปีที่",
         "lbl-term": "เทอม",
-        "lbl-track": "แขนงวิชาเอก (Track)",
+        "lbl-track": "แขนงวิชาเอก",
         "lbl-time": "เงื่อนไขเวลา",
         "logo-sub": "สาขาวิทยาการข้อมูล",
         "nav-review": "ตรวจสอบวุฒิ",
@@ -129,11 +129,11 @@ const i18n = {
         "Major Elective": "เอกเลือก",
         "Major Electives": "เอกเลือก",
         "Minor": "วิชาโท",
-        "General Education": "ศึกษาทั่วไป (GE)",
+        "General Education": "ศึกษาทั่วไป",
 
         "plh-time": "เช่น ไม่เรียนเช้าวันจันทร์",
         "minor-label": "หมวด {name}: เลือกแขนงวิชาโท หรือ เอกเลือก:",
-        "minor-none": "เลือกลงเป็นวิชาเอกเลือก (Major Elective)",
+        "minor-none": "เลือกลงเป็นวิชาเอกเลือก",
 
         
         "chat-title": "ผู้ช่วย AI จัดตารางเรียน",
@@ -147,7 +147,7 @@ const i18n = {
         "upload-supports": "รองรับไฟล์ PDF, PNG, JPG สำหรับให้ AI ประมวลผล",
         "action-required": "ต้องดำเนินการ",
         
-        "group-ge": "หมวดวิชาศึกษาทั่วไป (GE)",
+        "group-ge": "หมวดวิชาศึกษาทั่วไป",
         "group-core": "หมวดวิชาแกนและวิชาเอก",
         "group-other": "หมวดวิชาอื่นๆ",
         
@@ -157,7 +157,7 @@ const i18n = {
         "credits-remaining": "หน่วยกิตที่ขาด",
         
         "courses-to-select": "วิชาที่ตามแผนควรเลือกสำหรับเทอมนี้ (แสดงเฉพาะที่เปิดสอน):",
-        "major-elec-offered": "วิชาเอกเลือก (Major Electives) ที่เปิดสอน ({req}):",
+        "major-elec-offered": "วิชาเอกเลือกที่เปิดสอน ({req}):",
         "minor-offered": "รายวิชาโท {minor} ที่เปิดสอนเทอมนี้ ({req}):",
         "cat-req": "หมวด {name}:",
         "cat-req-with-num": "หมวด {name} (ตามแผนควรเลือก {num} วิชา):",
@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', updateLanguage);
 
 window.formatMinorOption = function(m, lang) {
     if (m === "none" || m === "") {
-        return lang === 'en' ? "Major Elective / Advanced Courses (300-400)" : "เรียนวิชาระดับ 300-400 แทน 15 หน่วยกิต (Major Electives)";
+        return lang === 'en' ? "Major Elective / Advanced Courses (300-400)" : "เรียนวิชาเอกเลือกระดับ 300-400 แทน 15 หน่วยกิต";
     }
     // Clean up internal PDF page references like [ฉบับหน้า 5]
     m = m.replace(/\s*\[ฉบับหน้า\s*\d+\]/g, '');
