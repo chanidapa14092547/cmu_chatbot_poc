@@ -639,6 +639,8 @@ if (transcriptUploadInput) {
                 try {
                     const base64Files = await Promise.all(files.map(f => getBase64(f)));
                     
+                    const transcriptController = new AbortController();
+                    const transcriptTimeout = setTimeout(() => transcriptController.abort(), 120000);
                     const response = await fetch(`${API_BASE}/chat`, {
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
@@ -646,8 +648,10 @@ if (transcriptUploadInput) {
                             message: "Here is my transcript. Please analyze it, update my passed courses, and provide the JSON state.",
                             history: [],
                             images: base64Files
-                        })
+                        }),
+                        signal: transcriptController.signal
                     });
+                    clearTimeout(transcriptTimeout);
                     
                     const data = await response.json();
                     if (response.ok && data.response) {
@@ -898,11 +902,15 @@ async function sendChat(messageText, hiddenContext = "") {
             images: base64Images
         };
         
+        const chatController = new AbortController();
+        const chatTimeout = setTimeout(() => chatController.abort(), 120000);
         const response = await fetch(`${API_BASE}/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(payload)
+            body: JSON.stringify(payload),
+            signal: chatController.signal
         });
+        clearTimeout(chatTimeout);
         
         const data = await response.json();
         if (loadingDiv.parentNode) loadingDiv.remove();
