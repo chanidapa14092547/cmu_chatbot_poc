@@ -951,7 +951,7 @@ generateBtn.addEventListener('click', async () => {
     const fixedCourses = (planRes.plan || []).filter(item => typeof item === 'string');
     if (fixedCourses.length > 0) {
         if (currentLang === 'en') {
-            hiddenContext += `(Compulsory courses already planned in the curriculum: ${fixedCourses.join(', ')})\n`;
+            hiddenContext += `(Compulsory courses already planned in the curriculum: ${fixedCourses.join(', ')})\n(Please respond entirely in English.)\n`;
         } else {
             hiddenContext += `(วิชาบังคับที่จัดไว้ในหลักสูตรแล้วคือ: ${fixedCourses.join(', ')})\n`;
         }
@@ -1003,13 +1003,21 @@ generateBtn.addEventListener('click', async () => {
         }
         
         if (choice) {
-            promptText += `\n- ขอเลือกวิชาในหมวด ${short_name} เป็น: ${choice}`;
+            if (currentLang === 'en') {
+                promptText += `\n- Select course for ${short_name} as: ${choice}`;
+            } else {
+                promptText += `\n- ขอเลือกวิชาในหมวด ${short_name} เป็น: ${choice}`;
+            }
         }
     });
     
     const tc = timeConstraints.value;
     if (tc) {
-        promptText += `\n- เงื่อนไขเพิ่มเติม: ${tc}`;
+        if (currentLang === 'en') {
+            promptText += `\n- Additional Time Constraints: ${tc}`;
+        } else {
+            promptText += `\n- เงื่อนไขเพิ่มเติม: ${tc}`;
+        }
     }
     
     sendChat(promptText, hiddenContext);
