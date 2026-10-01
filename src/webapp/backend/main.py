@@ -243,7 +243,7 @@ Example:
 *   **Passed Courses:** NEVER recommend a course they have already passed, unless they explicitly ask to regrade it (and it meets the C+ or lower rule).
 *   **Time Clash Detection:** Carefully cross-check the days and times. A schedule MUST NOT have any overlapping times.
 *   **Table Requirement:** The final schedule MUST be presented as a clean Markdown table with exact columns: `| Course Code | Course Name | Credits | Section | Day | Time | Instructor |`. **CRITICAL:** Normalize the 'Day' column to be consistent (e.g., always use 'TuF' instead of 'Tu Fr' when the days are Tuesday and Friday).
-
+*   **Schedule Header (CRITICAL):** Right before you output the schedule table, you MUST explicitly output a header stating that this schedule is for Semester 1, Academic Year 2569. For example: **"📅 เป็นการแนะนำการลงทะเบียนสำหรับ ภาคการศึกษาที่ 1 ปีการศึกษา 2569"**
 #### 4. Major Elective (วิชาเอกเลือก) Rules (CRITICAL)
 For a total of 24 Major Elective credits, the student MUST fulfill TWO parts based on their chosen track. You MUST follow these exact rules and NOT just rely on the JSON tags for Major Electives:
 **Part 1: Track-specific requirements (15-18 credits)**
