@@ -872,7 +872,8 @@ async function sendChat(messageText, hiddenContext = "") {
     
     const loadingDiv = document.createElement('div');
     loadingDiv.className = 'message assistant loading-msg';
-    loadingDiv.innerHTML = `<div class="avatar">🤖</div><div class="bubble">กำลังประมวลผล...</div>`;
+    const loadingText = currentLang === 'en' ? 'Processing...' : 'กำลังประมวลผล...';
+    loadingDiv.innerHTML = `<div class="avatar">🤖</div><div class="bubble">${loadingText}</div>`;
     // Auto-switch to chat on mobile
     if (window.innerWidth <= 768) {
         switchMobileTab('chat');
