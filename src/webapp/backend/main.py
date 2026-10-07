@@ -200,7 +200,7 @@ def init_gemini_and_model():
             ALL_CLIENTS.append(genai.Client(api_key=key))
         except Exception:
             pass
-    return "gemini-3.6-flash"
+    return "gemini-1.5-flash"
 
 MODEL_NAME = init_gemini_and_model()
 
