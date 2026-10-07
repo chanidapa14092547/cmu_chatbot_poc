@@ -63,8 +63,20 @@ async def sync_courses_background():
 
 @app.on_event("startup")
 async def startup_event():
-    # Run the sync in the background so it doesn't block the server startup
-    asyncio.create_task(sync_courses_background())
+    # Start the continuous 24-hour sync loop
+    asyncio.create_task(periodic_sync())
+
+async def periodic_sync():
+    """Run course sync on startup and then every 24 hours."""
+    while True:
+        try:
+            await sync_courses_background()
+        except Exception as e:
+            logging.error(f"Error in periodic_sync loop: {e}")
+        
+        # Sleep for 24 hours (86400 seconds) before running again
+        logging.info("Sync complete. Sleeping for 24 hours...")
+        await asyncio.sleep(86400)
 
 @app.post("/api/admin/sync_schedule")
 async def sync_schedule_endpoint(background_tasks: BackgroundTasks):
