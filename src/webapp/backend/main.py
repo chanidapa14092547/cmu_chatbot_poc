@@ -200,7 +200,7 @@ def init_gemini_and_model():
             ALL_CLIENTS.append(genai.Client(api_key=key))
         except Exception:
             pass
-    return "gemini-3.6-flash"
+    return "gemini-3.8-flash"
 
 MODEL_NAME = init_gemini_and_model()
 
@@ -471,7 +471,11 @@ When summarizing a student's transcript and recommending courses, adopt a friend
                 last_exception = e
                 error_msg = str(e).lower()
                 print(f"API key failed (attempt {attempt+1}): {e}")
-                if "503" in error_msg or "429" in error_msg or "quota" in error_msg or "unavailable" in error_msg:
+                if "503" in error_msg or "unavailable" in error_msg:
+                    # Global model overload, don't waste time retrying other keys
+                    clients_to_try = [] 
+                    break
+                elif "429" in error_msg or "quota" in error_msg:
                     time.sleep(2 ** attempt) # Exponential backoff: 1s, 2s, 4s
                     continue
                 else:
