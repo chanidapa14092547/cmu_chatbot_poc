@@ -575,10 +575,52 @@ function exportTableToCSV(table, filename) {
 // --- File Handling Helpers ---
 function getBase64(file) {
     return new Promise((resolve, reject) => {
+        // If not an image, just read as data URL normally
+        if (!file.type.startsWith('image/')) {
+            const reader = new FileReader();
+            reader.readAsDataURL(file);
+            reader.onload = () => resolve(reader.result);
+            reader.onerror = error => reject(error);
+            return;
+        }
+
+        // For images, resize and compress
         const reader = new FileReader();
-        reader.readAsDataURL(file);
-        reader.onload = () => resolve(reader.result);
+        reader.onload = (e) => {
+            const img = new Image();
+            img.onload = () => {
+                const canvas = document.createElement('canvas');
+                let width = img.width;
+                let height = img.height;
+                const max_size = 1200;
+
+                // Calculate new dimensions
+                if (width > height) {
+                    if (width > max_size) {
+                        height *= max_size / width;
+                        width = max_size;
+                    }
+                } else {
+                    if (height > max_size) {
+                        width *= max_size / height;
+                        height = max_size;
+                    }
+                }
+
+                canvas.width = width;
+                canvas.height = height;
+                const ctx = canvas.getContext('2d');
+                ctx.drawImage(img, 0, 0, width, height);
+
+                // Export to base64 JPEG with 0.7 quality to reduce size drastically
+                const dataUrl = canvas.toDataURL('image/jpeg', 0.7);
+                resolve(dataUrl);
+            };
+            img.onerror = () => reject(new Error("Failed to load image for compression"));
+            img.src = e.target.result;
+        };
         reader.onerror = error => reject(error);
+        reader.readAsDataURL(file);
     });
 }
 
