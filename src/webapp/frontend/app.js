@@ -939,9 +939,17 @@ async function sendChat(messageText, hiddenContext = "") {
         }
         fullMessage += stateContext;
         
+        // Filter out system error messages from the history payload so they don't break the AI
+        const cleanHistory = chatMessages.slice(0, -1).filter(msg => {
+            const txt = msg.content || "";
+            return !txt.startsWith("Error:") && 
+                   !txt.startsWith("ขออภัยครับ") && 
+                   !txt.includes("เกิดข้อผิดพลาด");
+        });
+
         const payload = {
             message: fullMessage,
-            history: chatMessages.slice(0, -1),
+            history: cleanHistory,
             images: base64Images
         };
         
