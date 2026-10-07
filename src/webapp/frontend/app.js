@@ -1,4 +1,11 @@
-const API_BASE = 'https://cmu-chatbot-poc.onrender.com/api';
+// Auto-detect API base based on where the frontend is hosted
+let API_BASE = 'https://cmu-chatbot-poc.onrender.com/api';
+if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+    API_BASE = 'http://localhost:8000/api';
+} else if (window.location.protocol !== 'file:' && window.location.hostname !== 'cmu-chatbot-poc.onrender.com') {
+    // If hosted on university server, assume same domain
+    API_BASE = window.location.origin + '/api';
+}
 let globalMinors = [];
 let globalMinorCoursesMap = {};
 let globalOfferedCourses = {};
