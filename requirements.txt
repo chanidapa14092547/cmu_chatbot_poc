@@ -6,3 +6,4 @@ fastapi
 uvicorn
 line-bot-sdk
 streamlit
+beautifulsoup4

@@ -1,9 +1,12 @@
 import os
 import sys
 import json
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+import asyncio
+import subprocess
+import logging
 from google import genai
 from google.genai import types
 import os
@@ -22,6 +25,51 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+async def sync_courses_background():
+    global SCHEDULE_DB_STR
+    try:
+        logging.info("Starting background sync of courses from enroll4ds...")
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+        script_path = os.path.join(base_dir, 'src', 'webapp', 'backend', 'download_courses.py')
+        output_dir = os.path.join(base_dir, 'data', 'downloads')
+        
+        # We fetch all courses by default (no --department flag)
+        # Note: This takes time.
+        process = await asyncio.create_subprocess_exec(
+            sys.executable, script_path, "--output-dir", output_dir,
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE
+        )
+        stdout, stderr = await process.communicate()
+        
+        if process.returncode == 0:
+            result_dir = stdout.decode().strip()
+            new_csv = os.path.join(result_dir, 'courses.csv')
+            if os.path.exists(new_csv):
+                with open(new_csv, 'r', encoding='utf-8') as f:
+                    new_db_str = f.read()
+                SCHEDULE_DB_STR = new_db_str
+                logging.info(f"Successfully synced and loaded new schedule data from {new_csv}")
+                
+                # Copy to default location for persistence during this run
+                import shutil
+                schedule_path = os.path.join(base_dir, 'data', 'json_db', 'schedule_2567.csv')
+                shutil.copy2(new_csv, schedule_path)
+        else:
+            logging.error(f"Failed to sync courses. Exit code {process.returncode}. Error: {stderr.decode()}")
+    except Exception as e:
+        logging.error(f"Exception during course sync: {e}")
+
+@app.on_event("startup")
+async def startup_event():
+    # Run the sync in the background so it doesn't block the server startup
+    asyncio.create_task(sync_courses_background())
+
+@app.post("/api/admin/sync_schedule")
+async def sync_schedule_endpoint(background_tasks: BackgroundTasks):
+    background_tasks.add_task(sync_courses_background)
+    return {"status": "Sync started in background."}
 
 # --- Data Loading ---
 def load_data():
