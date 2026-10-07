@@ -1,11 +1,12 @@
 import os
 import sys
 import json
-from fastapi import FastAPI, HTTPException, BackgroundTasks
+import shutil
+from typing import Optional
+from fastapi import FastAPI, HTTPException, BackgroundTasks, Header
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import asyncio
-import subprocess
 import logging
 from google import genai
 from google.genai import types
@@ -26,45 +27,107 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-async def sync_courses_background():
-    global SCHEDULE_DB_STR
-    try:
-        logging.info("Starting background sync of courses from enroll4ds...")
-        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-        script_path = os.path.join(base_dir, 'src', 'webapp', 'backend', 'download_courses.py')
-        output_dir = os.path.join(base_dir, 'data', 'downloads')
-        
-        # We fetch all courses by default (no --department flag)
-        # Note: This takes time.
-        process = await asyncio.create_subprocess_exec(
-            sys.executable, script_path, "--output-dir", output_dir,
-            stdout=asyncio.subprocess.PIPE,
-            stderr=asyncio.subprocess.PIPE
-        )
-        stdout, stderr = await process.communicate()
-        
-        if process.returncode == 0:
-            result_dir = stdout.decode().strip()
-            new_csv = os.path.join(result_dir, 'courses.csv')
-            if os.path.exists(new_csv):
-                with open(new_csv, 'r', encoding='utf-8') as f:
-                    new_db_str = f.read()
-                SCHEDULE_DB_STR = new_db_str
-                logging.info(f"Successfully synced and loaded new schedule data from {new_csv}")
-                
-                # Copy to default location for persistence during this run
-                import shutil
-                schedule_path = os.path.join(base_dir, 'data', 'json_db', 'schedule_2567.csv')
-                shutil.copy2(new_csv, schedule_path)
-        else:
-            logging.error(f"Failed to sync courses. Exit code {process.returncode}. Error: {stderr.decode()}")
-    except Exception as e:
-        logging.error(f"Exception during course sync: {e}")
+# --- Automatic Course Schedule Sync ---
+# uvicorn only shows its own loggers by default, so log through "uvicorn.error".
+SYNC_LOG = logging.getLogger("uvicorn.error")
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+# Runtime files live outside git-tracked paths so `git pull` never conflicts with them.
+RUNTIME_DIR = os.path.join(PROJECT_DIR, 'data', 'runtime')
+LIVE_SCHEDULE_PATH = os.path.join(RUNTIME_DIR, 'schedule_live.csv')
+SYNC_DOWNLOAD_DIR = os.path.join(RUNTIME_DIR, 'downloads')
+SYNC_INTERVAL_SECONDS = 86400  # 24 hours
+SYNC_TIMEOUT_SECONDS = 1800    # give up on a single run after 30 minutes
+MIN_VALID_ROWS = 500           # refuse to replace data with a suspiciously small result
+_sync_running = False  # single event loop, so a plain flag is a safe guard
+_sync_task = None
 
-@app.on_event("startup")
-async def startup_event():
-    # Start the continuous 24-hour sync loop
-    asyncio.create_task(periodic_sync())
+def _clean_field(value) -> str:
+    """Flatten a value so it is safe inside the pipe-delimited schedule format."""
+    if value is None:
+        return ""
+    return " ".join(str(value).replace("|", "/").split())
+
+def convert_courses_json_to_schedule(json_path: str) -> tuple:
+    """Convert download_courses.py output into the `code|name|sec|day|time|room|lecturer` format."""
+    with open(json_path, 'r', encoding='utf-8') as f:
+        result = json.load(f)
+    rows = ["code|name|sec|day|time|room|lecturer"]
+    for s in result.get("sections", []):
+        if s.get("offering_type") != "regular":
+            continue  # CMU Lifelong rows duplicate regular sections
+        code = _clean_field(s.get("course_code"))
+        name = _clean_field(f"{s.get('title_english', '')} {s.get('title_thai', '')} {s.get('notes', '')}")
+        if not code or not name:
+            continue
+        lec, lab = _clean_field(s.get("lecture_section")), _clean_field(s.get("lab_section"))
+        sec = lec if lab in ("", "000") else f"{lec} (Lab {lab})"
+        day = _clean_field(f"{s.get('days_1', '')} {s.get('days_2', '')}")
+        time_ = _clean_field(f"{s.get('time_1', '')} {s.get('time_2', '')}")
+        room = _clean_field(f"{s.get('room_1', '')} {s.get('room_2', '')}")
+        lecturer = _clean_field(s.get("lecturers"))
+        rows.append(f"{code}|{name}|{sec}|{day}|{time_}|{room}|{lecturer}")
+    term = result.get("metadata", {}).get("term", "")
+    return "\n".join(rows) + "\n", len(rows) - 1, term
+
+async def sync_courses_background():
+    global SCHEDULE_DB_STR, _sync_running
+    if _sync_running:
+        SYNC_LOG.info("[course-sync] A sync is already running; skipping.")
+        return
+    _sync_running = True
+    try:
+        try:
+            SYNC_LOG.info("[course-sync] Downloading latest course offerings from reg.cmu.ac.th ...")
+            script_path = os.path.join(PROJECT_DIR, 'src', 'webapp', 'backend', 'download_courses.py')
+            shutil.rmtree(SYNC_DOWNLOAD_DIR, ignore_errors=True)
+            os.makedirs(SYNC_DOWNLOAD_DIR, exist_ok=True)
+
+            # Fetch all courses of the current term (no --department flag).
+            process = await asyncio.create_subprocess_exec(
+                sys.executable, script_path, "--output-dir", SYNC_DOWNLOAD_DIR,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE
+            )
+            try:
+                stdout, stderr = await asyncio.wait_for(process.communicate(), timeout=SYNC_TIMEOUT_SECONDS)
+            except asyncio.TimeoutError:
+                process.kill()
+                await process.wait()
+                SYNC_LOG.error("[course-sync] Timed out; keeping the existing schedule data.")
+                return
+
+            if process.returncode != 0:
+                SYNC_LOG.error(f"[course-sync] Failed (exit {process.returncode}); keeping the existing schedule data. "
+                               f"{stderr.decode(errors='replace')[-1000:]}")
+                return
+
+            # The script prints only the output directory as its final stdout line.
+            out_lines = stdout.decode(errors='replace').strip().splitlines()
+            result_dir = out_lines[-1].strip() if out_lines else ""
+            json_path = os.path.join(result_dir, 'courses.json')
+            if not os.path.exists(json_path):
+                SYNC_LOG.error(f"[course-sync] Output not found at {json_path}; keeping the existing schedule data.")
+                return
+
+            new_db_str, row_count, term = convert_courses_json_to_schedule(json_path)
+            if row_count < MIN_VALID_ROWS:
+                SYNC_LOG.error(f"[course-sync] Only {row_count} sections found; keeping the existing schedule data.")
+                return
+
+            os.makedirs(RUNTIME_DIR, exist_ok=True)
+            tmp_path = LIVE_SCHEDULE_PATH + ".part"
+            with open(tmp_path, 'w', encoding='utf-8') as f:
+                f.write(new_db_str)
+            os.replace(tmp_path, LIVE_SCHEDULE_PATH)  # atomic swap
+            SCHEDULE_DB_STR = new_db_str
+            SYNC_LOG.info(f"[course-sync] Success: loaded {row_count} sections for term {term}.")
+        except Exception as e:
+            SYNC_LOG.error(f"[course-sync] Unexpected error; keeping the existing schedule data: {e}")
+        finally:
+            # Raw HTML downloads are large; do not let them pile up every day.
+            shutil.rmtree(SYNC_DOWNLOAD_DIR, ignore_errors=True)
+    finally:
+        _sync_running = False
 
 async def periodic_sync():
     """Run course sync on startup and then every 24 hours."""
@@ -72,14 +135,25 @@ async def periodic_sync():
         try:
             await sync_courses_background()
         except Exception as e:
-            logging.error(f"Error in periodic_sync loop: {e}")
-        
-        # Sleep for 24 hours (86400 seconds) before running again
-        logging.info("Sync complete. Sleeping for 24 hours...")
-        await asyncio.sleep(86400)
+            SYNC_LOG.error(f"[course-sync] Error in periodic loop: {e}")
+        SYNC_LOG.info("[course-sync] Next sync in 24 hours.")
+        await asyncio.sleep(SYNC_INTERVAL_SECONDS)
+
+@app.on_event("startup")
+async def startup_event():
+    global _sync_task
+    if os.environ.get("DISABLE_COURSE_SYNC", "").lower() in ("1", "true", "yes"):
+        SYNC_LOG.info("[course-sync] Disabled via DISABLE_COURSE_SYNC.")
+        return
+    # Keep a reference so the task is not garbage-collected.
+    _sync_task = asyncio.create_task(periodic_sync())
 
 @app.post("/api/admin/sync_schedule")
-async def sync_schedule_endpoint(background_tasks: BackgroundTasks):
+async def sync_schedule_endpoint(background_tasks: BackgroundTasks, x_admin_token: Optional[str] = Header(default=None)):
+    # Protected so the public cannot repeatedly trigger heavy downloads from the registrar site.
+    expected = os.environ.get("ADMIN_SYNC_TOKEN", "")
+    if not expected or x_admin_token != expected:
+        raise HTTPException(status_code=403, detail="Forbidden")
     background_tasks.add_task(sync_courses_background)
     return {"status": "Sync started in background."}
 
@@ -90,6 +164,9 @@ def load_data():
     major_path = os.path.join(base_dir, 'data', 'json_db', 'Faculty of Science', 'Bachelor of Science Program in Data Science (2567).json')
     minor_path = os.path.join(base_dir, 'data', 'json_db', 'Minors.json')
     schedule_path = os.path.join(base_dir, 'data', 'json_db', 'schedule_2567.csv')
+    # Prefer the most recent auto-synced schedule; fall back to the bundled snapshot.
+    if os.path.exists(LIVE_SCHEDULE_PATH):
+        schedule_path = LIVE_SCHEDULE_PATH
     
     try:
         with open(major_path, 'r', encoding='utf-8') as f:
